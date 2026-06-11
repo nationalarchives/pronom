@@ -10,9 +10,10 @@ This repository can be used to submit new signatures to PRONOM.
 
 Check out your fork locally.
 
-Create a directory called submissions in the root of the project.
+Create a directory called "submissions" in the root of the project.
 
-Add a json file with the details of the new signature in the submissions directory. The name of the file doesn't matter. The following fields are mandatory.
+Add a JSON file with the details of the new signature in the "submissions" directory; the name of the file doesn't
+matter. The following fields are mandatory.
 
 ```json
 {
@@ -42,7 +43,9 @@ Add a json file with the details of the new signature in the submissions directo
 
 There are many other fields you can optionally add which are specified in the [signature JSON schema file](/.github/scripts/json_schemas/signature-schema.json)
 
-Optionally, you can add test files which will be used to check the signature matches those files. To do this, create a directory inside submissions called `files` and place any test files in there. If you aren't including test files, you don't need to create a directory.
+Optionally, you can add test files which will be used to check the signature matches those files. To do this,
+create a directory inside "submissions" called `files` and place any test files in there.
+If you aren't including test files, you don't need to create a directory.
 
 So the final structure will look like:
 ```bash
@@ -54,9 +57,12 @@ So the final structure will look like:
 
 Commit and push this to your forked repository and then [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to merge back to this repository.
 
-There are tests which will build your submission into a temporary signature file and run the DROID tests against it. If these pass then a member of staff at TNA will review and eventually merge the pull request. 
+There are tests which will build your submission into a temporary signature file and run the DROID tests against it.
+If these pass then a member of staff at TNA will review and eventually merge the pull request.
 
-The tests will also generate a signature file and container signature file which you can download to test for yourself. There is a guide to downloading artifacts [here](https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/downloading-workflow-artifacts).
+The tests will also generate a signature file and container signature file which you can download to test for yourself.
+There is a guide to downloading artifacts [here](https://docs.github.com/en/actions/managing-workflow-runs-and-deployments/managing-workflow-runs/downloading-workflow-artifacts).
 
-Merging the pull request won't immediately deploy a new version. At some point, a TNA staff member will raise a pull request to merge all the latest submissions into the main branch and once this is merged, a new release will be generated.
+Merging the pull request won't immediately deploy a new version. At some point, a TNA staff member will raise a
+pull request to merge all the latest submissions into the main branch and once this is merged, a new release will be generated.
 
