@@ -89,12 +89,12 @@ def run():
         if len(changed_files) == 0:
             raise Exception("No files were added/changed in this PR")
 
-        actor_files_paths = [file for file in changed_files if file[2:].startswith(f"submissions/actors/")]
+        actor_files_paths = [file for file in changed_files if file[2:].startswith(f"submissions/actors/") or file[2:].startswith(f"actors/")]
         for actor_file_path in actor_files_paths:
             actor_errors = validate_json(json_from_git_status(actor_file_path), "actors-metadata-schema")
             raise_validation_errors(actor_errors, actor_file_path)
 
-        signature_file_paths = [file for file in changed_files if file[2:].startswith(f"submissions/") or file[2:].startswith(f"signatures/")]
+        signature_file_paths = [file for file in changed_files if file[2:].startswith(f"submissions/signatures/") or file[2:].startswith(f"signatures/")]
         if signature_file_paths:
             all_json = json_by_id()
             for signature_submission in signature_file_paths:
