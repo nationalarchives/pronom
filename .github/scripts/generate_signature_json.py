@@ -97,4 +97,4 @@ signature_json = {
     "container_signatures": container_signature_names,
 }
 with open("signatures.json", "w") as sig_json:
-    json.dump(signature_json, sig_json)
+    json.dump(signature_json, sig_json, indent=2)
