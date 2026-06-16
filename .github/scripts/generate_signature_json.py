@@ -4,6 +4,7 @@ import re
 
 import urllib.request
 from datetime import datetime
+from json import JSONDecodeError
 from urllib.request import Request
 
 RELEASES_API_ENDPOINT = "https://api.github.com/repos/nationalarchives/pronom/releases"
@@ -96,5 +97,14 @@ signature_json = {
     "signatures": signature_names,
     "container_signatures": container_signature_names,
 }
-with open("signatures.json", "w") as sig_json:
-    json.dump(signature_json, sig_json, indent=2)
+
+with open("signatures.json", "w") as sig_json, open("signatures.json", "r") as existing_json:
+    try:
+        exiting_json = json.load(existing_json)
+        json.dump(signature_json, sig_json, indent=2)
+        changes = exiting_json != signature_json
+    except JSONDecodeError:
+        changes = "True"
+
+    with open(os.environ["GITHUB_OUTPUT"], "a") as output:
+        output.write(f"changes={changes}")
