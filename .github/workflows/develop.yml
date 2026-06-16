@@ -10,13 +10,18 @@ jobs:
   generate_signature_file:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read
 
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd #v6.0.2
         with:
           fetch-depth: 0
           persist-credentials: true
+      - name: Set up JDK
+        uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 #v5.2.0
+        with:
+          java-version: 21
+          distribution: temurin
       - run: |
           .github/scripts/create_signature_files.sh --release
           python .github/scripts/generate_signature_json.py

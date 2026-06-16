@@ -5,6 +5,8 @@ import urllib.request
 from datetime import datetime
 from urllib.request import Request
 
+RELEASES_API_ENDPOINT = "https://api.github.com/repos/nationalarchives/pronom/releases"
+
 
 def filter_names(names: list[str], prefix: str):
     return [name for name in names if name.startswith(prefix)]
@@ -18,10 +20,16 @@ def filter_container_files(names: list[str]):
     return filter_names(names, "container-signature")
 
 
-def get_latest_release_names():
-    url = "https://api.github.com/repos/nationalarchives/pronom/releases/latest"
+def create_request(url):
     req = Request(url)
-    req.add_header("Authorization", f"Bearer ${os.environ["GITHUB_TOKEN"]}")
+    req.add_header("Authorization", f"Bearer {os.environ["GITHUB_TOKEN"]}")
+    req.add_header("Accept", "application/vnd.github+json")
+    return req
+
+
+def get_latest_release_names():
+    url = f"{RELEASES_API_ENDPOINT}/latest"
+    req = create_request(url)
     with urllib.request.urlopen(req) as response:
         return [asset["name"] for asset in json.load(response)["assets"]]
 
@@ -29,9 +37,8 @@ def get_latest_release_names():
 def get_all_release_names(names=None, page=1):
     if names is None:
         names = []
-    url = f"https://api.github.com/repos/nationalarchives/pronom/releases?page={page}&per_page=100"
-    req = Request(url)
-    req.add_header("Authorization", f"Bearer ${os.environ["GITHUB_TOKEN"]}")
+    url = f"{RELEASES_API_ENDPOINT}?page={page}&per_page=100"
+    req = create_request(url)
     with urllib.request.urlopen(req) as response:
         assets = json.load(response)["assets"]
         if len(assets) != 0:
