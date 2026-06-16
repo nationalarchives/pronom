@@ -10,6 +10,7 @@ jobs:
     if: github.head_ref == 'develop'
     runs-on: ubuntu-latest
     permissions:
+      contents: write
       pull-requests: write
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd #v6.0.2
@@ -27,5 +28,8 @@ jobs:
           git add signatures.json
           git commit -m "Generate signature json"
           git push origin $BRANCH_NAME
+          gh pr create --fill
         if: steps.generate_json.outputs.changes == 'True'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
 
