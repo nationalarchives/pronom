@@ -1,6 +1,8 @@
 #!/bin/bash
 git status
-if git status --porcelain | grep -q '^??'; then
+git status --porcelain | grep -q '^??'
+echo $?
+if [ -n "$(git status --porcelain)" ]; then
   echo "Untracked files found. Staging and committing them."
   git config --global user.email 181243999+tna-da-bot@users.noreply.github.com
   git config --global user.name tna-da-bot
