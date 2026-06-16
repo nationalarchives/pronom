@@ -3,6 +3,7 @@ on:
   push:
     branches-ignore:
       - main
+      - develop
 permissions: {}
 jobs:
   check_pr_submission:
