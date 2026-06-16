@@ -21,7 +21,7 @@ jobs:
           python .github/scripts/generate_signature_json.py
           .github/scripts/commit.sh
         env:
-          GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
       - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a #v7.0.1
         with:
           name: signature-file.xml
