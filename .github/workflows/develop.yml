@@ -9,17 +9,16 @@ permissions: {}
 jobs:
   generate_signature_file:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd #v6.0.2
         with:
           fetch-depth: 0
-          persist-credentials: false
-      - uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 #v5.2.0
-        with:
-          distribution: 'temurin'
-          java-version: '21'
+          persist-credentials: true
       - run: |
           .github/scripts/create_signature_files.sh --release
+          python .github/scripts/generate_signature_json.py
           .github/scripts/commit.sh
       - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a #v7.0.1
         with:

@@ -1,20 +1,45 @@
 import json
-import sys
+import os
 
-import boto3
-import re
+import urllib.request
 from datetime import datetime
-
-client = boto3.client('s3')
-
-environment = sys.argv[1]
-account_id = sys.argv[2]
-
-bucket_name = f'{environment}-pronom-site-{account_id}-eu-west-2-an'
+from urllib.request import Request
 
 
-def list_keys(prefix):
-    return [obj['Key'].split('/')[-1] for obj in client.list_objects_v2(Bucket=bucket_name, Prefix=prefix)['Contents']]
+def filter_names(names: list[str], prefix: str):
+    return [name for name in names if name.startswith(prefix)]
+
+
+def filter_binary_files(names: list[str]):
+    return filter_names(names, "DROID_SignatureFile")
+
+
+def filter_container_files(names: list[str]):
+    return filter_names(names, "container-signature")
+
+
+def get_latest_release_names():
+    url = "https://api.github.com/repos/nationalarchives/pronom/releases/latest"
+    req = Request(url)
+    req.add_header("Authorization", f"Bearer ${os.environ["GITHUB_TOKEN"]}")
+    with urllib.request.urlopen(req) as response:
+        return [asset["name"] for asset in json.load(response)["assets"]]
+
+
+def get_all_release_names(names=None, page=1):
+    if names is None:
+        names = []
+    url = f"https://api.github.com/repos/nationalarchives/pronom/releases?page={page}&per_page=100"
+    req = Request(url)
+    req.add_header("Authorization", f"Bearer ${os.environ["GITHUB_TOKEN"]}")
+    with urllib.request.urlopen(req) as response:
+        assets = json.load(response)["assets"]
+        if len(assets) != 0:
+            names.extend([asset["name"] for asset in assets])
+            page += 1
+            return get_all_release_names(names, page)
+        else:
+            return names
 
 
 def get_binary_version(key):
@@ -23,6 +48,7 @@ def get_binary_version(key):
 
 def get_container_version(key):
     return key.split('-')[2].split('.')[0]
+
 
 def signature_key_to_name(key):
     version = get_binary_version(key)
@@ -35,10 +61,12 @@ def container_key_to_name(key):
     return date_obj.strftime("%d %B %Y")
 
 
-signatures = sorted(list_keys('signatures/'), key=lambda k: int(re.search(r'(\d+)', k).group(1)))
-container_signatures = list_keys('container-signatures/')
-latest_signature_file_name = signatures[-1]
-latest_container_signature_file_name = container_signatures[-1]
+latest_file_names = get_latest_release_names()
+latest_signature_file_name = filter_binary_files(latest_file_names)[0]
+latest_container_signature_file_name = filter_container_files(latest_file_names)
+all_file_names = get_all_release_names()
+signatures = filter_binary_files(all_file_names)
+container_signatures = filter_container_files(all_file_names)
 signature_names = [
     {
         "name": signature_key_to_name(sig),
@@ -59,6 +87,5 @@ signature_json = {
     "signatures": signature_names,
     "container_signatures": container_signature_names,
 }
-signature_json_bytes = json.dumps(signature_json).encode()
-
-client.put_object(Bucket=bucket_name, Key='signatures.json', Body=signature_json_bytes, ContentType='application/json')
+with open("signatures.json", "w") as sig_json:
+    json.dump(signature_json, sig_json)
