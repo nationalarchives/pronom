@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 import urllib.request
 from datetime import datetime
@@ -40,9 +41,10 @@ def get_all_release_names(names=None, page=1):
     url = f"{RELEASES_API_ENDPOINT}?page={page}&per_page=100"
     req = create_request(url)
     with urllib.request.urlopen(req) as response:
-        assets = json.load(response)["assets"]
-        if len(assets) != 0:
-            names.extend([asset["name"] for asset in assets])
+        releases = json.load(response)
+        if len(releases) != 0:
+            for release in releases:
+                names.extend([asset["name"] for asset in release["assets"]])
             page += 1
             return get_all_release_names(names, page)
         else:
@@ -72,8 +74,8 @@ latest_file_names = get_latest_release_names()
 latest_signature_file_name = filter_binary_files(latest_file_names)[0]
 latest_container_signature_file_name = filter_container_files(latest_file_names)
 all_file_names = get_all_release_names()
-signatures = filter_binary_files(all_file_names)
-container_signatures = filter_container_files(all_file_names)
+signatures = sorted(filter_binary_files(all_file_names), key=lambda k: int(re.search(r'(\d+)', k).group(1)))
+container_signatures = sorted(filter_container_files(all_file_names))
 signature_names = [
     {
         "name": signature_key_to_name(sig),
