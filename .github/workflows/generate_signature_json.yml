@@ -12,6 +12,10 @@ jobs:
     permissions:
       pull-requests: write
     steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd #v6.0.2
+        with:
+          fetch-depth: 0
+          persist-credentials: true
       - id: generate_json
         run: python .github/scripts/generate_signature_json.py
         env:
