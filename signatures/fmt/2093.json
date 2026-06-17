@@ -4,7 +4,7 @@
   "formatName": "ROS Bag Format",
   "formatDescription": "The ROS (Robotic Operating System) bag format stores timestamped ROS messages for visualization, offline analysis, and playback. The messages describe data values in a structured way to facilitate retrieval. The data is stored in a chunked structure and indexed.",
   "formatSourceID": 299,
-  "formatTypes": null,
+  "formatTypes": "Dataset",
   "formatNote": "https://www.openrobotics.org/ https://wiki.ros.org/",
   "lastUpdatedDate": "09 Jun 2026",
   "provenanceCompoundName": "Brigham Young University / Brigham Young University",

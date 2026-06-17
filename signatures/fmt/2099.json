@@ -2,7 +2,7 @@
   "fileFormatID": 3976,
   "version": null,
   "formatName": "iZotope RX Document",
-  "formatDescription": "A Kodak DCS RAW image is a digital camera raw file from Kodak's Digital Camera System (DCS) series, saved in a proprietary format based on the Tagged Image File Format (TIFF). These files contain uncompressed, unprocessed image data.",
+  "formatDescription": "Project file for iZotope RX audio editing/restoration software. Contains the audio and information about all edits made to the audio file.",
   "formatSourceID": 220,
   "formatTypes": "Text (Structured)",
   "formatNote": "https://downloads.izotope.com/docs/rx6/04-working-with-files/index.html\nhttps://www.wikidata.org/wiki/Q109017314 http://fileformats.archiveteam.org/wiki/IZotope_RX",

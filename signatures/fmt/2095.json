@@ -37,6 +37,12 @@
       "signatureType": "File extension"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "relationshipType": "Is previous version of",
+      "relatedFormatID": 1868,
+      "relatedFormatName": "Hasselblad 3FR Raw Image"
+    }
+  ],
   "source": 220
 }

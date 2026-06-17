@@ -37,6 +37,12 @@
       "signatureType": "File extension"
     }
   ],
-  "relationships": [],
+  "relationships": [
+    {
+      "relationshipType": "Is subsequent version of",
+      "relatedFormatID": 3974,
+      "relatedFormatName": "GGML Universal File (GGUF)"
+    }
+  ],
   "source": 244
 }
