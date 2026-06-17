@@ -1,0 +1,42 @@
+{
+  "fileFormatID": 3976,
+  "version": null,
+  "formatName": "iZotope RX Document",
+  "formatDescription": "A Kodak DCS RAW image is a digital camera raw file from Kodak's Digital Camera System (DCS) series, saved in a proprietary format based on the Tagged Image File Format (TIFF). These files contain uncompressed, unprocessed image data.",
+  "formatSourceID": 220,
+  "formatTypes": "Text (Structured)",
+  "formatNote": "https://downloads.izotope.com/docs/rx6/04-working-with-files/index.html\nhttps://www.wikidata.org/wiki/Q109017314 http://fileformats.archiveteam.org/wiki/IZotope_RX",
+  "lastUpdatedDate": "09 Jun 2026",
+  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
+  "formatSourceDate": "09 Jun 2026",
+  "identifiers": [
+    {
+      "identifierText": "fmt/2099",
+      "identifierType": "PUID"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 3465,
+      "name": "iZotope RX Document",
+      "note": "BOF; Offset: 0; Magic Bytes: 0x22C8C934",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "22C8C934",
+          "endianness": null
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "rxdoc",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "source": 220
+}

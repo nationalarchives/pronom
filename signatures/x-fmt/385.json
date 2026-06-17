@@ -7,10 +7,10 @@
   "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
-  "lastUpdatedDate": "07 Jul 2014",
+  "lastUpdatedDate": "9 Jun 2026",
   "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
-  "formatProvenance": null,
+  "formatProvenance": "v.123- Priority added over fmt/134 MPEG 1/2 Audio Layer 3. Submitted by Digital Preservation Department, The National Archives (UK).",
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": null,
   "formatEnvironment": null,
@@ -69,6 +69,11 @@
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1207,
       "relatedFormatName": "Video Object File (MPEG-2 subset)"
+    },
+    {
+      "relationshipType": "Has priority over",
+      "relatedFormatID": 687,
+      "relatedFormatName": "MPEG 1/2 Audio Layer 3"
     }
   ],
   "source": 1

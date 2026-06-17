@@ -1,0 +1,42 @@
+{
+  "fileFormatID": 3970,
+  "version": "2.0",
+  "formatName": "ROS Bag Format",
+  "formatDescription": "The ROS (Robotic Operating System) bag format stores timestamped ROS messages for visualization, offline analysis, and playback. The messages describe data values in a structured way to facilitate retrieval. The data is stored in a chunked structure and indexed.",
+  "formatSourceID": 299,
+  "formatTypes": null,
+  "formatNote": "https://www.openrobotics.org/ https://wiki.ros.org/",
+  "lastUpdatedDate": "09 Jun 2026",
+  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
+  "formatSourceDate": "09 Jun 2026",
+  "identifiers": [
+    {
+      "identifierText": "fmt/2093",
+      "identifierType": "PUID"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 3458,
+      "name": "ROS Bag v.2",
+      "note": "BOF; Offset: 0; Magic Bytes: #ROSBAG V2.0",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "23524F534241472056322E30",
+          "endianness": null
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "bag",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "source": 299
+}

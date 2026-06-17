@@ -1,0 +1,42 @@
+{
+  "fileFormatID": 3973,
+  "version": "1",
+  "formatName": "GGML Universal File (GGUF)",
+  "formatDescription": "GGUF is a binary file format for storing large language model weights, metadata, and tokeniser data in a single self-contained file, designed for efficient loading and inference on consumer hardware. It was introduced in August 2023 by the llama.cpp project as a successor to earlier formats.",
+  "formatSourceID": 244,
+  "formatTypes": "Dataset",
+  "formatNote": null,
+  "lastUpdatedDate": "09 Jun 2026",
+  "provenanceCompoundName": "Preservica / Preservica",
+  "formatSourceDate": "09 Jun 2026",
+  "identifiers": [
+    {
+      "identifierText": "fmt/2096",
+      "identifierType": "PUID"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 3462,
+      "name": "GGUF 1",
+      "note": "BOF, offset 0: 'GGUF', followed by 4 byte version indicator 0x01000000",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "4747554601000000",
+          "endianness": null
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "gguf",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "source": 244
+}

@@ -7,10 +7,10 @@
   "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://preservation.tylerthorsted.com/tag/font/\r\nhttps://web.archive.org/web/19990203113959/http://www.codamusic.com:80/down/finale/eeppd.txt\r\nhttps://en.wikipedia.org/wiki/Finale_(scorewriter)\r\nhttp://fileformats.archiveteam.org/wiki/Finale",
-  "lastUpdatedDate": "16 Apr 2024",
+  "lastUpdatedDate": "09 Jun 2026",
   "formatSourceID": 299,
   "provenanceCompoundName": "Brigham Young University / Brigham Young University",
-  "formatProvenance": null,
+  "formatProvenance": "v.123- Signature updated to allow for different PC versions. Submitted by Brigham Young University.",
   "formatSourceDate": "16 Apr 2024",
   "formatDisclosure": null,
   "formatEnvironment": null,
@@ -35,7 +35,7 @@
           "positionType": "Absolute from BOF",
           "offset": 0,
           "maxOffset": 0,
-          "byteSequence": "46696E616C65(AA|28544D29)2031",
+          "byteSequence": "46696E616C65(AA|28544D29)(20|20504320)31",
           "endianness": null
         }
       ]

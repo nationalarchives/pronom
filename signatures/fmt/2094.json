@@ -1,0 +1,61 @@
+{
+  "fileFormatID": 3971,
+  "version": "3",
+  "formatName": "M4A Audio",
+  "formatDescription": "M4A is an audio format based on the MPEG-4 Part 14 file format (ISO/IEC 14496-14), using the lossy AAC (Advanced Audio Coding) codec for audio encoding. It shares the same underlying container structure as MPEG-4 video files, and shares the .m4a file extension with ALAC (Apple Lossless Audio Codec) files, from which it is distinguished by its use of lossy rather than lossless compression. The format was introduced by Apple and is commonly associated with the iTunes ecosystem.",
+  "formatSourceID": 244,
+  "formatTypes": "Image (Raster)",
+  "formatNote": null,
+  "lastUpdatedDate": "09 Jun 2026",
+  "provenanceCompoundName": "Preservica / Preservica",
+  "formatSourceDate": "09 Jun 2026",
+  "identifiers": [
+    {
+      "identifierText": "fmt/2094",
+      "identifierType": "PUID"
+    },
+    {
+      "identifierText": "audio/mp4",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 3459,
+      "name": "M4A Audio",
+      "note": "BOF, offset 4: 'ftyp' specifying 'M4A ' as the major brand. Note that not all AAC audio files using the .m4a extension will carry this signature. Files produced by non-Apple toolchains may use a generic major brand such as 'mp42' or 'isom' despite containing equivalent audio content. For now any such files will continue to identify as fmt/199 MPEG-4 Media",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 4,
+          "maxOffset": 0,
+          "byteSequence": "667479704D344120",
+          "endianness": null
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "m4a",
+      "signatureType": "File extension"
+    },
+    {
+      "externalSignature": "m4b",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 1388,
+      "relatedFormatName": "Apple Lossless Audio Codec"
+    },
+    {
+      "relationshipType": "Has priority over",
+      "relatedFormatID": 924,
+      "relatedFormatName": "MPEG-4 Media File"
+    }
+  ],
+  "source": 244
+}

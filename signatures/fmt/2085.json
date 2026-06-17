@@ -6,7 +6,7 @@
   "formatSourceID": 244,
   "formatTypes": "Text (Mark-up)",
   "formatNote": "Source: https://software.sil.org/fieldworks/wp-content/uploads/sites/38/2016/10/FieldWorks-7-XML-model.pdf",
-  "lastUpdatedDate": "02 Dec 2025",
+  "lastUpdatedDate": "09 Jun 2026",
   "provenanceCompoundName": "Preservica / Preservica",
   "formatSourceDate": "02 Dec 2025",
   "identifiers": [
@@ -19,7 +19,7 @@
     {
       "signatureID": 3448,
       "name": "FieldWorks Language Explorer FWData XML",
-      "note": "XML declaration, ‘languageproject’ top level tag with version parameter.",
+      "note": "XML declaration, \u00e2\u20ac\u02dclanguageproject\u00e2\u20ac\u2122 top level tag with version parameter.",
       "byteSequences": [
         {
           "positionType": "Absolute from BOF",
@@ -37,6 +37,13 @@
       "signatureType": "File extension"
     }
   ],
-  "relationships": [],
-  "source": 244
+  "relationships": [
+    {
+      "relationshipType": "Has priority over",
+      "relatedFormatID": 638,
+      "relatedFormatName": "Extensible Markup Language"
+    }
+  ],
+  "source": 244,
+  "formatProvenance": "v.122: new signature. Submitted by Preservica, with data provided by the Endangered Language Archives; v.123: priority added over fmt/101 Extensible Markup Language 1.0. Submitted by Preservica."
 }

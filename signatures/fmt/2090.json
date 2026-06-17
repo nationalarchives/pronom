@@ -35,8 +35,19 @@
     {
       "externalSignature": "tif",
       "signatureType": "File extension"
+    },
+    {
+      "externalSignature": "tiff",
+      "signatureType": "File extension"
     }
   ],
-  "relationships": [],
-  "source": 299
+  "relationships": [
+    {
+      "relationshipType": "Has priority over",
+      "relatedFormatID": 917,
+      "relatedFormatName": "Kodak Digital Camera Raw Image File"
+    }
+  ],
+  "source": 299,
+  "formatProvenance": "\tv.122: new signature. Submitted by Brigham Young University; v. 123: New extension added of .tiff and priority over fmt/192 Kodak Digital Camera Raw Image File. Submitted by Richard Lehane and Brigham Young University."
 }

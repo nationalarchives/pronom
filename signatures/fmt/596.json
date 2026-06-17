@@ -6,11 +6,11 @@
   "releaseDate": null,
   "withdrawnDate": null,
   "binaryFileFormat": null,
-  "formatNote": null,
+  "formatNote": "http://www.applelossless.com/\nhttp://alac.macosforge.org/trac/browser/trunk/ALACMagicCookieDescription.txt\nhttp://alac.macosforge.org/trac/browser/trunk/codec/ALACAudioTypes.h?rev=2#",
   "lastUpdatedDate": "12 Nov 2013",
   "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
-  "formatProvenance": "http://www.applelossless.com/\r\nhttp://alac.macosforge.org/trac/browser/trunk/ALACMagicCookieDescription.txt\r\nhttp://alac.macosforge.org/trac/browser/trunk/codec/ALACAudioTypes.h?rev=2#",
+  "formatProvenance": "v.123- Priority added over fmt/2094 M4A Audio. Submitted by Preservica.",
   "formatSourceDate": "12 Nov 2013",
   "formatDisclosure": null,
   "formatEnvironment": null,
@@ -63,6 +63,16 @@
       "relationshipType": "Has priority over",
       "relatedFormatID": 924,
       "relatedFormatName": "MPEG-4 Media File"
+    },
+    {
+      "relationshipType": "Has priority over",
+      "relatedFormatID": 3971,
+      "relatedFormatName": "M4A Audio"
+    },
+    {
+      "relationshipType": "Has priority over",
+      "relatedFormatID": 3907,
+      "relatedFormatName": "Daisy Talking Book Navigation Control File"
     }
   ],
   "supportedBy": 15,
