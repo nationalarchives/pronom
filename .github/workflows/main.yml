@@ -14,26 +14,21 @@ jobs:
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd #v6.0.2
         with:
-          persist-credentials: false
-      - name: Configure AWS credentials for Lambda
-        uses: aws-actions/configure-aws-credentials@acca2b1b2070338fb9fd1ca27ecee81d687e58e5  #v6.1.2
+          persist-credentials: true
+      - name: Set up JDK
+        uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 #v5.2.0
         with:
-          role-to-assume: arn:aws:iam::${{ secrets.ACCOUNT_ID }}:role/PRONOMSignatureRole
-          aws-region: eu-west-2
-          role-session-name: DeployPRONOM
-      - uses: actions/setup-java@be666c2fcd27ec809703dec50e508c2fdc7f6654 #v5.2.0
-        with:
-          distribution: 'temurin'
-          java-version: '21'
+          java-version: 21
+          distribution: temurin
       - run: |
           .github/scripts/create_signature_files.sh --release
-          NEW_SIGNATURE_FILENAME=$(echo DROID_SignatureFile_V$(curl https://pronom.nationalarchives.gov.uk/signatures.json | jq '.latest_signature.version | tonumber'+1).xml)
-          aws s3 cp signature-file.xml s3://prod-pronom-website/signatures/$NEW_SIGNATURE_FILENAME
-          aws s3 cp container-signature-file.xml s3://prod-pronom-website/container-signatures/container-signature-$(date +%Y%m%d).xml
-          aws s3 cp container-signature-file.xml s3://prod-pronom-website/container-signature.xml
-          python .github/scripts/generate_signature_json.py prod $ACCOUNT_ID
+          NEXT_VERSION=$(echo V$(curl https://api.github.com/repos/nationalarchives/pronom/releases/latest | jq -r '.name | ltrimstr("V") | tonumber + 1'))
+          NEW_SIGNATURE_FILENAME=$(echo DROID_SignatureFile_$NEXT_VERSION.xml)
+          mv signature-file.xml $NEW_SIGNATURE_FILENAME
+          mv container-signature-file.xml container-signature-$(date +%Y%m%d).xml
+          gh release create $NEXT_VERSION $NEW_SIGNATURE_FILENAME container-signature-$(date +%Y%m%d).xml
         env:
-          ACCOUNT_ID: ${{ secrets.ACCOUNT_ID }}
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
       - name: Build website
         uses: octokit/request-action@b91aabaa861c777dcdb14e2387e30eddf04619ae #v3.0.0
         with:
