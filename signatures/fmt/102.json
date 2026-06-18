@@ -7,10 +7,10 @@
   "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
-  "lastUpdatedDate": "14 Sep 2018",
+  "lastUpdatedDate": "09 Jun 2026",
   "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
-  "formatProvenance": null,
+  "formatProvenance": "v.123- New extension added of .xhtml. Submitted by the Digital Preservation Coalition.",
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": "Full",
   "formatEnvironment": null,
@@ -59,6 +59,10 @@
     },
     {
       "externalSignature": "htm",
+      "signatureType": "File extension"
+    },
+    {
+      "externalSignature": "xhtml",
       "signatureType": "File extension"
     }
   ],
@@ -122,6 +126,11 @@
       "relationshipType": "Is previous version of",
       "relatedFormatID": 644,
       "relatedFormatName": "Extensible Hypertext Markup Language"
+    },
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 3956,
+      "relatedFormatName": "xdomea"
     }
   ],
   "developedBy": 106,
