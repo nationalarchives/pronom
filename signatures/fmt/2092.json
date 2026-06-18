@@ -1,0 +1,46 @@
+{
+  "fileFormatID": 3969,
+  "version": "6.0.3",
+  "formatName": "Canadian Avalanche Association MarkUp Language",
+  "formatDescription": "Canadian Avalanche Association Markup Language (CAAML) format represents information that is relevant to avalanche safety operations. It is based on two existing standards: Extensible MarkUp Language and the Geographic Markup Language, and provides the file structure to facilitate the exchange of avalanche related information.",
+  "formatSourceID": 349,
+  "formatTypes": "Text (Mark-up)",
+  "formatNote": "http://caaml.org/",
+  "lastUpdatedDate": "09 Jun 2026",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatSourceDate": "09 Jun 2026",
+  "identifiers": [
+    {
+      "identifierText": "fmt/2092",
+      "identifierType": "PUID"
+    },
+    {
+      "identifierText": "application/xml",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 3457,
+      "name": "Canadian Avalanche Association Markup Language",
+      "note": "BOF; Offset:38; Magic Bytes: '<caaml:SnowProfile xmlns:caaml=\"http://caaml.org/Schemas/SnowProfilelACS/v6.0.3\"",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 38,
+          "maxOffset": 0,
+          "byteSequence": "3C6361616D6C3A536E6F7750726F66696C6520786D6C6E733A6361616D6C3D22687474703A2F2F6361616D6C2E6F72672F536368656D61732F536E6F7750726F66696C65494143532F76362E302E3322",
+          "endianness": null
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "caaml",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "source": 349
+}

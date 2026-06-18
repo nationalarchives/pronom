@@ -1,0 +1,48 @@
+{
+  "fileFormatID": 3980,
+  "version": "2-3",
+  "formatName": "Discus Project",
+  "formatDescription": "Discus was label software developed by Magic Mouse Productions. Development stopped after version 4 at the same time Aplle stopped supporting 32-bit software. Discus was releasedas standalone software with 1000's of label options.",
+  "formatSourceID": 299,
+  "formatTypes": null,
+  "formatNote": "http:/fileformats.archiveteam.org/wiki/Discus",
+  "lastUpdatedDate": "09 Jun 2026",
+  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
+  "formatSourceDate": "09 Jun 2026",
+  "identifiers": [
+    {
+      "identifierText": "fmt/2103",
+      "identifierType": "PUID"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 3469,
+      "name": "Discus Project 2-3",
+      "note": "Absolute from beginning of file, magic bytes: II*.{12}KODAK{11}(DCS|EOSDCS)",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "CDCD(00|20)0743414E56",
+          "endianness": null
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "cdl",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "Is previous version of",
+      "relatedFormatID": 3981,
+      "relatedFormatName": "Discus Project File"
+    }
+  ],
+  "source": 299
+}
