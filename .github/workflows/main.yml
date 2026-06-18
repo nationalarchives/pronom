@@ -26,9 +26,9 @@ jobs:
           NEW_SIGNATURE_FILENAME=$(echo DROID_SignatureFile_$NEXT_VERSION.xml)
           mv signature-file.xml $NEW_SIGNATURE_FILENAME
           mv container-signature-file.xml container-signature-$(date +%Y%m%d).xml
-          gh release create $NEXT_VERSION $NEW_SIGNATURE_FILENAME container-signature-$(date +%Y%m%d).xml
+          gh release create --title $NEXT_VERSION $NEXT_VERSION $NEW_SIGNATURE_FILENAME container-signature-$(date +%Y%m%d).xml
         env:
-          GITHUB_TOKEN: ${{ secrets.WORKFLOW_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Build website
         uses: octokit/request-action@b91aabaa861c777dcdb14e2387e30eddf04619ae #v3.0.0
         with:
