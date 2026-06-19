@@ -1,0 +1,39 @@
+New Records,fmt/1218,SubRip Subtitle File: Extension-only entry added. Submitted by National Library of New Zealand.
+New Records,fmt/1219,Gnumeric: Full entry added. Submitted by Saxon State- and University Library Dresden (SLUB).
+New Records,fmt/1220,WordPerfect for Macintosh Document 2.x: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1221,WordPerfect for Macintosh Document 3.x: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1222,WordPerfect for Macintosh Document 3.5-4.x: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1223,PaperPort MAX 2: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1224,PaperPort MAX 3-4: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1225,PaperPort MAX 5: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1226,Sparky 2: Full entry added. Submitted by University of Illinois.
+New Records,fmt/1227,NMRView: Full entry added. Submitted by University of Illinois.
+New Records,fmt/1228,NMRPipe: Full entry added. Submitted by University of Illinois.
+New Records,fmt/1229,Sibelius Sound Set Definition: Extension-only entry added. Submitted by National Library of New Zealand.
+New Records,fmt/1230,SK-XML 1.0: Full entry added. Submitted by The National Archives of Estonia.
+New Records,fmt/1231,DIGIDOC-XML 1.1: Full entry added. Submitted by The National Archives of Estonia.
+New Records,fmt/1232,DIGIDOC-XML 1.2: Full entry added. Submitted by The National Archives of Estonia.
+New Records,fmt/1233,DIGIDOC-XML 1.3: Full entry added. Submitted by The National Archives of Estonia.
+Updated Records,fmt/414,Audio Interchange File Format 1.2: Given priority over MPEG 1/2 Audio Layer 3 fmt/134 due to rare clash condition. Requested by National Library of New Zealand.
+Updated Records,fmt/645,Exchangeable Image File Format (Compressed) 2.2.1: Added .jpeg as extension. Requested by National Library of New Zealand.
+Updated Records,fmt/882,Wordstar 2000 1: Added a 128-byte max offset. Requested by National Library of New Zealand.
+Updated Records,fmt/986,Extensible Metadata Platform Format: Corrected part of signature relating to a single quote mark for which the hex encoding had been entered for percentage character instead. Reported by Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/1211,Wavefront Material Template Library: Slightly extended wildcard offset between 'newmtl' declaration and first 'Ka'/'Kd'/'Ks' properties. Requested by Church of Jesus Christ of Latter-day Saints.
+Updated Records,x-fmt/225,ESRI MapInfo Data File: Added .mid as extension. Requested by National Library of Australia.
+Updated Records,x-fmt/390,Exchangeable Image File Format (Compressed) 2.1: Added .jpeg as extension. Requested by National Library of New Zealand.
+Updated Records,x-fmt/391,Exchangeable Image File Format (Compressed) 2.2: Added .jpeg as extension. Requested by National Library of New Zealand.
+Updated Records,x-fmt/398,Exchangeable Image File Format (Compressed) 2.0: Added .jpeg as extension. Requested by National Library of New Zealand.
+New Signatures,fmt/1219,Gnumeric: Signature developed with Saxon State- and University Library Dresden (SLUB).
+New Signatures,fmt/1220,WordPerfect for Macintosh Document 2.x: Signature developed by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1221,WordPerfect for Macintosh Document 3.x: Signature developed by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1222,WordPerfect for Macintosh Document 3.5-4.x: Signature developed by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1223,PaperPort MAX 2: Signature developed by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1224,PaperPort MAX 3-4: Signature developed by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1225,PaperPort MAX 5: Signature developed by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1226,Sparky 2: Signature developed with University of Illinois.
+New Signatures,fmt/1227,NMRView: Signature developed with University of Illinois.
+New Signatures,fmt/1228,NMRPipe: Signature developed with University of Illinois.
+New Signatures,fmt/1230,SK-XML 1.0: Signature submitted by The National Archives of Estonia.
+New Signatures,fmt/1231,DIGIDOC-XML 1.1: Signature submitted by The National Archives of Estonia.
+New Signatures,fmt/1232,DIGIDOC-XML 1.2: Signature submitted by The National Archives of Estonia.
+New Signatures,fmt/1233,DIGIDOC-XML 1.3: Signature submitted by The National Archives of Estonia.

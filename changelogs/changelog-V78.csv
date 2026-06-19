@@ -1,0 +1,61 @@
+New Records,fmt/661,Sigma RAW Image: Full entry added.
+New Records,fmt/662,Panasonic Raw: Full entry added. Submitted by Redaktor CMS.
+New Records,fmt/663,Industry Foundation Classes XML: Full entry added.
+New Records,fmt/664,Gerber format: Full entry added.
+New Records,fmt/665,Chasys Draw image file: Full entry added.
+New Records,fmt/666,ART image format: Full entry added. Submitted by Redaktor CMS.
+New Records,fmt/667,Photoshop Curve File: Full entry added.
+New Records,fmt/668,Olympus RAW: Full entry added. Submitted by Redaktor CMS.
+New Records,fmt/669,Minolta RAW: Full entry added. Submitted by Redaktor CMS.
+New Records,fmt/670,PKCS #7 Crytographic message file: Full entry added. Submitted by Antonio Dalvit.
+New Records,fmt/671,Serif PagePlus Publication Generic: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/672,Serif PagePlus Publication 4: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/673,Serif PagePlus Publication 5: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/674,Serif PagePlus Publication 6: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/675,Serif PagePlus Publication 7: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/676,Serif PagePlus Publication 8: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/677,Serif PagePlus Publication 9: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/678,Serif PagePlus Publication 10: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/679,Serif PagePlus Publication 11: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/680,Serif PagePlus Publication 12: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/681,Serif PagePlus Publication Home Office: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/682,Thumbs DB file XP: Full entry added. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Records,fmt/683,Advanced Function Presentation: Full entry added. Submitted by Ricoh.
+Updated Records,fmt/1,Broadcast WAVE 0: Added signature variant for files that conform to WAVEFORMATEXTENSIBLE and gave priority over Waveform Audio (WAVEFORMATEXTENSIBLE). Submitted by Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/2,Broadcast WAVE 1: Added signature variant for files that conform to WAVEFORMATEXTENSIBLE and gave priority over Waveform Audio (WAVEFORMATEXTENSIBLE). Submitted by Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/40,Microsoft Word 97-2003: Added .wbk as an extension and updated description. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+Updated Records,fmt/199,MPEG-4 Media File: Gave priority over Quicktime.
+Updated Records,fmt/412,Microsoft Word 2007 onwards: Added .wbk as an extension and updated description. Submitted by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+Updated Records,fmt/425,Video Object File (MPEG-2 subset): Re-added priority over MPEG-1 and MPEG-2 Programme Streams
+Updated Records,fmt/440,Microsoft Project 2007: Corrected container signature. Issue reported seperately by Richard Lehane and Ross Spencer.
+Updated Records,fmt/471,"Hypertext Markup Language 5: Added MIME type, requested by British Library."
+Updated Records,fmt/527,Broadcast WAVE 2: Added signature variant for files that conform to WAVEFORMATEXTENSIBLE and gave priority over Waveform Audio (WAVEFORMATEXTENSIBLE). Submitted by Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/648,Media View Pro: Simplified signature and signature description as suggested by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+Updated Records,fmt/650,"Quark Xpress Report File: Added further extension - qxp%20report, and improved signature."
+Updated Records,fmt/653,INTERLIS 2.3 Transfer File: Changed version number from 2. Simplified existing siganture and added additional signature for binary variant. Changes requested by Elektrotechnik Hochschule fur Technik und Wirtschaft HTW Chur Institut fur Informations und Kommunikationstechnologien.
+Updated Records,fmt/654,INTERLIS 2.3 Model File: Added version number. Adjusted signature offsets. Changes requested by Elektrotechnik Hochschule fur Technik und Wirtschaft HTW Chur Institut fur Informations und Kommunikationstechnologien.
+Updated Records,x-fmt/140,Silicon Graphics Image: Description added.
+Updated Records,x-fmt/184,Sun Raster Image: Description and extension (.sun) added.
+Updated Records,x-fmt/207,X-Windows Bitmap Image: Description added.
+Updated Records,x-fmt/247,Microsoft Project 2000-2003: Corrected container signature. Issue reported seperately by Richard Lehane and Ross Spencer.
+New Signatures,fmt/661,Sigma RAW Image: Signature developed through PRONOM Research.
+New Signatures,fmt/662,Panasonic Raw: Signature developed through PRONOM Research.
+New Signatures,fmt/663,Industry Foundation Classes XML: Signature developed through PRONOM Research.
+New Signatures,fmt/664,Gerber format: Signature developed through PRONOM Research.
+New Signatures,fmt/665,Chasys Draw image file: Signature developed through PRONOM Research.
+New Signatures,fmt/666,ART image format: Signature developed through PRONOM Research.
+New Signatures,fmt/668,Olympus RAW: Signature developed through PRONOM Research.
+New Signatures,fmt/669,Minolta RAW: Signature developed through PRONOM Research.
+New Signatures,fmt/670,PKCS #7 Crytographic message file: Signature developed through PRONOM Research.
+New Signatures,fmt/672,Serif PagePlus Publication 4: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/673,Serif PagePlus Publication 5: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/674,Serif PagePlus Publication 6: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/675,Serif PagePlus Publication 7: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/676,Serif PagePlus Publication 8: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/677,Serif PagePlus Publication 9: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/678,Serif PagePlus Publication 10: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/679,Serif PagePlus Publication 11: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/680,Serif PagePlus Publication 12: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/681,Serif PagePlus Publication Home Office: Container signature developed through PRONOM Research in collaboration with Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/682,Thumbs DB file XP: Container signature provided by Archives New Zealand - Te Rua Mahara o te Kawanatanga.
+New Signatures,fmt/683,Advanced Function Presentation: Signature developed through PRONOM Research.

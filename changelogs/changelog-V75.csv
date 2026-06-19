@@ -1,0 +1,70 @@
+New Records,fmt/645,Exchangeable Image File Format (Compressed) 2.2.1: Outline Entry Added. Submitted by Public Record Office of Northern Ireland.
+New Records,fmt/646,Apple iWorks Keynote 09: Outline Entry Added.
+New Records,fmt/647,Microsoft Expression Media 2: Outline Entry Added.
+New Records,fmt/648,Media View Pro: Outline Entry Added.
+New Records,fmt/649,MPEG-1 Elementary Stream: Outline Entry Added.
+New Records,fmt/650,Quark Xpress Report File: Outline Entry Added.
+New Records,fmt/651,Quark Xpress Data File 10: Outline Entry Added.
+New Records,fmt/652,Quark Xpress Data File 6: Outline Entry Added.
+New Records,fmt/653,INTERLIS 2 Transfer File: Outline Entry Added. Submitted by Elektrotechnik Hochschule fur Technik und Wirtschaft HTW Chur Institut fur Informations und Kommunikationstechnologien.
+New Records,fmt/654,INTERLIS Model File: Outline Entry Added. Submitted by Elektrotechnik Hochschule fur Technik und Wirtschaft HTW Chur Institut fur Informations und Kommunikationstechnologien.
+New Records,fmt/655,KryoFlux v2: Full Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/656,KryoFlux v2.2: Full Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/657,Open XML Paper Specification: Full Entry Added. Submitted by The Walker Arts Center.
+New Records,fmt/658,Cypher Query Language: Outline Entry Added.
+New Records,fmt/659,Industry Foundation Classes: Outline Entry Added. Submitted by Catenda/the DuraArk project
+New Records,fmt/660,Adobe Type 1 Mac Font File: Outline Entry Added.
+Updated Records,fmt/14,Acrobat PDF 1.0 - Portable Document Format: EOF offset increased in accordance with Adobe PDF documentation.
+Updated Records,fmt/15,Acrobat PDF 1.1 - Portable Document Format: EOF offset increased in accordance with Adobe PDF documentation.
+Updated Records,fmt/16,Acrobat PDF 1.2 - Portable Document Format: EOF offset increased in accordance with Adobe PDF documentation.
+Updated Records,fmt/17,Acrobat PDF 1.3 - Portable Document Format: EOF offset increased in accordance with Adobe PDF documentation.
+Updated Records,fmt/18,Acrobat PDF 1.4 - Portable Document Format: EOF offset increased in accordance with Adobe PDF documentation.
+Updated Records,fmt/19,Acrobat PDF 1.5 - Portable Document Format: EOF offset increased in accordance with Adobe PDF documentation.
+Updated Records,fmt/20,Acrobat PDF 1.6 - Portable Document Format: EOF offset increased in accordance with Adobe PDF documentation.
+Updated Records,fmt/41,Raw JPEG Stream: EOF offset increased. Submitted by Public Record Office of Northern Ireland.
+Updated Records,fmt/42,JPEG File Interchange Format 1.00: EOF offset increased. Submitted by Public Record Office of Northern Ireland.
+Updated Records,fmt/43,JPEG File Interchange Format 1.01: EOF offset increased. Submitted by Public Record Office of Northern Ireland.
+Updated Records,fmt/44,JPEG File Interchange Format 1.02: EOF offset increased. Submitted by Public Record Office of Northern Ireland.
+Updated Records,fmt/96,Hypertext Markup Language: Added an additional signature sequence.
+Updated Records,fmt/126,Microsoft Powerpoint Presentation 97-2003: Version number corrected and description updated.
+Updated Records,fmt/151,JPX (JPEG 2000 part 2): Description amended at the suggestion of Koninklijke Bibliotheek.
+Updated Records,fmt/276,Acrobat PDF 1.7 - Portable Document Format: EOF offset increased in accordance with Adobe PDF documentation.
+Updated Records,fmt/425,Video Object File (MPEG-2 subset): Removed priority relationships with MPEG-1 Program Stream and MPEG-2 Program Stream.
+Updated Records,fmt/471,"Hypertext Markup Language 5: Error corrected in binary signature, submitted by Redaktor."
+Updated Records,fmt/482,Apple iBook Format: Given additional priority over HTML puids. Improvement submitted by LIBIS.
+Updated Records,fmt/483,ePub Format: Given additional priority over HTML puids. Improvement submitted by LIBIS.
+Updated Records,fmt/494,Microsoft Office Encrypted Document 2007 onwards: Error corrected in file extension details.
+Updated Records,fmt/558,Adobe Illustrator 9.0: Specificity of binary signature sequence improved.
+Updated Records,fmt/559,Adobe Illustrator 10.0: Specificity of binary signature sequence improved.
+Updated Records,fmt/560,Adobe Illustrator 11.0: Specificity of binary signature sequence improved.
+Updated Records,fmt/561,Adobe Illustrator 12.0: Specificity of binary signature sequence improved.
+Updated Records,fmt/562,Adobe Illustrator 13.0: Specificity of binary signature sequence improved.
+Updated Records,fmt/563,Adobe Illustrator 14.0: Specificity of binary signature sequence improved.
+Updated Records,fmt/564,Adobe Illustrator 15.0: Specificity of binary signature sequence improved.
+Updated Records,fmt/565,Adobe Illustrator 16.0: Specificity of binary signature sequence improved.
+Updated Records,fmt/571,Domino XML Database Export: Added an additional signature sequence. Provided by Prasad Rao.
+Updated Records,fmt/583,Vector Markup Language: Description extended and given priority over Hypertext Markup Language.
+Updated Records,fmt/585,MPEG-2 Transport Stream: Name changed to improve consistency across the MPEG formats. Description improved to offer consistency with other MPEG formats.
+Updated Records,fmt/640,MPEG-2 Elementary Stream: Description improved to offer consistency with other MPEG formats. Improved specificity of BOF signature sequence. Added m2v and mpeg to file extensions.
+Updated Records,x-fmt/87,Microsoft Powerpoint Presentation Show: Version number corrected and description updated.
+Updated Records,x-fmt/182,Quark Xpress Data File: Description added and notes field edited to reflect changes in identification for Versions 6 and 10.
+Updated Records,x-fmt/385,MPEG-1 Program Stream: Name changed to improve consistency across the MPEG formats. Description added. Improved specificity of BOF signature sequence and removed EOF signature sequence. Removed priority over Video Object File (MPEG-2 subset)
+Updated Records,x-fmt/386,MPEG-2 Program Stream: Name changed to improve consistency across the MPEG formats. Description added. Improved specificity of BOF signature sequence. Given priority over MPEG-1 Program Stream and removed priority over Video Object File (MPEG-2 subset).
+Updated Records,x-fmt/390,Exchangeable Image File Format (Compressed) 2.1: Description added and EOF offset increased. Submitted by Public Record Office of Northern Ireland.
+Updated Records,x-fmt/391,Exchangeable Image File Format (Compressed) 2.2: Description added and EOF offset increased. Submitted by Public Record Office of Northern Ireland.
+Updated Records,x-fmt/398,Exchangeable Image File Format (Compressed) 2.0: Description added and EOF offset increased. Submitted by Public Record Office of Northern Ireland.
+New Signatures,fmt/645,Exchangeable Image File Format (Compressed) 2.2.1: Signature developed in collaboration with the Public Record Office of Northern Ireland.
+New Signatures,fmt/646,Apple iWorks Keynote 09: Container signature developed through PRONOM Research.
+New Signatures,fmt/647,Microsoft Expression Media 2: Signature developed through PRONOM Research.
+New Signatures,fmt/648,Media View Pro: Signature developed through PRONOM Research.
+New Signatures,fmt/649,MPEG-1 Elementary Stream: Signature developed through PRONOM Research.
+New Signatures,fmt/650,Quark Xpress Report File: Signature developed through PRONOM Research.
+New Signatures,fmt/651,Quark Xpress 10 Data File: Signature developed through PRONOM Research.
+New Signatures,fmt/652,Quark Xpress 6 Data File: Signature developed through PRONOM Research.
+New Signatures,fmt/653,INTERLIS 2 Transfer File: Signature developed in collaboration with Elektrotechnik Hochschule fr Technik und Wirtschaft HTW Chur Institut fur Informations und Kommunikationstechnologien.
+New Signatures,fmt/654,INTERLIS 2 Model File: Signature developed in collaboration with Elektrotechnik Hochschule fur Technik und Wirtschaft HTW Chur Institut fur Informations und Kommunikationstechnologien.
+New Signatures,fmt/655,KryoFlux v2: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/656,KryoFlux v2.2: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/657,Open XML Paper Specification: Container signature developed in collaboration with The Walker Arts Center.
+New Signatures,fmt/659,Industry Foundation Classes: Signature developed in collaboration with Catenda/the DuraArk project
+New Signatures,fmt/660,Adobe Type 1 Mac Font File: Signature developed through PRONOM Research.

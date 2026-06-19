@@ -1,0 +1,92 @@
+New Records,fmt/687,Better Portable Graphics: Full entry added.
+New Records,fmt/688,Executable and Linkable Format 32bit Little Endian: Full entry added.
+New Records,fmt/689,Executable and Linkable Format 32bit Big Endian: Full entry added.
+New Records,fmt/690,Executable and Linkable Format 64bit Little Endian: Full entry added.
+New Records,fmt/691,Executable and Linkable Format 64bit Big Endian: Full entry added.
+New Records,fmt/692,Mach-O 32bit: Outline entry added.
+New Records,fmt/693,Mach-O 64bit: Full entry added.
+New Records,fmt/694,Dalvik Executable Format: Full entry added.
+New Records,fmt/695,Optimised Dalvik Executable Format: Full entry added.
+New Records,fmt/696,Sibelius: Full entry added.
+New Records,fmt/697,Additive Manufacturing File Format: Full entry added.
+New Records,fmt/698,Standard for the Exchange of Product model data: Full entry added.
+New Records,fmt/699,Industry Foundation Classes 2x3: Full entry added.
+New Records,fmt/700,Industry Foundation Classes 4: Full entry added.
+New Records,fmt/701,Processing Development Environment: Full entry added.
+New Records,fmt/702,Universal 3D File Format: Full entry added.
+New Records,fmt/703,Broadcast WAVE 0 PCM Encoding: Full entry added.
+New Records,fmt/704,Broadcast WAVE 1 PCM Encoding: Full entry added.
+New Records,fmt/705,Broadcast WAVE 2 PCM Encoding: Full entry added.
+New Records,fmt/706,Broadcast WAVE 0 MPEG Encoding: Full entry added.
+New Records,fmt/707,Broadcast WAVE 1 MPEG Encoding: Full entry added.
+New Records,fmt/708,Broadcast WAVE 2 MPEG Encoding: Full entry added.
+New Records,fmt/709,Broadcast WAVE 0 WAVEFORMATEXTENSIBLE Encoding: Full entry added.
+New Records,fmt/710,Broadcast WAVE 1 WAVEFORMATEXTENSIBLE Encoding: Full entry added.
+New Records,fmt/711,Broadcast WAVE 2 WAVEFORMATEXTENSIBLE Encoding: Full entry added.
+New Records,fmt/712,RF64: Full entry added.
+New Records,fmt/713,RF64 Multichannel Broadcast Wave format: Full entry added.
+New Records,fmt/714,Extensible Music Format: Full entry added.
+New Records,fmt/715,Impulse Tracker Module: Full entry added.
+New Records,fmt/716,MOD Audio Module: Full entry added.
+New Records,fmt/717,Scream Tracker Module 1-2: Full entry added.
+New Records,fmt/718,Scream Tracker Module 3: Full entry added.
+New Records,fmt/719,MultiTracker Module: Full entry added.
+New Records,fmt/720,MBOX: Full entry added.
+New Records,fmt/721,VLW Font File: Full entry added.
+New Records,fmt/722,Oktalyzer Audio file: Full entry added.
+New Records,fmt/723,Farandole Composer Module: Full entry added.
+New Records,fmt/724,Keyhole Markup Language (Container): Full entry added.
+Updated Records,fmt/1,Broadcast WAVE 0 Generic: Updated format name and simplified signature.
+Updated Records,fmt/2,Broadcast WAVE 1 Generic: Updated format name and simplified signature.
+Updated Records,fmt/3,Graphics Interchange Format 87a: Description amended.
+Updated Records,fmt/4,Graphics Interchange Format 89a: Description amended.
+Updated Records,fmt/95,Acrobat PDF/A 1a: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/244,Keyhole Markup Language (XML): Updated to distinguish the XML and container versions.
+Updated Records,fmt/354,Acrobat PDF/A 1b: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/476,Acrobat PDF/A 2a: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/477,Acrobat PDF/A 2b: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/478,Acrobat PDF/A 2u: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/479,Acrobat PDF/A 3a: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/480,Acrobat PDF/A 3b: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/481,Acrobat PDF/A 3u: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/488,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/489,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4p: MIME Type added. Submitted by Docuteam.
+Updated Records,fmt/527,Broadcast WAVE 2 Generic: Updated format name and simplified signature.
+Updated Records,fmt/659,Industry Foundation Classes 2x2: Signature and version updated.
+Updated Records,x-fmt/219,Internet Archive 1.0: Updated signature. Submitted by National Library of New Zealand.
+New Signatures,fmt/202,Nikon Digital SLR Camera Raw Image File: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/687,Better Portable Graphics: Signature developed through PRONOM Research.
+New Signatures,fmt/688,Executable and Linkable Format 32bit Little Endian: New signature. Inspired by research conducted by Ange Albertini.
+New Signatures,fmt/689,Executable and Linkable Format 32bit Big Endian: New signature. Inspired by research conducted by Ange Albertini.
+New Signatures,fmt/690,Executable and Linkable Format 64bit Little Endian: New signature. Inspired by research conducted by Ange Albertini.
+New Signatures,fmt/691,Executable and Linkable Format 64bit Big Endian: New signature. Inspired by research conducted by Ange Albertini.
+New Signatures,fmt/692,Mach-O 32bit: New signature. Inspired by research conducted by Ange Albertini.
+New Signatures,fmt/693,Mach-O 64bit: New signature. Inspired by research conducted by Ange Albertini.
+New Signatures,fmt/694,Dalvik Executable Format: New signature. Inspired by research conducted by Ange Albertini.
+New Signatures,fmt/695,Optimised Dalvik Executable Format: New signature. Inspired by research conducted by Ange Albertini.
+New Signatures,fmt/696,Sibelius: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/697,Additive Manufacturing File Format: New signature developed through PRONOM Research.
+New Signatures,fmt/698,Standard for the Exchange of Product model data: New signature submitted by German National Library of Science and Technology.
+New Signatures,fmt/699,Industry Foundation Classes 2x3: New signature submitted by German National Library of Science and Technology.
+New Signatures,fmt/700,Industry Foundation Classes 4: New signature submitted by German National Library of Science and Technology.
+New Signatures,fmt/702,Universal 3D File Format: New signature developed through PRONOM Research.
+New Signatures,fmt/703,Broadcast WAVE 0 PCM Encoding: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/704,Broadcast WAVE 1 PCM Encoding: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/705,Broadcast WAVE 2 PCM Encoding: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/706,Broadcast WAVE 0 MPEG Encoding: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/707,Broadcast WAVE 1 MPEG Encoding: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/708,Broadcast WAVE 2 MPEG Encoding: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/709,Broadcast WAVE 0 WAVEFORMATEXTENSIBLE Encoding: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/710,Broadcast WAVE 1 WAVEFORMATEXTENSIBLE Encoding: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/711,Broadcast WAVE 2 WAVEFORMATEXTENSIBLE Encoding: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/712,RF64: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/713,RF64 Multichannel Broadcast Wave format: New signature submitted by National Library of New Zealand.
+New Signatures,fmt/714,Extensible Music Format: New signature developed through PRONOM Research.
+New Signatures,fmt/715,Impulse Tracker Module: New signature developed through PRONOM Research.
+New Signatures,fmt/716,MOD Audio Module: New signature developed through PRONOM Research.
+New Signatures,fmt/717,Scream Tracker Module 1-2: New signature developed through PRONOM Research.
+New Signatures,fmt/718,Scream Tracker Module 3: New signature developed through PRONOM Research.
+New Signatures,fmt/719,MultiTracker Module: New signature developed through PRONOM Research.
+New Signatures,fmt/722,Oktalyzer Audio file: New signature developed through PRONOM Research.
+New Signatures,fmt/723,Farandole Composer Module: New signature developed through PRONOM Research.
+New Signatures,fmt/724,Keyhole Markup Language (Container): Container signature developed through PRONOM Research.

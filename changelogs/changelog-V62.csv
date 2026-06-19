@@ -1,0 +1,118 @@
+New Records,fmt/445,Microsoft Excel Macro Enabled: Outline Entry Added.
+New Records,fmt/446,Acrobat Catalog Index 2.0: Outline Entry Added.
+New Records,fmt/447,Acrobat Catalog Index 3.0: Outline Entry Added.
+New Records,fmt/448,Acrobat Catalog Index 3.1: Outline Entry Added.
+New Records,fmt/449,Acrobat Catalog Index 3.2: Outline Entry Added.
+New Records,fmt/450,VectorWorks 12.5: Outline Entry Added.
+New Records,fmt/451,VectorWorks 2009: Outline Entry Added.
+New Records,fmt/452,Adobe Catalog Cat File: Outline Entry Added.
+New Records,fmt/453,Verity Collection Stop List: Outline Entry Added.
+New Records,fmt/454,Verity Collection Index About File: Outline Entry Added.
+New Records,fmt/455,Verity Collection Index Pending Transaction: Outline Entry Added.
+New Records,fmt/456,Verity Collection Index Style Policy: Outline Entry Added.
+New Records,fmt/457,Verity Collection Document Database Descriptor Style Set: Outline Entry Added.
+New Records,fmt/458,Verity Collection Document Index Descriptor Style Set: Outline Entry Added.
+New Records,fmt/459,Verity Collection Word List Descriptor Style Set: Outline Entry Added.
+New Records,fmt/460,Verity Collection Partition Definition Descriptor Style Set: Outline Entry Added.
+New Records,fmt/461,Verity Collection Index Descriptor File: Outline Entry Added.
+New Records,fmt/462,MS DOS Compression Format: Outline Entry Added.
+New Records,fmt/463,JPEG 2000 Compound Image File Format: Outline Entry Added.
+New Records,fmt/464,CorelDraw Drawing 5: Outline Entry Added.
+New Records,fmt/465,CorelDraw Drawing 4: Outline Entry Added.
+New Records,fmt/466,CorelDraw Drawing 2: Outline Entry Added.
+New Records,fmt/467,CorelDraw Drawing 1: Outline Entry Added.
+Updated Records,fmt/6,Waveform Audio: Existing signature refined through PRONOM Research.
+Updated Records,fmt/39,Microsoft Word Document 6/95: Renamed from 'Microsoft Word Document for Windows 6/95' to reflect that this format is identical on Mac.
+Updated Records,fmt/40,Microsoft Word Document 97-2003: Renamed from 'Microsoft Word Document for Windows 97-2003' to reflect that this format is identical on Mac.
+Updated Records,fmt/41,Raw JPEG Stream: Existing signature refined through PRONOM Research.
+Updated Records,fmt/49,AutoCAD Design Web Format: Description information submitted by the National Archives and Records Administration.
+Updated Records,fmt/56,Microsoft Excel 3.0 Worksheet: Renamed from 'Microsoft Excel 3.0 Worlsheet'.
+Updated Records,fmt/63,Drawing Interchange File Format (ASCII) Generic: Existing signature refined through PRONOM Research.
+Updated Records,fmt/127,OpenOffice Draw: MIME-Type information added. Description information submitted by the National Archives and Records Administration.
+Updated Records,fmt/128,OpenOffice Writer: MIME-Type information added. Description information submitted by the National Archives and Records Administration.
+Updated Records,fmt/129,OpenOffice Calc: MIME-Type information added. Description information submitted by the National Archives and Records Administration.
+Updated Records,fmt/130,OpenOffice Impress: MIME-Type information added. Description information submitted by the National Archives and Records Administration.
+Updated Records,fmt/141,Waveform Audio (PCMWAVEFORMAT): Existing signature refined through PRONOM Research.
+Updated Records,fmt/142,Waveform Audio (WAVEFORMATEX): Existing signature refined through PRONOM Research.
+Updated Records,fmt/143,Waveform Audio (WAVEFORMATEXTENSIBLE): Existing signature refined through PRONOM Research.
+Updated Records,fmt/166,Microsoft Works Spreadsheet 1-5: PRONOM Research revealed .wks versions 1-5 to be indistinct from one another so changed from Works Spreadsheet for DOS 1.05. Gave priority over similar Lotus 1-2-3 Version 1 Worksheet. Signature developed through PRONOM Research.
+Updated Records,fmt/167,Microsoft Works Spreadsheet for DOS 1.12: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/168,Microsoft Works Spreadsheet for DOS 2.0: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/172,Microsoft Excel for Macintosh 3.0: Record deprecated in favour of fmt/56 Microsoft Excel 3.0 Worksheet as PRONOM Research revealed this is the same format.
+Updated Records,fmt/173,Microsoft Excel for Macintosh 4.0: Record deprecated in favour of fmt/57 Microsoft Excel 4.0 Worksheet as PRONOM Research revealed this is the same format.
+Updated Records,fmt/174,Microsoft Excel for Macintosh 98: Record deprecated in favour of fmt/61 Microsoft Excel 97 Worksheet as PRONOM Research revealed this is the same format.
+Updated Records,fmt/178,Microsoft Excel for Macintosh X: Record deprecated in favour of fmt/61 Microsoft Excel 97 Worksheet as PRONOM Research revealed this is the same format.
+Updated Records,fmt/180,Microsoft PowerPoint for Macintosh X: Record deprecated in favour of fmt/126 Microsoft PowerPoint 97-2002 as PRONOM Research revealed this is the same format.
+Updated Records,fmt/182,Microsoft PowerPoint for Macintosh 98: Record deprecated in favour of fmt/126 Microsoft PowerPoint 97-2002 as PRONOM Research revealed this is the same format.
+Updated Records,fmt/214,Microsoft Excel 2007 onwards: Renamed as Office 2010 files use same OOXML structure as 2007.
+Updated Records,fmt/215,Microsoft PowerPoint 2007 onwards: Renamed as Office 2010 files use same OOXML structure as 2007.
+Updated Records,fmt/220,Microsoft Works Spreadsheet for Windows 2.0: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/227,Microsoft Works Spreadsheet for Windows 2.0a: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/228,Microsoft Works Spreadsheet for Windows 3.0: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/229,Microsoft Works Spreadsheet for Windows 3.0a: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/230,Microsoft Works Spreadsheet for Windows 3.0b: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/231,Microsoft Works Spreadsheet for Windows 4.0: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/247,Microsoft Works Spreadsheet for Windows 4.0a: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/250,Microsoft Works Spreadsheet for Windows 4.5: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/253,Microsoft Works Spreadsheet for Windows 4.5a: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/257,Microsoft Works Spreadsheet for Windows 2000: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/262,Microsoft Works Spreadsheet for DOS 3: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/263,Microsoft Works Spreadsheet for DOS 3a: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/264,Microsoft Works Spreadsheet for DOS 3b: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,fmt/402,Truevision TGA: Description information submitted by the National Archives and Records Administration.
+Updated Records,fmt/412,Microsoft Word Document 2007 onwards: Renamed as Office 2010 files use same OOXML structure as 2007.
+Updated Records,fmt/425,Video Object File: Existing signature refined through PRONOM Research.
+Updated Records,fmt/440,Microsoft Project 2007: Corrected file extension from .pptx to .mpp and refined container signature.
+Updated Records,fmt/443,Microsoft Visio 2003: Existing container signature refined though submission by Matt Palmer.
+Updated Records,x-fmt/2,Microsoft Word for Macintosh Document 6.0: Record deprecated in favour of fmt/39 Microsoft Word Document 6/95 as PRONOM Research revealed this is the same format.
+Updated Records,x-fmt/20,Adobe Illustrator 1.0 and 1.1: MIME-Type information added.
+Updated Records,x-fmt/64,Microsoft Word for Macintosh 4.0: MIME-Type information added.
+Updated Records,x-fmt/65,Microsoft Word for Macintosh 5.0: MIME-Type information added.
+Updated Records,x-fmt/92,Adobe Photoshop: MIME-Type information added.
+Updated Records,x-fmt/118,Microsoft Works Spreadsheet 2.0: Record deprecated in favour of fmt/166 Microsoft Works Spreadsheet 1-5.
+Updated Records,x-fmt/129,Microsoft Word for Macintosh Document X: Record deprecated in favour of fmt/40 Microsoft Word Document 97-2003 as PRONOM Research revealed this is the same format.
+Updated Records,x-fmt/131,Stationery for Mac: Renamed from 'Stationary for Mac'.
+Updated Records,x-fmt/136,Audio Interchange File Format (Compressed): Description information submitted by the National Archives and Records Administration.
+Updated Records,x-fmt/158,Initial Graphics Exchange Specification (IGES): Description information submitted by the National Archives and Records Administration.
+Updated Records,x-fmt/235,ESRI Arc/View Shapefile: Description information submitted by the National Archives and Records Administration.
+Updated Records,x-fmt/245,Microsoft Project 1998: Existing container signature refined through PRONOM Research.
+Updated Records,x-fmt/258,Microsoft Visio 2000: Existing container signature refined though submission by Matt Palmer.
+Updated Records,x-fmt/279,FLAC (Free Lossless Audio Codec): Description information submitted by the National Archives and Records Administration.
+Updated Records,x-fmt/302,Adobe FrameMaker Document: MIME-Type information added.
+Updated Records,x-fmt/384,Quicktime: Existing signature refined through PRONOM Research.
+Updated Records,x-fmt/392,JPEG 2000: Existing signature refined through PRONOM Research. Description information submitted by the National Archives and Records Administration.
+Updated Records,x-fmt/453,True Type Font: Description information submitted by the National Archives and Records Administration.
+New Signatures,fmt/144,Acrobat PDF/X - Portable Document Format - Exchange 1:1999: Signature developed through PRONOM Research.
+New Signatures,fmt/145,Acrobat PDF/X - Portable Document Format - Exchange 1:2001: Signature developed through PRONOM Research.
+New Signatures,fmt/146,Acrobat PDF/X - Portable Document Format - Exchange 1a:2003: Signature developed through PRONOM Research.
+New Signatures,fmt/147,Acrobat PDF/X - Portable Document Format - Exchange 2:2003: Signature developed through PRONOM Research.
+New Signatures,fmt/148,Acrobat PDF/X - Portable Document Format - Exchange 3:2003: Signature developed through PRONOM Research.
+New Signatures,fmt/151,JPX (JPEG 2000 Extended): Signature developed through PRONOM Research.
+New Signatures,fmt/337,Motion JPEG 2000: Signature developed through PRONOM Research.
+New Signatures,fmt/445,Microsoft Excel Macro Enabled: Container signature developed through PRONOM Research.
+New Signatures,fmt/446,Acrobat Catalog Index 2.0: Signature developed through PRONOM Research.
+New Signatures,fmt/447,Acrobat Catalog Index 3.0: Signature developed through PRONOM Research.
+New Signatures,fmt/448,Acrobat Catalog Index 3.1: Signature developed through PRONOM Research.
+New Signatures,fmt/449,Acrobat Catalog Index 3.2: Signature developed through PRONOM Research.
+New Signatures,fmt/450,Vectorworks 12.5: Signature developed through PRONOM Research.
+New Signatures,fmt/451,Vectorworks 2009: Signature developed through PRONOM Research.
+New Signatures,fmt/452,Adobe Catalog Cat File: Signature developed through PRONOM Research.
+New Signatures,fmt/453,Verity Collection Stop List: Signature developed through PRONOM Research.
+New Signatures,fmt/454,Verity Collection Index About File: Signature developed through PRONOM Research.
+New Signatures,fmt/455,Verity Collection Index Pending Transaction: Signature developed through PRONOM Research.
+New Signatures,fmt/456,Verity Collection Index Style Policy: Signature developed through PRONOM Research.
+New Signatures,fmt/457,Verity Collection Document Database Descriptor: Signature developed through PRONOM Research.
+New Signatures,fmt/458,Verity Collection Document Index Descriptor: Signature developed through PRONOM Research.
+New Signatures,fmt/459,Verity Collection Word List Descriptor: Signature developed through PRONOM Research.
+New Signatures,fmt/460,Verity Collection Partition Definition Descriptor: Signature developed through PRONOM Research.
+New Signatures,fmt/461,Verity Collection Index Descriptor File: Signature developed through PRONOM Research.
+New Signatures,fmt/462,MS DOS Compression Format: Signature developed through PRONOM Research.
+New Signatures,fmt/463,JPEG 2000 Compound Image File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/464,CorelDraw Drawing 5: Signature developed through PRONOM Research.
+New Signatures,fmt/465,CorelDraw Drawing 4: Signature developed through PRONOM Research.
+New Signatures,fmt/466,CorelDraw Drawing 2: Signature developed through PRONOM Research.
+New Signatures,fmt/467,CorelDraw Drawing 1: Signature developed through PRONOM Research.
+New Signatures,x-fmt/121,Quattro Pro Spreadsheet 1-4: Signature developed through Museum of London submission.
+New Signatures,x-fmt/122,Quattro Pro Spreadsheet 5: Signature developed through Museum of London submission and PRONOM Research.
+New Signatures,x-fmt/379,CorelDraw Drawing 3: Signature developed through PRONOM Research.
+New Signatures,x-fmt/419,DVD Data File: Signature developed through PRONOM Research.

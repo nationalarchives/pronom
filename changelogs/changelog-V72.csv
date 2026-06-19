@@ -1,0 +1,57 @@
+New Records,fmt/588,R3D: Outline Entry Added.
+New Records,fmt/589,Windows Media Playlist: Outline Entry Added.
+New Records,fmt/590,JPEG XR: Outline Entry Added.
+New Records,fmt/591,Radiance RGBE image format: Outline Entry Added.
+New Records,fmt/592,Canon RAW 2.0: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/593,Canon RAW 1.0: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/594,Microsoft Photo Draw: Outline Entry Added.
+New Records,fmt/595,Microsoft Excel Binary Workbook 2007 onwards: Outline Entry Added.
+New Records,fmt/596,Apple Lossless Audio Codec: Outline Entry Added.
+New Records,fmt/597,Microsoft Word Template 2007 onwards: Outline Entry Added.
+New Records,fmt/598,Microsoft Excel Template 2007 onwards: Outline Entry Added.
+New Records,fmt/599,Microsoft Word Macro-Enabled Document Template 2007 onwards: Outline Entry Added.
+New Records,fmt/600,eXtensible ARchive format: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/601,Statistical Analysis System Catalogue XPT (Windows) 9.1: Outline Entry Added. Submitted by Tessella.
+New Records,fmt/602,Statistical Analysis System Catalogue XPT (Unix) 9.1: Outline Entry Added. Submitted by Tessella.
+New Records,fmt/603,Statistical Analysis System Data XPT (Windows) 9.1: Outline Entry Added. Submitted by Tessella.
+New Records,fmt/604,Statistical Analysis System Data XPT (Unix) 9.1: Outline Entry Added. Submitted by Tessella.
+New Records,fmt/605,Statistical Analysis System Catalogue (Windows) 9.1: Outline Entry Added. Submitted by Tessella.
+New Records,fmt/606,Statistical Analysis System Catalogue (Unix) 9.1: Outline Entry Added. Submitted by Tessella.
+New Records,fmt/607,Statistical Analysis System Data (Windows) 9.1: Outline Entry Added. Submitted by Tessella.
+New Records,fmt/608,Statistical Analysis System Data (Unix) 9.1: Outline Entry Added. Submitted by Tessella.
+New Records,fmt/609,Microsoft Word (Generic) 6.0-2003: Outline Entry Added following research by British Library.
+Updated Records,fmt/39,Microsoft Word Document 6.0/95: Gave priority over fmt/609 - Microsoft Word (Generic) 6.0-2003.
+Updated Records,fmt/40,Microsoft Word Document 97-2003: Gave priority over fmt/609 - Microsoft Word (Generic) 6.0-2003.
+Updated Records,fmt/101,Extensible Markup Language 1.0: Added application/xml as a MIME type as suggested by the Central Digital Archive of Slovakia.
+Updated Records,fmt/214,Microsoft Excel for Windows: Corrected MIME type information provided by the Central Digital Archive of Slovakia.
+Updated Records,fmt/215,Microsoft Powerpoint for Windows: Corrected MIME type information provided by the Central Digital Archive of Slovakia.
+Updated Records,fmt/279,FLAC (Free Lossless Audio Codec): Improved internal signature through PRONOM Research.
+Updated Records,fmt/414,Audio Interchange File Format: Extension information added.
+Updated Records,fmt/487,Macro Enabled Microsoft Powerpoint: Corrected MIME type information provided by the Central Digital Archive of Slovakia.
+Updated Records,fmt/523,Macro enabled Microsoft Word Document OOXML: Corrected MIME type information provided by the Central Digital Archive of Slovakia.
+Updated Records,fmt/525,Adobe Printer Font Binary: Description added.
+Updated Records,fmt/529,JPEG Network Graphics (JNG): Description added.
+Updated Records,x-fmt/190,RealMedia: Extension information added.
+Updated Records,x-fmt/230,MIDI Audio: Extension information added.
+New Signatures,fmt/588,R3D: Signature developed through PRONOM Research.
+New Signatures,fmt/589,Windows Media Playlist: Signature developed through PRONOM Research.
+New Signatures,fmt/590,JPEG XR: Signature developed through PRONOM Research.
+New Signatures,fmt/591,Radiance RGBE image format: Signature developed through PRONOM Research.
+New Signatures,fmt/592,Canon RAW 2.0: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/593,Canon RAW 1.0: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/594,Microsoft Photo Draw: Container signature developed through PRONOM Research.
+New Signatures,fmt/595,Microsoft Excel Binary Workbook 2007 onwards: Container signature developed through PRONOM Research at request of the Central Digital Archive of Slovakia.
+New Signatures,fmt/596,Apple Lossless Audio Codec: Signature developed through PRONOM Research.
+New Signatures,fmt/597,Microsoft Word Template 2007 onwards: Container signature developed through PRONOM Research at request of the Central Digital Archive of Slovakia.
+New Signatures,fmt/598,Microsoft Excel Template 2007 onwards: Container signature developed through PRONOM Research at request of the Central Digital Archive of Slovakia.
+New Signatures,fmt/599,Microsoft Word Macro-Enabled Document Template 2007 onwards: Container signature developed through PRONOM Research at request of the Central Digital Archive of Slovakia.
+New Signatures,fmt/600,eXtensible ARchive format: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/601,Statistical Analysis System Catalogue XPT (Windows) 9.1: Signature developed by Tessella.
+New Signatures,fmt/602,Statistical Analysis System Catalogue XPT (Unix) 9.1: Signature developed by Tessella.
+New Signatures,fmt/603,Statistical Analysis System Data XPT (Windows) 9.1: Signature developed by Tessella.
+New Signatures,fmt/604,Statistical Analysis System Data XPT (Unix) 9.1: Signature developed by Tessella.
+New Signatures,fmt/605,Statistical Analysis System Catalogue (Windows) 9.1: Signature developed by Tessella.
+New Signatures,fmt/606,Statistical Analysis System Catalogue (Unix) 9.1: Signature developed by Tessella.
+New Signatures,fmt/607,Statistical Analysis System Data (Windows) 9.1: Signature developed by Tessella.
+New Signatures,fmt/608,Statistical Analysis System Data (Unix) 9.1: Signature developed by Tessella.
+New Signatures,fmt/609,Microsoft Word (Generic) 6.0-2003: Container signature developed following research by British Library.

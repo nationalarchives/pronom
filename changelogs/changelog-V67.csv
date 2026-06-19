@@ -1,0 +1,55 @@
+New Records,fmt/494,Microsoft Office Encrypted Document 2007 Onwards: Outline Entry Added.
+New Records,fmt/495,ATCO-CIF file format: Outline Entry Added.
+New Records,fmt/496,TransXchange File Format: Outline Entry Added.
+New Records,fmt/497,Wireless Bitmap: Outline Entry Added.
+New Records,fmt/498,ActiveX License Package file: Outline Entry Added.
+New Records,fmt/499,VivoActive format: Outline Entry Added. Submitted by l'Institut national de l'audiovisuel.
+New Records,fmt/500,Internet Explorer for Mac cache file: Outline Entry Added. Submitted by the National Library of New Zealand.
+New Records,fmt/501,PostScript 3.1: Outline Entry Added. Submitted by the National Library of New Zealand.
+New Records,fmt/502,Bentley V8 DGN: Outline Entry Added.
+New Records,fmt/503,AppleDouble Resource Fork: Outline Entry Added.
+New Records,fmt/504,Standard Flowgram Format: Outline Entry Added. Submitted by the Australian National University.
+New Records,fmt/505,Adobe Flash 8: Outline Entry Added.
+New Records,fmt/506,Adobe Flash 9: Outline Entry Added.
+New Records,fmt/507,Adobe Flash 10: Outline Entry Added.
+New Records,fmt/508,Quarter Inch Cartridge Host Interchange Format: Outline Entry Added. Submitted by The Borthwick Institute for Archives.
+New Records,fmt/509,Adobe PostScript Font Metrics file: Outline Entry Added. Submitted by The Borthwick Institute for Archives.
+Updated Records,fmt/104,Macromedia Flash 1: Improved signature through PRONOM Research.
+Updated Records,fmt/105,Macromedia Flash 2: Improved signature through PRONOM Research.
+Updated Records,fmt/106,Macromedia Flash 3: Improved signature through PRONOM Research.
+Updated Records,fmt/107,Macromedia Flash 4: Improved signature through PRONOM Research.
+Updated Records,fmt/108,Macromedia Flash 5: Improved signature through PRONOM Research.
+Updated Records,fmt/109,Macromedia Flash 6: Improved signature through PRONOM Research.
+Updated Records,fmt/110,Macromedia Flash 7: Improved signature through PRONOM Research.
+Updated Records,fmt/124,Encapsulated PostScript File Format 3: Set priority over new format fmt/501 PostScript 3.1
+Updated Records,fmt/149,JTIP (JPEG Tiled Image Pyramid): Removed .jpg as an external signature to avoid 'false-positive' identification of files with a .jpg extension which do not match any known binary signatures. This means that JPEG files that do not conform to any known signature will no longer incorrectly default to JTIP.
+Updated Records,fmt/214,"Microsoft Excel for Windows 2007 Onwards: Improved descriptive information at suggestion of Chris Rusbridge, linking this entry explicitly to fmt/189 - Microsoft Office Open XML."
+Updated Records,fmt/215,"Microsoft Powerpoint for Windows 2007 Onwards: Improved descriptive information at suggestion of Chris Rusbridge, linking this entry explicitly to fmt/189 - Microsoft Office Open XML."
+Updated Records,fmt/412,"Microsoft Word for Windows 2007 Onwards: Improved descriptive information at suggestion of Chris Rusbridge, linking this entry explicitly to fmt/189 - Microsoft Office Open XML."
+Updated Records,fmt/425,Video Object File (MPEG-2 subset): Renamed from 'Video Object File'. Provided further descriptive information and improved binary signature through PRONOM Research.
+Updated Records,x-fmt/140,Silicon Graphics Image: Added .rgb as an external signature.
+Updated Records,x-fmt/145,Stats+ Data File: Removed .css as an external signature to remove multiple identification clashes with Cascading Style Sheet.
+Updated Records,x-fmt/165,Kodak PhotoCD Image 1.0: PUID deprecated in favour of fmt/211 - Kodak Photo CD as PRONOM Research found this to be the same format.
+Updated Records,x-fmt/453,TrueType Font: Improved signature through PRONOM Research.
+New Signatures,fmt/200,Material Exchange Format: Signature developed through PRONOM Research.
+New Signatures,fmt/211,Kodak Photo CD Image: Signature developed through PRONOM Research.
+New Signatures,fmt/494,Microsoft Office Encrypted Document 2007 Onwards: Container signature developed through PRONOM Research.
+New Signatures,fmt/495,ATCO-CIF file format: Signature developed through PRONOM Research.
+New Signatures,fmt/496,TransXchange File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/498,ActiveX License Package file: Signature developed through PRONOM Research.
+New Signatures,fmt/499,VivoActive format: Signature developed in collaboration with l'Institut national de l'audiovisuel.
+New Signatures,fmt/500,Internet Explorer for Mac cache file: Signature developed in collaboration with the National Library of New Zealand.
+New Signatures,fmt/501,PostScript 3.1: Signature developed in collaboration with the National Library of New Zealand.
+New Signatures,fmt/502,Bentley V8 DGN: Container signature developed through PRONOM Research.
+New Signatures,fmt/503,AppleDouble Resource Fork: Signature developed through PRONOM Research.
+New Signatures,fmt/504,Standard Flowgram Format: Signature developed in collaboration with the Australian National University.
+New Signatures,fmt/505,Adobe Flash 8: Signature developed through PRONOM Research.
+New Signatures,fmt/506,Adobe Flash 9: Signature developed through PRONOM Research.
+New Signatures,fmt/507,Adobe Flash 10: Signature developed through PRONOM Research.
+New Signatures,fmt/508,Quarter Inch Cartridge Host Interchange Format: Signature developed in collaboration with the Borthwick Institute for Archives.
+New Signatures,fmt/509,Adobe PostScript Font Metrics file: Signature developed in collaboration with the Borthwick Institute for Archives.
+New Signatures,x-fmt/56,Kodak FlashPix Image: Container signature developed through PRONOM Research.
+New Signatures,x-fmt/182,QuarkXpress Data File: Signature developed through PRONOM Research.
+New Signatures,x-fmt/318,FileMaker Pro Database 3: Signature developed in collaboration with the Borthwick Institute for Archives.
+New Signatures,x-fmt/319,FileMaker Pro Database 5: Signature developed in collaboration with the Borthwick Institute for Archives.
+New Signatures,x-fmt/384,Quicktime: Further signature variation developed through PRONOM Research.

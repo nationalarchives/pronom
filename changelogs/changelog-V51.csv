@@ -1,0 +1,109 @@
+New Records,fmt/338,"Interchange File Format Interleaved Bitmap: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/339,"Interchange File Format 8-bit Sampled Voice: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/340,"Lotus WordPro Document 97/Millennium: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/341,"Macintosh PICT Image 2.0: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/342,"Microsoft Project Export File 4.0: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/343,"Microsoft Project Export File 3.0: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/344,"Microsoft Windows Enhanced Metafile 2.0: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/345,"Microsoft Windows Enhanced Metafile 3.0: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/346,"Microsoft Word for Macintosh Document 1.0: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/347,"MPEG 1/2 Audio Layer I: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/348,"Paint Shop Pro Image 9: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/349,"Paint Shop Pro Image 10: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/350,"Paradox Database Table 3.0: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/351,"Paradox Database Table 4.0: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/352,"Paradox Database Table 5.0: Outline entry added. Submission from Georgia Tech Research Institute, USA."
+New Records,fmt/353,Tagged Image File Format: Full entry added.
+New Records,fmt/354,Acrobat PDF/A - Portable Document Format 1b: Full entry added.
+New Records,fmt/355,Rich Text Format 1.9: Outline entry added.
+New Records,fmt/356,Adaptive Multi-Rate Audio: Outline entry added.
+New Records,fmt/357,3GPP Audio/Video File: Outline entry added.
+New Records,fmt/358,Internet Data Query File: Outline entry added.
+New Records,fmt/359,Microsoft Front Page Binary Tree Index: Outline entry added.
+Updated Records,fmt/7,Tagged Image File Format 3: Record deprecated in favour of fmt/353 Tagged Image File Format.
+Updated Records,fmt/8,Tagged Image File Format 4: Record deprecated in favour of fmt/353 Tagged Image File Format.
+Updated Records,fmt/9,Tagged Image File Format 5: Record deprecated in favour of fmt/353 Tagged Image File Format.
+Updated Records,fmt/10,Tagged Image File Format 6: Record deprecated in favour of fmt/353 Tagged Image File Format.
+Updated Records,fmt/44,JPEG File Interchange Format 1.02: Existing signature refined through PRONOM Research.
+Updated Records,fmt/53,Rich Text Format 1.8: Existing signature refined through PRONOM Research.
+Updated Records,fmt/63,Drawing Interchange File Format (ASCII) Generic: Existing signature refined through PRONOM Research.
+Updated Records,fmt/75,Drawing Interchange File Format (ASCII) R11/12: Existing signature refined through PRONOM Research.
+Updated Records,fmt/95,Acrobat PDF/A - Portable Document Format 1a: Existing signature refined following request from Archaeology Data Service and record title updated to distinguish different versions.
+Updated Records,fmt/99,Hypertext Markup Language 4.0: Priority information changed to avoid potential clash with Internet Message Format identification.
+Updated Records,fmt/115,"Windows Bitmap 2.0: Existing signature refined by Georgia Tech Research Institute, USA."
+Updated Records,fmt/278,Internet Message Format: Existing signature refined through PRONOM Research.
+Updated Records,x-fmt/25,OS/2 Bitmap 1.0: Record deprecated in favour of fmt/115 Windows Bitmap 2.0.
+Updated Records,x-fmt/80,Macintosh PICT Image 1.0: Record title updated to distinguish different versions.
+Updated Records,x-fmt/116,Lotus 1-2-3 Worksheet 4.0: File extension wk3 removed as identifier for this version.
+Updated Records,x-fmt/117,Lotus 1-2-3 Worksheet 1.0: File extension wk4 removed as identifier for this version.
+Updated Records,x-fmt/153,Microsoft Windows Enhanced Metafile 1.0: Record title updated to distinguish different versions.
+Updated Records,x-fmt/212,Lotus 1-2-3 Worksheet 5.0: File extension wk4 added as identifier for this version.
+Updated Records,x-fmt/224,Cascading Style Sheet: Signatures removed due to mis-identifications with other formats.
+Updated Records,x-fmt/232,Microsoft Project Export File 1.0: Record title updated to distinguish different versions.
+Updated Records,x-fmt/307,Paradox Database Memo Field (Binary Large Object): Record title updated for clarification.
+Updated Records,x-fmt/325,Harvard Graphics Vector Graphics 2.0: Record title updated to distinguish different versions.
+Updated Records,x-fmt/331,Lotus 1-2-3 Spreadsheet Formatting File 2.3-2.4: Version information updated and file extension fmt added as identifier.
+Updated Records,x-fmt/340,"Lotus WordPro Document 96: Existing signature refined by Georgia Tech Research Institute, USA, and record title updated to distinguish different versions."
+Updated Records,x-fmt/406,Postscript 2.0: Existing signature refined through PRONOM Research.
+Updated Records,x-fmt/407,Postscript 2.1: Existing signature refined through PRONOM Research.
+Updated Records,x-fmt/408,Postscript 3.0: Existing signature refined through PRONOM Research.
+Updated Records,x-fmt/414,"Windows Cabinet File: Existing signature refined by Georgia Tech Research Institute, USA."
+Signatures,fmt/198,"MPEG Audio Stream, Layer II: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/203,"Ogg Vorbis Codec Compressed Multimedia File: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/338,"Interchange File Format Interleaved Bitmap: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/339,"Interchange File Format 8-bit Sampled Voice: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/340,"Lotus WordPro Document 97/Millennium: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/341,"Macintosh PICT Image 2.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/342,"Microsoft Project Export File 4.0: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/343,"Microsoft Project Export File 3.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/344,"Microsoft Windows Enhanced Metafile 2.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/345,"Microsoft Windows Enhanced Metafile 3.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/346,"Microsoft Word for Macintosh Document 1.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/347,"MPEG 1/2 Audio Layer I: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/348,"Paint Shop Pro Image 9: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/349,"Paint Shop Pro Image 10: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/350,"Paradox Database Table 3.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/351,"Paradox Database Table 4.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/352,"Paradox Database Table 5.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,fmt/354,Acrobat PDF/A - Portable Document Format 1b: Signature developed through PRONOM Research.
+Signatures,fmt/355,Rich Text Format 1.9: Signature developed through PRONOM Research.
+Signatures,fmt/356,Adaptive Multi-Rate Audio: Signature developed through PRONOM Research.
+Signatures,fmt/357,3GPP Audio/Video File: Signature developed through PRONOM Research.
+Signatures,fmt/358,Internet Data Query File: Signature developed through PRONOM Research.
+Signatures,fmt/359,Microsoft Front Page Binary Tree Index: Signature developed through PRONOM Research.
+Signatures,x-fmt/1,"Microsoft Word for Macintosh Document 3.0: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/32,"Harvard Graphics Chart 3.0: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/64,"Microsoft Word for Macintosh Document 4.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/65,"Microsoft Word for Macintosh Document 5.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/75,"Microsoft Outlook Personal Address Book: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/80,"Macintosh PICT Image 1.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/82,"Lotus 1-2-3 Chart: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/101,"Harvard Graphics Show 3.0: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/114,"Lotus 1-2-3 Worksheet 2.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/115,"Lotus 1-2-3 Worksheet 3.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/116,"Lotus 1-2-3 Worksheet 4.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/117,"Lotus 1-2-3 Worksheet 1.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/147,"Paradox Database Table 7: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/153,"Microsoft Windows Enhanced Metafile 1.0: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/157,Interchange File: Signature developed through PRONOM Research.
+Signatures,x-fmt/158,"Initial Graphics Exchange Specification: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/212,"Lotus 1-2-3 Worksheet 5.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/219,Alexa Archive File: Signature developed through PRONOM Research.
+Signatures,x-fmt/221,"MapBrowser/MapWriter Vector Map Data: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/232,"Microsoft Project Export File 1.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/233,"Paint Shop Pro Image 3: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/234,"Paint Shop Pro Image 5: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/270,"OS/2 Bitmap 2.0: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/274,"Microsoft Word for MS-DOS Document 4.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/275,"Microsoft Word for MS-DOS Document 5.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/276,"Microsoft Word for MS-DOS Document 5.5: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/297,"Paint Shop Pro Image 6: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/298,"Paint Shop Pro Image 7: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/307,"Paradox Database Memo Field (Binary Large Object): Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/324,"Harvard Graphics Presentation 2.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/325,"Harvard Graphics Vector Graphics 2.0: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/331,"Lotus 1-2-3 Spreadsheet Formatting File 2.3-2.4: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/348,"Multipage Zsoft Paintbrush Bitmap Graphics: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/376,"Paint Shop Pro Image 8: Signatures submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/377,"Paint Shop Pro Image 4: Signature submitted by Georgia Tech Research Institute, USA."
+Signatures,x-fmt/429,"Microsoft Web Archive: Signature submitted by Georgia Tech Research Institute, USA."
