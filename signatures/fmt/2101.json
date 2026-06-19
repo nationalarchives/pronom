@@ -1,5 +1,5 @@
 {
-  "fileFormatID": 3968,
+  "fileFormatID": 3978,
   "version": "2",
   "formatName": "ChemStation Gas Chromatography/Mass Spectrum (GC/MS) Data File",
   "formatDescription": "ChemStation Gas Chromatography/Mass Spectrum (GC/MS) Version 2 Data File stores raw GC/MS data collected from Agilent ChemStation instruments. The format stores the data in a proprietary, binary format developed by Agilent Technologies. The files are organized in a folder structure with the suffix \u201c.D\u201d and often paired with .sav files to store the instrument tuning information and .res to store analysis results. The first few lines of the file may be in plain text and contain information about the analysis including the timestamp.",
