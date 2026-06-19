@@ -18,6 +18,8 @@ jobs:
           mkdir -p changelogs
           NEXT_VERSION=$(echo V$(curl https://api.github.com/repos/nationalarchives/pronom/releases/latest | jq -r '.name | ltrimstr("V") | tonumber + 1'))
           python .github/scripts/append_to_changelog.py $GITHUB_SHA $NEXT_VERSION
+          git config user.email "41898752+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add changelogs | true
           git commit -m "Update changelog $NEXT_VERSION" | true
           git push -u origin develop

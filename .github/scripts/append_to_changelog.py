@@ -48,7 +48,7 @@ def run():
                             new_signatures.append(["New Signature", puid, pull_title])
                     new_records.append(["New Record", puid, pull_title])
                 elif file.status == "modified":
-                    with urllib.request.urlopen(file.raw_url) as changed_file, open(file.filename) as existing_file:
+                    with urllib.request.urlopen(file.raw_url) as changed_file, urllib.request.urlopen(file.raw_url.replace(sha, "main")) as existing_file:
                         changed_json = json.load(changed_file)
                         existing_json = json.load(existing_file)
                         puid = get_puid(changed_json)
@@ -62,7 +62,7 @@ def run():
                                 new_signatures.append(["New Signature", puid, pull_title])
                             updates.append(["Update", puid, pull_title])
 
-    with open(f"changelogs/changelog-{new_version}.csv", "w") as changelog:
+    with open(f"changelogs/changelog-{new_version}.csv", "a") as changelog:
         writer = csv.writer(changelog)
         writer.writerows(sort_by_puid(new_records))
         writer.writerows(sort_by_puid(updates))
