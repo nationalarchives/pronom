@@ -1,4 +1,4 @@
-name: generate_changelog.yml
+name: Generate changelog
 on:
   push:
     branches:
@@ -21,3 +21,5 @@ jobs:
           git add changelogs | true
           git commit -m "Update changelog $NEXT_VERSION" | true
           git push -u origin develop
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
