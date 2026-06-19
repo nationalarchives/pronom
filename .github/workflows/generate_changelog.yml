@@ -17,7 +17,7 @@ jobs:
           pip install -r .github/scripts/requirements.txt
           mkdir -p changelogs
           NEXT_VERSION=$(echo V$(curl https://api.github.com/repos/nationalarchives/pronom/releases/latest | jq -r '.name | ltrimstr("V") | tonumber + 1'))
-          python .github/scripts/append_to_changelog.py $NEXT_VERSION
+          python .github/scripts/append_to_changelog.py $GITHUB_SHA $NEXT_VERSION
           git add changelogs | true
           git commit -m "Update changelog $NEXT_VERSION" | true
           git push -u origin develop

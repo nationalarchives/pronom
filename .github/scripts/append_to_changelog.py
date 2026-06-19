@@ -9,22 +9,6 @@ import json
 import csv
 from jsondiff import diff
 
-sha = sys.argv[1]
-
-auth = Auth.Token(os.environ["GITHUB_TOKEN"])
-
-g = Github(auth=auth)
-
-repo = g.get_repo("nationalarchives/pronom")
-
-commit = repo.get_commit(sha)
-
-print(commit)
-
-new_records = []
-new_signatures = []
-updates = []
-
 def get_puid(format_json):
     return [i["identifierText"] for i in format_json["identifiers"] if i["identifierType"] == "PUID"][0]
 
@@ -33,7 +17,22 @@ def sort_by_puid(rows):
     return sorted(rows, key=lambda x: int(x[1].split("/")[1]))
 
 def run():
-    new_version = sys.argv[1]
+    sha = sys.argv[1]
+    new_version = sys.argv[2]
+    auth = Auth.Token(os.environ["GITHUB_TOKEN"])
+
+    g = Github(auth=auth)
+
+    repo = g.get_repo("nationalarchives/pronom")
+
+    commit = repo.get_commit(sha)
+
+    print(commit)
+
+    new_records = []
+    new_signatures = []
+    updates = []
+
     pulls = commit.get_pulls()
 
     if pulls.totalCount != 0:
