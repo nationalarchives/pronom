@@ -51,12 +51,6 @@
       "signatureType": "File extension"
     }
   ],
-  "relationships": [
-    {
-      "relationshipType": "Has priority over",
-      "relatedFormatID": 1755,
-      "relatedFormatName": "MIME Email"
-    }
-  ],
+  "relationships": [],
   "source": 1
 }
