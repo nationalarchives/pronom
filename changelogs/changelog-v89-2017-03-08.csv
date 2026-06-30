@@ -1,0 +1,76 @@
+New Records,fmt/975,Jamcracker Tracker Module: Full entry added.
+New Records,fmt/976,MagicaVoxel Vox Format: Full entry added.
+New Records,fmt/977,AutoCAD Design Web Format(DWFx): Full entry added.
+New Records,fmt/978,3DS Max: Full entry added.
+New Records,fmt/979,XML Property List: Full entry added.
+New Records,fmt/980,AAE Sidecar Format: Full entry added.
+New Records,fmt/981,EazyDraw File Format: Full entry added.
+New Records,fmt/982,iMovieProj File Format: Full entry added.
+New Records,fmt/983,NIB File Format: Full entry added.
+New Records,fmt/984,Binary Property List: Full entry added.
+New Records,fmt/985,Valve Texture Format: Full entry added. Requested by Taylor Bangs.
+New Records,fmt/986,Extensible Metadata Platform Format: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/987,Microsoft OneNote Package File: Full entry added. Requested by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/988,ESRI ArcScene Document: Full entry added.
+New Records,fmt/989,ESRI ArcGlobe Document: Full entry added.
+New Records,fmt/990,ESRI File Geodatabase: Full entry added.
+New Records,fmt/991,SHA256 File: Extension only entry added.
+New Records,fmt/992,SHA1 File: Extension only entry added.
+New Records,fmt/993,MD5 File: Extension only entry added.
+New Records,fmt/994,Jeff's Image File: Full entry added.
+New Records,fmt/995,SIARD (Software-Independent Archiving of Relational Databases) v2: Full entry added. Submitted by KEEP SOLUTIONS
+Updated Records,fmt/95,Acrobat PDF/A - Portable Document Format 1a: Adjusted signature due to findings by Koninklijke Bibliotheek
+Updated Records,fmt/214,Microsoft Excel for Windows: Adjusted container signature due to findings found through PRONOM Research.
+Updated Records,fmt/280,LaTeX (Master document): Added description
+Updated Records,fmt/281,LaTeX (Subdocument): Added description
+Updated Records,fmt/354,Acrobat PDF/A - Portable Document Format 1b: Adjusted signatures due to findings by Koninklijke Bibliotheek
+Updated Records,fmt/355,Rich Text Format 1.9: Adjusted signature due to findings by National Library New Zealand
+Updated Records,fmt/417,Adobe Illustrator v88: Added mimetype - application/postscript
+Updated Records,fmt/418,Adobe Illustrator v3.0/3.2: Added mimetype - application/postscript
+Updated Records,fmt/419,Adobe Illustrator v4: Added mimetype - application/postscript
+Updated Records,fmt/420,Adobe Illustrator v5.0/5.5: Added mimetype - application/postscript
+Updated Records,fmt/421,Adobe Illustrator Japan: Added mimetype - application/postscript
+Updated Records,fmt/422,Adobe Illustrator v6: Added mimetype - application/postscript
+Updated Records,fmt/423,Adobe Illustrator v7: Added mimetype - application/postscript
+Updated Records,fmt/476,"Acrobat PDF/A - Portable Document Format 2a: Adjusted description due to suggestion of Yan Han, the University of Arizona Libraries and Leonard Rosenthol, Adobe Systems"
+Updated Records,fmt/477,"Acrobat PDF/A - Portable Document Format 2b: Adjusted description due to suggestion of Yan Han, the University of Arizona Libraries and Leonard Rosenthol, Adobe Systems"
+Updated Records,fmt/478,"Acrobat PDF/A - Portable Document Format 2u: Adjusted description due to suggestion of Yan Han, the University of Arizona Libraries and Leonard Rosenthol, Adobe Systems"
+Updated Records,fmt/479,"Acrobat PDF/A - Portable Document Format 3a: Adjusted description due to suggestion of Yan Han, the University of Arizona Libraries and Leonard Rosenthol, Adobe Systems"
+Updated Records,fmt/480,"Acrobat PDF/A - Portable Document Format 3b: Adjusted description due to suggestion of Yan Han, the University of Arizona Libraries and Leonard Rosenthol, Adobe Systems"
+Updated Records,fmt/481,"Acrobat PDF/A - Portable Document Format 3u: Adjusted description due to suggestion of Yan Han, the University of Arizona Libraries and Leonard Rosenthol, Adobe Systems"
+Updated Records,fmt/557,Adobe Illustrator v8: Added mimetype - application/postscript
+Updated Records,fmt/558,Adobe Illustrator v9: Added mimetype - application/postscript
+Updated Records,fmt/559,Adobe Illustrator v10: Added mimetype - application/postscript
+Updated Records,fmt/560,Adobe Illustrator v11: Added mimetype - application/postscript
+Updated Records,fmt/561,Adobe Illustrator v12: Added mimetype - application/postscript
+Updated Records,fmt/562,Adobe Illustrator v13: Added mimetype - application/postscript
+Updated Records,fmt/563,Adobe Illustrator v14: Added mimetype - application/postscript
+Updated Records,fmt/564,Adobe Illustrator v15: Added mimetype - application/postscript
+Updated Records,fmt/565,Adobe Illustrator v16: Added mimetype - application/postscript
+Updated Records,fmt/570,Extensible Metadata Platform Packet: Added priority over fmt/986 - Extensible Metadata Platform Format.
+Updated Records,fmt/637,Microsoft OneNote: Added description.
+Updated Records,fmt/641,Epson Raw Image format: Added priority over fmt/353 - Tagged Image File Format - Suggested by Archives New Zealand.
+Updated Records,fmt/728,RealLegal E-Transcript: Added description and additional binary signature due to findings found through PRONOM Research.
+Updated Records,fmt/896,Music XML: Adjusted signature due to findings found through PRONOM Research and added note.
+Updated Records,x-fmt/191,Postscript 1.0: Adjusted signature due to findings by State Records New South Wales. Added 0A0A sequence to EOF. Added description.
+Updated Records,x-fmt/330,JustWrite Text Document: Added binary signature submitted by Church of Jesus Christ of Latter-day Saints. Added description. Added extension signature jwt.
+Updated Records,x-fmt/430,Microsoft Outlook Email Message: Added extension signature oft
+New Signatures,fmt/728,RealLegal E-Transcript: Added new signature developed through PRONOM Research.
+New Signatures,fmt/975,Jamcracker Tracker Module: Signature developed through PRONOM Research.
+New Signatures,fmt/976,MagicaVoxel Vox Format: Signature developed through PRONOM Research.
+New Signatures,fmt/977,AutoCAD Design Web Format(DWFx): Container signature developed through PRONOM Research.
+New Signatures,fmt/978,3DS Max: Container signature developed through PRONOM Research.
+New Signatures,fmt/979,XML Property List: Binary signature developed through PRONOM Research.
+New Signatures,fmt/980,AAE sidecar format: Binary signature developed through PRONOM Research.
+New Signatures,fmt/981,EazyDraw File Format: Binary signature developed through PRONOM Research.
+New Signatures,fmt/982,iMovieProj File Format: Binary signature developed through PRONOM Research.
+New Signatures,fmt/983,NIB File Format: Binary signature developed through PRONOM Research.
+New Signatures,fmt/984,Binary Property List
+New Signatures,fmt/985,Valve Texture Format: Binary signature developed through PRONOM Research. Requested by Taylor Bangs.
+New Signatures,fmt/986,Extensible Metadata Platform Format: Binary signature created with assistance by research from Church of Jesus Christ of Latter-day Saints
+New Signatures,fmt/987,Microsoft OneNote Package File: Binary signature created with assistance by research from Church of Jesus Christ of Latter-day Saints.
+New Signatures,x-fmt/330,JustWrite Text Document: Added binary signature submitted by Church of Jesus Christ of Latter-day Saints. Added extension signature jwt.
+New Signatures,fmt/988,ESRI ArcScene Document: Container signature developed through PRONOM Research.
+New Signatures,fmt/989,ESRI ArcGlobe Document: Container signature developed through PRONOM Research.
+New Signatures,fmt/994,Jeff's Image File: Signature developed through PRONOM Research.
+New Signatures,fmt/995,SIARD (Software-Independent Archiving of Relational Databases) v2: Added container signature. Submitted by KEEP SOLUTIONS

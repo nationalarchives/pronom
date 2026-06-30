@@ -1,0 +1,72 @@
+New Records,fmt/1767,Calc602 Project File v1.51: Full entry added. Submitted by The National Archives of the Czech Republic.
+New Records,fmt/1768,C Source Code File: Extension-only entry added. Submitted by Stadtarchiv Hof.
+New Records,fmt/1769,C++ Source Code File: Extension-only entry added. Submitted by Stadtarchiv Hof.
+New Records,fmt/1770,GenBank Flat File: Full entry added. Submitted by Bodleian Libraries.
+New Records,fmt/1771,ESRI Persistent Auxiliary Metadata File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1772,Casio QV CAM: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1773,Calc602 Spreadsheet File: Full entry added. Submitted by The National Archives of the Czech Republic.
+New Records,fmt/1774,602 Graph/Chart File: Full entry added. Submitted by The National Archives of the Czech Republic.
+New Records,fmt/1775,Calc602 Project File: Full entry added. Submitted by The National Archives of the Czech Republic.
+New Records,fmt/1776,Extensible Markup Language v1.1: Full entry added. Submitted by Stadtarchiv Hof.
+New Records,fmt/1777,SIARD (Software-Independent Archiving of Relational Databases): Full entry added. Submitted by Swiss Federal Archives.
+New Records,fmt/1778,Dynamic Publisher Picture File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1779,Dynamic Publisher Font File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1780,Koala MicroIllustrator Graphic File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1781,Pentax PEF Image File: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1782,The Spectral Geologist Dataset v7.15: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1783,The Spectral Geologist Dataset v7: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1784,Animatic Film Format: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1785,FLR Database File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1786,Funpaint Image File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1787,G9B Graphics Format Bitmap: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1788,Gunpaint Image File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1789,GX2 Graphics File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1790,Help Librarian File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1791,Haiku Vector Icon Format: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1792,ICDRAW Single Icon File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1793,ICDRAW Group Icon File: Full entry added. Submitted by The National Archives and Records Administration.
+Updated Records,fmt/41,"Raw JPEG Stream: Updated description and reference links, added extensions jif; jfif; jfi, and LoC identifier. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/42,"JPEG File Interchange Format v1.00: Updated reference links, added extensions jif; jfif; jfi. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/43,"JPEG File Interchange Format v1.01: Updated reference links, added extensions jif; jfif; jfi. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/44,"JPEG File Interchange Format v1.02: Updated reference links, added extensions jif; jfif; jfi, and LoC identifier. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/123,Encapsulated PostScript File Format v2.0: Adjusted signature to allow for 3 wildcard bytes in the EPS 2.0 signature instead of 2. Submitted by Preservica.
+Updated Records,fmt/142,Waveform Audio (WAVEFORMATEX): Adjusted signature caused by copying error from previous release. Submitted by Preservica.
+Updated Records,fmt/198,"MPEG Audio Stream Layer II: Removed comma from name, updated description, reference links, added relationships and LoC identifier. Submitted by Preservica."
+Updated Records,fmt/330,Peak Graphical Waveform File: Changed filetype to Audio. Submitted by National Library of the Netherlands.
+Updated Records,fmt/462,MS-DOS Compression Format (SZDD Variant): Changed filetype to Aggregate. Submitted by National Library of the Netherlands.
+Updated Records,fmt/1062,Hasselblad 3FR Raw Image: Added updated and previously removed signature in v94 of PRONOM. Updated description and reference links. Submitted by The Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/1241,FO File: Updated signature and MIME type. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/1242,ZFO (Form) File: Updated container signature name and sequence. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/1697,"Calc602 Spreadsheet file v1.51: Added priority over fmt/1773, name adjusted and corrected error in signature description. Submitted by The National Archives of the Czech Republic."
+Updated Records,fmt/1698,"Calc602 Spreadsheet file v1.00: Added priority over fmt/1773, name adjusted. Submitted by The National Archives of the Czech Republic."
+Updated Records,fmt/1699,602 Graph/Chart File v1.51: Added priority over fmt/1774. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/1713,Calc602 Project File v1.0: Added priority over fmt/1775. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/1739,"UDF-ISO 9660 Bridge Disc: Priority added over fmt/1738 due to copying error from previous release. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,x-fmt/62,Log File: Updated description. Submitted by Stadtarchiv Hof.
+Updated Records,x-fmt/422,Java Language Source Code File: Updated description and capitalised name. Submitted by Stadtarchiv Hof.
+New Signatures,fmt/1767,Calc602 Project File v1.51: Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/1770,GenBank Flat File: Signature researched and samples provided by Bodleian Libraries.
+New Signatures,fmt/1771,ESRI Persistent Auxiliary Metadata File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1772,Casio QV CAM: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1773,Calc602 Spreadsheet File: Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/1774,602 Graph/Chart File: Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/1775,Calc602 Project File: Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/1776,Extensible Markup Language v1.1: Signature researched and samples provided by Stadtarchiv Hof.
+New Signatures,fmt/1777,SIARD (Software-Independent Archiving of Relational Databases): Signature researched and samples provided by Swiss Federal Archives.
+New Signatures,fmt/1778,Dynamic Publisher Picture File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1779,Dynamic Publisher Font File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1780,Koala MicroIllustrator Graphic File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1781,Pentax PEF Image File: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1782,The Spectral Geologist Dataset v7.15: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1783,The Spectral Geologist Dataset v7: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1784,Animatic Film Format: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1785,FLR Database File: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1786,Funpaint Image File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1787,G9B Graphics Format Bitmap: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1788,Gunpaint Image File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1789,GX2 Graphics File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1790,Help Librarian File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1791,Haiku Vector Icon Format: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1792,ICDRAW Single Icon File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1793,ICDRAW Group Icon File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1062,Hasselblad 3FR Raw Image: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.

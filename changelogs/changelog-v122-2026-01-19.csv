@@ -1,0 +1,65 @@
+New Records,fmt/2069,Draco 2: Full entry added. Submitted by Preservica.
+New Records,fmt/2070,Autodesk ReCap RCS Indexed Point Cloud Data: Full entry added. Submitted by Preservica.
+New Records,fmt/2071,SuperCard Pro Image File: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2072,Weaving Information FIle (WIF): Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/2073,Tilt Brush: Full entry added. Submitted by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Records,fmt/2074,MRtrix File Format: Full entry added. Submitted by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Records,fmt/2075,ACE 1: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2076,ACE 2: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2077,Common Ground Digital Paper 1: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2078,Common Ground Digital Paper 3: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2079,Common Ground Digital Paper 4: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2080,xdomea v.3.1.0: Full entry added. Submitted by Landesarchiv Nordrhein-Westfalen.
+New Records,fmt/2081,xdomea v.4.0.0: Full entry added. Submitted by Landesarchiv Nordrhein-Westfalen.
+New Records,fmt/2082,3DM (6): Full entry added. Submitted by Preservica.
+New Records,fmt/2083,3DM (7): Full entry added. Submitted by Preservica.
+New Records,fmt/2084,3DM (8): Full entry added. Submitted by Preservica.
+New Records,fmt/2085,FieldWorks Language Explorer FWData XML: Full entry added. Submitted by Preservica with data provided by the Endangered Language Archives.
+New Records,fmt/2086,FieldWorks Language Explorer FWBackup: Full entry added. Submitted by Preservica with data provided by the Endangered Language Archives.
+New Records,fmt/2087,"Final Cut Pro Project File: Full entry added. Submitted by Marquette University, Department of Archival Collections and Institutional Repository."
+New Records,fmt/2088,Final Cut Pro XML Interchange Format: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2089,FCPXML Interchange Format: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2090,Kodak DCS RAW Image: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2091,Kodak DCS RAW Image v.3: Full entry added. Submitted by Brigham Young University.
+Updated Records,fmt/40,Microsoft Word Document 97-2003: . Submitted by Archives New Zealand.
+Updated Records,fmt/61,"Microsoft Excel 97-2003 Workbook (xls) 8 & 8X: Date range in name updated from 97 to 97-2003, version number updated to include 8X, binary signature removed and description updated accordingly. Submitted by Preservica."
+Updated Records,fmt/62,Excel 2000-2003 8X: PUID deprecated in favour of fmt/61. Submitted by Preservica.
+Updated Records,fmt/137,OpenDocument Spreadsheet 1.1: Corrected priority. Submitted by Preservica.
+Updated Records,fmt/280,LaTex (Master Document): External signature of .tex added to entry. Submitted by Technische Informationsbibliothek (TIB).
+Updated Records,fmt/281,LaTex (Subdocument): External signature of .tex added to entry. Submitted by Technische Informationsbibliothek (TIB).
+Updated Records,x-fmt/430,Microsoft Outlook Email Message: Added MIMEtype. Submitted by .
+Updated Records,fmt/930,Magick Image File Format: Broadened signature. Submitted by Preservica.
+Updated Records,fmt/935,"Animated Portable Network Graphics: MIME type corrected, LOC and wikidata identifiers added. Signature updated to add a variable sequence of bytes to prevent clashing. Submitted by Library of Congress and Preservica."
+Updated Records,fmt/2042,Android App Bundle File: Binary signature removed. Submitted by Brigham Young University.
+Updated Records,fmt/2044,OpenDocument Text File 1.4: Added priority. Submitted by Preservica.
+Updated Records,fmt/2045,OpenDocument Spreadsheet File 1.4: Added priority. Submitted by Preservica.
+Updated Records,fmt/2047,OpenDocument Database File  1.4: Corrected priority. Submitted by Preservica.
+Updated Records,fmt/2057,A2R Disk Image File 2: Wikidata/ Library of Congress identifiers modified. Submitted by Yale University Library.
+Updated Records,fmt/2058,A2R Disk Image File 3: Wikidata/ Library of Congress identifiers modified. Submitted by Yale University Library.
+Updated Records,fmt/2061,MOOF Disk Image File 1: Wikidata/ Library of Congress identifiers modified. Submitted by Yale University Library.
+Updated Records,fmt/2065,"TOML: Updated source links, MIME type, alternative names and description. Submitted by Ross Spencer."
+Updated Records,fmt/2068,Macintosh File System: Added extensions IMG and DSK. Submitted by Brigham Young University.
+Updated Records,x-fmt/416,BinHex Binary Text: . Submitted by Archives nationales de France and Brigham Young University.
+New Signatures,fmt/2069,Draco 2: Signature researched and samples provided by Preservica.
+New Signatures,fmt/2070,Autodesk ReCap RCS Indexed Point Cloud Data: Signature researched and samples provided by Preservica.
+New Signatures,fmt/2071,SuperCard Pro Image File: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2072,Weaving Information FIle (WIF): Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/2073,Tilt Brush: Signature researched and samples provided by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Signatures,fmt/2074,MRtrix File Format: Signature researched and samples provided by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Signatures,fmt/2075,ACE 1: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2076,ACE 2: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2077,Common Ground Digital Paper 1: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2078,Common Ground Digital Paper 3: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2079,Common Ground Digital Paper 4: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2080,xdomea v.3.1.0: Signature researched and samples provided by Landesarchiv Nordrhein-Westfalen.
+New Signatures,fmt/2081,xdomea v.4.0.0: Signature researched and samples provided by Landesarchiv Nordrhein-Westfalen.
+New Signatures,fmt/2082,3DM (6): Signature researched and samples provided by Preservica.
+New Signatures,fmt/2083,3DM (7): Signature researched and samples provided by Preservica.
+New Signatures,fmt/2084,3DM (8): Signature researched and samples provided by Preservica.
+New Signatures,fmt/2085,FieldWorks Language Explorer FWData XML: Signature researched and samples provided by Preservica with data provided by the Endangered Language Archives.
+New Signatures,fmt/2086,FieldWorks Language Explorer FWBackup: Signature researched and samples provided by Preservica with data provided by the Endangered Language Archives.
+New Signatures,fmt/2087,"Final Cut Pro Project File: Signature researched and samples provided by Marquette University, Department of Archival Collections and Institutional Repository."
+New Signatures,fmt/2088,Final Cut Pro XML Interchange Format: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2089,FCPXML Interchange Format: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2090,Kodak DCS RAW Image: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2091,Kodak DCS RAW Image v.3: Signature researched and samples provided by Brigham Young University.

@@ -1,0 +1,104 @@
+New Records,fmt/1735,C/C++ Header File: Extension-only entry added. Submitted by University Medical Center Utrecht.
+New Records,fmt/1736,"Creative Voice File: Full entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Records,fmt/1737,Flow Cytometry Standard File: Full entry added. Submitted by University Medical Center Utrecht.
+New Records,fmt/1738,UDF Disc Image: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1739,UDF-ISO 9660 Bridge Disc: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1740,Apple Partition Map Disk Image: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1741,Apple Partition Map ISO 9660 Hybrid: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1742,Hierarchical File System Plus: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1743,Nero Burning ROM Image File: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1744,Psion Series 3 Bitmap: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1745,PixArt Bitmap: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1746,Rocky Interlace Picture: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1747,Microsoft PowerPoint Presentation v2.x: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1748,Microsoft PowerPoint Presentation v3.x: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1749,"Canon MIF File: Full entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Records,fmt/1750,"Canon CIF File: Full entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Records,fmt/1751,"Canon SIF File: Full entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Records,fmt/1752,OpenDocument Database Format 1.3: Full entry added. Submitted by Preservica.
+New Records,fmt/1753,OpenDocument Graphics 1.3: Full entry added. Submitted by Preservica.
+New Records,fmt/1754,OpenDocument Presentation 1.3: Full entry added. Submitted by Preservica.
+New Records,fmt/1755,OpenDocument Spreadsheet 1.3: Full entry added. Submitted by Preservica.
+New Records,fmt/1756,OpenDocument Text 1.3: Full entry added. Submitted by Preservica.
+New Records,fmt/1757,Apple Partition Map - ISO 9660 - UDF Hybrid Disk Image: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1758,Media Descriptor File: Extension-only entry added. Submitted by The Royal Danish Library.
+New Records,fmt/1759,Media Descriptor Sidecar File: Full entry added. Submitted by The Royal Danish Library.
+New Records,fmt/1760,CloneCD Control File: Full entry added. Submitted by The Royal Danish Library.
+New Records,fmt/1761,MacBinary I: Extension-only entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1762,MacBinary II: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1763,MacBinary III: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1764,"Sony SLV File: Full entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Records,fmt/1765,"Media Hash List: Full entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Records,fmt/1766,"Sony SML File: Full entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,x-fmt/67,"OS/2 Presentation Manager Metafile (MET): New signature. Name changed from Met Metafile to OS/2 Presetation Manger Metafile (MET), description, references and classifications updated. Submitted by Preservica."
+Updated Records,x-fmt/88,"Microsoft PowerPoint Presentation v4.x: Updated name, version, description, note and added developer. Submitted by The Church of Jesus Christ of Latter-day Saints."
+Updated Records,x-fmt/205,WordStar for MS-DOS Document (5.0): Description updated. Addition of Library of Congress Format Description and Wikidata QID identifiers. Relationships between other WordStar entries added. Developer added. Submitted by Library of Congress.
+Updated Records,x-fmt/206,WordStar for Windows Document (1.0): Description updated. Addition of Library of Congress Format Description and Wikidata QID identifiers. Relationships between other WordStar entries added. Developer added. Submitted by Library of Congress.
+Updated Records,x-fmt/236,WordStar for MS-DOS Document (5.5): Description updated. Addition of Library of Congress Format Description and Wikidata QID identifiers. Relationships between other WordStar entries added. Developer added. Submitted by Library of Congress.
+Updated Records,x-fmt/237,WordStar for MS-DOS Document (6.0): Description updated. Addition of Library of Congress Format Description and Wikidata QID identifiers. Relationships between other WordStar entries added. Developer added. Submitted by Library of Congress.
+Updated Records,x-fmt/260,WordStar for MS-DOS Document (4.0): Description updated. Addition of Library of Congress Format Description and Wikidata QID identifiers. Relationships between other WordStar entries added. Developer added. Submitted by Library of Congress.
+Updated Records,x-fmt/261,WordStar for MS-DOS Document (7.0): Description updated. Addition of Library of Congress Format Description and Wikidata QID identifiers. Relationships between other WordStar entries added. Developer added. Submitted by Library of Congress.
+Updated Records,x-fmt/262,WordStar for Windows Document (2.0): Description updated. Addition of Library of Congress Format Description and Wikidata QID identifiers. Relationships between other WordStar entries added. Developer added. Submitted by Library of Congress.
+Updated Records,x-fmt/370,WordStar for MS-DOS Document (3.0): Description updated. Addition of Library of Congress Format Description and Wikidata QID identifiers. Relationships between other WordStar entries added. Developer added. Submitted by Library of Congress.
+Updated Records,fmt/136,OpenDocument Text 1.0: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/137,OpenDocument Spreadsheet 1.0: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/138,OpenDocument Presentation 1.0: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/139,OpenDocument Graphics 1.0: New container signature. Submitted by Preservica.
+Updated Records,fmt/140,OpenDocument Database 1.0: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/142,Waveform Audio (WAVEFORMATEX): Signature update - removal of wformat chunk due to DROID not currently being able to handle inverted sequences. For further details see issues #805 and #806 in the DROID GitHub page (https://github.com/digital-preservation/droid/issues). Submitted by Preservica.
+Updated Records,fmt/143,Waveform Audio (WAVEFORMATEXTENSIBLE): Priority added over fmt/142. Submitted by Preservica.
+Updated Records,fmt/291,OpenDocument Text 1.2: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/293,OpenDocument Presentation 1.2: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/295,OpenDocument Spreadsheet 1.2: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/296,OpenDocument Graphics 1.1: New container signature. Submitted by Preservica.
+Updated Records,fmt/297,OpenDocument Graphics 1.2: New container signature. Submitted by Preservica.
+Updated Records,fmt/424,OpenDocument Database 1.2: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/468,ISO 9660 Disk Image File: Updated name and description. Added extensions: toast; cdr; dmg and bin. Added format type. Added priority over fmt/1743. Submitted by The Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/574,"Digital Imaging and Communications in Medicine File Format: Amended signature to disregard first 127 bytes according to specification. Added links to specification and references, altered description. Submitted by University Medical Center Utrecht."
+Updated Records,fmt/882,Wordstar 2000 (1): Note field updated. Addition of Library of Congress Format Description and Wikidata QID identifiers. Relationships between other WordStar entries added. Submitted by Library of Congress.
+Updated Records,fmt/967,AppleSingle (1): New external signature .as added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/968,AppleSingle (2): New external signature .as added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/986,Extensible Metadata Platform Format: Change the either/or at the end of the signature from (22|25) to (22|27). Submitted by Preservica.
+Updated Records,fmt/1071,Apple Disk Image: Given priority over fmt/1740 and x-fmt/268. Submitted by The Church of Jesus Christ of Latter-day Saints and The Royal Danish Library.
+Updated Records,fmt/1352,FamilyTree Maker Database 1-4: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/1353,FamilyTree Maker Database 5-16: Minor container signature syntax adjustment to align with official PRONOM syntax. Submitted by Preservica.
+Updated Records,fmt/1600,"ESRI ArcInfo DAT File (Internal): Amended source. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/1671,Z Compressed Data: File extension z decapitilised. Submitted by Preservica.
+Updated Records,fmt/1724,LegalDocML Document: Removal of whitespace from signature. Submitted by Niedersächsisches Landesarchiv.
+Updated Records,fmt/1727,"Pro Tools Session File: Amended description of byte sequence to match bytes. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/1727,Pro Tools Session File: Changed signature to accomdate a wider variety of ptx files. Submitted by The Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/1729,"Esri Shapefile Geospatial Metadata File: Amended description of byte sequence to match bytes. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Signatures,x-fmt/67,OS/2 Presentation Manager Metafile (MET): Signature researched and samples provided by Preservica.
+New Signatures,fmt/139,OpenDocument Graphics 1.0: Signature researched and samples provided by Preservica.
+New Signatures,fmt/296,OpenDocument Graphics 1.1: Signature researched and samples provided by Preservica.
+New Signatures,fmt/297,OpenDocument Graphics 1.2: Signature researched and samples provided by Preservica.
+New Signatures,fmt/574,Digital Imaging and Communications in Medicine File Format: Signature researched and samples provided by University Medical Center Utrecht.
+New Signatures,fmt/1736,"Creative Voice File: Signature researched and samples provided by Digital Preservation Department, The National Archives (UK)."
+New Signatures,fmt/1737,Flow Cytometry Standard File: Signature researched and samples provided by University Medical Center Utrecht.
+New Signatures,fmt/1738,UDF Disc Image: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1739,UDF-ISO 9660 Bridge Disc: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1740,Apple Partition Map Disk Image: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1741,Apple Partition Map ISO 9660 Hybrid: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1742,Hierarchical File System Plus: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1743,Nero Burning ROM Image File: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1744,Psion Series 3 Bitmap: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1745,PixArt Bitmap: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1746,Rocky Interlace Picture: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1747,Microsoft PowerPoint Presentation v2.x: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1748,Microsoft PowerPoint Presentation v3.x: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1749,"Canon MIF File: Signature researched and samples provided by Digital Preservation Department, The National Archives (UK)."
+New Signatures,fmt/1750,"Canon CIF File: Signature researched and samples provided by Digital Preservation Department, The National Archives (UK)."
+New Signatures,fmt/1751,"Canon SIF File: Signature researched and samples provided by Digital Preservation Department, The National Archives (UK)."
+New Signatures,fmt/1752,OpenDocument Database Format 1.3: Signature researched and samples provided by Preservica.
+New Signatures,fmt/1753,OpenDocument Graphics 1.3: Signature researched and samples provided by Preservica.
+New Signatures,fmt/1754,OpenDocument Presentation 1.3: Signature researched and samples provided by Preservica.
+New Signatures,fmt/1755,OpenDocument Spreadsheet 1.3: Signature researched and samples provided by Preservica.
+New Signatures,fmt/1756,OpenDocument Text 1.3: Signature researched and samples provided by Preservica.
+New Signatures,fmt/1757,Apple Partition Map - ISO 9660 - UDF Hybrid Disk Image: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1759,Media Descriptor Sidecar File: Signature researched and samples provided by The Royal Danish Library.
+New Signatures,fmt/1760,CloneCD Control File: Signature researched and samples provided by The Royal Danish Library.
+New Signatures,fmt/1762,MacBinary II: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1763,MacBinary III: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1764,"Sony SLV File: Signature researched and samples provided by Digital Preservation Department, The National Archives (UK)."
+New Signatures,fmt/1765,"Media Hash List: Signature researched and samples provided by Digital Preservation Department, The National Archives (UK)."
+New Signatures,fmt/1766,"Sony SML File: Signature researched and samples provided by Digital Preservation Department, The National Archives (UK)."

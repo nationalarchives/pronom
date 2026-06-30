@@ -1,0 +1,78 @@
+New Records,fmt/368,ASPRS Lidar Data Exchange Format 1.0: Partial entry added. Submission from the Geospatial Multistate Access and Preservation Partnership (GeoMAPP).
+New Records,fmt/369,ASPRS Lidar Data Exchange Format 1.1: Partial entry added. Submission from the Geospatial Multistate Access and Preservation Partnership (GeoMAPP).
+New Records,fmt/370,ASPRS Lidar Data Exchange Format 1.2: Partial entry added. Submission from the Geospatial Multistate Access and Preservation Partnership (GeoMAPP).
+New Records,fmt/371,Enhanced Compression Wavelet: Partial entry added. Submission from the Geospatial Multistate Access and Preservation Partnership (GeoMAPP).
+New Records,fmt/372,Earth Resource Satellite image header format: Outline entry added.
+New Records,fmt/373,FoxPro Database 2.x: Outline entry added.
+New Records,fmt/374,Microsoft Visual FoxPro Database Table File: Outline entry added.
+New Records,fmt/375,FoxPro Compound Index File: Outline entry added.
+New Records,fmt/376,FoxPro Report: Outline entry added.
+New Records,fmt/377,Microsoft Visual FoxPro Report: Outline entry added.
+New Records,fmt/378,Chemical Draw Exchange Format: Outline entry added.
+New Records,fmt/379,Microsoft Visual FoxPro Class Library: Outline entry added.
+New Records,fmt/380,Microsoft Visual FoxPro Project: Outline entry added.
+New Records,fmt/381,FoxPro Project: Outline entry added.
+New Records,fmt/382,Microsoft Visual FoxPro database container (table files): Outline entry added.
+New Records,fmt/383,VICAR (Video Image Communication and Retrieval) Planetary File Format: Outline entry added.
+New Records,fmt/384,Microsoft Visual FoxPro database container (memo files): Outline entry added.
+New Records,fmt/385,Microsoft Windows Cursor: Outline entry added.
+New Records,fmt/386,Microsoft Animated Cursor Format: Partial entry added.
+New Records,fmt/387,VCalendar format: Outline entry added.
+New Records,fmt/388,Internet Calendar and Scheduling format: Outline entry added.
+New Records,fmt/389,Log ASCII Standard Format 1.2: Outline entry added.
+New Records,fmt/390,Log ASCII Standard Format 2.0: Outline entry added.
+New Records,fmt/391,Log ASCII Standard Format 3.0: Outline entry added.
+New Records,fmt/392,MrSID Image Format (Multi-resolution Seamless Image Database): Partial entry added. Submission from the Geospatial Multistate Access and Preservation Partnership (GeoMAPP).
+New Records,fmt/393,Borland Reflex flat datafile: Outline entry added.
+Updated Records,fmt/90,PCX 5: Existing signature refined through PRONOM Research.
+Updated Records,fmt/101,Extensible Markup Language 1.0: Existing signature refined through PRONOM Research and submission from National Library of New Zealand.
+Updated Records,fmt/244,Keyhole Markup Language: Format description information supplied by the Geospatial Multistate Access and Preservation Partnership (GeoMAPP).
+Updated Records,fmt/245,Structured Data Exchange Format: File extension removed.
+Updated Records,fmt/319,ESRI Spatial Index File: Existing signature refined through PRONOM Research.
+Updated Records,fmt/354,Acrobat PDF/A - Portable Document Format 1b: Existing signature refined through PRONOM Research.
+Updated Records,x-fmt/49,"AutoCAD Design Web Format: Format description information supplied by NARA Information Services/Applied Research Division, The National Archives and Records Administration."
+Updated Records,x-fmt/105,"AutoCAD Slide: Format description information supplied by NARA Information Services/Applied Research Division, The National Archives and Records Administration."
+Updated Records,x-fmt/135,"Audio Interchange File Format: Format description information supplied by NARA Information Services/Applied Research Division, The National Archives and Records Administration."
+Updated Records,x-fmt/136,Audio Interchange File Format (compressed): Priority information changed to avoid potential misidentification with Interchange File Format.
+Updated Records,x-fmt/142,"Computer Graphics Metafile ASCII 1: Format description information supplied by NARA Information Services/Applied Research Division, The National Archives and Records Administration."
+Updated Records,x-fmt/219,Alexa Archive File: File signature updated to allow compatability with DROID 5.0 and earlier versions.
+Updated Records,x-fmt/227,Geography Markup Language: Format description information supplied by the Geospatial Multistate Access and Preservation Partnership (GeoMAPP).
+Updated Records,x-fmt/280,XML Schema Definition: Format description information added.
+Updated Records,x-fmt/387,Exchangeable Image File Format (Uncompressed) 2.2: Priority information changed to avoid potential misidentification with Tagged Image File Format.
+Updated Records,x-fmt/388,Exchangeable Image File Format (Uncompressed) 2.1: Priority information changed to avoid potential misidentification with Tagged Image File Format.
+Updated Records,x-fmt/399,Exchangeable Image File Format (Uncompressed) 2.0: Priority information changed to avoid potential misidentification with Tagged Image File Format.
+Updated Records,x-fmt/418,Icon file format: Identifier information added.
+Updated Records,x-fmt/449,Steel Detailing Neutral Format: File extension added.
+Signatures,fmt/244,Keyhole Markup Language: Signature developed through PRONOM Research.
+Signatures,fmt/368,ASPRS Lidar Data Exchange Format 1.0: Signature developed through PRONOM Research.
+Signatures,fmt/369,ASPRS Lidar Data Exchange Format 1.1: Signature developed through PRONOM Research.
+Signatures,fmt/370,ASPRS Lidar Data Exchange Format 1.2: Signature developed through PRONOM Research.
+Signatures,fmt/371,Enhanced Compression Wavelet: Signature developed through PRONOM Research.
+Signatures,fmt/372,Earth Resource Satellite image header format: Signature developed through PRONOM Research.
+Signatures,fmt/373,FoxPro Database 2.x: Signature developed through PRONOM Research.
+Signatures,fmt/374,Microsoft Visual FoxPro Database Table File: Signatures developed through PRONOM Research.
+Signatures,fmt/375,FoxPro Compound Index File: Signature developed through PRONOM Research.
+Signatures,fmt/376,FoxPro Report: Signature developed through PRONOM Research.
+Signatures,fmt/377,Microsoft Visual FoxPro Report: Signature developed through PRONOM Research.
+Signatures,fmt/378,Chemical Draw Exchange Format: Signature developed through PRONOM Research.
+Signatures,fmt/379,Microsoft Visual FoxPro Class Library: Signature developed through PRONOM Research.
+Signatures,fmt/380,Microsoft Visual FoxPro Project: Signature developed through PRONOM Research.
+Signatures,fmt/381,FoxPro Project: Signature developed through PRONOM Research.
+Signatures,fmt/382,Microsoft Visual FoxPro database container (table files): Signature developed through PRONOM Research.
+Signatures,fmt/383,VICAR (Video Image Communication and Retrieval) Planetary File Format: Signature developed through PRONOM Research.
+Signatures,fmt/384,Microsoft Visual FoxPro database container (memo files): Signature developed through PRONOM Research.
+Signatures,fmt/385,Microsoft Windows Cursor: Signature developed through PRONOM Research.
+Signatures,fmt/386,Microsoft Animated Cursor Format: Signature developed through PRONOM Research.
+Signatures,fmt/387,VCalendar format: Signature developed through PRONOM Research.
+Signatures,fmt/388,Internet Calendar and Scheduling format: Signature developed through PRONOM Research.
+Signatures,fmt/389,Log ASCII Standard Format 1.2: Signature developed through PRONOM Research.
+Signatures,fmt/390,Log ASCII Standard Format 2.0: Signature developed through PRONOM Research.
+Signatures,fmt/391,Log ASCII Standard Format 3.0: Signature developed through PRONOM Research.
+Signatures,fmt/392,MrSID Image Format (Multi-resolution Seamless Image Database): Signature developed through PRONOM Research.
+Signatures,fmt/393,Borland Reflex flat datafile: Signature developed through PRONOM Research.
+Signatures,x-fmt/10,dBASE Database IV: Signatures developed through PRONOM Research.
+Signatures,x-fmt/150,Visual FoxPro Database Container File: Signature developed through PRONOM Research.
+Signatures,x-fmt/222,CD Audio: Signature developed through PRONOM Research.
+Signatures,x-fmt/227,Geography Markup Language: Signature developed through PRONOM Research.
+Signatures,x-fmt/280,XML Schema Definition: Signature developed through PRONOM Research.
+Signatures,x-fmt/342,Microsoft FoxPro Memo: Signatures developed through PRONOM Research.

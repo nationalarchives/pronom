@@ -1,0 +1,101 @@
+New Records,fmt/951,Sonic Foundry WAVE 64: Full entry added.
+New Records,fmt/952,True Audio 1: Full entry added.
+New Records,fmt/953,True Audio 2: Full entry added.
+New Records,fmt/954,Adaptive Multi-Rate Wideband Audio: Full entry added.
+New Records,fmt/955,Downloadable Sounds Audio: Full entry added.
+New Records,fmt/956,RIFF-based MIDI: Full entry added.
+New Records,fmt/957,DirectMusic Segment File Format: Full entry added.
+New Records,fmt/958,DirectMusic Style File Format: Full entry added.
+New Records,fmt/959,Portable Sound Format: Full entry added.
+New Records,fmt/960,DOS Sound and Music Interface Advanced Module Format: Full entry added.
+New Records,fmt/961,Mobile eXtensible Music Format: Full entry added.
+New Records,fmt/962,QCP Audio File Format: Full entry added.
+New Records,fmt/963,OMNIC Spectral Data File: Full entry added. Submitted by The Borthwick Institute for Archives.
+New Records,fmt/964,Final Draft Document 5-7: Full entry added. Submitted by Hull History Centre.
+New Records,fmt/965,Music Encoding Initiative: Full entry added. Submitted by Bibliotheque cantonale et universitaire BCU Lausanne.
+New Records,fmt/966,AppleDouble Resource Fork 1: Full entry added. Assisted by research by Archives New Zealand.
+New Records,fmt/967,AppleSingle 1: Full entry added. Submitted by Archives New Zealand.
+New Records,fmt/968,AppleSingle 2: Full entry added. Submitted by Archives New Zealand.
+New Records,fmt/969,Rich Text Format 0: Full entry added. Submitted by National Library of New Zealand.
+New Records,fmt/970,Khronos Texture File: Full entry added.
+New Records,fmt/971,Microsoft Windows Movie Maker File: Full entry added.
+New Records,fmt/972,Dolby MLP Lossless Audio: Full entry added.
+New Records,fmt/973,DTS Coherent Acoustics (DCA) Audio: Full entry added.
+New Records,fmt/974,Notation Interchange File Format: Full entry added.
+Updated Records,fmt/6,Waveform Audio: Simplified signature at suggestion of National Library of New Zealand.
+Updated Records,fmt/14,Acrobat PDF 1.0 - Portable Document Format: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/15,Acrobat PDF 1.1 - Portable Document Format: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/16,Acrobat PDF 1.2 - Portable Document Format: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/17,Acrobat PDF 1.3 - Portable Document Format: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/18,Acrobat PDF 1.4 - Portable Document Format: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/19,Acrobat PDF 1.5 - Portable Document Format: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/20,Acrobat PDF 1.6 - Portable Document Format: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/59,Microsoft Excel 5.0/95 Workbook (xls): Removed binary signature at request of National Library of New Zealand due to wide byte range of signature causing identification clashes with unrelated formats. PUID will now identify by Container Signature only.
+Updated Records,fmt/95,Acrobat PDF/A - Portable Document Format 1a: Gave priority over x-fmt/453 - TrueType Font as suggested by Archives New Zealand. Additionally gave priority over Acrobat PDF - Portable Document Format versions 1.0-1.7 due to clash identified by Docuteam.
+Updated Records,fmt/141,Waveform Audio (PCMWAVEFORMAT): Adjusted signature due to findings from Archives New Zealand.
+Updated Records,fmt/142,Waveform Audio (WAVEFORMATEX): Adjusted signature due to findings from Archives New Zealand.
+Updated Records,fmt/143,Waveform Audio (WAVEFORMATEXTENSIBLE): Adjusted signature due to findings from Archives New Zealand. Slightly adjusted description.
+Updated Records,fmt/144,Acrobat PDF/X - Portable Document Format - Exchange 1:1999: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/145,Acrobat PDF/X - Portable Document Format - Exchange 1:2001: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/146,Acrobat PDF/X - Portable Document Format - Exchange 1a:2003: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/147,Acrobat PDF/X - Portable Document Format - Exchange 2:2003: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/148,Acrobat PDF/X - Portable Document Format - Exchange 3:2003: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/157,Acrobat PDF/X - Portable Document Format - Exchange 1a:2001: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/158,Acrobat PDF/X - Portable Document Format - Exchange 3:2002: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/276,Acrobat PDF 1.7 - Portable Document Format 1.7: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/354,Acrobat PDF/A - Portable Document Format 1b: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/356,Adaptive Multi-Rate Audio: Added description and alias.
+Updated Records,fmt/395,vCard: Added MIME type and description.
+Updated Records,fmt/411,RAR Archive 2.9: Adjusted MIME type from deprecated application/x-rar-compressed to application/vnd.rar. Added description.
+Updated Records,fmt/476,Acrobat PDF/A - Portable Document Format 2a: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/477,Acrobat PDF/A - Portable Document Format 2b: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/478,Acrobat PDF/A - Portable Document Format 2u: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/479,Acrobat PDF/A - Portable Document Format 3a: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/480,Acrobat PDF/A - Portable Document Format 3b: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/481,Acrobat PDF/A - Portable Document Format 3u: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/488,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/489,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4p: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/490,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5g: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/491,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5pg: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/492,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5n: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/493,Acrobat PDF/E - Portable Document Format for Engineering PDF/E-1: Gave priority over x-fmt/453 - TrueType Font. Suggested by Archives New Zealand.
+Updated Records,fmt/503,AppleDouble Resource Fork 2: Added version number 2 assisted by research by by Archives New Zealand.
+Updated Records,fmt/613,RAR Archive 5.0: Adjusted MIME type from deprecated application/x-rar-compressed to application/vnd.rar.
+Updated Records,fmt/650,Quark Xpress Report File: Added MIME type.
+Updated Records,fmt/651,Quark Xpress Data File 10: Added MIME type.
+Updated Records,fmt/652,Quark Xpress Data File 6: Added MIME type.
+Updated Records,fmt/685,Quark Xpress Data File 9: Added MIME type.
+Updated Records,fmt/712,RF64: Amended signature due to observations by MIT Libraries.
+Updated Records,fmt/713,RF64 Multichannel Broadcast Wave format: Amended signature due to observations by MIT Libraries.
+Updated Records,fmt/714,eXtensible Music Format: Amended signature description.
+Updated Records,x-fmt/182,Quark Xpress Data File: Added MIME type.
+Updated Records,x-fmt/195,Standard Generalized Markup Language: Added file extension .sgm as suggested by Victoria University of Wellington Library.
+Updated Records,x-fmt/260,"WordStar for MS-DOS Document 4.0: Added description in collaboration with The Borthwick Institute for Archives, explaining why an identification signature is not possible."
+Updated Records,x-fmt/264,RAR Archive 2.0: Adjusted MIME type from deprecated application/x-rar-compressed to application/vnd.rar. Added description.
+Updated Records,x-fmt/387,Exchangeable Image File Format (Uncompressed) 2.2: Added .tiff extension. Added description. Requested by National Library of New Zealand.
+Updated Records,x-fmt/388,Exchangeable Image File Format (Uncompressed) 2.1: Added .tiff extension. Added description. Requested by National Library of New Zealand.
+Updated Records,x-fmt/399,Exchangeable Image File Format (Uncompressed) 2.0: Added .tiff extension. Added description. Requested by National Library of New Zealand.
+New Signatures,fmt/951,Sonic Foundry WAVE 64: Signature developed through PRONOM Research.
+New Signatures,fmt/952,True Audio 1: Signature developed through PRONOM Research.
+New Signatures,fmt/953,True Audio 2: Signature developed through PRONOM Research.
+New Signatures,fmt/954,Adaptive Multi-Rate Wideband Audio: Signature developed through PRONOM Research.
+New Signatures,fmt/955,Downloadable Sounds Audio: Signature developed through PRONOM Research.
+New Signatures,fmt/956,RIFF-based MIDI: Signature developed through PRONOM Research.
+New Signatures,fmt/957,DirectMusic Segment File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/958,DirectMusic Style File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/959,Portable Sound Format: Signature developed through PRONOM Research.
+New Signatures,fmt/960,DOS Sound and Music Interface Advanced Module Format: Signature developed through PRONOM Research.
+New Signatures,fmt/961,Mobile eXtensible Music Format: Signature developed through PRONOM Research.
+New Signatures,fmt/962,QCP Audio File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/963,OMNIC Spectral Data File: Signature submitted by The Borthwick Institute for Archives.
+New Signatures,fmt/964,Final Draft Document 5-7: Signature submitted by Hull History Centre.
+New Signatures,fmt/965,Music Encoding Initiative: Signature requested by Bibliotheque cantonale et universitaire BCU Lausanne.
+New Signatures,fmt/966,AppleDouble Resource Fork 1: Signature developed assisted by research by Archives New Zealand.
+New Signatures,fmt/967,AppleSingle 1: Signature developed by Archives New Zealand.
+New Signatures,fmt/968,AppleSingle 2: Signature developed by Archives New Zealand.
+New Signatures,fmt/969,Rich Text Format 0: Signature developed by National Library of New Zealand.
+New Signatures,fmt/970,Khronos Texture File: Signature developed through PRONOM Research.
+New Signatures,fmt/971,Microsoft Windows Movie Maker File: Container signature developed through PRONOM Research.
+New Signatures,fmt/972,Dolby MLP Lossless Audio: Signature developed through PRONOM Research.
+New Signatures,fmt/973,DTS Coherent Acoustics (DCA) Audio: Signature developed through PRONOM Research.
+New Signatures,fmt/974,Notation Interchange File Format: Signature developed through PRONOM Research.

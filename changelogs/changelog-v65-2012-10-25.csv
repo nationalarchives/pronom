@@ -1,0 +1,67 @@
+New Records,fmt/468,ISO Disk Image: Outline Entry Added.
+New Records,fmt/469,MS DOS Compression format (KWAJ): Outline Entry Added.
+New Records,fmt/470,Asymetrix Toolbook: Outline Entry Added.
+New Records,fmt/471,HTML5: Outline Entry Added.
+New Records,fmt/472,Sony Digital Voice File/Sony Memory Stick Voice File: Outline Entry Added with assistance from Hagley Library and Museum.
+New Records,fmt/473,Microsoft Office Owner File: Outline Entry Added.
+New Records,fmt/474,Windows Help File: Outline Entry Added.
+New Records,fmt/475,Microsoft Management Console Snap-in Control file: Outline Entry Added.
+New Records,fmt/476,Acrobat PDF/A-2a - Portable Document Format: Outline Entry Added.
+New Records,fmt/477,Acrobat PDF/A-2b - Portable Document Format: Outline Entry Added.
+New Records,fmt/478,Acrobat PDF/A-2u - Portable Document Format: Outline Entry Added.
+New Records,fmt/479,Acrobat PDF/A-3a - Portable Document Format: Outline Entry Added.
+New Records,fmt/480,Acrobat PDF/A-3b - Portable Document Format: Outline Entry Added.
+New Records,fmt/481,Acrobat PDF/A-3u - Portable Document Format: Outline Entry Added.
+Updated Records,fmt/13,Portable Network Graphics 1.2: Gave explicit priority over fmt/11 Portable Network Graphics 1.0 to remove multiple identification conflict identified through Ross Spencer's Skeleton Corpus.
+Updated Records,fmt/45,Rich Text Format 1.0-1.4.: Renamed from Rich Text Format 1.0.
+Updated Records,fmt/46,Rich Text Format 1.1: Deprecated in favour of fmt/45 Rich Text Format 1.0-1.4 to remove multiple identification conflict.
+Updated Records,fmt/47,Rich Text Format 1.2: Deprecated in favour of fmt/45 Rich Text Format 1.0-1.4 to remove multiple identification conflict.
+Updated Records,fmt/48,Rich Text Format 1.3: Deprecated in favour of fmt/45 Rich Text Format 1.0-1.4 to remove multiple identification conflict.
+Updated Records,fmt/49,Rich Text Format 1.4: Deprecated in favour of fmt/45 Rich Text Format 1.0-1.4 to remove multiple identification conflict.
+Updated Records,fmt/50,Rich Text Format 1.5-1.6: Renamed from Rich Text Format 1.5. Signature refined through PRONOM Research.
+Updated Records,fmt/51,Rich Text Format 1.6: Deprecated in favour of fmt/50 Rich Text Format 1.5-1.6 to remove multiple identification conflict identified through Ross Spencer's Skeleton Corpus.
+Updated Records,fmt/54,Drawing Interchange Binary Format 1.0: Reodered signature sequence information.
+Updated Records,fmt/92,Scalable Vector Graphics 1.1: Gave explicit priority over fmt/91 Scalable Vector Graphics 1.0 to remove multiple identification conflict identified through Ross Spencer's Skeleton Corpus.
+Updated Records,fmt/142,Waveform Audio (WAVEFORMATEX): Modified signature to remove multiple identification conflict with fmt/141 Waveform Audio (PCMWAVEFORMAT) identified through Ross Spencer's Skeleton Corpus.
+Updated Records,fmt/151,JPX (JPEG 2000 part 2): Renamed from JPEG 2000 Extended for clarity and consistency.
+Updated Records,fmt/162,Adobe FrameMaker Interchange Format: MIME-Type information added.
+Updated Records,fmt/191,AMI Professional Document: MIME-Type information added.
+Updated Records,fmt/286,DEC Data Exchange File: MIME-Type information added.
+Updated Records,fmt/337,MJ2 (Motion JPEG 2000): Renamed from Motion JPEG 2000 for clarity and consistency.
+Updated Records,fmt/381,FoxPro Project: Gave explicit priority over fmt/373 FoxPro Database (2.x) to remove multiple identification conflict identified through Ross Spencer's Skeleton Corpus.
+Updated Records,fmt/393,WordPerfect for MS-DOS Document 5.0: MIME-Type information added.
+Updated Records,fmt/394,WordPerfect for MS-DOS Document 5.1: MIME-Type information added.
+Updated Records,fmt/400,StarOffice Writer 5.1: MIME-Type information added.
+Updated Records,fmt/401,StarOffice Calc 5.1: MIME-Type information added.
+Updated Records,fmt/402,StarOffice Draw 5.2: MIME-Type information added.
+Updated Records,fmt/403,StarOffice Writer 5.2: MIME-Type information added.
+Updated Records,fmt/405,StarOffice Impress 5.2: MIME-Type information added.
+Updated Records,fmt/436,Digital Negative Format (DNG) 1.0: Gave explicit priority over fmt/353 Tagged Image File Format to remove multiple identification conflict identified through Ross Spencer's Skeleton Corpus.
+Updated Records,fmt/441,Windows Media Video 9 Advanced Profile (WVC1): Gave explicit priority over fmt/131 Advanced Systems Format to remove multiple identification conflict identified through Ross Spencer's Skeleton Corpus.
+Updated Records,fmt/463,JPM (JPEG 2000 part 6): Renamed from JPEG 2000 Compound File Format for clarity and consistency.
+Updated Records,x-fmt/34,Corel Presentation Exchange File 5.0: Signature refined through PRONOM Research.
+Updated Records,x-fmt/35,Corel Presentation Exchange File 6 and Later: Signature refined through PRONOM Research. Name changed from Corel Presentation Exchange File 6/7.
+Updated Records,x-fmt/116,Lotus 1-2-3 (4-5): Renamed from Lotus 1-2-3 (4.0).
+Updated Records,x-fmt/135,Audio Interchange File Format 1.3: Deprecated in favour of fmt/414 Audio Interchange File Format 1.2 to remove multiple identification conflict identified through Ross Spencer's Skeleton Corpus.
+Updated Records,x-fmt/212,Lotus 1-2-3 (5.0): Deprecated in favour of x-fmt/116 Lotus 1-2-3 (4-5) to remove multiple identification conflict identified through Ross Spencer's Skeleton Corpus.
+Updated Records,x-fmt/320,"Fractal Image Format: Signature refined through PRONOM Research, with assistance from the National Archives and Records Administration."
+Updated Records,x-fmt/392,JP2 (JPEG 2000 part 1): Renamed from JPEG 2000 for clarity and consistency.
+Updated Records,x-fmt/404,StarOffice Calc 5.2: MIME-Type information added.
+Updated Records,x-fmt/451,SketchUp Document: Added .skp file extension. Amended name from Google SketchUp document as application has changed hands.
+Updated Records,x-fmt/452,SketchUp Document: Deprecated in favour of x-fmt/451 SketchUp Document to remove multiple identification conflict identified through Ross Spencer's Skeleton Corpus.
+New Signatures,fmt/413,SVG Tiny 1.2: Signature developed through PRONOM Research.
+New Signatures,fmt/468,ISO Disk Image: Signature developed through PRONOM Research.
+New Signatures,fmt/469,MS DOS Compression format (KWAJ): Signature developed through PRONOM Research.
+New Signatures,fmt/470,Asymetrix Toolbook: Signature developed through PRONOM Research.
+New Signatures,fmt/471,HTML5: Signature developed through PRONOM Research.
+New Signatures,fmt/472,Sony Digital Voice File/Sony Memory Stick Voice File: Signature developed through PRONOM Research with assistance from Hagley Library and Museum.
+New Signatures,fmt/473,Microsoft Office Owner File: Signature developed through PRONOM Research.
+New Signatures,fmt/474,Windows Help File: Signature developed through PRONOM Research.
+New Signatures,fmt/475,Microsoft Management Console Snap-in Control file: Signature developed through PRONOM Research.
+New Signatures,fmt/476,Acrobat PDF/A-2a - Portable Document Format: Signature developed through PRONOM Research with assistance from Koninklijke Bibliotheek.
+New Signatures,fmt/477,Acrobat PDF/A-2b - Portable Document Format: Signature developed through PRONOM Research with assistance from Koninklijke Bibliotheek.
+New Signatures,fmt/478,Acrobat PDF/A-2u - Portable Document Format: Signature developed through PRONOM Research with assistance from Koninklijke Bibliotheek.
+New Signatures,fmt/479,Acrobat PDF/A-3a - Portable Document Format: Signature developed through PRONOM Research with assistance from Koninklijke Bibliotheek.
+New Signatures,fmt/480,Acrobat PDF/A-3b - Portable Document Format: Signature developed through PRONOM Research with assistance from Koninklijke Bibliotheek.
+New Signatures,fmt/481,Acrobat PDF/A-3u - Portable Document Format: Signature developed through PRONOM Research with assistance from Koninklijke Bibliotheek.
+New Signatures,x-fmt/35,Corel Metafile Exchange Image 6 and Later: Signature developed through PRONOM Research.

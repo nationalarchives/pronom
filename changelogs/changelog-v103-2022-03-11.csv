@@ -1,0 +1,76 @@
+New Records,fmt/1620,Aero Studio Song: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1621,AHX-Module Format (formerly THX Module Format): Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1622,Asylum Music Format: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1623,Art Of Noise - 4 Channel Module: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1624,Art Of Noise - 8 Channel Module: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1625,ESRI Colour File Format: Extension-only entry added. Submitted by The National Library of Australia.
+New Records,fmt/1626,MicroStation Symbology Resource File: Full entry added. Submitted by The Canadian Centre for Architecture.
+New Records,fmt/1627,Z Print Build File: Full entry added. Submitted by The Canadian Centre for Architecture.
+New Records,fmt/1628,Adobe InDesign Document 1.0: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1629,Adobe InDesign Document 1.5: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1630,Adobe InDesign Document 2.0: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1631,Adobe InDesign Document CS5.5: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1632,Adobe InDesign Document CC: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1633,Adobe InDesign Document CC 2014: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1634,Adobe InDesign Document CC 2015: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1635,Adobe InDesign Document CC 2017: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1636,Adobe InDesign Document CC 2018: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1637,Adobe InDesign Document CC 2019: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1638,Adobe InDesign Document CC 2020: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1639,Adobe InDesign Document CC 2021: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1640,Adobe InDesign Document CC 2022: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1641,Adobe InDesign Interchange Document: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1642,Adobe InDesign Library 2: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1643,Lenel Network Video Recorder File: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1644,Roxio Label Creator Project File v4-5: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1645,Roxio Label Creator Project File v6-7: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1646,Roxio Label Creator Project File v8-11: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1647,Inspiration Software File: Full entry added. Submitted by National Archives of Australia and State Archives and Records Authority of New South Wales.
+New Records,fmt/1648,Crystal Reports File: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/95,"Acrobat PDF/A - Portable Document Format (1a): Update to signature following error. Removal of whitespace causing issues in FIDO. Submitted by Vanderbilt University, Preservica and Misty De Méo."
+Updated Records,fmt/123,Encapsulated PostScript File Format: Amended to allow for magic bytes to be Adobe-2 or Adobe-2.0. Submitted by The National Library of Australia.
+Updated Records,fmt/152,"Digital Negative Format (DNG): Changed maximum offset of 'TIFF header plus DNGVersion tag near EOF' from 4084 to 6000 bytes. Submitted by Digital Repository, Historic Environment Scotland."
+Updated Records,fmt/196,"Adobe InDesign Document CS: Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints."
+Updated Records,fmt/276,Acrobat PDF 1.7 - Portable Document Format: Changed maximum byte offset from 0 to 1. Submitted by The National Library of Australia.
+Updated Records,x-fmt/450,"Adobe InDesign Document Generic: Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints."
+Updated Records,fmt/462,"MS-DOS Compression Format (SZDD Variant): Amended name for consistency, added link and description. Submitted by IS4."
+Updated Records,fmt/469,"MS-DOS Compression Format (KWAJ Variant): Amended name for consistency, added link. Submitted by IS4."
+Updated Records,fmt/548,"Adobe InDesign Document CS2: Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints."
+Updated Records,fmt/549,"Adobe InDesign Document CS3: Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints."
+Updated Records,fmt/550,"Adobe InDesign Document CS4: Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints."
+Updated Records,fmt/551,"Adobe InDesign Document CS5: Outline description upgraded, note field updated and .indt file extension added. Submitted by The Church of Jesus Christ of Latter-day Saints."
+Updated Records,fmt/552,"Adobe InDesign Document CS6: Outline description upgraded, note field updated and .indt file extension added. Relationship changed to 'is subsequent version of' Adobe InDesign Document CS5.5 instead of Adobe InDesign Document CS5. Submitted by The Church of Jesus Christ of Latter-day Saints."
+Updated Records,fmt/1184,"InDesign Markup Language Package: Note field updated. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/1191,"Adobe InDesign Book: Note field updated. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/1192,"Adobe InDesign Library 4: Description, version number, note field and format type updated. Associated signature renamed from 'Adobe InDesign Library' to 'Adobe InDesign Library 4'. Submitted by The Church of Jesus Christ of Latter-day Saints."
+Updated Records,fmt/1358,"MicroStation Base File: Added byte sequence to signature. Added priority over Bentley Microstation Hidden Line File. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/1423,HP TRIM Outlook Saved Message File: Added .mbx extension. Updated description. Submitted by National Archives of Australia and State Archives and Records Authority of New South Wales.
+Updated Records,fmt/1596,"ESRI ArcInfo Grid .nit File: Capitalised 'File' in file format name and signature. Amended BOF signature to allow for 02, 04 or 08 at byte 2. Removed EOF signature. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Signatures,fmt/1620,Aero Studio Song: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1621,AHX-Module Format (formerly THX Module Format): Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1622,Asylum Music Format: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1623,Art Of Noise - 4 Channel Module: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1624,Art Of Noise - 8 Channel Module: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1626,MicroStation Symbology Resource File: Signature researched and samples provided by The Canadian Centre for Architecture.
+New Signatures,fmt/1627,Z Print Build File: Signature researched and samples provided by The Canadian Centre for Architecture.
+New Signatures,fmt/1628,Adobe InDesign Document 1.0: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1629,Adobe InDesign Document 1.5: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1630,Adobe InDesign Document 2.0: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1631,Adobe InDesign Document CS5.5: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1632,Adobe InDesign Document CC: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1633,Adobe InDesign Document CC 2014: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1634,Adobe InDesign Document CC 2015: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1635,Adobe InDesign Document CC 2017: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1636,Adobe InDesign Document CC 2018: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1637,Adobe InDesign Document CC 2019: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1638,Adobe InDesign Document CC 2020: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1639,Adobe InDesign Document CC 2021: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1640,Adobe InDesign Document CC 2022: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1641,Adobe InDesign Interchange Document: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1642,Adobe InDesign Library 2: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1643,Lenel Network Video Recorder File: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1644,Roxio Label Creator Project File v4-5: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1645,Roxio Label Creator Project File v6-7: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1646,Roxio Label Creator Project File v8-11: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1647,Inspiration Software File: Signature researched and samples provided by National Archives of Australia and State Archives and Records Authority of New South Wales.
+New Signatures,fmt/1648,Crystal Reports File: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.

@@ -1,0 +1,154 @@
+New Records,fmt/425,Video Object File: Outline entry added.
+New Records,fmt/426,Harris Matrix: Submission from The Museum of London. Partial entry added.
+New Records,fmt/427,CorelDraw Drawing 12.0: Submission from The Museum of London. Outline entry added.
+New Records,fmt/428,CorelDraw Drawing X3: Submission from The Museum of London. Outline entry added.
+New Records,fmt/429,CorelDraw Drawing X4: Submission from The Museum of London. Outline entry added.
+New Records,fmt/430,CorelDraw Drawing X5: Submission from The Museum of London. Outline entry added.
+New Records,fmt/431,Corel R.A.V.E. 2: Submission from The Museum of London. Outline entry added.
+New Records,fmt/432,Corel R.A.V.E. 3: Submission from The Museum of London. Outline entry added.
+New Records,fmt/433,Drawing Interchange Format (ASCII) 2010/2011/2012: Submission from The Museum of London. Outline entry added.
+New Records,fmt/434,AutoCAD Drawing 2010/2011/2012: Submission from The Museum of London. Outline entry added.
+New Records,fmt/435,Drawing Interchange Format (ASCII) 2007/2008/2009: Outline entry added.
+New Records,fmt/436,Digital Negative Format (DNG) 1.0: Full entry added.
+New Records,fmt/437,Digital Negative Format (DNG) 1.2: Full entry added.
+New Records,fmt/438,Digital Negative Format (DNG) 1.3: Full entry added.
+New Records,fmt/439,BSDIFF 4.0: Partial entry added.
+New Records,fmt/412,"Microsoft Word for Windows 2007: Record created for.docx. Previously DROID has been pointing incorrectly at the PUID for Microsoft Office  Open XML, fmt/189."
+New Records,fmt/440,Microsoft Project 2007: Outline entry added.
+New Records,fmt/441,Windows Media Video 9 Advanced Profile (WVC1): Outline entry added.
+New Records,fmt/442,Microsoft Visio (generic): Outline entry added as a temporary measure to allow DROID to identify versions of Visio not currently covered by the container signature file.
+New Records,fmt/443,Microsoft Visio 2003: Outline entry added.
+New Records,fmt/413,Scalable Vector Graphics Tiny 1.2: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/414,Audio Interchange File Format 1.2: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/415,Cinema 4D: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/416,Apple Core Audio Format: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/417,Adobe Illustrator 88: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/418,Adobe Illustrator 3.0/3.2: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/419,Adobe Illustrator 4.0: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/420,Adobe Illustrator 5.0/5.5: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/421,Adobe Illustrator Japan: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/422,Adobe Illustrator 6.0: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/423,Adobe Illustrator 7.0: Description information submitted by the National Archives and Records Administration. Partial entry added.
+New Records,fmt/424,Open Document Database 1.2: Partial entry added.
+Updated Records,fmt/152,"Digital Negative Format (DNG) 1.1: Description added. Priority information added to avoid potential mis-identification with Tagged Image File Format, 
+Tagged Image File Format for Electronic Photography (TIFF/EP), Exchangeable Image File Format (Uncompressed) 2.0, Exchangeable Image File Format (Uncompressed) 2.1, Exchangeable Image File Format (Uncompressed) 2.2."
+Updated Records,fmt/154,"Tagged Image File Format for Electronic Photography (TIFF/EP): Format name changed for greater accuracy and consistency.Priority information added to avoid potential mis-identification with Tagged Image File Format, Exchangeable Image File Format (Uncompressed) 2.0, Exchangeable Image File Format (Uncompressed) 2.1, Exchangeable Image File Format (Uncompressed) 2.2."
+Updated Records,fmt/155,"Geographic Tagged Image File Format (GeoTIFF): Format name changed for greater accuracy and consistency. Priority information added to avoid potential mis-identification with Tagged Image File Format, Exchangeable Image File Format (Uncompressed) 2.0, Exchangeable Image File Format (Uncompressed) 2.1, Exchangeable Image File Format (Uncompressed) 2.2."
+Updated Records,fmt/156,"Tagged Image File Format for Internet Fax (TIFF-FX): Description added. File extension added. Priority information added to avoid mis-identification with Tagged Image File Format, Exchangeable Image File Format (Uncompressed) 2.0, Exchangeable Image File Format (Uncompressed) 2.1, Exchangeable Image File Format (Uncompressed) 2.2."
+Updated Records,x-fmt/113,Microsoft Visio Drawing 5.0: Priority information added to avoid potential mis identification with OLE2 Compound Document Format. Container signature statement added to record notes.
+Updated Records,x-fmt/258,Microsoft Visio Drawing 2000: Priority information added to avoid potential mis identification with OLE2 Compound Document Format. Container signature statement added to record notes.
+Updated Records,x-fmt/259,Microsoft Visio Drawing 2002: Priority information added to avoid potential mis identification with OLE2 Compound Document Format. Container signature statement added to record notes.
+Updated Records,x-fmt/429,Microsoft Web Archive: Existing signature refined through PRONOM Research.
+Updated Records,x-fmt/158,Initial Graphics Exchange Specification: Existing signature refined through PRONOM Research.
+Updated Records,fmt/79,Drawing Interchange File Format 2004/2005/2006: Format version amended for greater accuracy.
+Updated Records,x-fmt/33,Corel R.A.V.E.1: File format name changed for greater accuracy and consistency.Version information added.
+Updated Records,fmt/39,Microsoft Word for Windows 6.0: Container signature statement added to record notes.
+Updated Records,fmt/40,Microsoft Word for Windows 97-2003: Container signature statement added to record notes.
+Updated Records,fmt/60,Excel 95 Workbook: Container signature statement added to record notes.
+Updated Records,fmt/61,Excel 97 Workbook: Container signature statement added to record notes.
+Updated Records,fmt/126,Microsoft PowerPoint Presentation 97-2002: Container signature statement added to record notes.
+Updated Records,fmt/136,OpenDocument Text 1.0: Container signature statement added to record notes.
+Updated Records,fmt/137,OpenDocument Spreadsheet 1.0: Container signature statement added to record notes.
+Updated Records,fmt/138,OpenDocument Presentation 1.0: Container signature statement added to record notes.
+Updated Records,fmt/140,OpenDocument Database Format: Container signature statement added to record notes.
+Updated Records,fmt/214,Excel for Windows 2007: Container signature statement added to record notes.
+Updated Records,fmt/215,PowerPoint for Windows 2007: Container signature statement added to record notes.
+Updated Records,fmt/290,OpenDocument Text 1.1: Container signature statement added to record notes.
+Updated Records,fmt/291,OpenDocument Text 1.2: Container signature statement added to record notes.
+Updated Records,fmt/292,OpenDocument Presentation 1.1: Container signature statement added to record notes.
+Updated Records,fmt/293,OpenDocument Presentation 1.2: Container signature statement added to record notes.
+Updated Records,fmt/294,OpenDocument Spreadsheet 1.1: Container signature statement added to record notes.
+Updated Records,fmt/295,OpenDocument Spreadsheet 1.2: Container signature statement added to record notes.
+Updated Records,x-fmt/243,Microsoft Project 4.0: Container signature statement added to record notes.
+Updated Records,x-fmt/245,Microsoft Project 95: Container signature statement added to record notes.
+Updated Records,x-fmt/247,Microsoft Project 2000-2003: Version information updated for. Container signature statement added to record notes.
+Updated Records,x-fmt/412,Java Archive Format: Container signature statement added to record notes.
+Updated Records,x-fmt/252,Microsoft Publisher 4.0: Container signature statement added to record notes.
+Updated Records,x-fmt/253,Microsoft Publisher 95: Container signature statement added to record notes.
+Updated Records,x-fmt/257,Microsoft Publisher 2002: Container signature statement added to record notes.
+Updated Records,x-fmt/412,OpenDocument Spreadsheet 1.1: Container signature statement added to record notes.
+Updated Records,x-fmt/430,Microsoft Outlook Email Message 97-2003: Container signature statement added to record notes.
+Updated Records,fmt/189,Microsoft Office Open XML 2007: Container signature for .docx now points at fmt/412.
+Updated Records,fmt/14,Acrobat PDF 1.0 - Portable Document Format: Existing signature refined through PRONOM Research.
+Updated Records,fmt/15,Acrobat PDF 1.1 - Portable Document Format: Existing signature refined through PRONOM Research.
+Updated Records,fmt/16,Acrobat PDF 1.2 - Portable Document Format: Existing signature refined through PRONOM Research.
+Updated Records,fmt/17,Acrobat PDF 1.3 - Portable Document Format: Existing signature refined through PRONOM Research.
+Updated Records,fmt/18,Acrobat PDF 1.4 - Portable Document Format: Existing signature refined through PRONOM Research.
+Updated Records,fmt/19,Acrobat PDF 1.5 - Portable Document Format: Existing signature refined through PRONOM Research.
+Updated Records,fmt/20,Acrobat PDF 1.6 - Portable Document Format: Existing signature refined through PRONOM Research.
+Updated Records,fmt/124,Encapsulated Postscript File Format 3: Existing signature EPS 3.0 Preview refined through PRONOM Research.
+Updated Records,fmt/246,Microsoft Project 2000: Puid deprecated as fmt/247 now represents the correct version information.
+Updated Records,fmt/215,Microsoft Powerpoint 2007: Existing signature refined through PRONOM Research.
+Updated Records,x-fmt/453,TrueType Font: Existing signature refined through PRONOM Research.
+Updated Records,x-fmt/385,MPEG-1 Video Format: Existing generic signature refined to reflect version '1'. See below for new signature developed for x-fmt/386.
+Updated Records,fmt/276,Acrobat PDF 1.7 - Portable Document Format: Mime-type information added.
+Updated Records,fmt/396,PocketMobi (Palm Resource) File: Extension information updated.
+Updated Records,fmt/91,Scalable Vector Graphics 1.0: Description information submitted by National Archives and Records Administration.
+Updated Records,fmt/92,Scalable Vector Graphics 1.1: Description information submitted by National Archives and Records Administration.
+Updated Records,fmt/93,Virtual Reality Modeling Language 1.0: Description information submitted by National Archives and Records Administration.
+Updated Records,fmt/94,Virtual Reality Modeling Language 2.0: Description information submitted by National Archives and Records Administration.
+Updated Records,fmt/11,Portable Network Graphics 1.0: Description information submitted by National Archives and Records Administration.
+Updated Records,fmt/233,Paint Shop Pro Image 3.0: Description information submitted by National Archives and Records Administration.
+Updated Records,fmt/377,Paint Shop Pro Image 4.00: Description information submitted by National Archives and Records Administration.
+Updated Records,fmt/234,Paint Shop Pro Image 5.0: Description information submitted by National Archives and Records Administration.
+Updated Records,fmt/297,Paint Shop Pro Image 6.0: Description information submitted by National Archives and Records Administration.
+Updated Records,x-fmt/139,Audio Interchange File Format 1.3: Version information updated to macth description.
+Updated Records,x-fmt/20,Adobe Illustrator 1.0/1.1: Version information added.
+Updated Records,x-fmt/80,Macintosh PICT Image 1.0: Signature removed to avoid clashing with other puids/causing mis-identification.
+Updated Records,fmt/335,Dreamweaver Lock File: Signature removed to avoid clashing with other puids/causing mis-identification.
+Updated Records,fmt/289,WARC: Existing signature refined through PRONOM Research.
+Updated Records,fmt/278,Internet Message format (Outlook Express Mail Message): Existing signature refined through PRONOM Research.
+Updated Records,fmt/329,Shell Archive No.1: Existing signature refined through PRONOM Research.
+New Signatures,fmt/425,Video Object File: Signature developed through PRONOM Research.
+New Signatures,fmt/426,Harris Matrix: Signature submitted by the Museum of London.
+New Signatures,fmt/427,CorelDraw Drawing version 12: Signature submitted by the Museum of London.
+New Signatures,fmt/428,CorelDraw Drawing version X3: Signature submitted by the Museum of London.
+New Signatures,fmt/429,CorelDraw Drawing version X4: Signature submitted by the Museum of London.
+New Signatures,fmt/430,CorelDraw Drawing version X5: Signature submitted by the Museum of London.
+New Signatures,x-fmt/33,Corel R.A.V.E 1: Signature submitted by the Museum of London.
+New Signatures,fmt/431,Corel R.A.V.E 2: Signature submitted by the Museum of London.
+New Signatures,fmt/432,Corel R.A.V.E 3: Signature submitted by the Museum of London.
+New Signatures,fmt/433,Drawing Interchange Format (ASCII) 2007/2008/2009: Signature developed through PRONOM Research.
+New Signatures,fmt/434,AutoCAD Drawing 2010/2011/2012: Signature developed through PRONOM Research.
+New Signatures,fmt/435,Drawing Interchange File Format (ASCII) 2010/2011/2012: Signature developed through PRONOM Research.
+New Signatures,fmt/436,"DNG 1.0 (little-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/436,"DNG 1.0 (little-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/436,"DNG 1.0 (big-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/436,"DNG 1.0 (big-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/152,"DNG 1.1 (little-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/152,"DNG 1.1 (little-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/152,"DNG 1.1 (big-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/152,"DNG 1.1 (big-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/437,"DNG 1.2 (little-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/437,"DNG 1.2 (little-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/437,"DNG 1.2 (big-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/437,"DNG 1.2 (big-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/438,"DNG 1.3 (little-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/438,"DNG 1.3 (little-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/438,"DNG 1.3 (big-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/438,"DNG 1.3 (big-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/439,BSDIFF 4.0: Signature developed through PRONOM Research.
+New Signatures,fmt/154,"TIFF/EP (little-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/154,"TIFF/EP (little-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/154,"TIFF/EP (big-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/154,"TIFF/EP (big-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/155,"GeoTIFF (little-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/155,"GeoTIFF (little-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/155,"GeoTIFF (big-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/155,"GeoTIFF (big-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/156,"TIFF-FX (little-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/156,"TIFF-FX (little-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/156,"TIFF-FX (big-endian, BOF): Signature developed through PRONOM Research."
+New Signatures,fmt/156,"TIFF-FX (big-endian, BOF+EOF): Signature developed through PRONOM Research."
+New Signatures,fmt/441,Windows Media Video 9 Advanced Profile (WVC1): Signature developed through PRONOM Research.
+New Signatures,fmt/78,Drawing Interchange File Format 2000-2002 (0A): Signature developed through PRONOM Research.
+New Signatures,fmt/79,Drawing Interchange File Format 2004/2005/2006 (0A): Signature developed through PRONOM Research.
+New Signatures,fmt/63,Drawing Interchange File Format (ASCII) (Generic) (0D): Signature developed through PRONOM Research.
+New Signatures,x-fmt/386,MPEG-2 Video: Signature developed through PRONOM Research.
+New Signatures,x-fmt/245,Microsoft Project 98: New container signature developed through PRONOM Research.
+New Signatures,x-fmt/247,Microsoft Project 2000-2003: New container signature developed through PRONOM Research.
+New Signatures,fmt/440,Microsoft Project 2007: Two new container signatures developed through PRONOM Research.
+New Signatures,x-fmt/258,Microsoft Visio 2000: New container signature developed through PRONOM Research.
+New Signatures,fmt/443,Microsoft Visio 2003: New container signature developed through PRONOM Research.
+New Signatures,fmt/442,Microsoft Visio (generic): Orignial Visio container signature now points to this puid.
+New Signatures,fmt/194,FileMaker Pro ver.7 + Database Document: Signature developed through PRONOM Research.
