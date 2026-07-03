@@ -1,0 +1,47 @@
+New Records,fmt/1083,Hangul Word Processor Document 3: Full entry added. Requested by RM Soft Korea.
+New Records,fmt/1084,Hangul Word Processor Document 5: Full entry added. Requested by RM Soft Korea.
+New Records,fmt/1085,TRIM Context Reference File: Full entry added. Requested by Public Records Office Northern Ireland.
+New Records,fmt/1086,Monkey's Audio File: Full entry added.
+New Records,fmt/1087,FAT Disk Image: Full entry added. Requested by National Library of Scotland.
+New Records,fmt/1088,Visual Basic (VB) File: Extension only entry added. Requested by National Library of Scotland.
+New Records,fmt/1089,VBScript (VBS) File: Extension only entry added. Requested by National Library of Scotland.
+New Records,fmt/1090,Exclude File: Extension only entry added. Requested by National Library of Scotland.
+New Records,fmt/1091,Scribus Document: Full entry added.
+New Records,fmt/1092,Alias Pix Image File: Full entry added. Submitted by the Canadian Centre for Architecture.
+New Records,fmt/1093,Alias Scene Description Language: Full entry added. Submitted by the Canadian Centre for Architecture.
+New Records,fmt/1094,"The Neuroimaging Informatics Technology Initiative File Format 2: Full entry added. Submitted by Bodleian Libraries, University of Oxford."
+New Records,fmt/1095,PEA Archive Format: Full entry added.
+New Records,fmt/1096,FreeArc Archive Format: Full entry added.
+New Records,fmt/1097,ZPAQ Archive Format: Full entry added.
+New Records,fmt/1098,XZ File Format: Full entry added.
+New Records,fmt/1099,TCR eBook: Full entry added.
+New Records,fmt/1100,yEnc Encoded File: Full entry added.
+Updated Records,fmt/279,FLAC (Free Lossless Audio Codec) 1.2.1: Added MIME type.
+Updated Records,fmt/320,ESRI Shapefile Projection (Well-Known Text) Format: Added small EOF offset to account for potential for line-endings. Submitted by Landesarchiv Nordrhein-Westfalen.
+Updated Records,fmt/399,Stuffit X Archive File: Adjusted signature.
+Updated Records,fmt/682,Thumbs DB file XP: Added MIME type.
+Updated Records,fmt/798,"The Neuroimaging Informatics Technology Initiative File Format 1: Added version number. Added missing extension and second signature variant. Added alias 'NIfTI-1 Data Format'. Added format type 'Dataset'. Additional information provided by Bodleian Libraries, University of Oxford."
+Updated Records,fmt/829,3MF 3D Manufacturing Format: Changed MIME type from application/vnd.ms-package.3dmanufacturing-3dmodel+xml to application/vnd.ms-3mfdocument to match current IANA entry.
+Updated Records,fmt/877,Corel Presentation 7-8-9: Adjusted container signature to resolve issue with non-ASCII character representation causing non-identification within Linux environments. Issue identified through Ross Spencer's Skeleton Corpus work and resolution assisted by State Records New South Wales and Richard Lehane's Siegfried file format identification tool.
+Updated Records,fmt/892,Compound WordPerfect for Windows Document 6 onwards: Adjusted container signature to resolve issue with non-ASCII character representation causing non-identification within Linux environments. Issue identified through Ross Spencer's Skeleton Corpus work and resolution assisted by State Records New South Wales and Richard Lehane's Siegfried file format identification tool.
+Updated Records,fmt/899,Windows Portable Executable 32 bit: Changed MIME type from application/octet-stream to application/vnd.microsoft.portable-executable to match current IANA entry.
+Updated Records,fmt/900,Windows Portable Executable 64 bit: Changed MIME type from application/octet-stream to application/vnd.microsoft.portable-executable to match current IANA entry.
+Updated Records,x-fmt/266,GZIP Format: Changed MIME type from application/x-gzip to application/gzip to match current IANA entry.
+Updated Records,x-fmt/411,Windows Portable Executable: Changed MIME type from application/octet-stream to application/vnd.microsoft.portable-executable to match current IANA entry.
+Updated Records,x-fmt/414,Windows Cabinet File: Added MIME type.
+Updated Records,x-fmt/415,Java Compiled Object Code: Gave priority over Alias Pix Image File due to rare edge-case clash conditions.
+New Signatures,fmt/1083,Hangul Word Processor Document 3: Signature developed through PRONOM Research. Requested by RM Soft Korea.
+New Signatures,fmt/1084,Hangul Word Processor Document 5: Container signature developed through PRONOM Research. Requested by RM Soft Korea.
+New Signatures,fmt/1085,TRIM Context Reference File: Signature developed with Public Records Office Northern Ireland.
+New Signatures,fmt/1086,Monkey's Audio File: Signature developed through PRONOM Research.
+New Signatures,fmt/1087,FAT Disk Image: Signature developed with National Library of Scotland.
+New Signatures,fmt/1091,Scribus Document: Signature developed through PRONOM Research.
+New Signatures,fmt/1092,Alias Pix Image File: Signature developed with the Canadian Centre for Architecture.
+New Signatures,fmt/1093,Alias Scene Description Language: Signature developed with the Canadian Centre for Architecture.
+New Signatures,fmt/1094,"The Neuroimaging Informatics Technology Initiative File Format 2: Signature developed with Bodleian Libraries, University of Oxford."
+New Signatures,fmt/1095,PEA Archive Format: Signature developed through PRONOM Research.
+New Signatures,fmt/1096,FreeArc Archive Format: Signature developed through PRONOM Research.
+New Signatures,fmt/1097,ZPAQ Archive Format: Signature developed through PRONOM Research.
+New Signatures,fmt/1098,XZ File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/1099,TCR eBook: Signature developed through PRONOM Research.
+New Signatures,fmt/1100,yEnc Encoded File: Signature developed through PRONOM Research.

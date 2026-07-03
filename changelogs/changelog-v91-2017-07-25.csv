@@ -1,0 +1,108 @@
+New Records,fmt/1041,HDF 1-4: Full entry added.
+New Records,fmt/1042,WordPerfect Graphics Metafile 2.0: Full entry added.
+New Records,fmt/1043,Microsoft PRX File: Full entry added.
+New Records,fmt/1044,AutoShade Rendering Slide: Full entry added.
+New Records,fmt/1045,Q&A Word Processor Document: Full entry added.
+New Records,fmt/1046,Draco File Format: Full entry added.
+New Records,fmt/1047,Geography Markup Language 3.2: Full entry added. Requested by Archaeology Data Service.
+New Records,fmt/1048,OGR GFS File: Full entry added. Requested by Archaeology Data Service.
+New Records,fmt/1049,"QuickDraw 3D Metafile (ASCII): Full entry added. Submitted by Henk Vanstappen, Datable."
+New Records,fmt/1050,"QuickDraw 3D Metafile (Binary) 1: Full entry added. Submitted by Henk Vanstappen, Datable."
+New Records,fmt/1051,Windows Journal Format: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1052,BKNAS Seismic Data Format 1.0: Full entry added.
+New Records,fmt/1053,Adobe Audio Waveform: Full entry added. Submitted by National Library of Scotland.
+New Records,fmt/1054,AVCHD Clip Information File: Full entry added. Submitted by National Library of Scotland. Additionally requested by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1055,M2TS: Full entry added. Submitted by National Library of Scotland. Additionally requested by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1056,SNAP Main Data File: Full entry added.
+New Records,fmt/1057,SNAP Archive Data File: Full entry added.
+New Records,fmt/1058,SNAP Processed Data File: Full entry added.
+New Records,fmt/1059,FileMaker Pro Database 2: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1060,Phase One Raw Image: Full entry added. Submitted by Historic Environment Scotland.
+New Records,fmt/1061,Phase One IIQ Raw Image: Full entry added. Submitted by Historic Environment Scotland.
+New Records,fmt/1062,Hasselblad 3FR Raw Image: Full entry added. Submitted by Historic Environment Scotland.
+New Records,fmt/1063,Leaf Mosaic Raw Image: Full entry added. Submitted by Historic Environment Scotland.
+New Records,fmt/1064,Portable Database 1: Full entry added.
+New Records,fmt/1065,Portable Database 2: Full entry added.
+New Records,fmt/1066,Portable Database 3: Full entry added.
+New Records,fmt/1067,Silo PDB Variant: Full entry added. Submitted by University of Leeds.
+New Records,fmt/1068,Silo HDF5 Variant: Full entry added. Submitted by University of Leeds.
+New Records,fmt/1069,Cue Sheet: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1070,"Preferred Executable Format: Full entry added. Submitted by Henk Vanstappen, Datable."
+New Records,fmt/1071,"Apple Disk Image: Full entry added. Submitted by Henk Vanstappen, Datable."
+New Records,fmt/1072,"FileMaker Pro Database 1: Full entry added. Submitted by Henk Vanstappen, Datable."
+New Records,fmt/1073,Google Document Link File: Full entry added.
+New Records,fmt/1074,AVCHD Playlist File: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1075,AVCHD Movie Object File: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1076,AVCHD Index File: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1077,AVCHD Thumbnail Index File: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1078,Microsoft Program Database 2.00: Full entry added. Submitted by National Library of Scotland.
+New Records,fmt/1079,Microsoft Program Database 7.00: Full entry added. Submitted by National Library of Scotland.
+New Records,fmt/1080,ASP Application Directive File: Full entry added. Submitted by National Library of Scotland.
+New Records,fmt/1081,ASP Control Directive File: Full entry added. Submitted by National Library of Scotland.
+New Records,fmt/1082,ASP WebService Directive File: Full entry added. Submitted by National Library of Scotland.
+Updated Records,fmt/76,"Drawing Interchange File Format (ASCII) R13: Modified signature to account for UNIX line endings. It will likely be necessary to make similar changes for other DXF ASCII files. Please contact the PRONOM team if you have any currently unidentified DXF files. New signature and samples provided by Henk Vanstappen, Datable."
+Updated Records,fmt/77,"Drawing Interchange File Format (ASCII) R14: Modified signature to account for UNIX line endings. It will likely be necessary to make similar changes for other DXF ASCII files. Please contact the PRONOM team if you have any currently unidentified DXF files. New signature and samples provided by Henk Vanstappen, Datable."
+Updated Records,fmt/78,"Drawing Interchange File Format (ASCII) 2000-2002: Modified signature to account for UNIX line endings. It will likely be necessary to make similar changes for other DXF ASCII files. Please contact the PRONOM team if you have any currently unidentified DXF files. New signature and samples provided by Henk Vanstappen, Datable."
+Updated Records,fmt/192,Kodak Digital Camera Raw Image File: Added brief description. Added format type Image (Raster).
+Updated Records,fmt/194,FileMaker Pro Database 7+: Adjusted name from 'FileMaker Pro Ver. 7+ Database Document 7' for consistency. Added brief description. Slightly adjusted format signature description.
+Updated Records,fmt/245,"Structured Data Exchange Format: Removed empty 'External Signature' - should be null instead. Error identified through schema validation work with French government/Programme Vitam, France"
+Updated Records,fmt/286,HDF5 1: Changed duplicated 'hdf5' extension to hdf.
+Updated Records,fmt/400,"Macromedia FreeHand MX: Changed lower-case signature byte values to upper-case. Error identified through schema validation work with French government/Programme Vitam, France"
+Updated Records,fmt/418,Adobe Illustrator 3.0 / 3.2: Added additional signature for variation in BOF.
+Updated Records,fmt/423,Adobe Illustrator 6: Signature updated as part of PRONOM Research.
+Updated Records,fmt/462,"MS DOS Compression Format: Removed empty 'External Signature' - should be null instead. Error identified through schema validation work with French government/Programme Vitam, France"
+Updated Records,fmt/562,Adobe Illustrator 13: Signature updated as part of PRONOM Research.
+Updated Records,fmt/563,Adobe Illustrator 14: Signature updated as part of PRONOM Research.
+Updated Records,fmt/807,HDF5 0: Added 'hdf5' and 'hdf' extensions.
+Updated Records,fmt/831,"Polygon File Format: Improved signature submitted by Henk Vanstappen, Datable."
+Updated Records,fmt/950,"MIME Email: Improved signature submitted by Henk Vanstappen, Datable."
+Updated Records,fmt/969,Rich Text Format 0: Removed extraneous whitespace preceeding format name. Error identified by Andy Jackson's file format registry aggregator - http://www.digipres.org/formats/- hosted on the DigiPres Commons website.
+Updated Records,x-fmt/19,"3D Studio: Added variant signature based on samples provided by Henk Vanstappen, Datable."
+Updated Records,x-fmt/227,Geography Markup Language: Added format type GIS.
+Updated Records,x-fmt/239,"Microsoft Access Database 97: Changed lower-case signature byte values to upper-case. Error identified through schema validation work with French government/Programme Vitam, France"
+Updated Records,x-fmt/280,XML Schema Definition: Gave priority over fmt/1047 - Geography Markup Language 3.2.
+Updated Records,x-fmt/395,WordPerfect Graphics Metafile 1.0: Added brief description. Adjusted signature for consistency with new entry for version 2.0 format in line with format header description in 'The File Formats Handbook' by Gunter Born.
+Updated Records,x-fmt/451,"SketchUp Document: Added brief description. Added alternative signature for older versions, provided by Henk Vanstappen, Datable. Removed MIME type application/octet-stream as is not specific to this format. Added format type 'Model'."
+New Signatures,fmt/192,Kodak Digital Camera Raw Image File: Signature developed through PRONOM Research. Requested by Historic Environment Scotland.
+New Signatures,fmt/1041,HDF 1-4: Signature developed through PRONOM Research.
+New Signatures,fmt/1042,WordPerfect Graphics Metafile 2.0: Signature developed through PRONOM Research.
+New Signatures,fmt/1043,Microsoft PRX File: Signature developed through PRONOM Research.
+New Signatures,fmt/1044,AutoShade Rendering Slide: Signature developed through PRONOM Research.
+New Signatures,fmt/1045,Q&A Word Processor Document: Signature developed through PRONOM Research.
+New Signatures,fmt/1046,Draco File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/1047,Geography Markup Language 3.2: Signature developed through PRONOM Research. Requested by Archaeology Data Service.
+New Signatures,fmt/1048,OGR GFS File: Signature developed through PRONOM Research. Requested by Archaeology Data Service.
+New Signatures,fmt/1049,"QuickDraw 3D Metafile (ASCII): Signature submitted by Henk Vanstappen, Datable."
+New Signatures,fmt/1050,"QuickDraw 3D Metafile (Binary) 1: Signature submitted by Henk Vanstappen, Datable."
+New Signatures,fmt/1051,Windows Journal Format: Signature submitted by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1052,BKNAS Seismic Data Format 1.0: Signature developed through PRONOM Research.
+New Signatures,fmt/1053,Adobe Audio Waveform: Signature submitted by National Library of Scotland.
+New Signatures,fmt/1054,AVCHD Clip Information File: Signature submitted by National Library of Scotland.
+New Signatures,fmt/1055,M2TS: Signature developed with National Library of Scotland.
+New Signatures,fmt/1056,SNAP Main Data File: Signature developed through PRONOM Research.
+New Signatures,fmt/1057,SNAP Archive Data File: Signature developed through PRONOM Research.
+New Signatures,fmt/1058,SNAP Processed Data File: Signature developed through PRONOM Research.
+New Signatures,fmt/1059,FileMaker Pro Database 2: Signature developed with Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1060,Phase One Raw Image: Signature developed through PRONOM Research. Requested by Historic Environment Scotland.
+New Signatures,fmt/1061,Phase One IIQ Raw Image: Signature developed through PRONOM Research. Requested by Historic Environment Scotland.
+New Signatures,fmt/1062,Hasselblad 3FR Raw Image: Signature developed through PRONOM Research. Requested by Historic Environment Scotland.
+New Signatures,fmt/1063,Leaf Mosaic Raw Image: Signature developed through PRONOM Research. Requested by Historic Environment Scotland.
+New Signatures,fmt/1064,Portable Database 1: Signature developed through PRONOM Research.
+New Signatures,fmt/1065,Portable Database 2: Signature developed through PRONOM Research.
+New Signatures,fmt/1066,Portable Database 3: Signature developed through PRONOM Research.
+New Signatures,fmt/1067,Silo PDB Variant: Signature developed through PRONOM Research. Requested by University of Leeds.
+New Signatures,fmt/1068,Silo HDF5 Variant: Signature developed through PRONOM Research. Requested by University of Leeds.
+New Signatures,fmt/1069,Cue Sheet: Signature developed with Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1070,"Preferred Executable Format: Signature developed through PRONOM Research based on samples provided by Henk Vanstappen, Datable."
+New Signatures,fmt/1071,"Apple Disk Image: Signature developed with Henk Vanstappen, Datable."
+New Signatures,fmt/1072,"FileMaker Pro Database 1: Signature developed through PRONOM Research based on samples provided by Henk Vanstappen, Datable."
+New Signatures,fmt/1073,Google Document Link File: Signature developed through PRONOM Research.
+New Signatures,fmt/1074,AVCHD Playlist File: Signature developed with Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1075,AVCHD Movie Object File: Signature developed with Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1076,AVCHD Index File: Signature developed with Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1077,AVCHD Thumbnail Index File: Signature developed with Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1078,Microsoft Program Database 2.00: Signature submitted by National Library of Scotland.
+New Signatures,fmt/1079,Microsoft Program Database 7.00: Signature submitted by National Library of Scotland.
+New Signatures,fmt/1080,ASP Application Directive File: Signature submitted by National Library of Scotland.
+New Signatures,fmt/1081,ASP Control Directive File: Signature submitted by National Library of Scotland.
+New Signatures,fmt/1082,ASP WebService Directive File: Signature submitted by National Library of Scotland.

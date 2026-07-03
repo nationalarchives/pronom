@@ -1,0 +1,70 @@
+New Records,fmt/610,ARJ File Format: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/611,LDAP Data Interchange Format: Outline Entry Added. Submitted by Keep Solutions.
+New Records,fmt/612,Mork: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/613,RAR Archive 5.0: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/614,Windows Imaging Format: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/615,Gimp Image file format: Outline Entry Added. Submitted by Provincie West-Vlaanderen.
+New Records,fmt/616,Web Open Font Format: Outline Entry Added.
+New Records,fmt/617,GeoGebra 2: Outline Entry Added. Submitted by KU Leuven Library of Belgium.
+New Records,fmt/618,GeoGebra 1.0: Outline Entry Added. Submitted by KU Leuven Library of Belgium.
+New Records,fmt/619,GeoGebra 1.X: Outline Entry Added. Submitted by KU Leuven Library of Belgium.
+New Records,fmt/620,GeoGebra 3: Outline Entry Added. Submitted by KU Leuven Library of Belgium.
+New Records,fmt/621,GeoGebra 4: Outline Entry Added. Submitted by KU Leuven Library of Belgium.
+New Records,fmt/622,GeoGebra 5: Outline Entry Added. Submitted by KU Leuven Library of Belgium.
+New Records,fmt/623,SmartDraw: Outline Entry Added.
+New Records,fmt/624,RIFF Palette Format: Outline Entry Added.
+New Records,fmt/625,Apple Disk Copy Image: Outline Entry Added.Submitted by Yale University Library.
+New Records,fmt/626,LHA File Format: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/627,Microsoft Excel Macro-Enabled Template: Outline Entry Added.
+New Records,fmt/628,Microsoft Excel Macro-enabled add-in: Outline Entry Added.
+New Records,fmt/629,Microsoft PowerPoint show: Outline Entry Added.
+New Records,fmt/630,Microsoft PowerPoint Macro-enabled show: Outline Entry Added.
+New Records,fmt/631,Microsoft PowerPoint Template: Outline Entry Added.
+New Records,fmt/632,Microsoft PowerPoint Macro-enabled template: Outline Entry Added.
+New Records,fmt/633,Microsoft PowerPoint Macro-enabled add-in: Outline Entry Added.
+New Records,fmt/634,Microsoft Compiled HTML Help: Outline Entry Added.
+New Records,fmt/635,cpio: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/636,Microsoft PowerPoint Macro-enabled slide: Outline Entry Added.
+New Records,fmt/637,Microsoft OneNote: Outline Entry Added.
+New Records,fmt/638,SPSS Data File: Outline Entry Added. Submitted by KU Leuven Library of Belgium.
+New Records,fmt/639,Stuffit Archive File: Outline Entry Added.
+Updated Records,fmt/161,SIARD (Software-Independent Archiving of Relational Databases) - 1.0: Version number changed from 2.0 to 1.0 from advice from the Swiss Federal Archives.
+Updated Records,fmt/189,Microsoft Office Open XML: Revised binary signature provided by Ross Spencer.
+Updated Records,fmt/274,SPSS Output File: Container signature developed.
+Updated Records,fmt/354,Acrobat PDF/A - Portable Document Format 1b: Additional signature added in order to avoid misidentifying some PDF/A's which contain 1b conformance declaration as PDF's. Research request by Antonio Dalvit and Erica Betto working in an italian project for documentation/configuration management in ASI srl.
+Updated Records,fmt/399,Stuffit X Archive File: Format name changed from Stuffit Archive File.
+Updated Records,fmt/595,Microsoft Excel Non-XML Binary Workbook (big endian): Name updated and container signature edited
+Updated Records,fmt/609,Microsoft Word (Generic) 6.0-2003: Added extension of .doc
+Updated Records,x-fmt/151,"Micrografx Designer: Container signature developed and version number 7.0 removed from entry, signature makes no reference to individual version numbers."
+Updated Records,x-fmt/200,Material Exchange Format: Mime type and description added.
+Updated Records,x-fmt/386,"MPEG-2 Video Format: Binary signature edited, requested on behalf of Church of Jesus Christ of Latter-day Saints."
+New Signatures,fmt/610,ARJ File Format: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/611,LDAP Data Interchange Format: Signature developed in collaboration with Keep Solutions.
+New Signatures,fmt/612,Mork: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/613,RAR Archive 5.0: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/614,Windows Imaging Format: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/615,Gimp Image file format: Signature developed in collaboration with Provincie West-Vlaanderen.
+New Signatures,fmt/616,Web Open Font Format: Signature developed through PRONOM Research.
+New Signatures,fmt/617,GeoGebra 2: Container signature developed through PRONOM Research at request of KU Leuven Library of Belgium.
+New Signatures,fmt/618,GeoGebra 1.0: Container signature developed through PRONOM Research at request of KU Leuven Library of Belgium.
+New Signatures,fmt/619,GeoGebra 1.X: Container signature developed through PRONOM Research at request of KU Leuven Library of Belgium.
+New Signatures,fmt/620,GeoGebra 3: Container signature developed through PRONOM Research at request of KU Leuven Library of Belgium.
+New Signatures,fmt/621,GeoGebra 4: Container signature developed through PRONOM Research at request of KU Leuven Library of Belgium.
+New Signatures,fmt/622,GeoGebra 5: Container signature developed through PRONOM Research at request of KU Leuven Library of Belgium.
+New Signatures,fmt/623,SmartDraw: Signature developed through PRONOM Research.
+New Signatures,fmt/624,RIFF Palette Format: Signature developed through PRONOM Research.
+New Signatures,fmt/625,Apple Disk Copy Image: Signature developed in collaboration with Yale University Library.
+New Signatures,fmt/626,LHA File Format: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/627,Microsoft Excel Macro-Enabled Template: Container signature developed through PRONOM Research.
+New Signatures,fmt/628,Microsoft Excel Macro-enabled add-in: Container signature developed through PRONOM Research.
+New Signatures,fmt/629,Microsoft PowerPoint show: Container signature developed through PRONOM Research.
+New Signatures,fmt/630,Microsoft PowerPoint Macro-enabled show: Container signature developed through PRONOM Research.
+New Signatures,fmt/631,Microsoft PowerPoint Template: Container signature developed through PRONOM Research.
+New Signatures,fmt/632,Microsoft PowerPoint Macro-enabled template: Container signature developed through PRONOM Research.
+New Signatures,fmt/633,Microsoft PowerPoint Macro-enabled add-in: Container signature developed through PRONOM Research.
+New Signatures,fmt/634,Microsoft Compiled HTML Help: Signature developed through a request from Artefactual Systems Inc
+New Signatures,fmt/635,cpio: Signature developed through a request from Artefactual Systems Inc
+New Signatures,fmt/636,Microsoft PowerPoint Macro-enabled slide: Container signature developed through PRONOM Research.
+New Signatures,fmt/637,Microsoft OneNote: Signature developed through PRONOM Research.
+New Signatures,fmt/638,SPSS Data File: Signature developed through a request from KU Leuven Library of Belgium.
+New Signatures,fmt/639,Stuffit Archive File: Signature developed through PRONOM Research.

@@ -1,0 +1,80 @@
+New Records,fmt/482,Apple iBook format: Outline Entry Added with assistance from The British Library.
+New Records,fmt/483,ePub format: Outline Entry Added.
+New Records,fmt/484,7Zip format: Outline Entry Added.
+New Records,fmt/485,Rocket Book eBook format: Outline Entry Added with assistance from The British Library.
+New Records,fmt/486,Macromedia (Adobe) Director Compressed Resource file: Outline Entry Added with assistance from Rhizome.
+New Records,fmt/487,Macro Enabled Microsoft Powerpoint: Outline Entry Added.
+New Records,fmt/488,"Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4: Outline Entry Added with assistance from Nick Parker, Numen Digital."
+New Records,fmt/489,"Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4p: Outline Entry Added with assistance from Nick Parker, Numen Digital."
+New Records,fmt/490,"Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5g: Outline Entry Added with assistance from Nick Parker, Numen Digital."
+New Records,fmt/491,"Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5pg: Outline Entry Added with assistance from Nick Parker, Numen Digital."
+New Records,fmt/492,"Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5n: Outline Entry Added with assistance from Nick Parker, Numen Digital."
+New Records,fmt/493,"Acrobat PDF/E - Portable Document Format for Engineering PDF/E-1: Outline Entry Added with assistance from Nick Parker, Numen Digital."
+Updated Records,fmt/59,Microsoft Excel 5.0/95 Workbook (xls): Renamed from Microsoft Excel 5.0 (xls). Combined to remove multiple identification conflict identified by Ross Spencer. Improved binary and container signatures.
+Updated Records,fmt/60,Microsoft Excel 95 Workbook (xls): Deprecated in favour of fmt/59 Microsoft Excel 5.0/95 Workbook (xls) to remove multiple identification conflict identified by Ross Spencer.
+Updated Records,fmt/61,Microsoft Excel 97 Workbook (xls): Improved binary and container signatures.
+Updated Records,fmt/136,OpenDocument Text 1.0: MIME-Type information added.
+Updated Records,fmt/137,OpenDocument Spreadsheet 1.0: MIME-Type information added.
+Updated Records,fmt/138,OpenDocument Presentation 1.0: MIME-Type information added.
+Updated Records,fmt/139,OpenDocument Graphics 1.0: MIME-Type information added.
+Updated Records,fmt/163,Microsoft Works Word Processor 1-3 for DOS and 2 for Windows: Renamed from Microsoft Works Word Processor for DOS 1.05.
+Updated Records,fmt/164,Microsoft Works Word Processor for DOS 1.12: Deprecated in favour of fmt/163 Microsoft Works Word Processor 1-3 for DOS and 2 for Windows.
+Updated Records,fmt/165,Microsoft Works Word Processor for DOS 2.0: Deprecated in favour of fmt/163 Microsoft Works Word Processor 1-3 for DOS and 2 for Windows.
+Updated Records,fmt/221,Microsoft Works Word Processor for Windows 2.0: Deprecated in favour of fmt/163 Microsoft Works Word Processor 1-3 for DOS and 2 for Windows.
+Updated Records,fmt/232,Microsoft Works Word Processor for Windows 2.0a: Deprecated in favour of fmt/163 Microsoft Works Word Processor 1-3 for DOS and 2 for Windows.
+Updated Records,fmt/233,Microsoft Works Word Processor 3-4 for Windows: Renamed from Microsoft Works Word Processor for Windows 3.0.
+Updated Records,fmt/234,Microsoft Works Word Processor for Windows 3.0a: Deprecated in favour of fmt/233 Microsoft Works Word Processor 3-4 for Windows.
+Updated Records,fmt/235,Microsoft Works Word Processor for Windows 3.0b: Deprecated in favour of fmt/233 Microsoft Works Word Processor 3-4 for Windows.
+Updated Records,fmt/236,Microsoft Works Word Processor for Windows 4.0: Deprecated in favour of fmt/233 Microsoft Works Word Processor 3-4 for Windows.
+Updated Records,fmt/248,Microsoft Works Word Processor for Windows 4.0a: Deprecated in favour of fmt/233 Microsoft Works Word Processor 3-4 for Windows.
+Updated Records,fmt/251,Microsoft Works Word Processor for Windows 4.5: Deprecated in favour of fmt/233 Microsoft Works Word Processor 3-4 for Windows.
+Updated Records,fmt/254,Microsoft Works Word Processor for Windows 4.5a: Deprecated in favour of fmt/233 Microsoft Works Word Processor 3-4 for Windows.
+Updated Records,fmt/258,Microsoft Works Word Processor 5-6: Renamed from Microsoft Works Word Processor for Windows 2000.
+Updated Records,fmt/265,Microsoft Works Word Processor for DOS 3.0: Deprecated in favour of fmt/163 Microsoft Works Word Processor 1-3 for DOS and 2 for Windows.
+Updated Records,fmt/266,Microsoft Works Word Processor for DOS 3.0a: Deprecated in favour of fmt/163 Microsoft Works Word Processor 1-3 for DOS and 2 for Windows.
+Updated Records,fmt/267,Microsoft Works Word Processor for DOS 3.0b: Deprecated in favour of fmt/163 Microsoft Works Word Processor 1-3 for DOS and 2 for Windows.
+Updated Records,fmt/292,OpenDocument Presentation 1.1: MIME-Type information added.
+Updated Records,fmt/293,OpenDocument Presentation 1.2: MIME-Type information added.
+Updated Records,fmt/294,OpenDocument Spreadsheet 1.1: MIME-Type information added.
+Updated Records,fmt/295,OpenDocument Spreadsheet 1.2: MIME-Type information added.
+Updated Records,fmt/296,OpenDocument Graphics 1.1: MIME-Type information added.
+Updated Records,fmt/297,OpenDocument Graphics 1.2: MIME-Type information added.
+Updated Records,fmt/410,Internet Archive 1.1: Improved signature with assistance from National Library of New Zealand.
+Updated Records,fmt/435,Drawing Interchange File Format (ASCII): Improved signature with assistance from Ross Spencer.
+Updated Records,fmt/437,Digital Negative Format (DNG) 1.2: Corrected priority information to avoid multiple identification clashes with TIFF identified by Ross Spencer.
+Updated Records,fmt/438,Digital Negative Format (DNG) 1.3: Corrected priority information to avoid multiple identification clashes with TIFF identified by Ross Spencer.
+Updated Records,fmt/442,Microsoft Visio (generic): MIME-Type information added.
+Updated Records,fmt/443,Microsoft Visio Drawing 2003: MIME-Type information added.
+Updated Records,fmt/463,JPM (JPEG 2000 part 6): MIME-Type information added.
+Updated Records,x-fmt/87,Microsoft Powerpoint Show: MIME-Type information added.
+Updated Records,x-fmt/113,Microsoft Visio Drawing 5.0: MIME-Type information added.
+Updated Records,x-fmt/243,Microsoft Project 4.0: MIME-Type information added.
+Updated Records,x-fmt/244,Microsoft Project 95.0: MIME-Type information added.
+Updated Records,x-fmt/245,Microsoft Project 98.0: MIME-Type information added.
+Updated Records,x-fmt/247,Microsoft Project 2000-2003: MIME-Type information added.
+Updated Records,x-fmt/258,Microsoft Visio Drawing 2000: MIME-Type information added.
+Updated Records,x-fmt/259,Microsoft Visio Drawing 2002: MIME-Type information added.
+Updated Records,x-fmt/333,Lotus Approach View File 97.0: MIME-Type information added.
+Updated Records,x-fmt/334,Lotus Approach View File: MIME-Type information added.
+Updated Records,x-fmt/335,Lotus Freelance Smartmaster Graphics: MIME-Type information added.
+Updated Records,x-fmt/336,Lotus Notes Database 2.0: MIME-Type information added.
+Updated Records,x-fmt/337,Lotus Notes Database 3.0: MIME-Type information added.
+Updated Records,x-fmt/338,Lotus Notes Database 4.0: MIME-Type information added.
+Updated Records,x-fmt/340,Lotus WordPro Document 96.0: MIME-Type information added.
+Updated Records,x-fmt/384,Quicktime: Improved signature through PRONOM Research.
+Updated Records,x-fmt/412,Java Archive Format: Improved signature with assistance from Ross Spencer.
+New Signatures,fmt/163,Microsoft Works Word Processor 1-3 for DOS and 2 for Windows: Signature developed through PRONOM Research.
+New Signatures,fmt/233,Microsoft Works Word Processor 3-4 for Windows: Container signature developed through PRONOM Research.
+New Signatures,fmt/258,Microsoft Works Word Processor 5-6: Container signature developed through PRONOM Research.
+New Signatures,fmt/482,Apple iBook format: Container signature developed with assistance from The British Library.
+New Signatures,fmt/483,ePub format: Container signature developed through PRONOM Research.
+New Signatures,fmt/484,7Zip format: Signature developed through PRONOM Research.
+New Signatures,fmt/485,Rocket Book eBook format: Signature developed with assistance from The British Library.
+New Signatures,fmt/486,Macromedia (Adobe) Director Compressed Resource file: Signature developed with assistance from Rhizome.
+New Signatures,fmt/487,Macro Enabled Microsoft Powerpoint: Container signature developed through PRONOM Research.
+New Signatures,fmt/488,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4: Signature developed through PRONOM Research.
+New Signatures,fmt/489,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4p: Signature developed through PRONOM Research.
+New Signatures,fmt/490,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5g: Signature developed through PRONOM Research.
+New Signatures,fmt/491,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5pg: Signature developed through PRONOM Research.
+New Signatures,fmt/492,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5n: Signature developed through PRONOM Research.
+New Signatures,fmt/493,Acrobat PDF/E - Portable Document Format for Engineering PDF/E-1: Signature developed through PRONOM Research.

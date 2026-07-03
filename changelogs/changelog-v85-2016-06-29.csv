@@ -1,0 +1,64 @@
+New Records,fmt/876,Pagemaker Document (Generic): Full entry added. Requested by the National Library of New Zealand.
+New Records,fmt/877,Corel Presentation 7-8-9: Full entry added. Requested by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/878,Corel Presentation 3: Full entry added. Requested by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/879,Fortran: Extension only entry added. Requested by Krista Ferrante.
+New Records,fmt/880,JSON-LD: Extension only entry added. Requested by National Library of Sweden.
+New Records,fmt/881,Microsoft Document Imaging File Format: Full entry added. Requested by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/882,Wordstar 2000: Full entry added. Submitted by the National Library of New Zealand.
+New Records,fmt/883,Siegfried Signature File: Full entry added.
+New Records,fmt/884,AXD HTTP Handler File: Extension only entry added.
+New Records,fmt/885,BASIC File: Extension only entry added.
+New Records,fmt/886,HTML Components: Extension only entry added.
+New Records,fmt/887,SafeGuard Encrypted Virtual Disk: Full entry added.
+New Records,fmt/888,QuadriSpace Format: Full entry added.
+New Records,fmt/889,Feather: Full entry added.
+New Records,fmt/890,AbiWord Document: Full entry added.
+New Records,fmt/891,AbiWord Document Template: Full entry added.
+New Records,fmt/892,Compound WordPerfect for Windows Document 6 onwards: Full entry added. Requested by Artefactual Systems Inc.
+New Records,fmt/893,i2 Analyst's Notebook: Full entry added.
+New Records,fmt/894,Gaussian Input Data File: Full entry added. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Records,fmt/895,JEOL NMR Spectroscopy: Full entry added. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Records,fmt/896,Music XML: Full entry added. Requested by Bibliotheque cantonale et universitaire BCU Lausanne.
+New Records,fmt/897,Compressed Music XML: Extension only entry added. Requested by Bibliotheque cantonale et universitaire BCU Lausanne.
+New Records,fmt/898,Zoomify Image Format: Full entry added.
+New Records,fmt/899,Windows Portable Executable 32 bit: Full entry added. Submitted by Archives New Zealand.
+New Records,fmt/900,Windows Portable Executable 64 bit: Full entry added. Submitted by Archives New Zealand.
+New Records,fmt/901,Microsoft Works Spreadsheet 6-9: Full entry added. Requested by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/902,Blender 3D 32 bit: Full entry added.
+New Records,fmt/903,Blender 3D 64 bit: Full entry added.
+New Records,fmt/904,Bluetooth Snoop Packet Capture: Full entry added.
+Updated Records,fmt/453,Verity Collection Stop List: Added description at suggestion of National Records of Scotland.
+Updated Records,fmt/454,Verity Collection Index About File: Added description at suggestion of National Records of Scotland.
+Updated Records,fmt/455,Verity Collection Index Pending Transaction File: Added description at suggestion of National Records of Scotland.
+Updated Records,fmt/456,Verity Collection Index Style Policy: Added description at suggestion of National Records of Scotland.
+Updated Records,fmt/457,Verity Collection Document Dataset Descriptor Style Set: Added description at suggestion of National Records of Scotland.
+Updated Records,fmt/458,Verity Collection Document Index Descriptor Style Set: Added description at suggestion of National Records of Scotland.
+Updated Records,fmt/459,Verity Collection Word List Descriptor Style Set: Added description at suggestion of National Records of Scotland.
+Updated Records,fmt/460,Verity Collection Partition Definition Descriptor Style Set: Added description at suggestion of National Records of Scotland.
+Updated Records,fmt/461,Verity Collection Index Descriptor File: Added description at suggestion of National Records of Scotland.
+Updated Records,fmt/754,Microsoft Word Document (Password Protected) 97-2003: Corrected name from Microsoft Word Document (ord proord Protected) 97-2003. Error reported by Archives New Zealand.
+Updated Records,x-fmt/386,MPEG-2 Program Stream: Improved signature following research prompted by Church of Jesus Christ of Latter-day Saints.
+Updated Records,x-fmt/387,Exchangeable Image File Format (Uncompressed) 2.2: Extended seeking of IFD identifier to 128k from BOF or EOF following research prompted by Public Records Office Northern Ireland.
+New Signatures,fmt/876,Pagemaker Document (Generic): Container signature developed through PRONOM Research as requested by National Library of New Zealand.
+New Signatures,fmt/877,Corel Presentation 7-8-9: Container signature developed through PRONOM Research. Requested by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/878,Corel Presentation 3: Signature developed through PRONOM Research. Requested by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/881,Microsoft Document Imaging File Format: Signature developed through PRONOM Research. Requested by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/882,Wordstar 2000: Signature submitted by the National Library of New Zealand.
+New Signatures,fmt/883,Siegfried Signature File: Signature developed through PRONOM Research.
+New Signatures,fmt/887,SafeGuard Encrypted Virtual Disk: Signature developed through PRONOM Research.
+New Signatures,fmt/888,QuadriSpace Format: Signature developed through PRONOM Research.
+New Signatures,fmt/889,Feather: Signature developed through PRONOM Research.
+New Signatures,fmt/890,AbiWord Document: Signature developed through PRONOM Research.
+New Signatures,fmt/891,AbiWord Document Template: Signature developed through PRONOM Research.
+New Signatures,fmt/892,Compound Version of Wordperfect for Windows: Container signature developed through PRONOM Research. Requested by Artefactual Systems Inc.
+New Signatures,fmt/893,i2 Analyst's Notebook: Container signature developed through PRONOM Research.
+New Signatures,fmt/894,Gaussian Input Data File: Signature developed through PRONOM Research. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Signatures,fmt/895,JDF NMR Spectroscopy File: Signature developed through PRONOM Research. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Signatures,fmt/896,Music XML: Signature developed through PRONOM Research. Requested by Bibliotheque cantonale et universitaire BCU Lausanne.
+New Signatures,fmt/898,Zoomify Image Format: Signature developed through PRONOM Research.
+New Signatures,fmt/899,Windows Portable Executable 32 bit: Signature submitted by Archives New Zealand.
+New Signatures,fmt/900,Windows Portable Executable 64 bit: Signature submitted by Archives New Zealand.
+New Signatures,fmt/901,Microsoft Works Spreadsheet 6-9: Container signature developed through PRONOM Research. Requested by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/902,Blender 3D 32 bit: Signature developed through PRONOM Research.
+New Signatures,fmt/903,Blender 3D 64 bit: Signature developed through PRONOM Research.
+New Signatures,fmt/904,Bluetooth Snoop Packet Capture: Signature developed through PRONOM Research.

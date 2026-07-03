@@ -724,8 +724,14 @@
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3955,
       "relatedFormatName": "xdomea"
+    },
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 1679,
+      "relatedFormatName": "RDF/XML"
     }
   ],
   "developedBy": 106,
-  "source": 1
+  "source": 1,
+  "containerSignatures": []
 }

@@ -1,0 +1,39 @@
+New Records,fmt/640,MPEG-2 Elementary Stream: Outline Entry Added. Submitted by Church of Jesus Christ of Latter-day Saints
+New Records,fmt/641,Epson RAW Image Format: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/642,Fujifilm RAW Image Format: Outline Entry Added. Submitted by Artefactual Systems Inc.
+New Records,fmt/643,ASTM E57 3D File Format: Outline Entry Added. Submitted by Technische Informationsbibliothek Hannover.
+New Records,fmt/644,Nullsoft Scriptable Install System: Outline Entry Added. Submitted by Artefactual Systems Inc.
+Updated Records,fmt/95,Acrobat (PDF/A) Portable Document Format 1a: Increased flexibility of VAR signature sequence.
+Updated Records,fmt/157,Acrobat PDF/X - Portable Document Format - Exchange 1a:2001: Removed unnecessary VAR offset. Issue identified by Ross Spencer.
+Updated Records,fmt/158,Acrobat PDF/X - Portable Document Format - Exchange 3:2002: Removed unnecessary VAR offset. Issue identified by Ross Spencer.
+Updated Records,fmt/161,SIARD (Software-Independent Archiving of Relational Databases): Merged BOF and VAR sequences to avoid offset issue identified by Ross Spencer.
+Updated Records,fmt/354,Acrobat (PDF/A) Portable Document Format 1b: Increased flexibility of VAR signature sequence.
+Updated Records,fmt/385,Microsoft Windows Cursor: Merged BOF and VAR sequences to avoid offset issue identified by Ross Spencer.
+Updated Records,fmt/476,Acrobat (PDF/A) Portable Document Format 2a: Increased flexibility of VAR signature sequence.
+Updated Records,fmt/477,Acrobat (PDF/A) Portable Document Format 2b: Increased flexibility of VAR signature sequence.
+Updated Records,fmt/478,Acrobat (PDF/A) Portable Document Format 2u: Increased flexibility of VAR signature sequence.
+Updated Records,fmt/479,Acrobat (PDF/A) Portable Document Format 3a: Increased flexibility of VAR signature sequence.
+Updated Records,fmt/480,Acrobat (PDF/A) Portable Document Format 3b: Increased flexibility of VAR signature sequence.
+Updated Records,fmt/481,Acrobat (PDF/A) Portable Document Format 3u: Increased flexibility of VAR signature sequence.
+Updated Records,fmt/499,VivoActive format: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/510,PowerProject Teamplan: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/522,Open Project File: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/524,Microsoft Office Theme: Added mimetype information.
+Updated Records,fmt/596,Apple Lossless Audio Codec: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/601,Statistical Analysis System Catalogue XPT (Windows) 9.1: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/602,Statistical Analysis System Catalogue XPT (Unix) 9.1: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/603,Statistical Analysis System Data XPT (Windows) 9.1: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/604,Statistical Analysis System Data XPT (Unix) 9.1: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/605,Statistical Analysis System Catalogue (Windows) 9.1: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/606,Statistical Analysis System Catalogue (Unix) 9.1: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/607,Statistical Analysis System Data (Windows) 9.1: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/608,Statistical Analysis System Data (Unix) 9.1: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/625,Apple Disk Copy Image: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/626,LHA File Format: Improved specificity of BOF signature sequence offset.
+Updated Records,fmt/634,Microsoft Compiled HTML Help: Added extension of .chw
+Updated Records,x-fmt/384,Quicktime: Improved specificity of BOF signature sequence offset.
+Updated Records,x-fmt/418,Icon file format: Merged BOF and VAR sequences to avoid offset issue identified by Ross Spencer.
+New Signatures,fmt/640,MPEG-2 Elementary Stream: Signature developed in collaboration with Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/641,Epson RAW Image Format: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/642,Fujifilm RAW Image Format: Signature developed in collaboration with Artefactual Systems Inc.
+New Signatures,fmt/643,ASTM E57 3D File Format: Signature developed in collaboration with Technische Informationsbibliothek Hannover.
