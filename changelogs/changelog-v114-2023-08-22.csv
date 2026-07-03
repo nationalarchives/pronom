@@ -1,0 +1,140 @@
+New Records,fmt/1862,Adobe Illustrator CC Artwork 17-23: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1863,Adobe Illustrator CC 2020 Artwork 24.0-24.1: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1864,Adobe Illustrator CC 2020 Artwork 24.2+: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1865,SWiSH Movie File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1866,Microsoft Powerpoint for Macintosh v.2: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1867,Microsoft Powerpoint for Macintosh v.3: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1868,Leapfrog Geo 3D Scene Format: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1869,SPSS PC File Format: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1870,"Yamaha PSR Disk Manager File: Full entry added. Submitted by R. Guedj, Bibliothèque Cantonale Universitaire de Fribourg."
+New Records,fmt/1871,Common Interface File: Full entry added. Submitted by Transport for London.
+New Records,fmt/1872,Guitar Pro File 1: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1873,Guitar Pro File 2-5: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1874,Esko ArtPro File: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1875,Maptech BSB Documentation File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1876,"HMM Packfile: Full entry added. Submitted by Ross Spencer, Ravensburger AG."
+New Records,fmt/1877,GST Art File (1): Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1878,GST Art File (2): Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1879,vCard 2.1: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1880,vCard 3: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1881,vCard 4: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1882,"OPML File 1.*: Full entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Records,fmt/1883,"OPML File 2: Full entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Records,fmt/1884,Encapsulated PostScript File Format 2.1: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1885,CloudCompare Entity File: Full entry added. Submitted by National Library of New Zealand.
+New Records,fmt/1886,Resource Interleaved File Format (RIFF): Full entry added. Submitted by New York Public Libraries.
+New Records,fmt/1887,Common Instrument File (CIF) 1: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1888,Common Instrument File (CIF) 2: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1889,Open Access III Document: Full entry added. Submitted by National Library of New Zealand.
+New Records,fmt/1890,Memory Stick Voice File (MSV) ADPCM Codec: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1891,Digital Voice File (DVF) TRC Codec: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1892,Memory Stick Voice File (MSV)/Digital Voice File (DVF) LPEC Codec: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1893,Microsoft Agent File: Full entry added. Submitted by New York Public Libraries.
+New Records,fmt/1894,RagTime Document File 2-3: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1895,RagTime Document File 4-6: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1896,Nokia Picture Message: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1897,Ptex File Format: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1898,Perfect ZX Tape (PZX) Image Format: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1899,RIS Citation: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/1900,Mass Spectrometry Markup Language: Full entry added. Submitted by Brigham Young University.
+Updated Records,fmt/5,Audio/Video Interleaved Format: Signature simplified to increase identification tool processing time. Added priority over fmt/1886. Submitted by Preservica and New York Public Libraries.
+Updated Records,fmt/6,Waveform Audio: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/41,Raw JPEG Stream: Offset modified for the EOF signature as null value causing max-offset to be ignored. Submitted by Preservica.
+Updated Records,fmt/122,"Encapsulated PostScript File Format 1.2: Added description of magic bytes. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/123,"Encapsulated PostScript File Format 2.0: Added description of magic bytes. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/124,"Encapsulated PostScript File Format 3: Added description of magic bytes and specification. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/163,Microsoft Works Word Processor 1-3 for DOS and 2 for Windows: Updated description to provide entry and added links to documentation. Signature updated with either or bytes. Max-offset of 0 bytes added for BOF signature. Submitted by Zeticon.
+Updated Records,fmt/179,"Microsoft PowerPoint for Macintosh v.4.0: Added description and MIME type. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/181,"Microsoft PowerPoint for Macintosh 2001: Added description and MIME type. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/199,"MPEG-4 Media File: Added priority over fmt/1616. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/385,Microsoft Windows Cursor: Offsets removed from variable byte sequence and updated description. Submitted by Preservica.
+Updated Records,fmt/386,Microsoft Animated Cursor Format: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/389,Log ASCII Standard 1.2: Offset added to signature to accomodate header. Submitted by The National Library of Australia.
+Updated Records,fmt/395,"vCard: Added vcard extension, updated description. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/427,CorelDraw Drawing 12.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/428,CorelDraw Drawing X3: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/431,Corel R.A.V.E. 2: Added priority over fmt/1886 and updated description. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/432,Corel R.A.V.E. 3: Added priority over fmt/1886 and updated description. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/464,CorelDraw Drawing 5.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/465,CorelDraw Drawing 4.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/468,"ISO 9660 Disk Image File: Max-offset modified for BOF signature to allow for more exact signature identification. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/558,Adobe Illustrator 9.0: Updated signature and links. Added WikiQID and reference to submission. Submitted by Brigham Young University.
+Updated Records,fmt/559,"Adobe Illustrator 10.0: Updated signature, links and reference to submission. Submitted by Brigham Young University."
+Updated Records,fmt/560,"Adobe Illustrator 11.0: Updated signature, links and reference to submission. Submitted by Brigham Young University."
+Updated Records,fmt/561,"Adobe Illustrator 12.0: Updated signature, links and reference to submission. Submitted by Brigham Young University."
+Updated Records,fmt/562,"Adobe Illustrator 13.0: Updated signature, links and reference to submission. Submitted by Brigham Young University."
+Updated Records,fmt/563,"Adobe Illustrator 14.0: Updated signature, links and reference to submission. Submitted by Brigham Young University."
+Updated Records,fmt/564,"Adobe Illustrator 15.0: Updated signature, links and reference to submission. Submitted by Brigham Young University."
+Updated Records,fmt/565,"Adobe Illustrator 16.0: Updated signature, links and reference to submission. Submitted by Brigham Young University."
+Updated Records,fmt/566,WebP Lossy: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/567,WebP Lossless: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/568,WebP Extended: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/624,RIFF Palette Format: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/657,Open XML Paper Specification: Added extension oxps. Submitted by Preservica.
+Updated Records,fmt/819,CD-ROM/XA (eXtended Architecture): Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/882,Wordstar 2000: Changed offset from 128 to 130. Submitted by National Library of New Zealand.
+Updated Records,fmt/923,Microsoft xWMA: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/955,Downloadable Sounds Audio: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/956,RIFF-based MIDI: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/957,DirectMusic Segment File Format: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/958,DirectMusic Style File Format: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/962,QCP Audio File Format: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/1150,4X Movie File: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,fmt/1155,Lightwright Show File (5): Offset modified for the EOF signature as null value causing max-offset to be ignored. Submitted by Preservica.
+Updated Records,fmt/1210,Wavefront OBJ File: Modified BOF signature to increase two of the byte ranges. Submitted by Preservica.
+Updated Records,fmt/1556,Lightwright Show File (6): Offset modified for the EOF signature as null value causing max-offset to be ignored. Submitted by Preservica.
+Updated Records,fmt/1739,"UDF-ISO 9660 Bridge Disc: Max-offset modified for both BOF signatures to allow for more exact signature identification. Internally researched. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/1776,Extensible Markup Language 1.1: Relationship with fmt/101 added and signature tightened to prevent clashes with fmt/92. Submitted by Preservica.
+Updated Records,fmt/1778,Gunpaint Image File: Adjusted signature to include 'GUNPAINT' at an offset of 1002 from BOF. Submitted by The National Archives and Records Administration.
+Updated Records,fmt/1796,Wireless Markup Language (WML) Document: Offset and signature modified for the EOF byte sequence to remove floating curly brackets from the signature for consistency. Submitted by Preservica.
+Updated Records,fmt/1850,"WordPerfect Macro File: Priority added over x-fmt/393 (WordPerfect for MS-DOS Document 5.0). Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,x-fmt/29,CorelDraw Drawing 6.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/33,Corel R.A.V.E. 1: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/34,Corel Presentation Exchange File 5.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/35,Corel Presentation Exchange File 6 and Later: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/222,CD Audio: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/291,CorelDraw Drawing 7.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/292,CorelDraw Drawing 8.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/374,CorelDraw Drawing 9.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/375,CorelDraw Drawing 10.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/378,CorelDraw Drawing 11.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+Updated Records,x-fmt/379,CorelDraw Drawing 3.0: Added priority over fmt/1886. Submitted by New York Public Libraries and Preservica.
+New Signatures,fmt/1862,Adobe Illustrator CC Artwork 17-23: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1863,Adobe Illustrator CC 2020 Artwork 24.0-24.1: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1864,Adobe Illustrator CC 2020 Artwork 24.2+: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1865,SWiSH Movie File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1866,Microsoft Powerpoint for Macintosh v.2: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1867,Microsoft Powerpoint for Macintosh v.3: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1868,Leapfrog Geo 3D Scene Format: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1869,SPSS PC File Format: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1870,"Yamaha PSR Disk Manager File: Signature researched and samples provided by R. Guedj, Bibliothèque Cantonale Universitaire de Fribourg."
+New Signatures,fmt/1871,Common Interface File: Signature researched and samples provided by Transport for London.
+New Signatures,fmt/1872,Guitar Pro File 1: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1873,Guitar Pro File 2-5: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1874,Esko ArtPro File: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1875,Maptech BSB Documentation File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1876,"HMM Packfile: Signature researched and samples provided by Ross Spencer, Ravensburger AG."
+New Signatures,fmt/1877,GST Art File (1): Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1878,GST Art File (2): Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1879,vCard 2.1: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1880,vCard 3: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1881,vCard 4: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1882,"OPML File 1.*: Signature researched and samples provided by Digital Preservation Department, The National Archives (UK)."
+New Signatures,fmt/1883,"OPML File 2: Signature researched and samples provided by Digital Preservation Department, The National Archives (UK)."
+New Signatures,fmt/1884,Encapsulated PostScript File Format 2.1: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1885,CloudCompare Entity File: Signature researched and samples provided by National Library of New Zealand.
+New Signatures,fmt/1886,Resource Interleaved File Format (RIFF): Signature researched and samples provided by New York Public Libraries.
+New Signatures,fmt/1887,Common Instrument File (CIF) 1: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1888,Common Instrument File (CIF) 2: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1889,Open Access III Document: Signature researched and samples provided by National Library of New Zealand.
+New Signatures,fmt/1890,Memory Stick Voice File (MSV) ADPCM Codec: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1891,Digital Voice File (DVF) TRC Codec: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1892,Memory Stick Voice File (MSV)/Digital Voice File (DVF) LPEC Codec: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1893,Microsoft Agent File: Signature researched and samples provided by New York Public Libraries.
+New Signatures,fmt/1894,RagTime Document File 2-3: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1895,RagTime Document File 4-6: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1896,Nokia Picture Message: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1897,Ptex File Format: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1898,Perfect ZX Tape (PZX) Image Format: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1899,RIS Citation: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/1900,Mass Spectrometry Markup Language: Signature researched and samples provided by Brigham Young University.

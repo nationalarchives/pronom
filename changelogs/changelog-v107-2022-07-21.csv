@@ -1,0 +1,28 @@
+New Records,fmt/1723,"Wordcraft Chapter Files: Extension-only entry added. Submitted by Digital Preservation Department, The National Archives (UK)."
+New Records,fmt/1724,LegalDocML Document: Full entry added. Submitted by Preservica.
+New Records,fmt/1725,Capture One Settings File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1726,Geosoft Map Description File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1727,Pro Tools Session File: Full entry added. Submitted by National Library of New Zealand.
+New Records,fmt/1728,dBASE Windows Form File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1729,"Esri Shapefile Geospatial Metadata File: Full entry added. Submitted by Yan Han, University of Arizona."
+New Records,fmt/1730,Data File (Generic): Extension-only entry added. Submitted by Preservica.
+New Records,fmt/1731,PowerGraphics Image File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1732,Prism Paint Bitmap: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1733,PaintShop Plus Compressed Format: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1734,Portfolio Graphics Compressed File: Full entry added. Submitted by The National Archives and Records Administration.
+Updated Records,fmt/116,Windows Bitmap (3.0): Broadened signature. Submitted by The National Library of Australia.
+Updated Records,x-fmt/275,Microsoft Word for MS-DOS Document (v5): Amended signature to include variation of 05 at the 116th byte. Updated version number to 5.0-5.4 to incorporate versions 5 to 5.4. Submitted by University of Saskatchewan.
+Updated Records,fmt/1600,"ESRI ArcInfo DAT File (Internal): Added relationship to ESRI ArcInfo .dat File (External), removed extension, expanded description. Submitted by Preservica."
+Updated Records,fmt/1616,BibTeX Database File: Tightened signature by re-adding BOF sequence. Submitted by Preservica.
+Updated Records,fmt/1668,Roxio Easy Media Creator Layout 8-10: Attached correct signature sequence. Submitted by Preservica.
+Updated Records,fmt/1700,OGC GeoPackage: Amended MIME type. Submitted by Preservica.
+New Signatures,fmt/1724,LegalDocML Document: Signature researched and samples provided by Preservica.
+New Signatures,fmt/1725,Capture One Settings File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1726,Geosoft Map Description File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1727,Pro Tools Session File: Signature researched and samples provided by National Library of New Zealand.
+New Signatures,fmt/1728,dBASE Windows Form File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1729,"Esri Shapefile Geospatial Metadata File: Signature researched and samples provided by Yan Han, University of Arizona."
+New Signatures,fmt/1731,PowerGraphics Image File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1732,Prism Paint Bitmap: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1733,PaintShop Plus Compressed Format: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1734,Portfolio Graphics Compressed File: Signature researched and samples provided by The National Archives and Records Administration.

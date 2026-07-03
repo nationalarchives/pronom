@@ -1,0 +1,127 @@
+New Records,fmt/1573,Visual Basic Project File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1574,Visual Basic Project Workspace File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1575,Spectrum 512 Compressed | Spectrum 512 Smooshed: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1576,Spectrum 512 Uncompressed | Spectrum 512 Uncompressed Enhanced: Extension-only entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1577,Spectrum 512 Extended v1: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1578,Spectrum 512 Extended v2: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1579,SPYne Containers: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1580,Envision Publisher File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1581,Envision Publisher Font Files: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1582,Vim SWAP File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1583,SXG (ZX Spectrum) Graphic File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1584,ADRIFT Text Adventure File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1585,TurboCalc Document: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1586,TheDraw Save File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1587,COKE Format (Atari Falcon): Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1588,TGIF File Format: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1589,Taquart Interlace Picture: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1590,Visual Basic Binary Form File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1591,ESRI ArcInfo Coverage Annotation File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1592,ASEG-GDF2 Description File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1593,ASEG-GDF2 Data Definition File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1594,ESRI ArcInfo .dat File (External): Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1595,Canon Raw 3: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1596,ESRI ArcInfo Grid .nit File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1597,PageMaker Template File: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1598,Stata .do Command File: Full entry added. Submitted by Yale University Library.
+New Records,fmt/1599,R Program File: Full entry added. Submitted by Yale University Library.
+New Records,fmt/1600,ESRI ArcInfo DAT File (Internal): Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1601,Type Library Type 1: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1602,Type Library Type 2: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1603,TUNDRA: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1604,EggPaint (Atari Falcon): Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1605,True Colour Sprites [Spooky Sprites] (Atari Falcon): Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1606,Packed-Ice True Colour Sprites [Spooky Sprites] (Atari Falcon): Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1607,True Colour Picture [Spooky Sprites] (Atari Falcon): Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1608,Packed-Ice True Colour Picture [Spooky Sprites] (Atari Falcon): Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1609,exFAT (extensible File Allocation Table) Disc Image: Full entry added. Submitted by The National Library of Australia.
+New Records,fmt/1610,Viacom New Media Graphics: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1611,WRAptor Compressed File: Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1612,XBIN (eXtended BIN): Full entry added. Submitted by The National Archives and Records Administration.
+New Records,fmt/1613,XML Shareable Playlist Format: Full entry added. Submitted by National Library of Australia.
+New Records,fmt/1614,Esri ArcExplorer Project File: Full entry added. Submitted by National Library of Australia.
+New Records,fmt/1615,CATIA Drawing: Full entry added. Submitted by J. Paul Getty Trust.
+New Records,fmt/1616,BibTeX Database File: Full entry added. Submitted by Technische Informationsbibliothek (TIB) Hannover.
+New Records,fmt/1617,Devicetree Blob (DTB): Full entry added. Submitted by Oliver Mattos.
+New Records,fmt/1618,SGML/XML Entity File: Full entry added. Submitted by National Library of Australia.
+New Records,fmt/1619,Pascal Source Code: Extension-only entry added. Submitted by National Library of Australia.
+Updated Records,fmt/95,Acrobat PDF/A - Portable Document Format (1a): Additional signature added to allow for PDF conformance and PDF part tags to be alternated. Extension to BOF offset and 0-120 byte gap between part and conformance tags added to original signature. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/116,Windows Bitmap (Signature 3.0): Added the possibility of '10' at byte 28. Submitted by The National Library of Australia.
+Updated Records,fmt/208,"Binary File: Added description, changed orientation to binary, added BIN file format and updated relationships. Submitted by The National Archives and Records Administration."
+Updated Records,fmt/286,"HDF5 (1): Extension .nc added. Submitted by ETH-Bibliothek, ETH Zurich."
+Updated Records,fmt/287,"HDF5 (2): Extension .nc added. Submitted by ETH-Bibliothek, ETH Zurich."
+Updated Records,fmt/354,Acrobat PDF/A - Portable Document Format (1b): Extension to byte gap between part and conformance tags added to both signatures. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/372,"Earth Resource Satellite Image Header Format: Added an offset of 3 bytes from EOF, at the request of the enquirer. Submitted by The National Library of Australia."
+Updated Records,fmt/468,ISO Disk Image: Broadened the BOF offset from 32769 to a range (32700- 37700). Submitted by The National Library of Australia.
+Updated Records,fmt/476,Acrobat PDF/A - Portable Document Format (2a): Additional signature added to allow for PDF conformance and PDF part tags to be alternated. Extension to BOF offset and 0-120 byte gap between part and conformance tags added to original signature. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/477,Acrobat PDF/A - Portable Document Format (2b): Additional signature added to allow for PDF conformance and PDF part tags to be alternated. Extension to BOF offset and 0-120 byte gap between part and conformance tags added to original signature. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/478,Acrobat PDF/A - Portable Document Format (2u): Additional signature added to allow for PDF conformance and PDF part tags to be alternated. Extension to BOF offset and 0-120 byte gap between part and conformance tags added to original signature. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/479,Acrobat PDF/A - Portable Document Format (3a): Additional signature added to allow for PDF conformance and PDF part tags to be alternated. Extension to BOF offset and 0-120 byte gap between part and conformance tags added to original signature. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/480,Acrobat PDF/A - Portable Document Format (3b): Additional signature added to allow for PDF conformance and PDF part tags to be alternated. Extension to BOF offset and 0-120 byte gap between part and conformance tags added to original signature. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/481,Acrobat PDF/A - Portable Document Format (3u): Additional signature added to allow for PDF conformance and PDF part tags to be alternated. Extension to BOF offset and 0-120 byte gap between part and conformance tags added to original signature. Submitted by The National Archives of the Czech Republic.
+Updated Records,fmt/569,Matroska: Updated link to reference files. Submitted by Heidelberg University library.
+Updated Records,fmt/643,ASTM E57 3D File Format: Added MIMEtype and links to documentation. Submitted by Sascha Brawer.
+Updated Records,fmt/697,Additive Manufacturing File Format: Deleted last sequence of signature and added new link for source of description. Submitted by The Church of Jesus Christ of Latter-day Saints.
+Updated Records,fmt/807,"HDF5 (0): Extension .nc added. Submitted by ETH-Bibliothek, ETH Zurich."
+Updated Records,fmt/1555,"Standard Data Format: Added BOF byte sequence. Submitted by Digital Preservation Department,The National Archives."
+Updated Records,x-fmt/436,"CATIA Model: Removed MIME type and added description. Submitted by Digital Preservation Department,The National Archives."
+Updated Records,x-fmt/437,"CATIA Project: Removed MIME type and added description. Submitted by Digital Preservation Department,The National Archives."
+Updated Records,x-fmt/438,"CATIA Material Description: Removed MIME type, added description and enhanced name. Submitted by Digital Preservation Department,The National Archives."
+Updated Records,x-fmt/439,"CATIA Model (Part Description): Removed MIME type and added description. Submitted by Digital Preservation Department,The National Archives."
+Updated Records,x-fmt/440,"CATIA Product Description: Removed MIME type and added description. Submitted by Digital Preservation Department,The National Archives."
+Updated Records,x-fmt/454,Microsoft Internet Shortcut: Broadened the BOF offset from 0 to 0-35. Submitted by The National Library of Australia.
+New Signatures,fmt/95,Acrobat PDF/A - Portable Document Format (1a): Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/354,Acrobat PDF/A - Portable Document Format (1b): Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/476,Acrobat PDF/A - Portable Document Format (2a): Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/477,Acrobat PDF/A - Portable Document Format (2b): Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/478,Acrobat PDF/A - Portable Document Format (2u): Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/479,Acrobat PDF/A - Portable Document Format (3a): Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/480,Acrobat PDF/A - Portable Document Format (3b): Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/481,Acrobat PDF/A - Portable Document Format (3u): Signature researched and samples provided by The National Archives of the Czech Republic.
+New Signatures,fmt/697,Additive Manufacturing File Format: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1555,"Standard Data Format: Signature researched and samples provided by Digital Preservation Department,The National Archives."
+New Signatures,fmt/1573,Visual Basic Project File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1574,Visual Basic Project Workspace File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1575,Spectrum 512 Compressed | Spectrum 512 Smooshed: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1577,Spectrum 512 Extended v1: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1578,Spectrum 512 Extended v2: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1579,SPYne Containers: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1580,Envision Publisher File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1581,Envision Publisher Font Files: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1582,Vim SWAP File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1583,SXG (ZX Spectrum) Graphic File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1584,ADRIFT Text Adventure File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1585,TurboCalc Document: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1586,TheDraw Save File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1587,COKE Format (Atari Falcon): Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1588,TGIF File Format: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1589,Taquart Interlace Picture: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1590,Visual Basic Binary Form File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1591,ESRI ArcInfo Coverage Annotation File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1592,ASEG-GDF2 Description File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1593,ASEG-GDF2 Data Definition File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1594,ESRI ArcInfo .dat File (External): Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1595,Canon Raw 3: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1596,ESRI ArcInfo Grid .nit File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1597,PageMaker Template File: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1598,Stata .do Command File: Signature researched and samples provided by Yale University Library.
+New Signatures,fmt/1599,R Program File: Signature researched and samples provided by Yale University Library.
+New Signatures,fmt/1600,ESRI ArcInfo DAT File (Internal): Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1601,Type Library Type 1: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1602,Type Library Type 2: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1603,TUNDRA: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1604,EggPaint (Atari Falcon): Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1605,True Colour Sprites [Spooky Sprites] (Atari Falcon): Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1606,Packed-Ice True Colour Sprites [Spooky Sprites] (Atari Falcon): Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1607,True Colour Picture [Spooky Sprites] (Atari Falcon): Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1608,Packed-Ice True Colour Picture [Spooky Sprites] (Atari Falcon): Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1609,exFAT (extensible File Allocation Table) Disc Image: Signature researched and samples provided by The National Library of Australia.
+New Signatures,fmt/1610,Viacom New Media Graphics: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1611,WRAptor Compressed File: Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1612,XBIN (eXtended BIN): Signature researched and samples provided by The National Archives and Records Administration.
+New Signatures,fmt/1613,XML Shareable Playlist Format: Signature researched and samples provided by National Library of Australia.
+New Signatures,fmt/1614,Esri ArcExplorer Project File: Signature researched and samples provided by National Library of Australia.
+New Signatures,fmt/1615,CATIA Drawing: Signature researched and samples provided by J. Paul Getty Trust.
+New Signatures,fmt/1616,BibTeX Database File: Signature researched and samples provided by Technische Informationsbibliothek (TIB) Hannover.
+New Signatures,fmt/1617,Devicetree Blob (DTB): Signature researched and samples provided by Oliver Mattos.
+New Signatures,fmt/1618,SGML/XML Entity File: Signature researched and samples provided by National Library of Australia.

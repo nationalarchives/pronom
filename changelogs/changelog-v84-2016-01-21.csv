@@ -1,0 +1,213 @@
+New Records,fmt/827,Serif DrawPlus Drawing 3: Full entry added.
+New Records,fmt/828,"MAT-file format 7.3: Full entry added. Submitted by ETH-Bibliothek, ETH Zurich."
+New Records,fmt/829,3MF 3D Manufacturing Format: Full entry added.
+New Records,fmt/830,QSplat Model: Full entry added.
+New Records,fmt/831,Polygon File Format: Full entry added.
+New Records,fmt/832,Open Inventor File Format 1.x: Full entry added.
+New Records,fmt/833,Open Inventor File Format 2.x: Full entry added.
+New Records,fmt/834,Quattro Pro Spreadsheet for Windows 1/5: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/835,Quattro Pro Spreadsheet for Windows 6: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/836,Quattro Pro Spreadsheet 7-8: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/837,Quattro Pro Spreadsheet 9 onwards: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/838,Outlook Express Message Database: Full entry added. Submitted by National Library New Zealand.
+New Records,fmt/839,Outlook Express Folder Database: Full entry added. Submitted by National Library New Zealand.
+New Records,fmt/840,ADX Audio Format: Full entry added. Submitted by Artefactual Systems Inc.
+New Records,fmt/841,Interleaved ADX Audio Format (AIX): Full entry added. Submitted by Artefactual Systems Inc.
+New Records,fmt/842,AccessData Custom Content Image: Full entry added. Submitted by Artefactual Systems Inc.
+New Records,fmt/843,AccessData Custom Content Image (Encrypted): Full entry added. Submitted by Artefactual Systems Inc.
+New Records,fmt/844,Advanced Forensic Format: Full entry added. Submitted by Artefactual Systems Inc.
+New Records,fmt/845,ClarisWorks Drawing 2-3: Full entry added following samples provided by National Library of Australia.
+New Records,fmt/846,ClarisWorks Word Processor 2-3: Full entry added following samples provided by National Library of Australia.
+New Records,fmt/847,ClarisWorks Spreadsheet 2-3: Full entry added following samples provided by National Library of Australia.
+New Records,fmt/848,ClarisWorks Database 2-3: Full entry added following samples provided by National Library of Australia.
+New Records,fmt/849,ClarisWorks Painting 2-3: Full entry added following samples provided by National Library of Australia.
+New Records,fmt/850,NuFile Exchange Archival Library: Full entry added.
+New Records,fmt/851,Genealogical Data Communication (GEDCOM) Format: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/852,Serif DrawPlus Drawing 4: Full entry added.
+New Records,fmt/853,Serif DrawPlus Drawing 5: Full entry added.
+New Records,fmt/854,Personal Ancestral File (PAF) 3: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/855,Personal Ancestral File (PAF) 4: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/856,Personal Ancestral File (PAF) 5: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/857,Navisworks Document Generic: Full entry added. Submitted by ABB.
+New Records,fmt/858,Navisworks Document 2010: Full entry added. Submitted by ABB.
+New Records,fmt/859,Navisworks Document 2011: Full entry added. Submitted by ABB.
+New Records,fmt/860,Navisworks Document 2012: Full entry added. Submitted by ABB.
+New Records,fmt/861,Maya Binary File Format 32 Bit: Full entry added. Submitted by the Canadian Centre for Architecture.
+New Records,fmt/862,Maya Binary File Format 64 Bit: Full entry added. Submitted by the Canadian Centre for Architecture.
+New Records,fmt/863,Maya ASCII File Format: Full entry added. Submitted by the Canadian Centre for Architecture.
+New Records,fmt/864,3DM 5: Full entry added. Submitted by the Canadian Centre for Architecture.
+New Records,fmt/865,STL (Standard Tessellation Language) Binary: Full entry added. Submitted by the Canadian Centre for Architecture.
+New Records,fmt/866,Apple Safari Webarchive: Full entry added. Submitted by National Library of New Zealand.
+New Records,fmt/867,Microsoft Reader eBook: Full entry added. Submitted by Stefan Kovalovsky.
+New Records,fmt/868,MySQL Table Definition Format: Full entry added. Submitted by Artefactual Systems Inc.
+New Records,fmt/869,CDX Internet Archive Index: Full entry added.
+New Records,fmt/870,Perl Script: Full entry added. Submitted by ABB.
+New Records,fmt/871,Adobe Content Server Message File: Full entry added. Submitted by British Library.
+New Records,fmt/872,Free Lossless Image Format (FLIF): Full entry added.
+New Records,fmt/873,Notation3: Full entry added. Requested by National Library of Sweden.
+New Records,fmt/874,Turtle: Full entry added. Requested by National Library of Sweden.
+New Records,fmt/875,RDF/XML: Full entry added. Requested by National Library of Sweden.
+Updated Records,fmt/3,Graphics Interchange Format 87a: Added small max EOF offset to account for rare edge cases where null bytes appear after EOF marker.
+Updated Records,fmt/4,Graphics Interchange Format 89a: Added small max EOF offset to account for rare edge cases where null bytes appear after EOF marker.
+Updated Records,fmt/11,Portable Network Graphics 1.0: Added small max EOF offset to account for rare edge cases where null bytes appear after EOF marker.
+Updated Records,fmt/46,Rich Text Format 1.1: Removed MIME - PUID was previously deprecated.
+Updated Records,fmt/47,Rich Text Format 1.2: Removed MIME - PUID was previously deprecated.
+Updated Records,fmt/48,Rich Text Format 1.3: Removed MIME - PUID was previously deprecated.
+Updated Records,fmt/49,Rich Text Format 1.4: Removed MIME - PUID was previously deprecated.
+Updated Records,fmt/51,Rich Text Format 1.6: Removed MIME - PUID was previously deprecated.
+Updated Records,fmt/58,"Microsoft Excel 4.0 Workbook (xls) 4W: Adjusted signature based upon file submitted by The Getty Research Institute, with assistance from Archives New Zealand."
+Updated Records,fmt/60,Excel 95 Workbook (xls) 7: Removed extension and MIME - PUID was previously deprecated.
+Updated Records,fmt/86,PCX 0: Added MIME.
+Updated Records,fmt/87,PCX 2: Added MIME.
+Updated Records,fmt/88,PCX 3: Added MIME.
+Updated Records,fmt/89,PCX 4: Added MIME.
+Updated Records,fmt/90,PCX 5: Added MIME.
+Updated Records,fmt/93,Virtual Reality Modeling Language 1.0: Added format type 'Model'.
+Updated Records,fmt/94,Virtual Reality Modeling Language 2.0: Added format type 'Model'.
+Updated Records,fmt/116,Windows Bitmap 3.0: Updated signature based on observations by National Library of New Zealand.
+Updated Records,fmt/167,Microsoft Works Spreadsheet for DOS 1.12: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/168,Microsoft Works Spreadsheet for DOS 2.0: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/172,Microsoft Excel for Macintosh 3.0: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/173,Microsoft Excel for Macintosh 4.0: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/174,Microsoft Excel for Macintosh 98: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/178,Microsoft Excel for Macintosh X: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/180,Microsoft PowerPoint for Macintosh 98: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/182,Microsoft PowerPoint for Macintosh X: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/199,MPEG-4 Media File: Added MIME.
+Updated Records,fmt/201,Mathematica Notebook: Added MIME.
+Updated Records,fmt/216,Microsoft Visio for Windows 2007: Added MIME.
+Updated Records,fmt/220,Microsoft Works Spreadsheet for Windows 2.0: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/227,Microsoft Works Spreadsheet for Windows 2.0a: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/228,Microsoft Works Spreadsheet for Windows 3.0: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/229,Microsoft Works Spreadsheet for Windows 3.0a: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/230,Microsoft Works Spreadsheet for Windows 3.0b: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/231,Microsoft Works Spreadsheet for Windows 4.0: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/244,Keyhole Markup Language (XML): Added MIME.
+Updated Records,fmt/247,Microsoft Works Spreadsheet for Windows 4.0a: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/250,Microsoft Works Spreadsheet for Windows 4.5: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/253,Microsoft Works Spreadsheet for Windows 4.5a: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/257,Microsoft Works Spreadsheet for Windows 2000: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/262,Microsoft Works Spreadsheet for DOS 3: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/263,Microsoft Works Spreadsheet for DOS 3a: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/264,Microsoft Works Spreadsheet for DOS 3b: Removed extension - PUID was previously deprecated.
+Updated Records,fmt/301,Computer Graphics Metafile ASCII 3: Added MIME.
+Updated Records,fmt/302,Computer Graphics Metafile ASCII 4: Added MIME.
+Updated Records,fmt/339,Interchange File Format 8-bit Sampled Voice: Added 8svx as an extension.
+Updated Records,fmt/364,National Imagery Transmission Format 1.0: Added MIME.
+Updated Records,fmt/365,National Imagery Transmission Format 2.0: Added MIME.
+Updated Records,fmt/366,National Imagery Transmission Format 1.1: Added MIME.
+Updated Records,fmt/415,Cinema 4D 4.x: Adjusted format type to 'Model'.
+Updated Records,fmt/450,VectorWorks 12.5: Adjusted format type to 'Model' and added MIME.
+Updated Records,fmt/451,VectorWorks 2009: Adjusted format type to 'Model' and added MIME.
+Updated Records,fmt/493,Acrobat PDF/E - Portable Document Format for Engineering PDF/E-1: Added MIME.
+Updated Records,fmt/497,Wireless Bitmap: Added MIME.
+Updated Records,fmt/499,VivoActive: Added MIME.
+Updated Records,fmt/501,PostScript 3.1: Added MIME.
+Updated Records,fmt/507,Adobe Flash 10: Corrected signature version byte from '10' to '0A'. Error identified by State Records New South Wales.
+Updated Records,fmt/540,Cinema 4D 5.x: Adjusted format type to 'Model'.
+Updated Records,fmt/574,Digital Imaging and Communications in Medicine File Format: Added MIME.
+Updated Records,fmt/579,X3D 3.0: Adjusted format type to 'Model'.
+Updated Records,fmt/580,X3D 3.1: Adjusted format type to 'Model'.
+Updated Records,fmt/581,X3D 3.2: Adjusted format type to 'Model'.
+Updated Records,fmt/582,X3D 3.3: Adjusted format type to 'Model'.
+Updated Records,fmt/591,Radiance RGBE Image Format: Added MIME.
+Updated Records,fmt/617,GeoGebra 2: Added MIME.
+Updated Records,fmt/618,GeoGebra 1.0: Added MIME.
+Updated Records,fmt/619,GeoGebra 1.x: Added MIME.
+Updated Records,fmt/620,GeoGebra 3: Added MIME.
+Updated Records,fmt/621,GeoGebra 4: Added MIME.
+Updated Records,fmt/622,GeoGebra 5: Added MIME.
+Updated Records,fmt/643,ASTM E57 3D File Format: Adjusted format type to 'Model'.
+Updated Records,fmt/654,INTERLIS Model File 2.3: Adjusted format type to 'Model'.
+Updated Records,fmt/664,Gerber Format: Added MIME.
+Updated Records,fmt/684,VectorWorks 2015: Adjusted format type to 'Model' and added MIME.
+Updated Records,fmt/686,VectorWorks 2010: Adjusted format type to 'Model' and added MIME.
+Updated Records,fmt/702,Universal 3D File Format: Adjusted format type to 'Model'.
+Updated Records,fmt/724,Keyhole Markup Language (Container): Corrected MIME.
+Updated Records,fmt/731,Bink Video Format 1: Added MIME.
+Updated Records,fmt/732,Bink Video Format 2: Added MIME.
+Updated Records,fmt/734,SuperScape Virtual Reality Format: Adjusted format type to 'Model'.
+Updated Records,fmt/735,Dolby Digital AC-3: Added MIME.
+Updated Records,fmt/736,ClarisWorks 1 (generic): Amended description.
+Updated Records,fmt/737,ClarisWorks 2-3 (generic): Amended description.
+Updated Records,fmt/757,Adobe Flash 11: Added missing signature for zlib compressed version.
+Updated Records,fmt/769,Adobe Flash 23: Corrected erroneous signature pointer. Error identified by State Records New South Wales.
+Updated Records,fmt/770,Adobe Flash 24: Corrected erroneous signature pointer. Error identified by State Records New South Wales.
+Updated Records,fmt/779,pcap Packet Capture: Added MIME.
+Updated Records,fmt/780,pcap Next Generation Packet Capture: Corrected MIME.
+Updated Records,fmt/782,PowerVR Object Data: Added format type 'Model'.
+Updated Records,fmt/806,"Level 5 MAT-file format (MATLAB): Added further extension submitted by ETH-Bibliothek, ETH Zurich."
+Updated Records,x-fmt/2,Microsoft Word for Macintosh Document 6.0: Removed extension - PUID was previously deprecated.
+Updated Records,x-fmt/13,Tab-separated values: Corrected MIME.
+Updated Records,x-fmt/19,3D Studio: Added format type 'Model'.
+Updated Records,x-fmt/49,AutoCAD Design Web Format 6.0: Added format type 'Model'.
+Updated Records,x-fmt/56,Kodak FlashPix Image: Added MIME.
+Updated Records,x-fmt/102,3D Studio Shapes: Added format type 'Model'.
+Updated Records,x-fmt/108,"STL (Standard Tessellation Language) ASCII: Added description, alternate name of Stereolithography File, and set format type to 'Model'."
+Updated Records,x-fmt/118,Microsoft Works Spreadsheet 2.0: Removed extension - PUID was previously deprecated.
+Updated Records,x-fmt/119,Windows Metafile Image: Created second identification signature and highlighted that existing signature includes an optional 'Placeable File Header'.
+Updated Records,x-fmt/121,Quattro Pro Spreadsheet for DOS 1-4: Adjusted name from Quattro Pro Spreadsheet and added brief description.
+Updated Records,x-fmt/122,Quattro Pro Spreadsheet for DOS 5: Adjusted name from Quattro Pro Spreadsheet and added brief description.
+Updated Records,x-fmt/129,Microsoft Word for Macintosh Document X: Removed extension and MIME - PUID was previously deprecated.
+Updated Records,x-fmt/135,Audio Interchange File Format 1.3: Removed MIME - PUID was previously deprecated.
+Updated Records,x-fmt/158,Initial Graphics Exchange Specification (IGES) 5.x: Added format type 'Model'.
+Updated Records,x-fmt/212,Lotus 1-2-3 Worksheet 5.0: Removed MIME - PUID was previously deprecated.
+Updated Records,x-fmt/246,Microsoft Project 2000: Removed extension - PUID was previously deprecated.
+Updated Records,x-fmt/293,Hewlett Packard Graphics Language: Added MIME.
+Updated Records,x-fmt/312,DesignCAD Drawing: Added format type 'Model'.
+Updated Records,x-fmt/313,DesignCAD for Windows Drawing: Added format type 'Model'.
+Updated Records,x-fmt/402,StarOffice Draw 5.2: Removed MIME - PUID was previously deprecated.
+Updated Records,x-fmt/403,StarOffice Writer 5.2: Removed MIME - PUID was previously deprecated.
+Updated Records,x-fmt/404,StarOffice Calc 5.2: Removed MIME - PUID was previously deprecated.
+Updated Records,x-fmt/405,StarOffice Impress 5.2: Removed MIME - PUID was previously deprecated.
+Updated Records,x-fmt/432,3DM 4: Adjusted format type to 'Model'.
+Updated Records,x-fmt/433,3DM 1: Adjusted format type to 'Model'.
+Updated Records,x-fmt/434,3DM 2: Adjusted format type to 'Model'.
+Updated Records,x-fmt/435,3DM 3: Adjusted format type to 'Model'.
+Updated Records,x-fmt/436,CATIA Model 4: Added format type 'Model'.
+Updated Records,x-fmt/438,CATIA 5: Added format type 'Model'.
+Updated Records,x-fmt/439,CATIA Model (Part Description) 5: Added format type 'Model'.
+Updated Records,x-fmt/452,SketchUp Document: Removed MIME - PUID was previously deprecated.
+New Signatures,fmt/827,Serif DrawPlus Drawing 3: Container signature developed through PRONOM Research.
+New Signatures,fmt/828,"MAT-file format 7.3: Signature submitted by ETH-Bibliothek, ETH Zurich."
+New Signatures,fmt/829,3MF 3D Manufacturing Format: Container signature developed through PRONOM Research.
+New Signatures,fmt/830,QSplat Model: Signature developed through PRONOM Research.
+New Signatures,fmt/831,Polygon File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/832,Open Inventor File Format 1.x: Signature developed through PRONOM Research.
+New Signatures,fmt/833,Open Inventor File Format 2.x: Signature developed through PRONOM Research.
+New Signatures,fmt/834,Quattro Pro Spreadsheet for Windows 1/5: Signature developed through PRONOM Research based on samples submitted by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/835,Quattro Pro Spreadsheet for Windows 6: Signature developed through PRONOM Research based on samples submitted by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/836,Quattro Pro Spreadsheet 7-8: Container signature developed through PRONOM Research based on samples submitted by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/837,Quattro Pro Spreadsheet 9 onwards: Container signature developed through PRONOM Research based on samples submitted by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/838,Outlook Express Message Database: Signature submitted by National Library of New Zealand.
+New Signatures,fmt/839,Outlook Express Folder Database: Signature submitted by National Library of New Zealand.
+New Signatures,fmt/840,ADX Audio Format: Signature submitted by Artefactual Systems Inc.
+New Signatures,fmt/841,Interleaved ADX Audio Format (AIX): Signature submitted by Artefactual Systems Inc.
+New Signatures,fmt/842,AccessData Custom Content Image: Signature submitted by Artefactual Systems Inc.
+New Signatures,fmt/843,AccessData Custom Content Image (Encrypted): Signature submitted by Artefactual Systems Inc.
+New Signatures,fmt/844,Advanced Forensic Format: Signature submitted by Artefactual Systems Inc.
+New Signatures,fmt/845,ClarisWorks Drawing 2-3: Signature based upon samples provided by National Library of Australia.
+New Signatures,fmt/846,ClarisWorks Word Processor 2-3: Signature based upon samples provided by National Library of Australia.
+New Signatures,fmt/847,ClarisWorks Spreadsheet 2-3: Signature based upon samples provided by National Library of Australia.
+New Signatures,fmt/848,ClarisWorks Database 2-3: Signature based upon samples provided by National Library of Australia.
+New Signatures,fmt/849,ClarisWorks Painting 2-3: Signature based upon samples provided by National Library of Australia.
+New Signatures,fmt/850,NuFile Exchange Archival Library: Signature developed through PRONOM Research.
+New Signatures,fmt/851,"Genealogical Data Communication (GEDCOM) Format: Signature developed through PRONOM Research, requested by Church of Jesus Christ of Latter-day Saints."
+New Signatures,fmt/852,Serif DrawPlus Drawing 4: Container signature developed through PRONOM Research.
+New Signatures,fmt/853,Serif DrawPlus Drawing 5: Container signature developed through PRONOM Research.
+New Signatures,fmt/854,Personal Ancestral File (PAF) 3: Signature developed through PRONOM Research based on samples submitted by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/855,Personal Ancestral File (PAF) 4: Signature developed through PRONOM Research based on samples submitted by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/856,Personal Ancestral File (PAF) 5: Signature developed through PRONOM Research based on samples submitted by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/857,Navisworks Document Generic: Signature developed through PRONOM Research. Submitted by ABB.
+New Signatures,fmt/858,Navisworks Document 2010: Signature developed through PRONOM Research. Submitted by ABB.
+New Signatures,fmt/859,Navisworks Document 2011: Signature developed through PRONOM Research. Submitted by ABB.
+New Signatures,fmt/860,Navisworks Document 2012: Signature developed through PRONOM Research. Submitted by ABB.
+New Signatures,fmt/861,Maya Binary File Format 32 Bit: Signature submitted by the Canadian Centre for Architecture.
+New Signatures,fmt/862,Maya Binary File Format 64 Bit: Signature submitted by the Canadian Centre for Architecture.
+New Signatures,fmt/863,Maya ASCII File Format: Signature submitted by the Canadian Centre for Architecture.
+New Signatures,fmt/864,3DM 5: Signature submitted by the Canadian Centre for Architecture.
+New Signatures,fmt/867,Microsoft Reader eBook: Signature developed through PRONOM Research. Submitted by Stefan Kovalovsky.
+New Signatures,fmt/868,MySQL Table Definition Format: Signature submitted by Artefactual Systems Inc.
+New Signatures,fmt/869,CDX Internet Archive Index: Signature developed through PRONOM Research.
+New Signatures,fmt/871,Adobe Content Server Message File: Signature developed through PRONOM Research. Submitted by British Library.
+New Signatures,fmt/872,Free Lossless Image Format (FLIF): Signature developed through PRONOM Research from format description provided by Jon Sneyers.

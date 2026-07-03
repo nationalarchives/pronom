@@ -1,0 +1,66 @@
+New Records,fmt/1101,High Efficiency Image File Format: Full entry added.
+New Records,fmt/1102,Uuencoded File: Full entry added.
+New Records,fmt/1103,"AutoCAD Hatch Pattern: Full entry added. Submitted by Henk Vanstappen, Datable."
+New Records,fmt/1104,Seattle FilmWorks SFW Image Format: Full entry added. Submitted by Church of Jesus Christ of Latter-day Saints.
+New Records,fmt/1105,"Hierarchical File System: Full entry added. Developed as a collaborative effort between The Open Preservation Foundation, The National Archives, Artefactual Systems, New York Public Libraries and University of California, Los Angeles. HFS was also requested by Preservica."
+New Records,fmt/1106,Python Compiled File 2.0: Full entry added.
+New Records,fmt/1107,Python Compiled File 2.1: Full entry added.
+New Records,fmt/1108,Python Compiled File 2.2: Full entry added.
+New Records,fmt/1109,Python Compiled File 2.3: Full entry added.
+New Records,fmt/1110,Python Compiled File 2.4: Full entry added.
+New Records,fmt/1111,Python Compiled File 2.5: Full entry added.
+New Records,fmt/1112,Python Compiled File 2.6: Full entry added.
+New Records,fmt/1113,Python Compiled File 3.0: Full entry added.
+New Records,fmt/1114,Python Compiled File 3.1: Full entry added.
+New Records,fmt/1115,Python Compiled File 3.2: Full entry added.
+New Records,fmt/1116,Python Compiled File 3.3: Full entry added.
+New Records,fmt/1117,Python Compiled File 3.5: Full entry added.
+New Records,fmt/1118,Python Compiled File 3.6: Full entry added.
+New Records,fmt/1119,Jupyter Python Notebook: Full entry added. Submitted by University of Edinburgh.
+New Records,fmt/1120,DIFFRACplus Raw Data File Format 1: Full entry added. Submitted by University of Edinburgh.
+New Records,fmt/1121,DIFFRACplus Raw Data File Format 2: Full entry added. Submitted by University of Edinburgh.
+New Records,fmt/1122,VAMAS Surface Chemical Analysis Standard Data Transfer Format: Full entry added. Submitted by University of Edinburgh.
+New Records,fmt/1123,"Origin Project Format Non-Unicode: Full entry added. Submitted separately by University of Edinburgh and by Bodleian Libraries, University of Oxford."
+New Records,fmt/1124,"Origin Project Format Unicode: Full entry added. Submitted separately by University of Edinburgh and by Bodleian Libraries, University of Oxford."
+New Records,fmt/1125,JASCO JWS Format OLE2: Full entry added. Submitted by University of Edinburgh.
+New Records,fmt/1126,Sony SR2 RAW Image File: Full entry added. Requested by State Library New South Wales and samples provided by LIBIS - KU Leuven.
+New Records,fmt/1127,Sony ARW RAW Image File 2.x: Full entry added. Requested by State Library New South Wales and samples provided by LIBIS - KU Leuven.
+New Records,fmt/1128,Progressive Graphics File: Full entry added.
+New Records,fmt/1129,PDF 2.0 - Portable Document Format 2.0: Full entry added.
+New Records,fmt/1130,"C3D File Format: Full entry added. Submitted by University of Edinburgh and previously requested by NARA Information Services/Applied Research Division, The National Archives and Records Administration."
+New Records,fmt/1131,"Gatan Digital Micrograph File Format (DM3) 3: Full entry added. Submitted by Bodleian Libraries, University of Oxford."
+Updated Records,fmt/134,"MPEG 1/2 Audio Layer 3: Adjusted signature to allow range at the BOF for files without ID3v2, adjusted EOF section for files with ID3v2 due to submission by University of Mississippi."
+Updated Records,fmt/289,"WARC: Enhanced description and added compression type as requested by Nationaal Archief, the National Archives of the Netherlands."
+Updated Records,fmt/826,"Scriptware Script Format: Added signature variant submitted by Harry Ransom Center, University of Texas."
+Updated Records,x-fmt/384,"Quicktime: For Quicktime signature variant 4, dropped the requirement to find the 'moov' atom when the value of the 'ftyp' atom appears at offset 4 as 'qt  '. Request raised in Siegfried GitHub Issues tracker."
+New Signatures,fmt/191,Sony ARW RAW Image File 1.x: Added version number. Signature developed through PRONOM Research. Requested by State Library New South Wales and samples provided by KU Leuven.
+New Signatures,fmt/1101,High Efficiency Image File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/1102,Uuencoded File: Signature developed through PRONOM Research.
+New Signatures,fmt/1103,"AutoCAD Hatch Pattern: Signature developed with Henk Vanstappen, Datable."
+New Signatures,fmt/1104,Seattle FilmWorks SFW Image Format: Signature submitted by Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/1105,"Hierarchical File System: Signature developed as a collaborative effort between The Open Preservation Foundation, The National Archives, Artefactual Systems, New York Public Libraries and University of California, Los Angeles."
+New Signatures,fmt/1106,Python Compiled File 2.0: Signature developed through PRONOM Research.
+New Signatures,fmt/1107,Python Compiled File 2.1: Signature developed through PRONOM Research.
+New Signatures,fmt/1108,Python Compiled File 2.2: Signature developed through PRONOM Research.
+New Signatures,fmt/1109,Python Compiled File 2.3: Signature developed through PRONOM Research.
+New Signatures,fmt/1110,Python Compiled File 2.4: Signature developed through PRONOM Research.
+New Signatures,fmt/1111,Python Compiled File 2.5: Signature developed through PRONOM Research.
+New Signatures,fmt/1112,Python Compiled File 2.6: Signature developed through PRONOM Research.
+New Signatures,fmt/1113,Python Compiled File 3.0: Signature developed through PRONOM Research.
+New Signatures,fmt/1114,Python Compiled File 3.1: Signature developed through PRONOM Research.
+New Signatures,fmt/1115,Python Compiled File 3.2: Signature developed through PRONOM Research.
+New Signatures,fmt/1116,Python Compiled File 3.3: Signature developed through PRONOM Research.
+New Signatures,fmt/1117,Python Compiled File 3.5: Signature developed through PRONOM Research.
+New Signatures,fmt/1118,Python Compiled File 3.6: Signature developed through PRONOM Research.
+New Signatures,fmt/1120,DIFFRACplus Raw Data File Format 1: Signature developed through PRONOM Research. Requested by University of Edinburgh.
+New Signatures,fmt/1121,DIFFRACplus Raw Data File Format 2: Signature developed through PRONOM Research. Requested by University of Edinburgh.
+New Signatures,fmt/1122,VAMAS Surface Chemical Analysis Standard Data Transfer Format: Signature developed through PRONOM Research from samples submitted by University of Edinburgh.
+New Signatures,fmt/1123,"Origin Project Format Non-Unicode: Signature developed with Bodleian Libraries, University of Oxford and additional samples submitted by University of Edinburgh."
+New Signatures,fmt/1124,Origin Project Format Unicode: Signature developed through PRONOM Research from samples submitted by University of Edinburgh.
+New Signatures,fmt/1125,JASCO JWS Format OLE2: Container signature developed through PRONOM Research from samples submitted by University of Edinburgh.
+New Signatures,fmt/1126,Sony SR2 RAW Image File: Signature developed through PRONOM Research. Requested by State Library New South Wales and samples provided by LIBIS - KU Leuven.
+New Signatures,fmt/1127,Sony ARW RAW Image File 2.x: Signature developed through PRONOM Research. Requested by State Library New South Wales and samples provided by LIBIS - KU Leuven.
+New Signatures,fmt/1128,Progressive Graphics File: Signature developed through PRONOM Research.
+New Signatures,fmt/1129,PDF 2.0 - Portable Document Format 2.0: Signature developed through PRONOM Research.
+New Signatures,fmt/1130,C3D File Format: Signature developed with University of Edinburgh.
+New Signatures,fmt/1131,"Gatan Digital Micrograph File Format (DM3) 3: Signature developed with Bodleian Libraries, University of Oxford."

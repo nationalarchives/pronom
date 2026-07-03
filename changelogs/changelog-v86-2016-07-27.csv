@@ -1,0 +1,115 @@
+New Records,fmt/905,Variant Call Format 1.x: Full entry added.
+New Records,fmt/906,Variant Call Format 2.x: Full entry added.
+New Records,fmt/907,Variant Call Format 3.x: Full entry added.
+New Records,fmt/908,Variant Call Format 4.x: Full entry added.
+New Records,fmt/909,CRAM File Format 1.x: Full entry added.
+New Records,fmt/910,CRAM File Format 2.x: Full entry added.
+New Records,fmt/911,CRAM File Format 3.x: Full entry added.
+New Records,fmt/912,Microsoft Paint 2: Full entry added.
+New Records,fmt/913,Caligari trueSpace File Format ASCII: Full entry added.
+New Records,fmt/914,Caligari trueSpace File Format Binary: Full entry added.
+New Records,fmt/915,Mapsforge Binary Map File Format: Full entry added.
+New Records,fmt/916,ESRI ArcMap Document: Full entry added. Requested by Filling the Digital Preservation Gap - University of York and University of Hull. Additionally requested by the Wildlife Conservation Society.
+New Records,fmt/917,AmiraMesh ASCII 1.0: Full entry added. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Records,fmt/918,AmiraMesh 3D ASCII 2.0: Full entry added. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Records,fmt/919,AmiraMesh 3D Binary 2.0: Full entry added. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Records,fmt/920,AmiraMesh 3D Binary Little Endian 2.0: Full entry added. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Records,fmt/921,AmiraMesh Binary Little Endian 2.1: Full entry added. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Records,fmt/922,Xar Image Format: Full entry added.
+New Records,fmt/923,Microsoft xWMA: Full entry added.
+New Records,fmt/924,Microsoft Visio Drawing 2013: Full entry added.
+New Records,fmt/925,Microsoft Visio Stencil 2013: Full entry added.
+New Records,fmt/926,Microsoft Visio Template 2013: Full entry added.
+New Records,fmt/927,Microsoft Visio Macro-Enabled Document 2013: Full entry added.
+New Records,fmt/928,Microsoft Visio Macro-Enabled Stencil 2013: Full entry added.
+New Records,fmt/929,Microsoft Visio Macro-Enabled Template 2013: Full entry added.
+New Records,fmt/930,Magick Image File Format: Full entry added.
+New Records,fmt/931,Mathcad Document Binary: Full entry added.
+New Records,fmt/932,Mathcad Document XML: Full entry added.
+New Records,fmt/933,Simple Vector Format 1: Full entry added.
+New Records,fmt/934,Simple Vector Format 2: Full entry added.
+New Records,fmt/935,Animated Portable Network Graphics: Full entry added.
+New Records,fmt/936,Microsoft Picture It! Image File 1: Full entry added.
+New Records,fmt/937,Adobe Air 1.0: Full entry added. Submitted by Archives New Zealand.
+New Records,fmt/938,Python Script File: Full entry added.
+New Records,fmt/939,Python Compiled File 2.7: Full entry added.
+New Records,fmt/940,Python Compiled File 3.4: Full entry added.
+New Records,fmt/941,Back Up File: Full entry added. Added as a response to a query from The Borthwick Institute for Archives.
+New Records,fmt/942,Adobe Air 1.5: Full entry added. Submitted by Archives New Zealand.
+New Records,fmt/943,Adobe Air 2.0: Full entry added. Submitted by Archives New Zealand.
+New Records,fmt/944,Ogg Multimedia Container: Full entry added.
+New Records,fmt/945,Ogg Theora Video: Full entry added. Requested by Preservica.
+New Records,fmt/946,Ogg Opus Codec Compressed Multimedia File: Full entry added.
+New Records,fmt/947,Ogg FLAC Compressed Multimedia File: Full entry added.
+New Records,fmt/948,Ogg Speex Codec Multimedia File: Full entry added.
+New Records,fmt/949,WordPerfect 4.0/4.1/4.2: Descriptive entry added based upon samples contributed by Neil Gaiman.
+New Records,fmt/950,MIME Email 1.0: Full entry added in collaboration between Church of Jesus Christ of Latter-day Saints and National Library of New Zealand.
+Updated Records,fmt/12,Portable Network Graphics 1.1: Added description.
+Updated Records,fmt/13,Portable Network Graphics 1.2: Added description.
+Updated Records,fmt/199,"MPEG-4 Media File: Adjusted signature, changing wildcard range from short byte range to fully variable range between brand identifier and 'moov' atom."
+Updated Records,fmt/202,Nikon Digital SLR Camera Raw Image File: Improved signature due to research and contributions from KU Leuven and Archives New Zealand.
+Updated Records,fmt/203,Ogg Vorbis Codec Compressed Multimedia File: Enhanced description.
+Updated Records,fmt/216,Microsoft Visio XML Drawing 2003-2010: Changed name from Microsoft Visio for Windows 2007 and added description.
+Updated Records,fmt/240,"Microsoft Office Binder File for Windows 97-2000: Added description, changed version years from 97-2003 due to received information. Added container signature."
+Updated Records,fmt/344,"Microsoft Windows Enhanced Metafile 2.0: Adjusted MIME type from deprecated image/x-emf to image/emf, added description."
+Updated Records,fmt/345,"Microsoft Windows Enhanced Metafile 3.0: Adjusted MIME type from deprecated image/x-emf to image/emf, added description."
+Updated Records,fmt/442,Microsoft Visio (generic): Added description.
+Updated Records,fmt/443,"Microsoft Visio Drawing 2003-2010: Changed name from Microsoft Visio Drawing 2003, added description."
+Updated Records,fmt/503,AppleDouble Resource Fork: Added MIME type.
+Updated Records,fmt/569,Matroska 1-4: Change named to Matroska 1-4. Edited description. Added family relationship and added offset of 1024 to signature and edited signature description.
+Updated Records,fmt/590,JPEG Extended Range: Added MIME type.
+Updated Records,x-fmt/23,Microsoft Excel Backup: Removed .bak extension in favour of a new generic entry for extension-only .bak files: fmt/941 - Back Up File. If a binary signature is ever developed for Microsoft Excel Backup there is scope to re-apply this extension.
+Updated Records,x-fmt/113,Microsoft Visio Drawing 5.0: Added description.
+Updated Records,x-fmt/119,Windows Metafile Image: Added MIME type and description.
+Updated Records,x-fmt/153,"Microsoft Windows Enhanced Metafile 1.0: Adjusted MIME type from deprecated image/x-emf to image/emf, added description."
+Updated Records,x-fmt/214,"Microsoft Paint 1: Changed name from Windows Paint 3.0, added description."
+Updated Records,x-fmt/258,Microsoft Visio Drawing 2000: Added description.
+Updated Records,x-fmt/259,Microsoft Visio Drawing 2002: Added description.
+Updated Records,x-fmt/384,Quicktime: Simplified signature.
+Updated Records,x-fmt/410,Windows New Executable: Added description.
+New Signatures,fmt/216,Microsoft Visio XML Drawing 2003-2010: Signature developed through PRONOM Research.
+New Signatures,fmt/240,Microsoft Office Binder File for Windows 97-2000: Container signature developed by State Records New South Wales.
+New Signatures,fmt/905,Variant Call Format 1.x: Signature developed through PRONOM Research.
+New Signatures,fmt/906,Variant Call Format 2.x: Signature developed through PRONOM Research.
+New Signatures,fmt/907,Variant Call Format 3.x: Signature developed through PRONOM Research.
+New Signatures,fmt/908,Variant Call Format 4.x: Signature developed through PRONOM Research.
+New Signatures,fmt/909,CRAM File Format 1.x: Signature developed through PRONOM Research.
+New Signatures,fmt/910,CRAM File Format 2.x: Signature developed through PRONOM Research.
+New Signatures,fmt/911,CRAM File Format 3.x: Signature developed through PRONOM Research.
+New Signatures,fmt/912,Microsoft Paint 2: Signature developed through PRONOM Research.
+New Signatures,fmt/913,Caligari trueSpace File Format ASCII: Signature developed through PRONOM Research.
+New Signatures,fmt/914,Caligari trueSpace File Format Binary: Signature developed through PRONOM Research.
+New Signatures,fmt/915,Mapsforge Binary Map File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/916,ESRI ArcMap Document: Container signature developed. Requested by Filling the Digital Preservation Gap - University of York and University of Hull. Additionally requested by the Wildlife Conservation Society.
+New Signatures,fmt/917,AmiraMesh ASCII 1.0: Signature developed through PRONOM Research. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Signatures,fmt/918,AmiraMesh 3D ASCII 2.0: Signature developed through PRONOM Research. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Signatures,fmt/919,AmiraMesh 3D Binary 2.0: Signature developed through PRONOM Research. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Signatures,fmt/920,AmiraMesh 3D Binary Little Endian 2.0: Signature developed through PRONOM Research. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Signatures,fmt/921,AmiraMesh Binary Little Endian 2.1: Signature developed through PRONOM Research. Requested by Filling the Digital Preservation Gap - University of York and University of Hull.
+New Signatures,fmt/922,Xar Image Format: Signature developed through PRONOM Research.
+New Signatures,fmt/923,Microsoft xWMA: Signature developed through PRONOM Research.
+New Signatures,fmt/924,Microsoft Visio Drawing 2013: Container signature developed through PRONOM Research.
+New Signatures,fmt/925,Microsoft Visio Stencil 2013: Container signature developed through PRONOM Research.
+New Signatures,fmt/926,Microsoft Visio Template 2013: Container signature developed through PRONOM Research.
+New Signatures,fmt/927,Microsoft Visio Macro-Enabled Document 2013: Container signature developed through PRONOM Research.
+New Signatures,fmt/928,Microsoft Visio Macro-Enabled Stencil 2013: Container signature developed through PRONOM Research.
+New Signatures,fmt/929,Microsoft Visio Macro-Enabled Template 2013: Container signature developed through PRONOM Research.
+New Signatures,fmt/930,Magick Image File Format: Signature developed through PRONOM Research.
+New Signatures,fmt/931,Mathcad Document Binary: Signature developed through PRONOM Research.
+New Signatures,fmt/932,Mathcad Document XML: Signature developed through PRONOM Research.
+New Signatures,fmt/933,Simple Vector Format 1: Signature developed through PRONOM Research.
+New Signatures,fmt/934,Simple Vector Format 2: Signature developed through PRONOM Research.
+New Signatures,fmt/935,Animated Portable Network Graphics: Signature developed through PRONOM Research.
+New Signatures,fmt/936,Microsoft Picture It! Image File 1: Container signature developed through PRONOM Research.
+New Signatures,fmt/937,Adobe Air 1.0: Container signature developed by Archives New Zealand.
+New Signatures,fmt/939,Python compiled File v2.7: Signature developed through PRONOM Research.
+New Signatures,fmt/940,Python Compiled File v3.4: Signature developed through PRONOM Research.
+New Signatures,fmt/942,Adobe Air 1.5: Container signature developed by Archives New Zealand.
+New Signatures,fmt/943,Adobe Air 2.0: Container signature developed by Archives New Zealand.
+New Signatures,fmt/944,Ogg Multimedia Container: Signature developed through PRONOM Research.
+New Signatures,fmt/945,Ogg Theora Video: Signature developed through PRONOM Research. Requested by Preservica.
+New Signatures,fmt/946,Ogg Opus Codec Compressed Multimedia File: Signature developed through PRONOM Research.
+New Signatures,fmt/947,Ogg FLAC Compressed Multimedia File: Signature developed through PRONOM Research.
+New Signatures,fmt/948,Ogg Speex Codec Multimedia File: Signature developed through PRONOM Research.
+New Signatures,fmt/950,MIME Email 1.0: Signature developed in collaboration between Church of Jesus Christ of Latter-day Saints and National Library of New Zealand.
+New Signatures,x-fmt/214,Microsoft Paint 1: Signature developed through PRONOM Research.

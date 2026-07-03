@@ -1,0 +1,67 @@
+New Records,fmt/510,PowerProject Teamplan: Outline Entry Added in collaboration with The Borthwick Institute for Archives.
+New Records,fmt/511,PowerProject 7: Outline Entry Added.
+New Records,fmt/512,PowerProject 8: Outline Entry Added.
+New Records,fmt/513,PowerProject 9: Outline Entry Added.
+New Records,fmt/514,PowerProject 10: Outline Entry Added.
+New Records,fmt/515,PowerProject 11: Outline Entry Added.
+New Records,fmt/516,PowerProject 12.0.01: Outline Entry Added.
+New Records,fmt/517,PowerProject 12.0.02+: Outline Entry Added.
+New Records,fmt/518,Broad Band eBook (LRF): Outline Entry Added.
+New Records,fmt/519,Polynomial Texture Map: Outline Entry Added.
+New Records,fmt/520,OpenType Font File: Outline Entry Added.
+New Records,fmt/521,Adobe Multiple Master Metrics font file: Outline Entry Added in collaboration with The Borthwick Institute for Archives.
+New Records,fmt/522,Open Project File: Outline Entry Added.
+New Records,fmt/523,Macro enabled Microsoft Word Document OOXML 2007 Onwards: Outline Entry Added.
+New Records,fmt/524,Microsoft Office Theme: Outline Entry Added.
+New Records,fmt/525,Adobe Printer Font Binary: Outline Entry Added in collaboration with The Borthwick Institute for Archives.
+New Records,fmt/526,Adobe Font List: Outline Entry Added in collaboration with The Borthwick Institute for Archives.
+New Records,fmt/527,Broadcast WAVE 2: Outline Entry Added.
+New Records,fmt/528,Multiple-image Network Graphics: Outline Entry Added.
+New Records,fmt/529,JPEG Network Graphics: Outline Entry Added.
+New Records,fmt/530,eRuby HTML document: Outline Entry Added.
+New Records,fmt/531,AutoCAD Drawing 2013/2014: Outline Entry Added.
+New Records,fmt/532,Drawing Interchange File Format 2013/2014: Outline Entry Added.
+Updated Records,fmt/156,"Tagged Image File Format for Internet Fax (TIFF-FX): Removed identification signatures in response to findings from The National Library of New Zealand and Tessella. Previous signature is reliant on the existence of the 'NewSubFileType' tag, however this is not the exclusive domain of TIFF-FX and was therefore resulting in false-positive identification."
+Updated Records,fmt/217,PaintShop Pro Browser Cache File: Corrected format name as part of a data normalisation exercise.
+Updated Records,fmt/333,Chemical Markup Language: Made format extension lower-case as part of a data normalisation exercise.
+Updated Records,fmt/334,Crystallographic Information Framework: Made format extension lower-case as part of a data normalisation exercise.
+Updated Records,fmt/394,DS_store file (MAC): Made format extension lower-case as part of a data normalisation exercise.
+Updated Records,fmt/426,Harris Matrix: Made format extension lower-case as part of a data normalisation exercise.
+Updated Records,fmt/433,Drawing Interchange File Format 2007/2008/2009: MIME-Type information added.
+Updated Records,fmt/434,AutoCAD Drawing 2010/2011/2012: MIME-Type information added.
+Updated Records,fmt/435,Drawing Interchange File Format 2010/2011/2012: MIME-Type information added.
+Updated Records,x-fmt/5,Works for Macintosh Document 4.0: Removed format extension 'Unknown' as part of a data normalisation exercise.
+Updated Records,x-fmt/11,Revisable-Form-Text Document Content Architecture: Removed format extension 'Unknown' as part of a data normalisation exercise.
+Updated Records,x-fmt/155,AutoCAD Film Roll: Made format extension lower-case as part of a data normalisation exercise.
+Updated Records,x-fmt/266,GZIP Format: Removed errant full stop from format extension as part of a data normalisation exercise.
+Updated Records,x-fmt/403,StarOffice Writer: Corrected name from 'StarOffice Write' as part of a data normalisation exercise.
+Updated Records,x-fmt/419,DVD data file and backup data file: Made format extension lower-case as part of a data normalisation exercise.
+Updated Records,x-fmt/422,Java language source code file: Made format extension lower-case as part of a data normalisation exercise.
+Updated Records,x-fmt/425,Generic Library File: Made format extension lower-case as part of a data normalisation exercise.
+Updated Records,x-fmt/426,License file: Made format extension lower-case as part of a data normalisation exercise.
+Updated Records,x-fmt/427,Acrobat Language definition file: Made format extension lower-case as part of a data normalisation exercise.
+New Signatures,fmt/1,Broadcast WAVE 0: Added further signature variants in collaboration with Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/2,Broadcast WAVE 1: Added further signature variants in collaboration with Church of Jesus Christ of Latter-day Saints.
+New Signatures,fmt/473,Microsoft Office Owner File: Added further signature variants through PRONOM Research.
+New Signatures,fmt/510,"PowerProject Teamplan: Signature developed in collaboration with The Borthwick Institute for Archives, with assistance from Asta Development."
+New Signatures,fmt/511,PowerProject 7: Signature developed with assistance from Asta Development.
+New Signatures,fmt/512,PowerProject 8: Signature developed with assistance from Asta Development.
+New Signatures,fmt/513,PowerProject 9: Signature developed with assistance from Asta Development.
+New Signatures,fmt/514,PowerProject 10: Signature developed with assistance from Asta Development.
+New Signatures,fmt/515,PowerProject 11: Signature developed with assistance from Asta Development.
+New Signatures,fmt/516,PowerProject 12.0.01: Signature developed with assistance from Asta Development.
+New Signatures,fmt/517,PowerProject 12.0.02+: Signature developed with assistance from Asta Development.
+New Signatures,fmt/518,Broad Band eBook (LRF): Signature developed through PRONOM Research.
+New Signatures,fmt/519,Polynomial Texture Map: Signature developed through PRONOM Research.
+New Signatures,fmt/520,OpenType Font File: Signature developed through PRONOM Research.
+New Signatures,fmt/521,Adobe Multiple Master Metrics font file: Signature developed in collaboration with The Borthwick Institute for Archives.
+New Signatures,fmt/522,Open Project File: Signature developed through PRONOM Research.
+New Signatures,fmt/523,Macro enabled Microsoft Word Document OOXML 2007 Onwards: Container signature developed through PRONOM Research.
+New Signatures,fmt/524,Microsoft Office Theme: Container signature developed through PRONOM Research.
+New Signatures,fmt/525,Adobe Printer Font Binary: Signature developed in collaboration with The Borthwick Institute for Archives.
+New Signatures,fmt/526,Adobe Font List: Signature developed in collaboration with The Borthwick Institute for Archives.
+New Signatures,fmt/527,Broadcast WAVE 2: Signature developed through PRONOM Research.
+New Signatures,fmt/528,Multiple-image Network Graphics: Signature developed through PRONOM Research.
+New Signatures,fmt/529,JPEG Network Graphics: Signature developed through PRONOM Research.
+New Signatures,fmt/531,AutoCAD Drawing 2013/2014: Signature developed through PRONOM Research.
+New Signatures,fmt/532,Drawing Interchange File Format 2013/2014: Signature developed through PRONOM Research.

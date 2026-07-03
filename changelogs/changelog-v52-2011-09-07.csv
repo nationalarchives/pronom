@@ -1,0 +1,17 @@
+New Records,fmt/360,pulse EKKO data file: Outline entry added. Submission from Archaeology Data Service.
+New Records,fmt/361,pulse EKKO header file: Outline entry added. Submission from Archaeology Data Service.
+New Records,fmt/362,GSSI SIR-10 RADAN data file: Outline entry added. Submission from Archaeology Data Service.
+New Records,fmt/363,SEG Y Data Exchange Format Generic: Outline entry added. Submission from Archaeology Data Service.
+New Records,fmt/364,National Imagery Transmission Format 1.0: Outline entry added.
+New Records,fmt/365,National Imagery Transmission Format 2.0: Outline entry added.
+New Records,fmt/366,National Imagery Transmission Format 2.1: Outline entry added.
+New Records,fmt/367,ESRI World File Format: Outline entry added. Submission from Archaeology Data Service. Format information supplied by the Geospatial Multistate Access and Preservation Partnership (GeoMAPP).
+Updated Records,x-fmt/135,Audio Interchange File Format: Priority information changed to remove clash with Interchange Format.
+Updated Records,x-fmt/226,ESRI Arc/Info Export File: Format information supplied by the Geospatial Multistate Access and Preservation Partnership (GeoMAPP). Existing signature refined through PRONOM Research.
+Signatures,fmt/360,pulse EKKO data file: New signature developed through PRONOM Research to identify different versions.
+Signatures,fmt/361,pulse EKKO header file: Signature developed through PRONOM Research.
+Signatures,fmt/362,GSSI SIR-10 RADAN data file: Signature developed through PRONOM Research.
+Signatures,fmt/363,SEG Y Data Exchange Format Generic: Signature developed through PRONOM Research.
+Signatures,fmt/364,National Imagery Transmission Format 1.0: Signature developed through PRONOM Research.
+Signatures,fmt/365,National Imagery Transmission Format 2.0: Signature developed through PRONOM Research.
+Signatures,fmt/366,National Imagery Transmission Format 2.1: Signature developed through PRONOM Research.

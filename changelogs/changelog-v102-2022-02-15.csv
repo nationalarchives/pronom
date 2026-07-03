@@ -1,0 +1,2 @@
+Updated Records,fmt/1579,SPYne Containers: Fixed an issue with A0 character appearing in description and signature note. Issue submitted by Ross Spencer.
+Updated Records,fmt/1612,XBIN (eXtended BIN): Fixed issue with invalid A0 character appearing in name. Issue submitted by The Science Museum.

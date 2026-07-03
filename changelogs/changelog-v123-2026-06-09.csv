@@ -1,0 +1,41 @@
+New Records,fmt/2092,Canadian Avalanche Association MarkUp Language 6.0.3: Full entry added. Submitted by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Records,fmt/2093,ROS Bag Format 2.0: Full entry added. Submitted by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Records,fmt/2094,"M4A Audio: Full entry added. Submitted by Preservica, Archives New Zealand and Brigham Young University."
+New Records,fmt/2095,Hasselblad FFF Raw Image: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints and Brigham Young University.
+New Records,fmt/2096,GGML Universal File (GGUF) 1: Full entry added. Submitted by Preservica.
+New Records,fmt/2097,GGML Universal File (GGUF) 2: Full entry added. Submitted by Preservica.
+New Records,fmt/2098,GGML Universal File (GGUF) 3: Full entry added. Submitted by Preservica.
+New Records,fmt/2099,iZotope RX Document: Full entry added. Submitted by The Church of Jesus Christ of Latter-day Saints and Brigham Young University.
+New Records,fmt/2100,Visualization Toolkit 4.0: Full entry added. Submitted by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Records,fmt/2101,ChemStation Gas Chromatography/ Mass Spectrum Data File: Full entry added. Submitted by National Archives and Records Administration.
+New Records,fmt/2102,BioSemi Data Format: Full entry added. Submitted by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Records,fmt/2103,Discus Project 2-3: Full entry added. Submitted by Brigham Young University.
+New Records,fmt/2104,Discus Project 4: Full entry added. Submitted by Brigham Young University.
+Updated Records,fmt/102,Extensible Hypertext Markup Language 1.0: New extension added of .xhtml. Submitted by Digital Preservation Coalition.
+Updated Records,fmt/103,Extensible Hypertext Markup Language 1.1: New extension added of .xhtml. Submitted by Digital Preservation Coalition.
+Updated Records,fmt/199,MPEG-4 Media File: New extension added of .m4b. Submitted by Archives New Zealand.
+Updated Records,x-fmt/385,"MPEG-1 Program Stream: Priority added over fmt/134 MPEG 1/2 Audio Layer 3. Submitted by Digital Preservation Department, The National Archives (UK)."
+Updated Records,fmt/596,Apple Lossless Audio Codec: . Submitted by Preservica.
+Updated Records,fmt/720,MBOX: New binary signature created and priority added over fmt/950 MIME Email 1.0. Submitted by Preservica.
+Updated Records,fmt/875,"RDF/XML: Two new internal signatures added, one with an XML declaration and another without. Submitted by Stuart Yeates and Preservica."
+Updated Records,fmt/2081,xdomea 4.0.0: Priority over changed from fmt/102 Extensible Hypertext Markup Language 1.0 to fmt/101 Extensible Markup Language 1.0. Submitted by Preservica.
+Updated Records,fmt/2085,FieldWorks Language Explorer FWData XML: Priority added over fmt/101 Extensible Markup Language 1.0. Submitted by Preservica.
+Updated Records,fmt/2090,Kodak DCS RAW Image: New extension added of .tiff and priority over fmt/192 Kodak Digital Camera Raw Image File. Submitted by Richard Lehane and Brigham Young University.
+Updated Records,fmt/2091,Kodak DCS RAW Image 3: New extension added of .tiff and priority over fmt/192 Kodak Digital Camera Raw Image File. Submitted by Richard Lehane and Brigham Young University.
+Updated Records,fmt/1971,Enigma Binary File (Finale) 1: Signature updated to allow for different PC versions. Submitted by Brigham Young University.
+Updated Records,fmt/1972,Enigma Binary File (Finale) 2: Signature updated to allow for different PC versions. Submitted by Brigham Young University.
+New Signatures,fmt/720,MBOX: Signature researched and samples provided by Preservica.
+New Signatures,fmt/875,RDF/XML: Signature researched and samples provided by Preservica.
+New Signatures,fmt/2092,Canadian Avalanche Association MarkUp Language 6.0.3: Signature researched and samples provided by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Signatures,fmt/2093,ROS Bag Format 2.0: Signature researched and samples provided by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Signatures,fmt/2094,"M4A Audio: Signature researched and samples provided by Preservica, Archives New Zealand and Brigham Young University."
+New Signatures,fmt/2095,Hasselblad FFF Raw Image: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints and Brigham Young University.
+New Signatures,fmt/2096,GGML Universal File (GGUF) 1: Signature researched and samples provided by Preservica.
+New Signatures,fmt/2097,GGML Universal File (GGUF) 2: Signature researched and samples provided by Preservica.
+New Signatures,fmt/2098,GGML Universal File (GGUF) 3: Signature researched and samples provided by Preservica.
+New Signatures,fmt/2099,iZotope RX Document: Signature researched and samples provided by The Church of Jesus Christ of Latter-day Saints and Brigham Young University.
+New Signatures,fmt/2100,Visualization Toolkit 4.0: Signature researched and samples provided by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Signatures,fmt/2101,ChemStation Gas Chromatography/ Mass Spectrum Data File: Signature researched and samples provided by National Archives and Records Administration.
+New Signatures,fmt/2102,BioSemi Data Format: Signature researched and samples provided by Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche numérique du Canada - Dépôt fédéré de données de recherche.
+New Signatures,fmt/2103,Discus Project 2-3: Signature researched and samples provided by Brigham Young University.
+New Signatures,fmt/2104,Discus Project 4: Signature researched and samples provided by Brigham Young University.
