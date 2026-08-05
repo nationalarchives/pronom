@@ -51,6 +51,13 @@
       "signatureType": "File extension"
     }
   ],
-  "relationships": [],
-  "source": 1
+  "relationships": [
+    {
+      "relationshipType": "Has priority over",
+      "relatedFormatID": 1755,
+      "relatedFormatName": "MIME Email"
+    }
+  ],
+  "source": 1,
+  "containerSignatures": []
 }
