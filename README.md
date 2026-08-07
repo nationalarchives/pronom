@@ -1,8 +1,8 @@
 # PRONOM signatures
 
-This repository contains a record of all PRONOM signatures in JSON format. This is used to build the PRONOM signature file and container signature files.
+This repository contains the primary copy of all PRONOM signatures in JSON format. This is used to build the PRONOM signature file and container signature files, as used by DROID and other applications. 
 
-This repository can be used to submit new signatures to PRONOM.
+In future, this repository will be used to submit new signatures to PRONOM, but the process for this is currently being refined.
 
 ## Submitting new signatures
 
