@@ -1,0 +1,39 @@
+{
+  "fileFormatID": null,
+  "formatName": "Acoustic Doppler Velocity Data File",
+  "version": "1.3.1",
+  "formatDescription": "Acoustic Doppler Velocity Data files contain high-frequency, three-dimensional water velocity, depth, and amplitude measurements derived from Acoustic Doppler Current Profilers (ADCPs) or Velocimeters (ADVs). These files are generally binary.",
+  "formatNote": "Vendor: Nortek Group: https://www.nortekgroup.com/assets/documents/Acoustic-Doppler-Velocimeter-ADV-for-Laboratory-Use.pdf",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Dataset",
+  "identifiers": [
+    {
+      "identifierText": "application/octet-stream",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "Acoustic Doppler Velocity Data File Internal Signature",
+      "note": "BOF; Offset: 0; Magic Bytes: VNO 1.31",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "564E4F20312E3331"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "adv",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}
