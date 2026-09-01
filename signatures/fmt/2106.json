@@ -1,5 +1,5 @@
 {
-  "fileFormatID": null,
+  "fileFormatID": 3983,
   "formatName": "HALO Photonics Doppler LiDAR File Format",
   "version": null,
   "formatDescription": "HALO Photonics Doppler LiDAR File Format is a proprietary, text-based format that contains header information and time-series data for atmospheric measurements. It is designed for continuous remote sensing specifically to log atmospheric backscatter and line-of-sight wind velocity.",
@@ -10,11 +10,15 @@
     {
       "identifierText": "text/plain",
       "identifierType": "MIME"
+    },
+    {
+      "identifierType": "PUID",
+      "identifierText": "fmt/2106"
     }
   ],
   "internalSignatures": [
     {
-      "signatureID": 1,
+      "signatureID": 3472,
       "name": "HALO Photonics Doppler LiDAR File Format",
       "note": "BOF; Offset: 288-400;  Magic Bytes: Azimuth",
       "byteSequences": [
