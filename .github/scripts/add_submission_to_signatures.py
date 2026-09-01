@@ -51,12 +51,14 @@ def move_json():
         submissions = [f for f in os.listdir('submissions') if os.path.isfile(f'submissions/{f}')]
         for submission in submissions:
             puid_id += 1
+            signature_id += 1
             new_puid = f'fmt/{puid_id}'
             with open(f'submissions/{submission}') as s:
                 submission_json = json.load(s)
             submission_json['fileFormatID'] = file_format_id + 1
             for idx, signature in enumerate(submission_json['internalSignatures']):
-                signature['signatureID'] = signature_id + (idx + 1)
+                signature_id += idx
+                signature['signatureID'] = signature_id
             new_identifier = {'identifierType': 'PUID', 'identifierText': new_puid}
             existing_identifiers = submission_json['identifiers'] if 'identifiers' in submission_json else []
             existing_identifiers.append(new_identifier)
