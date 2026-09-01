@@ -1,5 +1,5 @@
 {
-  "fileFormatID": null,
+  "fileFormatID": 3983,
   "formatName": "Hugin Project File",
   "version": "2.0",
   "formatDescription": "The Hugin Project File from Hugin panorama stitcher, contains the instructions on how a photo should be stitched together. The file is associated with PanoTools.",
@@ -10,11 +10,15 @@
     {
       "identifierText": "text/plain",
       "identifierType": "MIME"
+    },
+    {
+      "identifierType": "PUID",
+      "identifierText": "fmt/2107"
     }
   ],
   "internalSignatures": [
     {
-      "signatureID": 1,
+      "signatureID": 3473,
       "name": "Hugin Project File",
       "note": "BOF; Offset: 0; Magic Bytes: # hugin project file\n#hugin_ptoversion 2",
       "byteSequences": [
