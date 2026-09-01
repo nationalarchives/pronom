@@ -18,7 +18,7 @@
   ],
   "internalSignatures": [
     {
-      "signatureID": 3472,
+      "signatureID": 3473,
       "name": "Hugin Project File",
       "note": "BOF; Offset: 0; Magic Bytes: # hugin project file\n#hugin_ptoversion 2",
       "byteSequences": [
