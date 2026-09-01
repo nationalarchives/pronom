@@ -1,0 +1,51 @@
+# hugin project file
+#hugin_ptoversion 2
+p f2 w3000 h1500 v360  E0 R0 n"TIFF_m c:LZW"
+m g1 i0 f0 m2 p0.00784314
+
+# image lines
+#-hugin  cropFactor=1
+i w2165 h1624 f-2 v51 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 j0 a0 b0 c0 d-0 e-0 g-0 t-0 Va1 Vb0 Vc0 Vd0 Vx-0 Vy-0  Vm5 u10 n"SHB2_A0006698.jpg"
+#-hugin  cropFactor=1
+i w756 h542 f-2 v51 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 j0 a0 b0 c0 d-0 e-0 g-0 t-0 Va1 Vb0 Vc0 Vd0 Vx-0 Vy-0  Vm5 u10 n"S75_Nichols 1916.JPG"
+#-hugin  cropFactor=1
+i w2165 h1624 f-2 v51 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 j0 a0 b0 c0 d-0 e-0 g-0 t-0 Va1 Vb0 Vc0 Vd0 Vx-0 Vy-0  Vm5 u10 n"SHB2_A0006695.jpg"
+#-hugin  cropFactor=1
+i w792 h561 f-2 v51 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r0 p0 y0 TrX0 TrY0 TrZ0 j0 a0 b0 c0 d-0 e-0 g-0 t-0 Va1 Vb0 Vc0 Vd0 Vx-0 Vy-0  Vm5 u10 n"S76_Nichols 1916.JPG"
+
+
+# specify variables that should be optimized
+v
+
+
+# control points
+c n0 N1 x1127.85375494071 y900.229249011858 X413 Y318 t0
+c n0 N1 x836.905138339921 y1143.25691699605 X275 Y431 t0
+c n0 N1 x1482 y735 X575.516205533597 Y243.234782608696 t0
+c n0 N1 x444 y844 X89.6442687747036 Y292.837944664032 t0
+c n2 N3 x1225.40711462451 y689.719367588933 X468 Y225 t0
+c n2 N3 x1836 y644 X750.678260869565 Y203.478260869565 t0
+c n2 N3 x526 y742 X127.095652173913 Y249.182608695652 t0
+c n2 N3 x1540 y859 X614.817391304348 Y306.782608695652 t0
+
+#hugin_optimizeReferenceImage 0
+#hugin_blender enblend
+#hugin_remapper nona
+#hugin_enblendOptions 
+#hugin_enfuseOptions 
+#hugin_hdrmergeOptions 
+#hugin_outputLDRBlended true
+#hugin_outputLDRLayers false
+#hugin_outputLDRExposureRemapped false
+#hugin_outputLDRExposureLayers false
+#hugin_outputLDRExposureBlended false
+#hugin_outputLDRExposureLayersFused false
+#hugin_outputHDRBlended false
+#hugin_outputHDRLayers false
+#hugin_outputHDRStacks false
+#hugin_outputLayersCompression LZW
+#hugin_outputImageType tif
+#hugin_outputImageTypeCompression LZW
+#hugin_outputJPEGQuality 100
+#hugin_outputImageTypeHDR exr
+#hugin_outputImageTypeHDRCompression LZW
