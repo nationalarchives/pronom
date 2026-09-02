@@ -14,7 +14,7 @@
   ],
   "internalSignatures": [
     {
-      "signatureID": 28000,
+      "signatureID": 3471,
       "name": "ForTheRecord TRM Audio",
       "note": "BOF; Offset:0; Magic Bytes: 'RIFF' {4} 'AVI ' {2286} 'FTRA'",
       "byteSequences": [
@@ -42,5 +42,6 @@
     }
   ],
   "containerSignatures": [],
-  "formatNote": "ffmpeg includes a parser for FTR files: https://git.ffmpeg.org/gitweb/ffmpeg.git/blob/a166b8a19bb34afc2c6727f20f551fce9a53d6fe:/libavcodec/ftr_parser.c"
+  "formatNote": "ffmpeg includes a parser for FTR files: https://git.ffmpeg.org/gitweb/ffmpeg.git/blob/a166b8a19bb34afc2c6727f20f551fce9a53d6fe:/libavcodec/ftr_parser.c",
+  "fileFormatID": 3982
 }
