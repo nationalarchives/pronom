@@ -4,8 +4,8 @@
   "formatDescription": "A container for digital books that stores the book as typographic data, unlike other alternatives that store books as web documents inside an archive. The container has no scripting and no executable content. Page records carry resolved line geometry, so line breaks and optical margins are decided once when the book is typeset rather than recomputed on the reading device. The signature contains an initial 16 byte magic byte header, after which it holds two little-endian unsigned 32-bit lengths, a Zstandard-compressed JSON manifest, and a chunk arena containing one compressed page block and the book's assets.",
   "binaryFileFormat": null,
   "formatTypes": "Page Description, Word Processor",
-  "source": 244,
-  "provenanceCompoundName": null,
+  "source": 365,
+  "provenanceCompoundName": "Fabylon / Fabylon",
   "identifiers": [
     {
       "identifierText": "fmt/2108",
@@ -38,16 +38,13 @@
       "signatureType": "File extension"
     }
   ],
-  "relationships": [
-    {
-      "relationshipType": "Has priority over",
-      "relatedFormatID": 2626,
-      "relatedFormatName": "Extensible Markup Language"
-    }
-  ],
+  "relationships": [],
   "containerSignatures": [],
   "formatNote": "Specification: https://www.google.com/url?q=https://fabylon.net/fab/specification/&source=gmail&ust=1787034048114000&sa=E Related software: Fabylon Bookmaker \u2014 writes .fab \u2014 https://www.google.com/url?q=https://www.martijnbenders.nl/bookmaker/&source=gmail&ust=1787034048114000&sa=E Fabylon Reader \u2014 reads .fab \u2014 https://www.google.com/url?q=https://fabylon.net/fabreader/&source=gmail&ust=1787034048114000&sa=E",
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
-  "fileFormatID": 4984
+  "fileFormatID": 4984,
+  "supportedBy": 365,
+  "formatSourceID": null,
+  "developedBy": 365
 }
