@@ -8,10 +8,6 @@
   "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {
-      "identifierText": "fmt/2105",
-      "identifierType": "PUID"
-    },
-    {
       "identifierType": "PUID",
       "identifierText": "fmt/2105"
     }
