@@ -57,6 +57,7 @@ Updated Records,fmt/442,Microsoft Visio (generic): Added description.
 Updated Records,fmt/443,"Microsoft Visio Drawing 2003-2010: Changed name from Microsoft Visio Drawing 2003, added description."
 Updated Records,fmt/503,AppleDouble Resource Fork: Added MIME type.
 Updated Records,fmt/569,Matroska 1-4: Change named to Matroska 1-4. Edited description. Added family relationship and added offset of 1024 to signature and edited signature description.
+Updated Records,fmt/573,Webm: Added family relationship and edited signature description.
 Updated Records,fmt/590,JPEG Extended Range: Added MIME type.
 Updated Records,x-fmt/23,Microsoft Excel Backup: Removed .bak extension in favour of a new generic entry for extension-only .bak files: fmt/941 - Back Up File. If a binary signature is ever developed for Microsoft Excel Backup there is scope to re-apply this extension.
 Updated Records,x-fmt/113,Microsoft Visio Drawing 5.0: Added description.
