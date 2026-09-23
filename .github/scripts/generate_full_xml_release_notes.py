@@ -56,13 +56,13 @@ import csv
 from datetime import datetime
 from xml.etree.ElementTree import Element, SubElement, tostring, ElementTree
 
-def get_ordinal_formatted_date(date_str):
+def create_ordinal_formatted_date(date_str):
     date = datetime.strptime(date_str, '%Y-%m-%d')
     day = date.day
     ordinal_suffix = "th" if 11 <= day <= 13 else {1: "st", 2: "nd", 3: "rd"}.get(day % 10, "th")
     return f"{day}{ordinal_suffix} {date.strftime('%B %Y')}"
 
-def get_name_and_summary(summary):
+def create_name_and_summary(summary):
     # A ':' can appear more than once, splitting on ': ' works best based on analysing existing data
     summary_parts = summary.split(": ", 1)
     return summary_parts[0], summary_parts[1] if len(summary_parts) > 1 else ""
@@ -71,9 +71,9 @@ def create_format_element(puid, summary):
     format_elem = Element('format')
     puid_type, puid_value = puid.split("/", 1)
     SubElement(format_elem, "puid", type=puid_type).text = puid_value
-    name, summary = get_name_and_summary(summary)
-    SubElement(format_elem, 'name').text = name  # Extract name before colon
-    SubElement(format_elem, 'summary').text = summary   # Extract summary after colon
+    name, summary = create_name_and_summary(summary)
+    SubElement(format_elem, 'name').text = name  
+    SubElement(format_elem, 'summary').text = summary  
     return format_elem
 
 def create_release_outline_element(outline_name, all_rows):
@@ -89,7 +89,7 @@ def create_release_note_element(changelog_file_name, all_rows):
     
     version = changelog_file_name.split("-", 2)[1][1:]
     date_str = changelog_file_name.split("-", 2)[2].removesuffix(".csv")
-    release_date = get_ordinal_formatted_date(date_str)
+    release_date = create_ordinal_formatted_date(date_str)
     droid_signature_file = f'DROID_SignatureFile_V{version}.xml'
 
     SubElement(release_note, 'release_date').text = release_date
@@ -122,16 +122,13 @@ def create_release_notes_from_changelogs(path_to_changelog_files):
     return release_notes
 
 def run():
-    # Create the root element
     release_notes = create_release_notes_from_changelogs('./../../changelogs')
 
-    # Write the XML to a file
     tree = ElementTree(release_notes)
     with open('release_notes.xml', 'wb') as xmlfile:
         xmlfile.write(b'<?xml version="1.0" encoding="utf-8"?>\n')
         xmlfile.write(b'<?xml-stylesheet type="text/xsl" href="release-note.xsl"?>\n')
         tree.write(xmlfile, encoding='utf-8', xml_declaration=False)
 
-# Example usage
 if __name__ == "__main__":
     run()

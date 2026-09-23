@@ -9,24 +9,24 @@ import tempfile
 
 class MyTestCase(unittest.TestCase):
     def test_date_should_be_formatted_with_ordinal(self):
-        self.assertEqual("5th June 2024", generate_full_xml_release_notes.get_ordinal_formatted_date("2024-06-05"))
-        self.assertEqual("1st January 2024", generate_full_xml_release_notes.get_ordinal_formatted_date("2024-01-01"))
-        self.assertEqual("2nd June 2024", generate_full_xml_release_notes.get_ordinal_formatted_date("2024-06-02"))
-        self.assertEqual("11th June 2024", generate_full_xml_release_notes.get_ordinal_formatted_date("2024-06-11"))
-        self.assertEqual("21st November 2024", generate_full_xml_release_notes.get_ordinal_formatted_date("2024-11-21"))
-        self.assertEqual("22nd August 2024", generate_full_xml_release_notes.get_ordinal_formatted_date("2024-08-22"))
-        self.assertEqual("23rd July 2024", generate_full_xml_release_notes.get_ordinal_formatted_date("2024-07-23"))
+        self.assertEqual("5th June 2024", generate_full_xml_release_notes.create_ordinal_formatted_date("2024-06-05"))
+        self.assertEqual("1st January 2024", generate_full_xml_release_notes.create_ordinal_formatted_date("2024-01-01"))
+        self.assertEqual("2nd June 2024", generate_full_xml_release_notes.create_ordinal_formatted_date("2024-06-02"))
+        self.assertEqual("11th June 2024", generate_full_xml_release_notes.create_ordinal_formatted_date("2024-06-11"))
+        self.assertEqual("21st November 2024", generate_full_xml_release_notes.create_ordinal_formatted_date("2024-11-21"))
+        self.assertEqual("22nd August 2024", generate_full_xml_release_notes.create_ordinal_formatted_date("2024-08-22"))
+        self.assertEqual("23rd July 2024", generate_full_xml_release_notes.create_ordinal_formatted_date("2024-07-23"))
 
     def test_get_name_and_summary_should_split_on_colon_to_generate_correct_name_and_summary(self):
-        self.assertEqual(("", ""), generate_full_xml_release_notes.get_name_and_summary(""))
-        self.assertEqual(("Acrobat PDF/X - Portable Document Format - Exchange 1:2001", "Signature developed through PRONOM Research."), 
-                         generate_full_xml_release_notes.get_name_and_summary("Acrobat PDF/X - Portable Document Format - Exchange 1:2001: Signature developed through PRONOM Research."))
+        self.assertEqual(("", ""), generate_full_xml_release_notes.create_name_and_summary(""))
         self.assertEqual(("Acrobat PDF/X - Portable Document Format - Exchange 1:2001", "Signature developed through PRONOM Research."),
-                         generate_full_xml_release_notes.get_name_and_summary("Acrobat PDF/X - Portable Document Format - Exchange 1:2001: Signature developed through PRONOM Research."))
+                         generate_full_xml_release_notes.create_name_and_summary("Acrobat PDF/X - Portable Document Format - Exchange 1:2001: Signature developed through PRONOM Research."))
+        self.assertEqual(("Acrobat PDF/X - Portable Document Format - Exchange 1:2001", "Signature developed through PRONOM Research."),
+                         generate_full_xml_release_notes.create_name_and_summary("Acrobat PDF/X - Portable Document Format - Exchange 1:2001: Signature developed through PRONOM Research."))
         self.assertEqual(("EndNote Import File", "Amended internal sigs EndNote Import File No.1 and EndNote Import File No.2: Changed wildcard to {5-50}. Amended bytes within sequences from (44|54) to (41|42|43|44|54). Submitted by The National Library of Australia."),
-                         generate_full_xml_release_notes.get_name_and_summary("EndNote Import File: Amended internal sigs EndNote Import File No.1 and EndNote Import File No.2: Changed wildcard to {5-50}. Amended bytes within sequences from (44|54) to (41|42|43|44|54). Submitted by The National Library of Australia."))
+                         generate_full_xml_release_notes.create_name_and_summary("EndNote Import File: Amended internal sigs EndNote Import File No.1 and EndNote Import File No.2: Changed wildcard to {5-50}. Amended bytes within sequences from (44|54) to (41|42|43|44|54). Submitted by The National Library of Australia."))
         self.assertEqual(("Rich Text Format 0", "Removed extraneous whitespace preceeding format name. Error identified by Andy Jackson's file format registry aggregator - http://www.digipres.org/formats/- hosted on the DigiPres Commons website."),
-                         generate_full_xml_release_notes.get_name_and_summary("Rich Text Format 0: Removed extraneous whitespace preceeding format name. Error identified by Andy Jackson's file format registry aggregator - http://www.digipres.org/formats/- hosted on the DigiPres Commons website."))
+                         generate_full_xml_release_notes.create_name_and_summary("Rich Text Format 0: Removed extraneous whitespace preceeding format name. Error identified by Andy Jackson's file format registry aggregator - http://www.digipres.org/formats/- hosted on the DigiPres Commons website."))
         
     def test_create_format_element_should_create_a_format_element_using_puid_and_summary(self):
         format_elem = generate_full_xml_release_notes.create_format_element("fmt/974", "Notation Interchange File Format: Full entry added.")
