@@ -71,9 +71,9 @@
       "relatedFormatName": "Autodesk Revit Family File"
     }
   ],
-  "supportedBy": 18,
-  "developedBy": 18,
-  "source": 220,
+  "supportedBy": [1],
+  "developedBy": [18],
+  "source": [220],
   "containerSignatures": [
     {
       "containerType": "OLE2",

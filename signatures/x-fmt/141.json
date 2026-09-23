@@ -55,7 +55,7 @@
       "relatedFormatName": "Calendar Creator Event"
     }
   ],
-  "supportedBy": 20,
-  "developedBy": 20,
-  "source": 1
+  "supportedBy": [2],
+  "developedBy": [20],
+  "source": [1]
 }

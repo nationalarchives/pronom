@@ -155,6 +155,6 @@
       "relatedFormatName": "Encapsulated PostScript File Format"
     }
   ],
-  "developedBy": 7,
-  "source": 1
+  "developedBy": [7],
+  "source": [1]
 }

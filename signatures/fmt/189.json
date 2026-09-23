@@ -50,7 +50,7 @@
       "relatedFormatName": "ZIP Format"
     }
   ],
-  "supportedBy": 93,
-  "developedBy": 93,
-  "source": 1
+  "supportedBy": [9],
+  "developedBy": [93],
+  "source": [1]
 }

@@ -65,6 +65,6 @@
       "relatedFormatName": "Micrografx Designer"
     }
   ],
-  "supportedBy": 35,
-  "source": 1
+  "supportedBy": [35],
+  "source": [1]
 }

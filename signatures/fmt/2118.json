@@ -4,7 +4,7 @@
   "formatDescription": "FASTQ is a text based format for storing biological sequences (nucleotide and amino), but differs from the FASTA format by also storing corresponding quality scores alongside the sequences. Both the sequence letter and quality score are encoded with a single ASCII character.",
   "binaryFileFormat": null,
   "formatTypes": "Text (Structured)",
-  "source": 299,
+  "source": [299],
   "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "identifiers": [
     {

@@ -67,7 +67,7 @@
       "relatedFormatName": "Hewlett Packard Graphics Language"
     }
   ],
-  "supportedBy": 45,
-  "developedBy": 45,
-  "source": 216
+  "supportedBy": [4],
+  "developedBy": [45],
+  "source": [21]
 }

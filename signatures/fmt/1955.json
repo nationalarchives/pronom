@@ -83,6 +83,6 @@
     }
   ],
   "relationships": [],
-  "developedBy": 326,
-  "source": 1
+  "developedBy": [326],
+  "source": [1]
 }

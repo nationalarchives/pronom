@@ -204,7 +204,7 @@
       "relatedFormatName": "Web Open Font Format"
     }
   ],
-  "supportedBy": 15,
-  "developedBy": 15,
-  "source": 180
+  "supportedBy": [1],
+  "developedBy": [15],
+  "source": [18]
 }

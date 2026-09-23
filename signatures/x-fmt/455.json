@@ -64,7 +64,7 @@
       "relatedFormatName": "AutoCAD Drawing"
     }
   ],
-  "supportedBy": 18,
-  "developedBy": 18,
-  "source": 131
+  "supportedBy": [1],
+  "developedBy": [18],
+  "source": [13]
 }

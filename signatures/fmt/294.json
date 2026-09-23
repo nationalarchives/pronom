@@ -98,8 +98,8 @@
       "relatedFormatName": "OpenDocument Spreadsheet"
     }
   ],
-  "developedBy": 127,
-  "source": 1,
+  "developedBy": [127],
+  "source": [1],
   "containerSignatures": [
     {
       "containerType": "ZIP",

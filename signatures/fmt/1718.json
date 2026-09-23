@@ -70,8 +70,8 @@
       "relatedFormatName": "PageMaker Mac Document"
     }
   ],
-  "developedBy": 7,
-  "source": 220,
+  "developedBy": [7],
+  "source": [220],
   "containerSignatures": [
     {
       "containerType": "OLE2",

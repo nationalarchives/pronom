@@ -71,7 +71,7 @@
       "relatedFormatName": "vCard"
     }
   ],
-  "supportedBy": 106,
-  "developedBy": 106,
-  "source": 234
+  "supportedBy": [10],
+  "developedBy": [106],
+  "source": [23]
 }

@@ -55,7 +55,7 @@
       "relatedFormatName": "SPSS PC File Format"
     }
   ],
-  "supportedBy": 46,
-  "developedBy": 46,
-  "source": 202
+  "supportedBy": [4],
+  "developedBy": [46],
+  "source": [20]
 }

@@ -55,7 +55,7 @@
       "relatedFormatName": "QuickDraw 3D Metafile (Binary)"
     }
   ],
-  "supportedBy": 15,
-  "developedBy": 15,
-  "source": 224
+  "supportedBy": [1],
+  "developedBy": [15],
+  "source": [22]
 }

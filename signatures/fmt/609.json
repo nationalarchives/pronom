@@ -67,9 +67,9 @@
       "relatedFormatName": "Microsoft Word Document Template (Password Protected)"
     }
   ],
-  "supportedBy": 93,
-  "developedBy": 93,
-  "source": 184,
+  "supportedBy": [9],
+  "developedBy": [93],
+  "source": [184],
   "containerSignatures": [
     {
       "containerType": "OLE2",

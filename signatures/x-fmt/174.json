@@ -67,8 +67,8 @@
       "relatedFormatName": "PageMaker PC Document"
     }
   ],
-  "developedBy": 7,
-  "source": 1,
+  "developedBy": [7],
+  "source": [1],
   "containerSignatures": [
     {
       "containerType": "OLE2",

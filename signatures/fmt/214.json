@@ -63,9 +63,9 @@
       "relatedFormatName": "Microsoft Excel Macro-Enabled Add-In"
     }
   ],
-  "supportedBy": 93,
-  "developedBy": 93,
-  "source": 1,
+  "supportedBy": [9],
+  "developedBy": [93],
+  "source": [1],
   "containerSignatures": [
     {
       "containerType": "ZIP",

@@ -28,6 +28,6 @@
   "internalSignatures": [],
   "externalSignatures": [],
   "relationships": [],
-  "developedBy": 15,
-  "source": 1
+  "developedBy": [15],
+  "source": [1]
 }

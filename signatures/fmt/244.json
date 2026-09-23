@@ -72,7 +72,7 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "supportedBy": 141,
-  "developedBy": 141,
-  "source": 1
+  "supportedBy": [14],
+  "developedBy": [141],
+  "source": [1]
 }

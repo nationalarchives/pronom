@@ -60,6 +60,6 @@
       "relatedFormatName": "MPEG-4 Media File"
     }
   ],
-  "supportedBy": 197,
-  "source": 220
+  "supportedBy": [197],
+  "source": [220]
 }

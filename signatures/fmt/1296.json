@@ -39,9 +39,9 @@
       "relatedFormatName": "Calendar Creator File"
     }
   ],
-  "supportedBy": 20,
-  "developedBy": 20,
-  "source": 220,
+  "supportedBy": [2],
+  "developedBy": [20],
+  "source": [220],
   "containerSignatures": [
     {
       "containerType": "OLE2",

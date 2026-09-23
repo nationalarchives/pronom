@@ -55,7 +55,7 @@
       "relatedFormatName": "Sony Digital Voice File/Sony Memory Stick Voice File"
     }
   ],
-  "supportedBy": 319,
-  "developedBy": 319,
-  "source": 299
+  "supportedBy": [31],
+  "developedBy": [319],
+  "source": [29]
 }

@@ -33,9 +33,9 @@
     }
   ],
   "relationships": [],
-  "supportedBy": 221,
-  "developedBy": 221,
-  "source": 234,
+  "supportedBy": [22],
+  "developedBy": [221],
+  "source": [234],
   "containerSignatures": [
     {
       "containerType": "OLE2",

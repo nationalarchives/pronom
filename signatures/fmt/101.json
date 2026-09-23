@@ -737,7 +737,7 @@
       "relatedFormatName": "FictionBook eBook"
     }
   ],
-  "developedBy": 106,
-  "source": 1,
+  "developedBy": [106],
+  "source": [1],
   "containerSignatures": []
 }

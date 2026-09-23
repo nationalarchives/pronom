@@ -53,7 +53,7 @@
     }
   ],
   "relationships": [],
-  "supportedBy": 45,
-  "developedBy": 45,
-  "source": 205
+  "supportedBy": [4],
+  "developedBy": [45],
+  "source": [20]
 }

@@ -38,9 +38,27 @@
     "byteOrders": { "type": ["string", "null"] },
     "formatFamilies": { "type": ["string", "null"] },
 
-    "source": { "type": ["integer", "null"] },
-    "developedBy": { "type": ["integer", "null"] },
-    "supportedBy": { "type": ["integer", "null"] },
+    "source": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      }
+    },
+    "developedBy": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      }
+    },
+    "supportedBy": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      }
+    },
 
     "identifiers": {
       "type": "array",

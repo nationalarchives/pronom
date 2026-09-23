@@ -43,9 +43,9 @@
       "relatedFormatName": "Microsoft Excel for Windows"
     }
   ],
-  "supportedBy": 93,
-  "developedBy": 93,
-  "source": 193,
+  "supportedBy": [9],
+  "developedBy": [93],
+  "source": [193],
   "containerSignatures": [
     {
       "containerType": "ZIP",

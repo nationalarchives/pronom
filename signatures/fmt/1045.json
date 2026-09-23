@@ -59,7 +59,7 @@
   ],
   "externalSignatures": [],
   "relationships": [],
-  "supportedBy": 72,
-  "developedBy": 72,
-  "source": 1
+  "supportedBy": [7],
+  "developedBy": [72],
+  "source": [1]
 }

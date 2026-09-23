@@ -55,6 +55,6 @@
       "relatedFormatName": "Resource Interchange File Format (RIFF)"
     }
   ],
-  "developedBy": 341,
-  "source": 299
+  "developedBy": [341],
+  "source": [29]
 }

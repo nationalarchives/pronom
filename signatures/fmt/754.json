@@ -72,9 +72,9 @@
       "relatedFormatName": "OLE2 Compound Document Format"
     }
   ],
-  "supportedBy": 93,
-  "developedBy": 93,
-  "source": 214,
+  "supportedBy": [9],
+  "developedBy": [93],
+  "source": [214],
   "containerSignatures": [
     {
       "containerType": "OLE2",

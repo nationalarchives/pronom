@@ -4,7 +4,7 @@
   "formatDescription": "TRM is the native format of ForTheRecord (FTR) software, audio recording software primarily used in a court setting, It has a similar internal structure to AVI, using proprietary audio encoding.",
   "binaryFileFormat": null,
   "formatTypes": "Audio",
-  "source": 244,
+  "source": [244],
   "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {

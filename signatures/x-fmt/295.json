@@ -64,6 +64,6 @@
       "relatedFormatName": "Micrografx Draw"
     }
   ],
-  "supportedBy": 35,
-  "source": 1
+  "supportedBy": [35],
+  "source": [1]
 }

@@ -49,7 +49,7 @@
     }
   ],
   "relationships": [],
-  "supportedBy": 315,
-  "developedBy": 315,
-  "source": 220
+  "supportedBy": [31],
+  "developedBy": [315],
+  "source": [220]
 }

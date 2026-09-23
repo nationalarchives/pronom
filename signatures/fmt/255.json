@@ -61,8 +61,8 @@
     }
   ],
   "relationships": [],
-  "supportedBy": 151,
-  "developedBy": 151,
-  "source": 149,
+  "supportedBy": [15],
+  "developedBy": [151],
+  "source": [149],
   "containerSignatures": []
 }

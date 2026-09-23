@@ -60,7 +60,7 @@
       "relatedFormatName": "Tagged Image File Format"
     }
   ],
-  "supportedBy": 38,
-  "developedBy": 38,
-  "source": 195
+  "supportedBy": [3],
+  "developedBy": [38],
+  "source": [19]
 }
