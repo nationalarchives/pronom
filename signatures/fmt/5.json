@@ -61,6 +61,11 @@
       "relationshipType": "Has priority over",
       "relatedFormatID": 2741,
       "relatedFormatName": "Resource Interchange File Format (RIFF)"
+    },
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 3982,
+      "relatedFormatName": "ForTheRecord TRM Audio"
     }
   ],
   "source": [1]

@@ -728,6 +728,11 @@
     },
     {
       "relationshipType": "Has lower priority than",
+      "relatedFormatID": 3956,
+      "relatedFormatName": "xdomea"
+    },
+    {
+      "relationshipType": "Has lower priority than",
       "relatedFormatID": 1679,
       "relatedFormatName": "RDF/XML"
     },
@@ -735,6 +740,11 @@
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 4982,
       "relatedFormatName": "FictionBook eBook"
+    },
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 3960,
+      "relatedFormatName": "FieldWorks Language Explorer FWData XML"
     }
   ],
   "developedBy": [106],

@@ -53,6 +53,16 @@
       "relationshipType": "Has priority over",
       "relatedFormatID": 1099,
       "relatedFormatName": "Tagged Image File Format"
+    },
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 3967,
+      "relatedFormatName": "Kodak DCS RAW Image"
+    },
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 3968,
+      "relatedFormatName": "Kodak DCS RAW Image"
     }
   ],
   "source": [22]

@@ -56,7 +56,7 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 456,
-      "relatedFormatName": "Visualization Toolkit"
+      "relatedFormatName": "Adobe FrameMaker Document"
     },
     {
       "relationshipType": "Is subsequent version of",
