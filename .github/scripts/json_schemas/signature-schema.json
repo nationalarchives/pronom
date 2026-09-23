@@ -69,7 +69,7 @@
         "required": ["identifierType", "identifierText"],
         "properties": {
           "identifierType": { "type": "string" },
-          "identifierText": { "type": "string" }
+          "identifierText": { "type": ["string", "null"] }
         }
       },
       "allOf": [
