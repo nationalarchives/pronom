@@ -57,6 +57,6 @@
     }
   ],
   "relationships": [],
-  "supportedBy": 303,
-  "source": 220
+  "supportedBy": [303],
+  "source": [220]
 }

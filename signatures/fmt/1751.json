@@ -55,7 +55,7 @@
       "relatedFormatName": "MPEG 1/2 Audio Layer 3"
     }
   ],
-  "supportedBy": 197,
-  "developedBy": 197,
-  "source": 1
+  "supportedBy": [19],
+  "developedBy": [197],
+  "source": [1]
 }

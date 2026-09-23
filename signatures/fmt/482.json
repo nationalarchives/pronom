@@ -99,9 +99,9 @@
       "relatedFormatName": "Hypertext Markup Language"
     }
   ],
-  "supportedBy": 15,
-  "developedBy": 15,
-  "source": 184,
+  "supportedBy": [1],
+  "developedBy": [15],
+  "source": [184],
   "containerSignatures": [
     {
       "containerType": "ZIP",

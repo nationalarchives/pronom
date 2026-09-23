@@ -49,6 +49,6 @@
     }
   ],
   "relationships": [],
-  "developedBy": 341,
-  "source": 1
+  "developedBy": [341],
+  "source": [1]
 }

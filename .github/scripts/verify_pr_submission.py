@@ -9,7 +9,7 @@ def decode_json(file_path):
         try:
             json_as_dict = json.load(json_file)
         except Exception as err:
-            print(f"Error parsing JSON: {err}")
+            print(f"Error parsing JSON in file {file_path}: {err}")
         return json_as_dict
 
 
@@ -44,7 +44,9 @@ def check_relationship(all_json, format_json, relationship, first_type, second_t
             def get_puid(obj): return [x for x in obj["identifiers"] if x["identifierType"] == "PUID"][0]["identifierText"]
             puid = get_puid(format_json)
             related_puid = get_puid(all_json[related_id])
-            raise Exception(f"No two way relationship between {puid} and {related_puid}")
+            raise Exception(f"A two-way relationship between '{puid}' and '{related_puid}' was not found. Check "
+                            f"that the 'relationships' array in '{related_puid}' contains an entry with the "
+                            f"'fileFormatID' of '{puid}'")
 
 
 relationship_pairs = [
@@ -107,9 +109,9 @@ def run():
                         related_format_id = each_relationship["relatedFormatID"]
                         related_signature_format_name = all_json[related_format_id]["formatName"]
                         if related_signature_format_name != related_format_name:
-                            message = (f"Related format with id {related_format_id} and name {related_format_name} "
-                                       f"does not match {related_signature_format_name} "
-                                       f"in file {signature_submission.split("\t")[1]}")
+                            message = (f"Name '{related_format_name}' given to related format with id "
+                                       f"'{related_format_id}' does not match 'name' '{related_signature_format_name}' "
+                                       f"in file '{signature_submission.split("\t")[1]}'")
                             raise Exception(message)
                         for each_pair in relationship_pairs:
                             check_relationship(all_json, submission_json, each_relationship, each_pair[0], each_pair[1])

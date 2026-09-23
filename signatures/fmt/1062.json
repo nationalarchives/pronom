@@ -76,7 +76,12 @@
       "relationshipType": "Has priority over",
       "relatedFormatID": 1099,
       "relatedFormatName": "Tagged Image File Format"
+    },
+    {
+      "relationshipType": "Is subsequent version of",
+      "relatedFormatID": 3972,
+      "relatedFormatName": "Hasselblad FFF Raw Image"
     }
   ],
-  "source": 227
+  "source": [22]
 }

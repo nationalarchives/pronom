@@ -82,7 +82,7 @@
       "relatedFormatName": "Macintosh PICT Image"
     }
   ],
-  "supportedBy": 15,
-  "developedBy": 15,
-  "source": 165
+  "supportedBy": [1],
+  "developedBy": [15],
+  "source": [16]
 }

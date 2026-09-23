@@ -41,8 +41,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 319,
-      "relatedFormatName": "3D Studio (V1)"
+      "relatedFormatName": "Geography Markup Language"
     }
   ],
-  "source": 232
+  "source": [23]
 }

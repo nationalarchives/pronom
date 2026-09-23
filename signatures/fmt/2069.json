@@ -44,9 +44,9 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1851,
-      "relatedFormatName": "Draco 1"
+      "relatedFormatName": "Draco"
     }
   ],
-  "source": 244,
-  "developedBy": 141
+  "source": [24],
+  "developedBy": [141]
 }

@@ -44,9 +44,9 @@
       "relatedFormatName": "Quattro Pro Spreadsheet for Windows"
     }
   ],
-  "supportedBy": 35,
-  "developedBy": 35,
-  "source": 1,
+  "supportedBy": [3],
+  "developedBy": [35],
+  "source": [1],
   "containerSignatures": [
     {
       "containerType": "OLE2",

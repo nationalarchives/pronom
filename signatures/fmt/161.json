@@ -63,9 +63,9 @@
       "relatedFormatName": "ZIP Format"
     }
   ],
-  "supportedBy": 143,
-  "developedBy": 143,
-  "source": 143,
+  "supportedBy": [14],
+  "developedBy": [143],
+  "source": [143],
   "containerSignatures": [
     {
       "containerType": "ZIP",

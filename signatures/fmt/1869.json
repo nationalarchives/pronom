@@ -58,7 +58,7 @@
       "relatedFormatName": "SPSS Data File"
     }
   ],
-  "supportedBy": 46,
-  "developedBy": 46,
-  "source": 234
+  "supportedBy": [4],
+  "developedBy": [46],
+  "source": [23]
 }

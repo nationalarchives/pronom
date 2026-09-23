@@ -61,9 +61,14 @@
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
       "relatedFormatName": "Extensible Markup Language"
+    },
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 1388,
+      "relatedFormatName": "Apple Lossless Audio Codec"
     }
   ],
-  "supportedBy": 358,
-  "developedBy": 358,
-  "source": 299
+  "supportedBy": [35],
+  "developedBy": [358],
+  "source": [29]
 }

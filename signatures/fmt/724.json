@@ -43,9 +43,9 @@
       "relatedFormatName": "Keyhole Markup Language (XML)"
     }
   ],
-  "supportedBy": 141,
-  "developedBy": 141,
-  "source": 1,
+  "supportedBy": [14],
+  "developedBy": [141],
+  "source": [1],
   "containerSignatures": [
     {
       "containerType": "ZIP",

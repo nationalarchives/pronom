@@ -68,7 +68,7 @@
       "relatedFormatName": "Apple Partition Map Disk Image"
     }
   ],
-  "supportedBy": 15,
-  "developedBy": 15,
-  "source": 224
+  "supportedBy": [1],
+  "developedBy": [15],
+  "source": [22]
 }

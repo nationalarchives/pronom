@@ -48,7 +48,7 @@
   ],
   "externalSignatures": [],
   "relationships": [],
-  "supportedBy": 35,
-  "developedBy": 35,
-  "source": 220
+  "supportedBy": [3],
+  "developedBy": [35],
+  "source": [220]
 }

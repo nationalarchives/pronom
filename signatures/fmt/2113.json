@@ -4,7 +4,7 @@
   "formatDescription": "TIGER/Line Files are extracts of selected geographic and cartographic information from the US Census Bureau's Master Address File (MAF)/Topologically Integrated Geographic Encoding and Referencing (TIGER) system. Before 2007 these were constructed of ZIP files containing ASCII data. Each ZIP represents a single county or equivalent. Each ZIP contains a number of 'Record Type' files. In the 2000 Census data there were up to 17 Record Type files per ZIP, with each named RTx where x represents a value for the nature of the Record Type, so e.g. Record Type 1 = <filename>.RT1, Record Type Z = <filename>.RTZ. In the 1992 Census data the internal files had an .F5x extension, where x represents the value for each record type.",
   "binaryFileFormat": null,
   "formatTypes": "Dataset, GIS",
-  "source": 244,
+  "source": [244],
   "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {

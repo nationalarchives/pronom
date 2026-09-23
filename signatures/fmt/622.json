@@ -43,9 +43,9 @@
       "relatedFormatName": "GeoGebra"
     }
   ],
-  "supportedBy": 203,
-  "developedBy": 203,
-  "source": 202,
+  "supportedBy": [20],
+  "developedBy": [203],
+  "source": [202],
   "containerSignatures": [
     {
       "containerType": "ZIP",

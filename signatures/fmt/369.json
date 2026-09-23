@@ -64,6 +64,6 @@
       "relatedFormatName": "ASPRS Lidar Data Exchange Format"
     }
   ],
-  "developedBy": 173,
-  "source": 1
+  "developedBy": [173],
+  "source": [1]
 }

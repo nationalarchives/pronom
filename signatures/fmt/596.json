@@ -77,7 +77,7 @@
       "relatedFormatName": "Daisy Talking Book Navigation Control File"
     }
   ],
-  "supportedBy": 15,
-  "developedBy": 15,
-  "source": 1
+  "supportedBy": [1],
+  "developedBy": [15],
+  "source": [1]
 }

@@ -82,7 +82,7 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 684,
-      "relatedFormatName": "Microsoft Excel 97 Workbook (xls)"
+      "relatedFormatName": "Microsoft Excel 97-2003 Workbook (xls)"
     },
     {
       "relationshipType": "Has lower priority than",
@@ -157,7 +157,7 @@
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 684,
-      "relatedFormatName": "Microsoft Excel 97 Workbook (xls)"
+      "relatedFormatName": "Microsoft Excel 97-2003 Workbook (xls)"
     },
     {
       "relationshipType": "Is supertype of",
@@ -210,6 +210,6 @@
       "relatedFormatName": "Microsoft Word Document Template (Password Protected)"
     }
   ],
-  "developedBy": 93,
-  "source": 1
+  "developedBy": [93],
+  "source": [1]
 }

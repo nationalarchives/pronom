@@ -4,7 +4,7 @@
   "formatDescription": "LabVIEW Virtual Instrument is a proprietary format that stores the core building blocks of the LabVIEW software developed and maintained by the National Instruments company. It describes processes chaining together virtual instruments that reproduce the behavior of a physical traditional instrument (oscilloscope, multimeter, etc.). The format describes both a \"front panel\" - the GUI that displays controls, inputs and outputs and lets the user define the data flow according to a graphical programming language - and a \"block diagram\", which is the source code of the file. Some VI files can be distributed as templates and can be identified by their extension .vit.",
   "binaryFileFormat": null,
   "formatTypes": "Dataset",
-  "source": 235,
+  "source": [235],
   "provenanceCompoundName": "Technische Informationsbibliothek (TIB) Hannover / Technische Informationsbibliothek (TIB) Hannover",
   "identifiers": [
     {

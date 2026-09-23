@@ -44,9 +44,9 @@
       "relatedFormatName": "SIARD (Software-Independent Archiving of Relational Databases)"
     }
   ],
-  "supportedBy": 143,
-  "developedBy": 143,
-  "source": 232,
+  "supportedBy": [14],
+  "developedBy": [143],
+  "source": [232],
   "containerSignatures": [
     {
       "containerType": "ZIP",

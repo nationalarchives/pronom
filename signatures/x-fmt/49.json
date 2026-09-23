@@ -73,6 +73,6 @@
     }
   ],
   "relationships": [],
-  "developedBy": 18,
-  "source": 180
+  "developedBy": [18],
+  "source": [18]
 }

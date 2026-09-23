@@ -55,7 +55,7 @@
       "relatedFormatName": "Quicktime"
     }
   ],
-  "supportedBy": 15,
-  "developedBy": 15,
-  "source": 194
+  "supportedBy": [1],
+  "developedBy": [15],
+  "source": [19]
 }

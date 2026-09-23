@@ -40,8 +40,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1016,
-      "relatedFormatName": "PDF 2.0 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format"
     }
   ],
-  "source": 244
+  "source": [24]
 }

@@ -36,12 +36,12 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 684,
-      "relatedFormatName": "Microsoft Excel 97 Workbook (xls)"
+      "relatedFormatName": "Microsoft Excel 97-2003 Workbook (xls)"
     }
   ],
-  "supportedBy": 93,
-  "developedBy": 93,
-  "source": 1,
+  "supportedBy": [9],
+  "developedBy": [93],
+  "source": [1],
   "containerSignatures": [
     {
       "containerType": "OLE2",

@@ -4,7 +4,7 @@
   "formatDescription": "A Clock RINEX (Receiver Independent Exchange) Format holds high precision time information for ground base receivers and GNSS (Global Navigation Satellite System) satellites. The files allow for the exchange of precise timing information.",
   "binaryFileFormat": null,
   "formatTypes": "Text (Structured)",
-  "source": 349,
+  "source": [349],
   "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
   "identifiers": [
     {

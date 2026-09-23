@@ -59,7 +59,7 @@
       "relatedFormatName": "Java Class File"
     }
   ],
-  "supportedBy": 18,
-  "developedBy": 18,
-  "source": 216
+  "supportedBy": [1],
+  "developedBy": [18],
+  "source": [21]
 }

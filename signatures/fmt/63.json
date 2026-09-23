@@ -167,7 +167,7 @@
       "relatedFormatName": "Drawing Interchange Format (ASCII)"
     }
   ],
-  "supportedBy": 18,
-  "developedBy": 18,
-  "source": 1
+  "supportedBy": [1],
+  "developedBy": [18],
+  "source": [1]
 }

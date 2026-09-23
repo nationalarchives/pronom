@@ -59,7 +59,7 @@
       "relatedFormatName": "TrueType Font"
     }
   ],
-  "supportedBy": 200,
-  "developedBy": 200,
-  "source": 1
+  "supportedBy": [20],
+  "developedBy": [200],
+  "source": [1]
 }

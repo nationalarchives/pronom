@@ -105,7 +105,12 @@
       "relationshipType": "Has priority over",
       "relatedFormatID": 2443,
       "relatedFormatName": "BibTeX Database File"
+    },
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 3971,
+      "relatedFormatName": "M4A Audio"
     }
   ],
-  "source": 1
+  "source": [1]
 }
