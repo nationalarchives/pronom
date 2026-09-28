@@ -5,6 +5,7 @@ import urllib.request
 import xml.etree.ElementTree as Et
 import itertools
 import sys
+from datetime import datetime
 
 droid_path = sys.argv[1]
 
@@ -113,7 +114,7 @@ def add_relationships(file_format_element, format_json):
 def create_signature_file(all_files, all_internal_signatures, latest_signature_version):
     root_attributes = {
         'xmlns': 'http://www.nationalarchives.gov.uk/pronom/SignatureFile',
-        'DateCreated': '2024-07-08T11:54:20',
+        'DateCreated': datetime.now().strftime('%Y-%m-%dT%H:%M:%S'),
         'Version': str(int(latest_signature_version) + 1)
     }
     root_element = Et.Element('FFSignatureFile', attrib=root_attributes)
@@ -171,7 +172,7 @@ def create_signature_file(all_files, all_internal_signatures, latest_signature_v
         file_format_collection.append(file_format_element)
 
     Et.indent(root_element, space="\t", level=0)
-    Et.ElementTree(root_element).write('signature-file.xml')
+    Et.ElementTree(root_element).write('signature-file.xml', xml_declaration=True, encoding='utf-8')
 
 
 def generate_binary_signatures(format_json):
@@ -235,7 +236,7 @@ def create_container_file(all_container_signatures):
     triggers_element.append(Et.Element('TriggerPuid', attrib={'ContainerType': 'ZIP', 'Puid': 'fmt/189'}))
     triggers_element.append(Et.Element('TriggerPuid', attrib={'ContainerType': 'ZIP', 'Puid': 'x-fmt/263'}))
     root_element.append(triggers_element)
-    Et.ElementTree(root_element).write('container-signature-file.xml', xml_declaration=False)
+    Et.ElementTree(root_element).write('container-signature-file.xml', xml_declaration=True, encoding='utf-8')
 
 
 def get_latest_signature_version():
