@@ -96,6 +96,6 @@
       "relatedFormatName": "JPEG File Interchange Format"
     }
   ],
-  "developedBy": 120,
-  "source": 1
+  "developedBy": [120],
+  "source": [1]
 }

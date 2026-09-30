@@ -57,6 +57,6 @@
     }
   ],
   "relationships": [],
-  "developedBy": 107,
-  "source": 1
+  "developedBy": [107],
+  "source": [1]
 }

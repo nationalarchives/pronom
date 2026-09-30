@@ -4,7 +4,7 @@
   "formatDescription": "TIGER/Line Files are extracts of selected geographic and cartographic information from the US Census Bureau's Master Address File (MAF)/Topologically Integrated Geographic Encoding and Referencing (TIGER) system. In the original 2007 specification, internal files had the structure: fe_2007_<extent>_<layer>.<extension> However, from 2008 the naming convention changed to: tl_YYYY_<extent>_<layer>.<extension> Further, TIGER/Line files related to Congressional Districts and Redistricting Data may follow the naming convention: tl_rdYY_<extent>_<layer>.<extension> \u2018YYYY\u2019 or \u2018YY\u2019 represents the year the data was produced. \u2018Extent\u2019 is a 2-5 digit value representing a geographical area. \u2018Layer\u2019 specifies the type of geography or feature that the file contains. \u2018Extension\u2019 refers to the specific file type, usually .shp, .dbf, .cpg, .shx, or .prj.",
   "binaryFileFormat": null,
   "formatTypes": "Dataset, GIS",
-  "source": 244,
+  "source": [244],
   "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {

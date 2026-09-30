@@ -4,7 +4,7 @@
   "formatDescription": "A container for digital books that stores the book as typographic data, unlike other alternatives that store books as web documents inside an archive. The container has no scripting and no executable content. Page records carry resolved line geometry, so line breaks and optical margins are decided once when the book is typeset rather than recomputed on the reading device. The signature contains an initial 16 byte magic byte header, after which it holds two little-endian unsigned 32-bit lengths, a Zstandard-compressed JSON manifest, and a chunk arena containing one compressed page block and the book's assets.",
   "binaryFileFormat": null,
   "formatTypes": "Page Description, Word Processor",
-  "source": 365,
+  "source": [365],
   "provenanceCompoundName": "Fabylon / Fabylon",
   "identifiers": [
     {
@@ -45,7 +45,7 @@
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
   "fileFormatID": 4984,
-  "supportedBy": 365,
+  "supportedBy": [365],
   "formatSourceID": null,
-  "developedBy": 365
+  "developedBy": [365]
 }

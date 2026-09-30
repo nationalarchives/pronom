@@ -4,7 +4,7 @@
   "formatDescription": "The native format of Aseprite, a graphics package primarily targeted at the creation of pixel art. Aseprite sprites can be static (technically single-framed), or animated.",
   "binaryFileFormat": null,
   "formatTypes": "Image (Raster)",
-  "source": 244,
+  "source": [244],
   "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {

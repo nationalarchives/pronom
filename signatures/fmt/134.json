@@ -291,6 +291,11 @@
     },
     {
       "relationshipType": "Has lower priority than",
+      "relatedFormatID": 659,
+      "relatedFormatName": "MPEG-1 Program Stream"
+    },
+    {
+      "relationshipType": "Has lower priority than",
       "relatedFormatID": 872,
       "relatedFormatName": "AutoCAD Drawing"
     },
@@ -400,5 +405,5 @@
       "relatedFormatName": "VBM (VDC BitMap) File"
     }
   ],
-  "source": 1
+  "source": [1]
 }

@@ -229,7 +229,12 @@
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 4990,
       "relatedFormatName": "TIGER/ Line Shapefile"
+    },
+    {
+      "relationshipType": "Has lower priority than",
+      "relatedFormatID": 4989,
+      "relatedFormatName": "TIGER/Line ASCII"
     }
   ],
-  "source": 1
+  "source": [1]
 }

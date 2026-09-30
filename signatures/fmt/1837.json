@@ -49,6 +49,6 @@
     }
   ],
   "relationships": [],
-  "supportedBy": 35,
-  "source": 220
+  "supportedBy": [35],
+  "source": [220]
 }

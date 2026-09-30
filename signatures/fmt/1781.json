@@ -59,6 +59,6 @@
       "relatedFormatName": "Tagged Image File Format"
     }
   ],
-  "developedBy": 210,
-  "source": 220
+  "developedBy": [210],
+  "source": [220]
 }
