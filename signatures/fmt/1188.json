@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1836
         }
-      ]
+      ],
+      "provenance": "Minor version numbers are detailed here:\nhttps://github.com/ehsan/ogre/blob/master/OgreMain/src/OgreMeshSerializer.cpp"
     }
   ],
   "externalSignatures": [

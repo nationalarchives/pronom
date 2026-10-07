@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1070
         }
-      ]
+      ],
+      "provenance": "http://paulbourke.net/dataformats/cinema4d/cinema4d.pdf"
     }
   ],
   "externalSignatures": [

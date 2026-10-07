@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 924
         }
-      ]
+      ],
+      "provenance": "http://www.whatwg.org/specs/web-apps/current-work/multipage/syntax.html#the-doctype"
     },
     {
       "signatureID": 736,
@@ -56,7 +57,8 @@
           "endianness": null,
           "byteSequenceID": 925
         }
-      ]
+      ],
+      "provenance": "http://www.whatwg.org/specs/web-apps/current-work/multipage/syntax.html#the-doctype"
     }
   ],
   "externalSignatures": [

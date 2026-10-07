@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1859
         }
-      ]
+      ],
+      "provenance": "Based extensively on http://paulbourke.net/dataformats/obj/\n08/2023- Modified BOF signature to increase two of the byte ranges. Submitted by Preservica."
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1875
         }
-      ]
+      ],
+      "provenance": "https://www.ibbr.umd.edu/nmrpipe/install.html, https://github.com/CONNJUR/NMR-PRONOM/tree/master/NMRPipe"
     },
     {
       "signatureID": 1608,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 1874
         }
-      ]
+      ],
+      "provenance": "https://www.ibbr.umd.edu/nmrpipe/install.html, https://github.com/CONNJUR/NMR-PRONOM/tree/master/NMRPipe"
     }
   ],
   "externalSignatures": [

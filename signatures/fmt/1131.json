@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1776
         }
-      ]
+      ],
+      "provenance": "Largely base on http://www.er-c.org/cbb/info/dmformat/"
     }
   ],
   "externalSignatures": [

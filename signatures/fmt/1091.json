@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1726
         }
-      ]
+      ],
+      "provenance": "https://www.scribus.net/svn/Scribus/tags/Release_1_2_4/Scribus/scribus/doc/en/scribusfileformat.html\nhttps://wiki.scribus.net/canvas/File_Format_Specification_for_Scribus_1.4\nsee also scribusxml.cpp from source code. The earliest version I've found is 0.8 - http://ftp.ntua.gr/mirror/Scribus/"
     },
     {
       "signatureID": 1470,
@@ -56,7 +57,8 @@
           "endianness": null,
           "byteSequenceID": 1725
         }
-      ]
+      ],
+      "provenance": "https://wiki.scribus.net/canvas/File_Format_Specification_for_Scribus_1.4"
     }
   ],
   "externalSignatures": [

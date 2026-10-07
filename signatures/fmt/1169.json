@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1817
         }
-      ]
+      ],
+      "provenance": "https://learn.foundry.com/nuke/developers/90/ndkreference/examples/iffReader.cpp"
     }
   ],
   "externalSignatures": [

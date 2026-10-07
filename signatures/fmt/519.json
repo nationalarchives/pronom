@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1017
         }
-      ]
+      ],
+      "provenance": "Files held internally, http://www.hpl.hp.com/techreports/2001/HPL-2001-104.pdf"
     }
   ],
   "externalSignatures": [

@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1227
         }
-      ]
+      ],
+      "provenance": "PKCS #7 rfc (page 28 describes the OID): http://tools.ietf.org/html/rfc2315\nASN.1 notation: http://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One\nBER encoding: http://luca.ntop.org/Teaching/Appunti/asn1.html"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1132
         }
-      ]
+      ],
+      "provenance": "http://partners.adobe.com/public/developer/en/xmp/sdk/XMPspecification.pdf; 07/2024 (v.119)- Internal signature updated to allow for both double and single quotation marks. Submitted by the Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche num\u00e9rique du Canada - D\u00e9p\u00f4t f\u00e9d\u00e9r\u00e9 de donn\u00e9es de recherche."
     }
   ],
   "externalSignatures": [

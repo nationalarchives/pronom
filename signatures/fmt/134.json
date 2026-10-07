@@ -53,7 +53,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 358
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     },
     {
       "signatureID": 267,
@@ -76,7 +77,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 359
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     },
     {
       "signatureID": 268,
@@ -99,7 +101,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 360
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     },
     {
       "signatureID": 269,
@@ -122,7 +125,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 361
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     },
     {
       "signatureID": 279,
@@ -137,7 +141,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 365
         }
-      ]
+      ],
+      "provenance": "Droid 5.0 research."
     },
     {
       "signatureID": 280,
@@ -152,7 +157,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 364
         }
-      ]
+      ],
+      "provenance": "Droid 5.0 signature research."
     },
     {
       "signatureID": 281,
@@ -167,7 +173,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 363
         }
-      ]
+      ],
+      "provenance": "Droid 5.0 signature research."
     },
     {
       "signatureID": 282,
@@ -182,7 +189,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 362
         }
-      ]
+      ],
+      "provenance": "Droid 5.0 signature research."
     },
     {
       "signatureID": 1733,

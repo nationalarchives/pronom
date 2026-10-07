@@ -49,7 +49,8 @@
           "endianness": null,
           "byteSequenceID": 1823
         }
-      ]
+      ],
+      "provenance": "http://www.hpmuseum.net/document.php?catfile=213\nsee also: https://github.com/fatihalgan/Electric/blob/master/Electric/src/com/sun/electric/tool/io/output/HPGL.java for output implementation"
     }
   ],
   "externalSignatures": [

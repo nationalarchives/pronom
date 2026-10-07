@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 779
         }
-      ]
+      ],
+      "provenance": "04/2024 (v.117)- Signature adjusted to allow for lower case and upper case text and simplified by removing later strings that are not always present. Submitted by Brigham Young University."
     }
   ],
   "externalSignatures": [

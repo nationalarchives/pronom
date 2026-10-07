@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1083
         }
-      ]
+      ],
+      "provenance": "www.mactech.com/articles/mactech/Vol.03/03.10/MacDrawFiles/index.html \nwww.umich.edu/~archive/mac/misc/documentation/macdrawformat.txt"
     },
     {
       "signatureID": 860,
@@ -60,7 +61,8 @@
           "endianness": null,
           "byteSequenceID": 1084
         }
-      ]
+      ],
+      "provenance": "www.mactech.com/articles/mactech/Vol.03/03.10/MacDrawFiles/index.html \nwww.umich.edu/~archive/mac/misc/documentation/macdrawformat.txt"
     }
   ],
   "externalSignatures": [

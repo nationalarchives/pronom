@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1841
         }
-      ]
+      ],
+      "provenance": "The PRONOM entries for Adobe InDesign Document distinguish between difefrent versions based on the byte at offset 0x1D. This could also be used for INDL and INDB. If this is followed it is recommended to retain this current entry as a 'generic' entry as a fallback if a particular format example doesn't have a recognised version number."
     }
   ],
   "externalSignatures": [

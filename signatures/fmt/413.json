@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 921
         }
-      ]
+      ],
+      "provenance": "Sample W3C test suite. Specification - http://www.w3.org/TR/2008/REC-SVGTiny12-20081222/"
     }
   ],
   "externalSignatures": [

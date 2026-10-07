@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1707
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.115)- Max-offset modified from null to 0. Internally researched."
     }
   ],
   "externalSignatures": [

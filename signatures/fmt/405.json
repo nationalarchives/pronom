@@ -37,7 +37,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 731
         }
-      ]
+      ],
+      "provenance": "PAM. User Manual for Netpbm\nhttp://netpbm.sourceforge.net/doc/pam.html"
     }
   ],
   "externalSignatures": [

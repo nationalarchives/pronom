@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1134
         }
-      ]
+      ],
+      "provenance": "http://publib.boulder.ibm.com/infocenter/domhelp/v8r0/topic/com.ibm.designer.domino.main.doc/H_DATABASE_ROOT_ELEMENT_XML.html"
     },
     {
       "signatureID": 978,

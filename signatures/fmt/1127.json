@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1770
         }
-      ]
+      ],
+      "provenance": "Sony tags: https://sno.phy.queensu.ca/~phil/exiftool/TagNames/Sony.html; EXIF IFD structure: http://www.exiv2.org/Exif2-2.PDF; v.120- Variable byte range in signature lengthened from 0-2048 to 0-6144 bytes. Submitted by Brigham Young University."
     }
   ],
   "externalSignatures": [

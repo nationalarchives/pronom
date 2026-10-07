@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 585
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 470,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 586
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     }
   ],
   "externalSignatures": [

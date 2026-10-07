@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1542
         }
-      ]
+      ],
+      "provenance": "https://github.com/strawlab/py_amira_file_reader/blob/master/py_amira_file_reader/read_amira.py"
     }
   ],
   "externalSignatures": [

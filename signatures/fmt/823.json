@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1431
         }
-      ]
+      ],
+      "provenance": "http://vice-emu.sourceforge.net/vice_15.html"
     }
   ],
   "externalSignatures": [

@@ -49,7 +49,8 @@
           "endianness": null,
           "byteSequenceID": 721
         }
-      ]
+      ],
+      "provenance": "ISO 15930-3:2002: PDF/X-3:2002 Graphic technology \u2014 Prepress digital data exchange \u2014 Use of PDF\u2014 Part 3: Blind exchange suitable for colour managed workflows (PDF/X-3)"
     },
     {
       "signatureID": 597,
@@ -72,7 +73,8 @@
           "endianness": null,
           "byteSequenceID": 740
         }
-      ]
+      ],
+      "provenance": "ISO 15930-3:2002: PDF/X-3:2002 Graphic technology \u2014 Prepress digital data exchange \u2014 Use of PDF\u2014 Part 3: Blind exchange suitable for colour managed workflows (PDF/X-3)"
     }
   ],
   "externalSignatures": [

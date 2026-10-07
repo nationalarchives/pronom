@@ -30,7 +30,8 @@
           "endianness": null,
           "byteSequenceID": 4869
         }
-      ]
+      ],
+      "provenance": "The signature is fixed and always at offset 0 with no preceding bytes. The generation number is inside the magic string itself, so an unknown future generation can be rejected before parsing. An earlier generation used the signature FABYLON_REALM_01 (hex 46 41 42 59 4C 4F 4E 5F 52 45 41 4C 4D 5F 30 31) with a different internal structure; it is still readable by current software but is no longer written."
     }
   ],
   "externalSignatures": [

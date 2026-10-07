@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 996
         }
-      ]
+      ],
+      "provenance": "Specification: http://standards.smpte.org/content/978-1-61482-517-3/st-377-1-2011/SEC1.body.pdf+html files found in-house and files found via MXF Test file repository."
     }
   ],
   "externalSignatures": [

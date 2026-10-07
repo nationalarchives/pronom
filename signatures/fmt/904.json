@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1526
         }
-      ]
+      ],
+      "provenance": "http://www.fte.com/webhelp/SD/Content/Technical_Information/BT_Snoop_File_Format.htm"
     }
   ],
   "externalSignatures": [

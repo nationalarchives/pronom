@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1282
         }
-      ]
+      ],
+      "provenance": "The ITTECH.TXT file within the software download describes the format header: http://www.users.on.net/~jtlim/ImpulseTracker/download.html"
     }
   ],
   "externalSignatures": [

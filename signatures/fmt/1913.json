@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 2637
         }
-      ]
+      ],
+      "provenance": "Note: No specification available so signature is based on observation from a selection of sample files. This signature is reported as being valid for Archicad 17 and later, according to a response to a query on the official forum, here: https://community.graphisoft.com/t5/Developer-forum/Need-Archicad-file-type-signatures-Magic-Numbers-for-pln-pla-bpn/td-p/276289"
     }
   ],
   "externalSignatures": [

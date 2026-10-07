@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1766
         }
-      ]
+      ],
+      "provenance": "https://github.com/jgonera/openopj/blob/master/docs/opj_format.markdown plus observations from samples around the 'W64' string'"
     }
   ],
   "externalSignatures": [

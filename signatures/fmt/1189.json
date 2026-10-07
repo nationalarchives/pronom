@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1840
         }
-      ]
+      ],
+      "provenance": "The above can be strengthened by adding in further required elements, e.g. material as an attribute to submesh. See the DTD:\nhttp://wiki.ogre3d.org/tiki-index.php?page=Ogre+meshxml+DTD"
     }
   ],
   "externalSignatures": [

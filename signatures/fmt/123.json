@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 210
         }
-      ]
+      ],
+      "provenance": "08/2023 (v.113) - Description of magic bytes for signature added. Researched internally."
     },
     {
       "signatureID": 178,
@@ -68,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 213
         }
-      ]
+      ],
+      "provenance": "08/2023 (v.113) - Description of magic bytes for signature added. Researched internally."
     }
   ],
   "externalSignatures": [

@@ -53,7 +53,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 114
         }
-      ]
+      ],
+      "provenance": "DROID signature research."
     }
   ],
   "externalSignatures": [

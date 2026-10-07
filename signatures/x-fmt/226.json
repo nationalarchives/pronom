@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 658
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010). Signature subsequently refined through investigation of example formats supplied by Archaeology Data Service, with shorter BOF sequence and addition of EOF sequence"
     }
   ],
   "externalSignatures": [

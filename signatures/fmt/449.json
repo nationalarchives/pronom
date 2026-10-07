@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 879
         }
-      ]
+      ],
+      "provenance": "Files found within DRI, files found on web, and files self generated via Adobe Acrobat version 8.0"
     },
     {
       "signatureID": 703,
@@ -68,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 881
         }
-      ]
+      ],
+      "provenance": "Files found within DRI, files found on web, and files self generated via Adobe Acrobat version 8.0"
     }
   ],
   "externalSignatures": [

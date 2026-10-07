@@ -49,7 +49,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 750
         }
-      ]
+      ],
+      "provenance": "DVI Specification http://www-users.math.umd.edu/~asnowden/comp-cont/dvi.html"
     }
   ],
   "externalSignatures": [

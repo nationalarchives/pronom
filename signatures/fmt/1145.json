@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1790
         }
-      ]
+      ],
+      "provenance": "Observation from samples. 4 bytes following MXM seem to be fixed patterns, but meaning is unclear. Next byte is length of the file name, bytes beginning at 0x08 are file name, followed by 4 bytes of which three seem to always be 0x000000."
     }
   ],
   "externalSignatures": [

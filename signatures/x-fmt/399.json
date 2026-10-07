@@ -49,7 +49,8 @@
           "endianness": null,
           "byteSequenceID": 367
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 signature research."
     },
     {
       "signatureID": 155,
@@ -72,7 +73,8 @@
           "endianness": null,
           "byteSequenceID": 368
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 signature research."
     },
     {
       "signatureID": 283,
@@ -95,7 +97,8 @@
           "endianness": null,
           "byteSequenceID": 370
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 signature research"
     },
     {
       "signatureID": 286,
@@ -118,7 +121,8 @@
           "endianness": null,
           "byteSequenceID": 376
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 signature research"
     }
   ],
   "externalSignatures": [

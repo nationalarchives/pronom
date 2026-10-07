@@ -45,7 +45,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 833
         }
-      ]
+      ],
+      "provenance": "GeoTIFF Format Specification Revision 1.0\nhttp://www.remotesensing.org/geotiff/spec/geotiffhome.html"
     },
     {
       "signatureID": 678,
@@ -68,7 +69,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 835
         }
-      ]
+      ],
+      "provenance": "GeoTIFF Format Specification Revision 1.0: http://www.remotesensing.org/geotiff/spec/geotiffhome.html; 04/2024 (v.117): Internal EOF signatures increased max-offset"
     },
     {
       "signatureID": 679,
@@ -83,7 +85,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 836
         }
-      ]
+      ],
+      "provenance": "GeoTIFF Format Specification Revision 1.0\nhttp://www.remotesensing.org/geotiff/spec/geotiffhome.html"
     },
     {
       "signatureID": 680,
@@ -106,7 +109,8 @@
           "endianness": null,
           "byteSequenceID": 838
         }
-      ]
+      ],
+      "provenance": "GeoTIFF Format Specification Revision 1.0: http://www.remotesensing.org/geotiff/spec/geotiffhome.html; 04/2024 (v.117): Internal EOF signatures increased max-offset"
     }
   ],
   "externalSignatures": [

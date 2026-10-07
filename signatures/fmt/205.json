@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 2562
         }
-      ]
+      ],
+      "provenance": "11/2024(v.120)- variable in the BOF byte sequence expanded from 20-86 to 20-256 to allow for a DOCTYPE. Submitted by Archives New Zealand and Brigham Young University."
     }
   ],
   "externalSignatures": [

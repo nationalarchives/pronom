@@ -53,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 643
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research following request from Archaeology Data Service. Signature further refined Nov 2011 with additional EOF sequence in order to avoid misidentifying some PDF/A's which contain 1b conformance declaration, but which are invalid as PDF/A 1b's."
     },
     {
       "signatureID": 966,
@@ -76,7 +77,8 @@
           "endianness": null,
           "byteSequenceID": 1187
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research following request from Antonio Dalvit. Signature further refined Feb 2014 to allow variations in the additional byte sequence order, in order to avoid misidentifying some PDF/A's which contain 1b conformance declaration as PDF's."
     }
   ],
   "externalSignatures": [

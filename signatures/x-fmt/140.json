@@ -41,7 +41,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 770
         }
-      ]
+      ],
+      "provenance": "Paul Haeberli . The SGI Image File Format, Version 1.00, Silicon Graphics Computer Systems\nhttp://paulbourke.net/dataformats/sgirgb/sgiversion.html"
     }
   ],
   "externalSignatures": [

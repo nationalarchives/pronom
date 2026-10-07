@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1710
         }
-      ]
+      ],
+      "provenance": "http://www.gdal.org/drv_gml.html"
     }
   ],
   "externalSignatures": [

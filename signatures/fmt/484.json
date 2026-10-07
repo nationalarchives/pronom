@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 951
         }
-      ]
+      ],
+      "provenance": "File format specification found within 7zip software source code, plus self-generated .7z files"
     }
   ],
   "externalSignatures": [

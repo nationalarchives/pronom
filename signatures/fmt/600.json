@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1157
         }
-      ]
+      ],
+      "provenance": "http://code.google.com/p/xar/wiki/xarformat\nhttp://code.google.com/p/xar/wiki/whyxar"
     }
   ],
   "externalSignatures": [

@@ -76,7 +76,8 @@
           "endianness": null,
           "byteSequenceID": 869
         }
-      ]
+      ],
+      "provenance": "http://www.codeproject.com/Articles/1208/Extracting-IPTC-header-information-from-JPEG-image\n08/23 (v.113) - Photoshop JPEG signature added 0 value to offset in EOF signature as null offset is causing max-offset to be ignored. Submitted by Preservica."
     }
   ],
   "externalSignatures": [

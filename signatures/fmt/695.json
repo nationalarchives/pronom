@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1266
         }
-      ]
+      ],
+      "provenance": "https://source.android.com/devices/tech/dalvik/dex-format.html"
     }
   ],
   "externalSignatures": [

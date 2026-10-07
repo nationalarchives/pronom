@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 660
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research following request from Archaeology Data Service"
     },
     {
       "signatureID": 533,
@@ -68,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 662
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research following request from Archaeology Data Service"
     }
   ],
   "externalSignatures": [

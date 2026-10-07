@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 744
         }
-      ]
+      ],
+      "provenance": "Truevision TGA FILE FORMAT SPECIFICATION, Version 2.0, January 1991.\nA.\twww.dca.fee.unicamp.br/~martino/disciplinas/ea978/tgaffs.pdf \n\nTGA File Format Summary. Encyclopedia of Graphic File Formats www.fileformat.info/format/tga/egff.htm"
     }
   ],
   "externalSignatures": [

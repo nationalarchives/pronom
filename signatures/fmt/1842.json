@@ -83,7 +83,8 @@
           "endianness": null,
           "byteSequenceID": 2531
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     },
     {
       "signatureID": 2186,
@@ -106,7 +107,8 @@
           "endianness": null,
           "byteSequenceID": 2537
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     }
   ],
   "externalSignatures": [

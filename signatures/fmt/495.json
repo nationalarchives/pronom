@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 969
         }
-      ]
+      ],
+      "provenance": "http://www.travelinedata.org.uk/CIF/atco-cif-spec.pdf"
     }
   ],
   "externalSignatures": [

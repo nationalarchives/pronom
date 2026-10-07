@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 729
         }
-      ]
+      ],
+      "provenance": "PPM. User Manual for Netpbm\nhttp://netpbm.sourceforge.net/doc/pgm.html"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1470
         }
-      ]
+      ],
+      "provenance": "https://en.wikipedia.org/wiki/ADX_(file_format)"
     },
     {
       "signatureID": 1196,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 1471
         }
-      ]
+      ],
+      "provenance": "https://en.wikipedia.org/wiki/ADX_(file_format)"
     },
     {
       "signatureID": 1197,
@@ -67,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 1472
         }
-      ]
+      ],
+      "provenance": "https://en.wikipedia.org/wiki/ADX_(file_format)"
     },
     {
       "signatureID": 1198,
@@ -82,7 +85,8 @@
           "endianness": null,
           "byteSequenceID": 1473
         }
-      ]
+      ],
+      "provenance": "https://en.wikipedia.org/wiki/ADX_(file_format)"
     },
     {
       "signatureID": 1199,
@@ -97,7 +101,8 @@
           "endianness": null,
           "byteSequenceID": 1474
         }
-      ]
+      ],
+      "provenance": "https://en.wikipedia.org/wiki/ADX_(file_format)"
     }
   ],
   "externalSignatures": [

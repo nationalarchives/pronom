@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 968
         }
-      ]
+      ],
+      "provenance": "Files created internally with original software. Files found on web.\n08/2023 (v.113) - Signature updated with either or byte (\u00d0|\u00c4). Max-offset of 0 bytes added for BOF signature. Submitted by Zeticon."
     }
   ],
   "externalSignatures": [

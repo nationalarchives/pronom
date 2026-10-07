@@ -45,7 +45,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 820
         }
-      ]
+      ],
+      "provenance": "Digital Negative (DNG) Specification Version 1.3.0.0\nhttp://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec.pdf"
     },
     {
       "signatureID": 669,
@@ -60,7 +61,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 821
         }
-      ]
+      ],
+      "provenance": "Digital Negative (DNG) Specification Version 1.3.0.0\nhttp://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec.pdf"
     },
     {
       "signatureID": 670,
@@ -83,7 +85,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 823
         }
-      ]
+      ],
+      "provenance": "Digital Negative (DNG) Specification Version 1.3.0.0\nhttp://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec.pdf; 11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     },
     {
       "signatureID": 671,
@@ -106,7 +109,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 825
         }
-      ]
+      ],
+      "provenance": "Digital Negative (DNG) Specification Version 1.3.0.0\nhttp://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec.pdf; 11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     }
   ],
   "externalSignatures": [

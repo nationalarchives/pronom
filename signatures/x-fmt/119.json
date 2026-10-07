@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 754
         }
-      ]
+      ],
+      "provenance": "Microsoft Windows Metafile.  Encyclopedia of Graphic File Formats\n www.fileformat.info/format/wmf/egff.htm"
     },
     {
       "signatureID": 1228,
@@ -56,7 +57,8 @@
           "endianness": null,
           "byteSequenceID": 1499
         }
-      ]
+      ],
+      "provenance": "Microsoft Windows Metafile.  Encyclopedia of Graphic File Formats\n www.fileformat.info/format/wmf/egff.htm"
     }
   ],
   "externalSignatures": [

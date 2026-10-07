@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1737
         }
-      ]
+      ],
+      "provenance": "https://github.com/svn2github/freearc/blob/master/ArhiveStructure.hs"
     }
   ],
   "externalSignatures": [

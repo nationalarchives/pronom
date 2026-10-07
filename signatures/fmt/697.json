@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1268
         }
-      ]
+      ],
+      "provenance": "\"There must be at least one <object> element as a child of the <amf>\" - http://amf.wikispaces.com/file/view/amf.xsd/402895728/amf.xsd"
     }
   ],
   "externalSignatures": [

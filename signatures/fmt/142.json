@@ -41,7 +41,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 752
         }
-      ]
+      ],
+      "provenance": "WAVEFORMATEX structure\nhttp://msdn.microsoft.com/en-us/library/dd390970(v=vs.85).aspx \n\nMultimediaWiki.  WAVEFORMATEX\nhttp://wiki.multimedia.cx/index.php?title=WAVEFORMATEX"
     }
   ],
   "externalSignatures": [

@@ -30,7 +30,8 @@
           "endianness": null,
           "byteSequenceID": 4874
         }
-      ]
+      ],
+      "provenance": "Although these are zip files it is not currently possible to create Container Signature identification due to the variable nature of file naming within the zip. It may be possible to strengthen the signature with the use of part of the extension. According to the 2000 specification the extension was standardised in the 1997 update, and after 1997 this was \u2018.RTx\u2019, with x having one of many different alphanumeric values representing different \u2018record types\u2019, however at the time of research the only earlier data readily available was from 1992, for which the extensions appear to follow the pattern \u2018.F5x\u2019 but it is unclear what the extensions may have been during other years from 1989 to 1997. As such the current pattern used is: 'PK' 0x0304 {26} 'TGR' [0-9][0-9][0-9][0-9][0-9] '.'"
     }
   ],
   "externalSignatures": [

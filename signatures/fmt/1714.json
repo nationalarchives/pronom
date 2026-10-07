@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 2373
         }
-      ]
+      ],
+      "provenance": "04/2024 (v.117)- Signature updated to include a variable rather than a fixed byte sequence of 2026 bytes. Submitted by the J. Paul Getty Trust."
     }
   ],
   "externalSignatures": [

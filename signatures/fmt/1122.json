@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1765
         }
-      ]
+      ],
+      "provenance": "https://github.com/wojdyr/xylib/blob/master/xylib/vamas.cpp - ISO14976"
     }
   ],
   "externalSignatures": [

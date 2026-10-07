@@ -41,7 +41,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 315
         }
-      ]
+      ],
+      "provenance": "www.microsoft.com/typography/tt/ttf_spec/ttch02.doc"
     }
   ],
   "externalSignatures": [

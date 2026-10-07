@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 2342
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.115)- max-offset modified for both BOF signatures to allow for more exact signature identification. Internally researched."
     }
   ],
   "externalSignatures": [],

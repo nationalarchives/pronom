@@ -45,7 +45,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 155
         }
-      ]
+      ],
+      "provenance": "01/08/2023 (v.113) - Signature simplified to speed up processing time in other file formats such as DROID. Submitted by Preservica."
     }
   ],
   "externalSignatures": [

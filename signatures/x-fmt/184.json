@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 741
         }
-      ]
+      ],
+      "provenance": "Sun Rasterfile Format, Man page, SunOS 5.4, 29 March 1994\nwww.mediatel.lu/workshop/graphic/2D_fileformat/h_sun.html"
     }
   ],
   "externalSignatures": [

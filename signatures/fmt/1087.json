@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1727
         }
-      ]
+      ],
+      "provenance": "Based largely on https://en.wikipedia.org/wiki/Design_of_the_FAT_file_system with reference to http://thestarman.pcministry.com/asm/mbr/DOS50FDB.htm"
     }
   ],
   "externalSignatures": [

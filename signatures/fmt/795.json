@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1405
         }
-      ]
+      ],
+      "provenance": "http://www.rpm.org/max-rpm/s1-rpm-file-format-rpm-file-format.html"
     }
   ],
   "externalSignatures": [

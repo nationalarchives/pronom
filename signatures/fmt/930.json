@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1546
         }
-      ]
+      ],
+      "provenance": "v.121: Extension miff added. Submitted by Preservica.\nv.122: Signature broadened. Submitted by Preservica."
     }
   ],
   "externalSignatures": [

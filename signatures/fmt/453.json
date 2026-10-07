@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 887
         }
-      ]
+      ],
+      "provenance": "Files found within our collection. Files generated in Adobe Catalog 4.0, Files found on web; 11/2023 (v.115)- Modified the offset values from null to 0 as part of a project to match PRONOM data with the xsd standard. Internally researched."
     }
   ],
   "externalSignatures": [

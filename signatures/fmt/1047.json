@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1677
         }
-      ]
+      ],
+      "provenance": "http://schemas.opengis.net/gml/3.2.1/gml.xsd"
     }
   ],
   "externalSignatures": [

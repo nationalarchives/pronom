@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1800
         }
-      ]
+      ],
+      "provenance": "08/2023 (v.113)- Added 0 value to offset in EOF signature as null offset is causing max-offset to be ignored. Submitted by Preservica."
     }
   ],
   "externalSignatures": [

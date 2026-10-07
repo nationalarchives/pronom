@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 612
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 496,
@@ -60,7 +61,8 @@
           "endianness": null,
           "byteSequenceID": 613
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 497,
@@ -75,7 +77,8 @@
           "endianness": null,
           "byteSequenceID": 614
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 498,
@@ -90,7 +93,8 @@
           "endianness": null,
           "byteSequenceID": 615
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 499,
@@ -113,7 +117,8 @@
           "endianness": null,
           "byteSequenceID": 617
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 500,
@@ -136,7 +141,8 @@
           "endianness": null,
           "byteSequenceID": 619
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 501,
@@ -159,7 +165,8 @@
           "endianness": null,
           "byteSequenceID": 621
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 502,
@@ -182,7 +189,8 @@
           "endianness": null,
           "byteSequenceID": 623
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     }
   ],
   "externalSignatures": [

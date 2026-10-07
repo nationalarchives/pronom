@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1018
         }
-      ]
+      ],
+      "provenance": "http://www.microsoft.com/typography/otspec/otff.htm, files held internally"
     }
   ],
   "externalSignatures": [

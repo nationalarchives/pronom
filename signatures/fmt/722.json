@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1293
         }
-      ]
+      ],
+      "provenance": "http://www.textfiles.com/programming/FORMATS/okt-form.txt\nSamples obtained here: http://ftp.acc.umu.se/mirror/media/Oakvalley/soamc/soamc_zip/Oktalyzer/"
     }
   ],
   "externalSignatures": [

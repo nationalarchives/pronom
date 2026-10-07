@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 748
         }
-      ]
+      ],
+      "provenance": "David McDuffee. TGA Specs: www.gamers.org/dEngine/quake3/TGA.txt\nTGA File Format Summary. Encyclopedia of Graphic File Formats www.fileformat.info/format/tga/egff.htm"
     },
     {
       "signatureID": 627,
@@ -60,7 +61,8 @@
           "endianness": null,
           "byteSequenceID": 774
         }
-      ]
+      ],
+      "provenance": "David McDuffee. TGA Specs\nwww.gamers.org/dEngine/quake3/TGA.txt\nTGA File Format Summary. Encyclopedia of Graphic File Formats www.fileformat.info/format/tga/egff.htm"
     }
   ],
   "externalSignatures": [

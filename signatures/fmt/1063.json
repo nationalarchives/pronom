@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1695
         }
-      ]
+      ],
+      "provenance": "Based in part on http://lclevy.free.fr/raw/ which itself is taken from Dcraw software's parse_mos() function"
     }
   ],
   "externalSignatures": [

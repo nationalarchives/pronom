@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1696
         }
-      ]
+      ],
+      "provenance": "Based in part on the description in the JustSolve wiki: http://fileformats.archiveteam.org/wiki/Kodak plus observation of a range of DCR and other non-DCR Kodak formats"
     }
   ],
   "externalSignatures": [

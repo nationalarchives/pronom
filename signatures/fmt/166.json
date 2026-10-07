@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 918
         }
-      ]
+      ],
+      "provenance": "Files created with Works 1 and 3 DOS and 2, 4.5, 5, 6 Windows; 11/2023 (v.115)- Modified the offset values from null to 0 as part of a project to match PRONOM data with the xsd standard. Internally researched."
     }
   ],
   "externalSignatures": [

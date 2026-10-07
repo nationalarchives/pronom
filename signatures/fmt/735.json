@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1310
         }
-      ]
+      ],
+      "provenance": "http://www.atsc.org/cms/standards/a_52-2010.pdf"
     }
   ],
   "externalSignatures": [

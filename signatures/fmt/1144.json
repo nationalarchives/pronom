@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1789
         }
-      ]
+      ],
+      "provenance": "Primarily described in this WinCIM conversion tool:\nhttps://www1.icsi.berkeley.edu/~chema/software/c2n"
     }
   ],
   "externalSignatures": [

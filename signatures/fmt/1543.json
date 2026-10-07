@@ -49,7 +49,8 @@
           "endianness": null,
           "byteSequenceID": 2186
         }
-      ]
+      ],
+      "provenance": "04/2024 (v.117)- Signature updated to allow flexibility for byte length between tags. Submitted by Preservica based on samples provided by The Endanagered Languages Archive."
     }
   ],
   "externalSignatures": [

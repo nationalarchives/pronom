@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1395
         }
-      ]
+      ],
+      "provenance": "https://msdn.microsoft.com/en-us/library/windows/desktop/ee817717(v=vs.85).aspx"
     }
   ],
   "externalSignatures": [
