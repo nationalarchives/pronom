@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1261
         }
-      ]
+      ],
+      "provenance": "http://llvm.org/docs/doxygen/html/Support_2MachO_8h_source.html\nhttps://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/MachORuntime/index.html"
     },
     {
       "signatureID": 1020,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 1262
         }
-      ]
+      ],
+      "provenance": "http://llvm.org/docs/doxygen/html/Support_2MachO_8h_source.html\nhttps://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/MachORuntime/index.html"
     }
   ],
   "externalSignatures": [],

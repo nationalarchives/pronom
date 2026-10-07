@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 970
         }
-      ]
+      ],
+      "provenance": "http://www.dft.gov.uk/transxchange/schema/2.2a/doc/TransXChangeSchemaGuide-2.1-v-44.pdf. Files obtained via data.gov.uk"
     }
   ],
   "externalSignatures": [

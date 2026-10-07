@@ -41,7 +41,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 764
         }
-      ]
+      ],
+      "provenance": "XWD File Format Summary. Encyclopedia of Graphics File Formats. O\u2019Reilly.\nwww.fileformat.info/format/xwd/egff.htm"
     }
   ],
   "externalSignatures": [

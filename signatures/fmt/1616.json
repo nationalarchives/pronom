@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 2258
         }
-      ]
+      ],
+      "provenance": "07/22 (v.107)- added BOF sequence to improve DROID performance;11/23 (v.115)- tightened signature."
     }
   ],
   "externalSignatures": [

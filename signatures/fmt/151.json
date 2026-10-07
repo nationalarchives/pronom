@@ -41,7 +41,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 906
         }
-      ]
+      ],
+      "provenance": "self generated test files, http://www.jpeg.org/public/15444-2annexm.pdf"
     }
   ],
   "externalSignatures": [

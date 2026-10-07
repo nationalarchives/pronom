@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1109
         }
-      ]
+      ],
+      "provenance": "http://share.auditory.ru/2011/Dmitry.Burmistrov/computer_graphics-kursovaya/Specifications/archive/AI20/ADOBE_IL.PDF http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf"
     },
     {
       "signatureID": 886,
@@ -60,7 +61,8 @@
           "endianness": null,
           "byteSequenceID": 1110
         }
-      ]
+      ],
+      "provenance": "http://share.auditory.ru/2011/Dmitry.Burmistrov/computer_graphics-kursovaya/Specifications/archive/AI20/ADOBE_IL.PDF http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf"
     },
     {
       "signatureID": 900,
@@ -113,7 +115,8 @@
           "endianness": null,
           "byteSequenceID": 1711
         }
-      ]
+      ],
+      "provenance": "http://share.auditory.ru/2011/Dmitry.Burmistrov/computer_graphics-kursovaya/Specifications/archive/AI20/ADOBE_IL.PDF http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf; 11/2023 (v.115)- Modified the offset values from null to 0 as part of a project to match PRONOM data with the xsd standard. Internally researched."
     }
   ],
   "externalSignatures": [

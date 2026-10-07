@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1835
         }
-      ]
+      ],
+      "provenance": "Note, bytes 0x0F, 0x11, and 0x13 are likely to always be 00 as according to the file structure described here: http://www.fileformat.info/format/drhalo/egff.htm, each represents the larger half of a 32 bit (WORD) value representing a value that can only have up to 256 values - MaxRed, MaxGreen, MaxBlue, e.g. FF00 = 256. This could be used to strengthen the signature in the event of accidental clashes"
     }
   ],
   "externalSignatures": [

@@ -45,7 +45,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 339
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research; 11/2023 (v.115)- Signature ammended to allow whitespace options. Amended bytes 107 and 115 from 00 to (00|20). Submitted by National Library of Norway."
     }
   ],
   "externalSignatures": [

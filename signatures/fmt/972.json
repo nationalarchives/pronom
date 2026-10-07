@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1598
         }
-      ]
+      ],
+      "provenance": "Based upon MIME registration: http://www.iana.org/assignments/media-types/audio/vnd.dolby.mlp"
     }
   ],
   "externalSignatures": [

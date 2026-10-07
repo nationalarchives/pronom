@@ -45,7 +45,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 606
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     }
   ],
   "externalSignatures": [

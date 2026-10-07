@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1862
         }
-      ]
+      ],
+      "provenance": "Partly based on: https://github.com/jcarbaugh/makeitwrk/blob/master/parse.py"
     }
   ],
   "externalSignatures": [

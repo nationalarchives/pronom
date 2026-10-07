@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1150
         }
-      ]
+      ],
+      "provenance": "http://msdn.microsoft.com/en-us/library/dd564509%28v=vs.85%29.aspx\nhttp://support.microsoft.com/kb/316992"
     }
   ],
   "externalSignatures": [

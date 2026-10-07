@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 871
         }
-      ]
+      ],
+      "provenance": "Files found within DRI, files found on web, and files self generated via Adobe Acrobat version 4.0; 11/2023 (v.115)- Modified the offset values from null to 0 as part of a project to match PRONOM data with the xsd standard. Internally researched."
     }
   ],
   "externalSignatures": [

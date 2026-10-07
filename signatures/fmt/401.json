@@ -37,7 +37,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 763
         }
-      ]
+      ],
+      "provenance": "XWD - X Window Dump\nwww.martinreddy.net/gfx/2d/XWD.txt \n\nXWD File Format Summary. Encyclopedia of Graphics File Formats. O\u2019Reilly.\nWww.fileformat.info/format/xwd/egff.htm"
     }
   ],
   "externalSignatures": [

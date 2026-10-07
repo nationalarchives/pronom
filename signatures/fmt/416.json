@@ -37,7 +37,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 1069
         }
-      ]
+      ],
+      "provenance": "https://developer.apple.com/library/mac/#documentation/MusicAudio/Reference/CAFSpec/CAF_intro/CAF_intro.html"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 2309
         }
-      ]
+      ],
+      "provenance": "v.120- Removal of excess wildcard byte. Submitted by Ross Spencer as part of PRONOM Research Week 2024."
     }
   ],
   "externalSignatures": [

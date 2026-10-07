@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1133
         }
-      ]
+      ],
+      "provenance": "http://publib.boulder.ibm.com/infocenter/domhelp/v8r0/index.jsp?topic=%2Fcom.ibm.designer.domino.main.doc%2FH_DOMINO_DTD.html"
     }
   ],
   "externalSignatures": [

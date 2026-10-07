@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1285
         }
-      ]
+      ],
+      "provenance": "http://www.shikadi.net/moddingwiki/S3M_Format"
     }
   ],
   "externalSignatures": [

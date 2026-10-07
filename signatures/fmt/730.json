@@ -45,7 +45,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 1300
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf"
     },
     {
       "signatureID": 1055,
@@ -60,7 +61,8 @@
           "endianness": null,
           "byteSequenceID": 1301
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf"
     },
     {
       "signatureID": 1056,
@@ -83,7 +85,8 @@
           "endianness": null,
           "byteSequenceID": 1303
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf; 11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     },
     {
       "signatureID": 1057,
@@ -106,7 +109,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 1305
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf; 11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     }
   ],
   "externalSignatures": [

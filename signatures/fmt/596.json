@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1158
         }
-      ]
+      ],
+      "provenance": "http://www.applelossless.com/\nhttp://alac.macosforge.org/trac/browser/trunk/ALACMagicCookieDescription.txt\nhttp://alac.macosforge.org/trac/browser/trunk/codec/ALACAudioTypes.h?rev=2#"
     }
   ],
   "externalSignatures": [

@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1700
         }
-      ]
+      ],
+      "provenance": "https://wci.llnl.gov/codes/silo/media/pdf/LLNL-SM-453191.pdf"
     },
     {
       "signatureID": 1444,
@@ -68,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 1702
         }
-      ]
+      ],
+      "provenance": "https://wci.llnl.gov/codes/silo/media/pdf/LLNL-SM-453191.pdf"
     }
   ],
   "externalSignatures": [

@@ -56,7 +56,8 @@
           "endianness": null,
           "byteSequenceID": 1581
         }
-      ]
+      ],
+      "provenance": "(mdat|cmov|ftypqt  |pnot|skip|free|wide)*moov*(mvhd|cmov|rmra)"
     },
     {
       "signatureID": 1302,

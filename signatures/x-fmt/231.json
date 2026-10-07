@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 496
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010)."
     },
     {
       "signatureID": 391,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 497
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010)."
     },
     {
       "signatureID": 392,
@@ -67,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 498
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010)."
     },
     {
       "signatureID": 393,
@@ -82,7 +85,8 @@
           "endianness": null,
           "byteSequenceID": 499
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010)."
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1006
         }
-      ]
+      ],
+      "provenance": "Specification: http://partners.adobe.com/public/developer/en/font/5178.PFM.pdf\nFiles found on web and provided by Borthwick Institute."
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 920
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010). Refined through PRONOM research 25/10/2012"
     }
   ],
   "externalSignatures": [

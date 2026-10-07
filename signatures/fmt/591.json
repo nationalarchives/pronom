@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1152
         }
-      ]
+      ],
+      "provenance": "http://radsite.lbl.gov/radiance/refer/filefmts.pdf"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1713
         }
-      ]
+      ],
+      "provenance": "Specifically https://github.com/google/draco/blob/73bb3c8530f2863db55b2c93c293e2f2f07a067e/compression/config/compression_shared.h"
     }
   ],
   "externalSignatures": [

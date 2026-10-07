@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1194
         }
-      ]
+      ],
+      "provenance": "http://www.astm.org/Standards/E2807.htm\nhttp://www.libe57.org/"
     }
   ],
   "externalSignatures": [

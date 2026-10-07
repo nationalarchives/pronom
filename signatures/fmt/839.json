@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1469
         }
-      ]
+      ],
+      "provenance": "Tested against self-generated files"
     }
   ],
   "externalSignatures": [

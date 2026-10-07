@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 711
         }
-      ]
+      ],
+      "provenance": "08/2023 (v.113)- Max-offset added to BOF signature to accommodate header bytes. Submitted by The National Library of Australia."
     }
   ],
   "externalSignatures": [

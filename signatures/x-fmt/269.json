@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 768
         }
-      ]
+      ],
+      "provenance": "ZOO Format: Information from File Format List 2.0 by Max Maischein.\nhttp://mdfs.net/Docs/Comp/FileFormat/ZOO"
     }
   ],
   "externalSignatures": [

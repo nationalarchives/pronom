@@ -37,7 +37,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 737
         }
-      ]
+      ],
+      "provenance": "Jay Cox. The Scitex CT File Format. Jan 18 2006. http://electricmessiah.org/press/the-scitex-ct-file-format/ \n\nScitex HandShake Formats. Encyclopedia of Graphic file Formats. Http://oreilly.com/www/centers/gff/formats/scitex/"
     }
   ],
   "externalSignatures": [

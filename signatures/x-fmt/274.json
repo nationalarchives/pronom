@@ -45,7 +45,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 605
         }
-      ]
+      ],
+      "provenance": "G\u00fcnter Born. Chapter 16: MS-WORD FORMAT, The File Formats Handbook, 1995.  www.msxnet.org/word2rtf/formats/ffh-dosword5 (Checked June 8, 2010)"
     }
   ],
   "externalSignatures": [

@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1520
         }
-      ]
+      ],
+      "provenance": "Based upon work by Ross Spencer - https://groups.google.com/forum/#!topic/droid-list/QRQ9LScT8iw"
     }
   ],
   "externalSignatures": [

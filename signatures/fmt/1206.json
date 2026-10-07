@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1855
         }
-      ]
+      ],
+      "provenance": "http://paulbourke.net/dataformats/tddd/"
     }
   ],
   "externalSignatures": [

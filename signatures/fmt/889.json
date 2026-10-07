@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1511
         }
-      ]
+      ],
+      "provenance": "https://github.com/wesm/feather/blob/master/doc/FORMAT.md"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1272
         }
-      ]
+      ],
+      "provenance": "http://www.ecma-international.org/publications/standards/Ecma-363.htm"
     }
   ],
   "externalSignatures": [

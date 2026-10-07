@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 686
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from http://www.clicketyclick.dk/databases/xbase/format/fpt.html#FPT_NOTE_2_SOURCE"
     },
     {
       "signatureID": 556,
@@ -52,7 +53,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 687
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from http://www.clicketyclick.dk/databases/xbase/format/fpt.html#FPT_NOTE_2_SOURCE"
     },
     {
       "signatureID": 557,
@@ -67,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 688
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from http://www.clicketyclick.dk/databases/xbase/format/fpt.html#FPT_NOTE_2_SOURCE"
     }
   ],
   "externalSignatures": [

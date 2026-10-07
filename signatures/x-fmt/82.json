@@ -37,7 +37,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 580
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     }
   ],
   "externalSignatures": [

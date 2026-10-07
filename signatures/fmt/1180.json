@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1830
         }
-      ]
+      ],
+      "provenance": "Based on private_headers.h from the Melange SDK v5 found here: https://developers.maxon.net/?page_id=1118"
     }
   ],
   "externalSignatures": [

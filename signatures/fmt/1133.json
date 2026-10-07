@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1778
         }
-      ]
+      ],
+      "provenance": "https://tools.suckless.org/farbfeld/"
     }
   ],
   "externalSignatures": [

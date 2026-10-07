@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 2143
         }
-      ]
+      ],
+      "provenance": "https://github.com/unisig/unisig"
     }
   ],
   "externalSignatures": [],

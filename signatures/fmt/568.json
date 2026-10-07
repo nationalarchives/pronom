@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1128
         }
-      ]
+      ],
+      "provenance": "https://developers.google.com/speed/webp/docs/riff_container#example-file-layouts"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 717
         }
-      ]
+      ],
+      "provenance": "Mike Burner and Brewster Kahle.  Arc File Format, Version 1.0. September 15, 1996, Internet Archive www.archive.org/web/researcher/ArcFileFormat.php"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1383
         }
-      ]
+      ],
+      "provenance": "http://blog.argasinski.eu/wp-content/uploads/2011/08/cpt-specification-0.01.pdf (This is not an official specification and appears to be an attempt to reverse-engineer the format)"
     },
     {
       "signatureID": 1135,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 1384
         }
-      ]
+      ],
+      "provenance": "http://blog.argasinski.eu/wp-content/uploads/2011/08/cpt-specification-0.01.pdf (This is not an official specification and appears to be an attempt to reverse-engineer the format)"
     },
     {
       "signatureID": 1136,
@@ -67,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 1385
         }
-      ]
+      ],
+      "provenance": "http://blog.argasinski.eu/wp-content/uploads/2011/08/cpt-specification-0.01.pdf (This is not an official specification and appears to be an attempt to reverse-engineer the format)"
     }
   ],
   "externalSignatures": [

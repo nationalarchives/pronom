@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1085
         }
-      ]
+      ],
+      "provenance": "http://netghost.narod.ru/gff/vendspec/pictor/pictor.txt"
     }
   ],
   "externalSignatures": [

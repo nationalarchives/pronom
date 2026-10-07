@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1825
         }
-      ]
+      ],
+      "provenance": "http://multimedia.cx/mirror/NSVFormat.rtf; 04/2024 (v.117)- Signature updated to extend byte range between two strings. Submitted by Preservica."
     },
     {
       "signatureID": 1558,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 1826
         }
-      ]
+      ],
+      "provenance": "http://multimedia.cx/mirror/NSVFormat.rtf"
     }
   ],
   "externalSignatures": [

@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1106
         }
-      ]
+      ],
+      "provenance": "http://share.auditory.ru/2011/Dmitry.Burmistrov/computer_graphics-kursovaya/Specifications/archive/AI20/ADOBE_IL.PDF http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf"
     },
     {
       "signatureID": 883,
@@ -60,7 +61,8 @@
           "endianness": null,
           "byteSequenceID": 1107
         }
-      ]
+      ],
+      "provenance": "http://share.auditory.ru/2011/Dmitry.Burmistrov/computer_graphics-kursovaya/Specifications/archive/AI20/ADOBE_IL.PDF http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf"
     },
     {
       "signatureID": 884,
@@ -75,7 +77,8 @@
           "endianness": null,
           "byteSequenceID": 1108
         }
-      ]
+      ],
+      "provenance": "http://share.auditory.ru/2011/Dmitry.Burmistrov/computer_graphics-kursovaya/Specifications/archive/AI20/ADOBE_IL.PDF http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf"
     }
   ],
   "externalSignatures": [

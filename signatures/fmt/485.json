@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 952
         }
-      ]
+      ],
+      "provenance": "Specification: http://opencoder.net/rb_format.html - sample files made available by British Library"
     }
   ],
   "externalSignatures": [

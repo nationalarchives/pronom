@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 3854
         }
-      ]
+      ],
+      "provenance": "Note that this identification pattern has been tested with Gmail and Thunderbird-produced MBOX files and should suit all MBOX files produced following the established UNIX pattern described here: http://qmail.org./man/man5/mbox.html however there may be other variants that differ in implementation."
     }
   ],
   "externalSignatures": [

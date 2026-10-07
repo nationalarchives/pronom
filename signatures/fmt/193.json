@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1072
         }
-      ]
+      ],
+      "provenance": "ANSI/SMPTE 268M-1994 SMPTE Standard for File Format for Digital Moving-Picture Exchange (DPX)  v 1.0 18 February 1994"
     },
     {
       "signatureID": 849,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 1073
         }
-      ]
+      ],
+      "provenance": "ANSI/SMPTE 268M-1994 SMPTE Standard for File Format for Digital Moving-Picture Exchange (DPX)  v 1.0 18 February 1994"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1845
         }
-      ]
+      ],
+      "provenance": "Based on observation from z3d samples."
     }
   ],
   "externalSignatures": [

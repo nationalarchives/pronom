@@ -73,7 +73,8 @@
           "endianness": null,
           "byteSequenceID": 1574
         }
-      ]
+      ],
+      "provenance": "04/2024 (v.118): Max offset of one BOF sequence increased to 20000. Submitted by Archives New Zealand; 06/2024 (v.119): BOF sequence modified to allow for t or T in 'Content-(t|T)ype:'. Submitted by National Library of Australia."
     }
   ],
   "externalSignatures": [

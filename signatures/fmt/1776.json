@@ -53,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 2453
         }
-      ]
+      ],
+      "provenance": "https://web.archive.org/web/20220918202300/https://www.w3.org/TR/2006/REC-xml11-20060816/ \n08/2023 (v.113)- Signature tightened to prevent clashes with SVG 1.1 signature. Submitted by Preservica."
     }
   ],
   "externalSignatures": [

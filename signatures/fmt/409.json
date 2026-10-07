@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 724
         }
-      ]
+      ],
+      "provenance": "PBM. User Manual for Netpbm\nhttp://netpbm.sourceforge.net/doc/pbm.html"
     },
     {
       "signatureID": 624,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 771
         }
-      ]
+      ],
+      "provenance": "PBM. User Manual for Netpbm\nhttp://netpbm.sourceforge.net/doc/pbm.html"
     }
   ],
   "externalSignatures": [

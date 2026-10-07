@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1411
         }
-      ]
+      ],
+      "provenance": "http://ist.uwaterloo.ca/~schepers/formats/TAP.TXT"
     }
   ],
   "externalSignatures": [

@@ -28,7 +28,8 @@
           "endianness": null,
           "byteSequenceID": 4866
         }
-      ]
+      ],
+      "provenance": "v.125: new signature. Specification: https://github.com/aseprite/aseprite/blob/main/docs/ase-file-specs.md"
     }
   ],
   "externalSignatures": [

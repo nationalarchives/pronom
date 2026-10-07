@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 781
         }
-      ]
+      ],
+      "provenance": "http://www.mobileread.com/forums"
     },
     {
       "signatureID": 633,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 782
         }
-      ]
+      ],
+      "provenance": "http://www.mobileread.com/forums"
     }
   ],
   "externalSignatures": [

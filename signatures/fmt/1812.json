@@ -53,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 2494
         }
-      ]
+      ],
+      "provenance": "https://wiki.multimedia.cx/index.php/ADTS"
     },
     {
       "signatureID": 2153,
@@ -68,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 2495
         }
-      ]
+      ],
+      "provenance": "https://wiki.multimedia.cx/index.php/ADTS"
     }
   ],
   "externalSignatures": [

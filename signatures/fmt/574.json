@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1136
         }
-      ]
+      ],
+      "provenance": "http://medical.nema.org/Dicom/2011/11_10pu.pdf https://dicom.nema.org/medical/dicom/current/output/pdf/part12.pdf\n09/2022- Amended signature to disregard first 127 bytes according to specification. Added links to specification and references, altered description. Submitted by University Medical Center Utrecht.\n11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched."
     }
   ],
   "externalSignatures": [

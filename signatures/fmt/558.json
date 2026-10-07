@@ -57,7 +57,8 @@
           "endianness": null,
           "byteSequenceID": 1226
         }
-      ]
+      ],
+      "provenance": "http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf"
     }
   ],
   "externalSignatures": [

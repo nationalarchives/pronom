@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 2107
         }
-      ]
+      ],
+      "provenance": "04/2024 (v.117)-Signature modified to no longer search for '<</Cl<<' block. Submitted by the Archeological Data Service and Preservica."
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1555
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.115)- Modified the offset values from null to 0 as part of a project to match PRONOM data with the xsd standard. Internally researched."
     }
   ],
   "externalSignatures": [

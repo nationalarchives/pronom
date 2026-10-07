@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1729
         }
-      ]
+      ],
+      "provenance": "MACLib.h from version 4.25 SDK"
     },
     {
       "signatureID": 1467,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 1728
         }
-      ]
+      ],
+      "provenance": "monkey.pas from version 4.25 SDK"
     }
   ],
   "externalSignatures": [

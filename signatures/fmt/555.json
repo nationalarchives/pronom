@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1101
         }
-      ]
+      ],
+      "provenance": "www.openoffice.org/sc/excelfileformat.pdf\nwww.idea2ic.com/File_Formats/MICROSOFT%20EXCEL%20FILE%20FORMATxls.pdf\nwww.opennet.ru/docs/formats/xls.txt"
     }
   ],
   "externalSignatures": [

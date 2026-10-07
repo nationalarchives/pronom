@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1184
         }
-      ]
+      ],
+      "provenance": "http://www.iana.org/assignments/media-types/application/vnd.ms-htmlhelp"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 69
         }
-      ]
+      ],
+      "provenance": "Source - The File Formats Handbook, by Gunter Born"
     }
   ],
   "externalSignatures": [

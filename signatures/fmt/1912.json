@@ -95,7 +95,8 @@
           "endianness": null,
           "byteSequenceID": 3822
         }
-      ]
+      ],
+      "provenance": "v.121: new signature (submitted by Preservica)."
     },
     {
       "signatureID": 3431,
@@ -118,7 +119,8 @@
           "endianness": null,
           "byteSequenceID": 3824
         }
-      ]
+      ],
+      "provenance": "v.121: new signature (submitted by Preservica)."
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1767
         }
-      ]
+      ],
+      "provenance": "https://github.com/jgonera/openopj/blob/master/docs/opj_format.markdown plus submission by James Mooney of Bodleian Libraries, Oxford"
     }
   ],
   "externalSignatures": [

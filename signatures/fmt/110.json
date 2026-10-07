@@ -64,7 +64,8 @@
           "endianness": null,
           "byteSequenceID": 989
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec-v10.pdf"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 488
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010). Additional enhancement of signature carried out by The National Archives Digital Preservation Dept."
     },
     {
       "signatureID": 382,
@@ -52,7 +53,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 489
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010). Additional enhancement of signature carried out by The National Archives Digital Preservation Dept."
     }
   ],
   "externalSignatures": [

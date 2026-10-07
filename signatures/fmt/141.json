@@ -41,7 +41,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 751
         }
-      ]
+      ],
+      "provenance": "WAVE PCM soundfile format\nhttps://ccrma.stanford.edu/courses/422/projects/WaveFormat/"
     }
   ],
   "externalSignatures": [

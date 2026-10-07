@@ -61,7 +61,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 224
         }
-      ]
+      ],
+      "provenance": "v.122- Version in name of signature changed from 97-2002 to 97-2003. Submitted by Archives New Zealand."
     }
   ],
   "externalSignatures": [

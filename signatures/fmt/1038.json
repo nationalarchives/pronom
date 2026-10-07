@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1667
         }
-      ]
+      ],
+      "provenance": "http://www.red.com/learn/red-101/redcode-file-format\nhttp://en.wikipedia.org/wiki/REDCODE"
     }
   ],
   "externalSignatures": [

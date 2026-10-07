@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1683
         }
-      ]
+      ],
+      "provenance": "This signature is based on obeservation of a range of sample files and may be improved with a better understanding of the format."
     }
   ],
   "externalSignatures": [

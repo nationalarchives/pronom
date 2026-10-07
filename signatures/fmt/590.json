@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1151
         }
-      ]
+      ],
+      "provenance": "http://msdn.microsoft.com/en-us/library/windows/desktop/hh707223(v=vs.85).aspx"
     }
   ],
   "externalSignatures": [

@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1280
         }
-      ]
+      ],
+      "provenance": "https://tech.ebu.ch/docs/tech/tech3306-2009.pdf"
     }
   ],
   "externalSignatures": [

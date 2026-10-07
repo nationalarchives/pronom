@@ -28,7 +28,8 @@
           "endianness": null,
           "byteSequenceID": 4875
         }
-      ]
+      ],
+      "provenance": "Although these are zip files, it is not currently possible to create Container Signature identification due to the variable nature of file naming within the zip."
     },
     {
       "signatureID": 4480,
@@ -43,7 +44,8 @@
           "endianness": null,
           "byteSequenceID": 4876
         }
-      ]
+      ],
+      "provenance": "Although these are zip files, it is not currently possible to create Container Signature identification due to the variable nature of file naming within the zip. For now, the first two values of YY are either assumed to be \u201820\u2019 because these have not been retrospectively applied to data before 2007, or \u2018rd\u2019, in the case of congressional redistricting data. Should this remain the convention beyond the year 2099 then the signature will need to be tweaked at that time to accommodate future datasets. The extension is assumed to be any of .cpg, .dbf .prj, .shp, .shx"
     }
   ],
   "externalSignatures": [

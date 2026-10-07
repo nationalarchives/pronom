@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 1501
         }
-      ]
+      ],
+      "provenance": "The format seems to usually begin with: \n#LcUStream-V1.1 binary double release C lichunk-###\nWhere ### is a numerical value. Values 007 and 008 have been seen so it is possible to infer the existence of values 001 through 006, and conjecture the possibility of higher values, so for identification purposes we will rely on everything upto the number, except where we are able to provide greater specificity. Version numbers are based on this page:\n\nhttp://www.davetyner.com/forum/forum/autodesk-plant-design-suite/autodesk-navisworks/11121-nwd-file-version"
     }
   ],
   "externalSignatures": [

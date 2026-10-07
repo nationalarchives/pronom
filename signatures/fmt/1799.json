@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 2480
         }
-      ]
+      ],
+      "provenance": "v.118: Offset from BOF changed from 0 to 0-3 to provide flexibility for the XML 1.0 declaration. Submitted by Preservica based on samples provided by The Endanagered Languages Archive.\nV.121: Signature amended to allow for lower case 'utf'."
     }
   ],
   "externalSignatures": [

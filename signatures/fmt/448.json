@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 875
         }
-      ]
+      ],
+      "provenance": "Files found within DRI, files found on web"
     },
     {
       "signatureID": 701,
@@ -68,7 +69,8 @@
           "endianness": null,
           "byteSequenceID": 877
         }
-      ]
+      ],
+      "provenance": "Files found within DRI, files found on web"
     }
   ],
   "externalSignatures": [

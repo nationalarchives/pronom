@@ -41,7 +41,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 312
         }
-      ]
+      ],
+      "provenance": "Signature originally identified by Digital Library Research Group, MIT Libraries, 20/02/2008. Signature further added to by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010)."
     }
   ],
   "externalSignatures": [

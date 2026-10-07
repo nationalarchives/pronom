@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1019
         }
-      ]
+      ],
+      "provenance": "Signature is based on just two files: zy______.mmm and zx______.mmm, both provided in mid-90's Adobe software (e.g. Acrobat Reader), and would benefit by being strengthened if other Adobe MMM files become available\n\nhttp://helpx.adobe.com/legacy/kb/overview-fonts-atm-windows.html"
     }
   ],
   "externalSignatures": [

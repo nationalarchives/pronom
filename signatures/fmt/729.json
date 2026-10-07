@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1299
         }
-      ]
+      ],
+      "provenance": "http://www.sqlite.org/fileformat.html"
     }
   ],
   "externalSignatures": [

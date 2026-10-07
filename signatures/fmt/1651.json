@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 2310
         }
-      ]
+      ],
+      "provenance": "v.115: Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched.\nV.121: Amended offset from 9 to 8 and changed signature from 464954 to 2E464954."
     }
   ],
   "externalSignatures": [

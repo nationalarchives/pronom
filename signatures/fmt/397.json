@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 780
         }
-      ]
+      ],
+      "provenance": "04/2024 (v.117)- Removed the string 'Final \u00ae' as this can be replaced with the string 'PrintMusic\u00ae'. Submitted by Brigham Young University."
     }
   ],
   "externalSignatures": [

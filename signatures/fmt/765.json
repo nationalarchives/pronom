@@ -49,7 +49,8 @@
           "endianness": null,
           "byteSequenceID": 1450
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf\nhttp://www.adobe.com/devnet/articles/flashplayer-air-feature-list.html"
     },
     {
       "signatureID": 1108,
@@ -64,7 +65,8 @@
           "endianness": null,
           "byteSequenceID": 1357
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf\nhttp://www.adobe.com/devnet/articles/flashplayer-air-feature-list.html"
     },
     {
       "signatureID": 1124,
@@ -79,7 +81,8 @@
           "endianness": null,
           "byteSequenceID": 1373
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf\nhttp://www.adobe.com/devnet/articles/flashplayer-air-feature-list.html"
     }
   ],
   "externalSignatures": [

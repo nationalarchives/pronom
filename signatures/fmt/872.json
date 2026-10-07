@@ -41,7 +41,8 @@
           "endianness": null,
           "byteSequenceID": 1503
         }
-      ]
+      ],
+      "provenance": "https://github.com/FLIF-hub/FLIF/blob/master/doc/flif.magic"
     }
   ],
   "externalSignatures": [

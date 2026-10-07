@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 1714
         }
-      ]
+      ],
+      "provenance": "https://svn.alcf.anl.gov/repos/libs/SILO/src/pdb/pdb.c\nhttps://github.com/dhmunro/yorick/blob/master/yorick/binpdb.c"
     }
   ],
   "externalSignatures": [

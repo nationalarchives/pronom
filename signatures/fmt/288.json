@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 405
         }
-      ]
+      ],
+      "provenance": "Format recognised from web crawl attempts. Unique strings in file (e.g. vti_encoding) suggested that the file belonged to Front Page Server Extension Configuration. Sources such as http://support.microsoft.com/kb/296661 seem to confirm."
     }
   ],
   "externalSignatures": [],

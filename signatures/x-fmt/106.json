@@ -45,7 +45,8 @@
           "endianness": null,
           "byteSequenceID": 747
         }
-      ]
+      ],
+      "provenance": "Walden, Jeffrey B. File Formats for Popular PC Software, John Wiley & Sons, New York, NY, 1986. Microsoft SYLK, Encyclopedia of File Formats http://netghost.narod.ru/gff/graphics/summary/micsylk.htm; 11/2023 (v.115)- max offset values changed from null to 0 and EOF signature modified to accommodate for different operating systems."
     }
   ],
   "externalSignatures": [

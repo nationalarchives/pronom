@@ -37,7 +37,8 @@
           "endianness": null,
           "byteSequenceID": 953
         }
-      ]
+      ],
+      "provenance": "Samples and candidate signature provided by Rhizome"
     },
     {
       "signatureID": 759,
@@ -52,7 +53,8 @@
           "endianness": null,
           "byteSequenceID": 954
         }
-      ]
+      ],
+      "provenance": "Samples and candidate signature provided by Rhizome"
     }
   ],
   "externalSignatures": [
