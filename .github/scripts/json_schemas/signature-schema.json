@@ -18,14 +18,12 @@
 
     "formatDescription": { "type": ["string", "null"] },
     "releaseDate": { "type": ["string", "null"] },
-    "withdrawnDate": { "type": ["string", "null"] },
 
     "binaryFileFormat": { "type": ["string", "null"] },
 
     "formatNote": { "type": ["string", "null"] },
     "lastUpdatedDate": { "type": ["string", "null"] },
 
-    "formatSourceID": { "type": ["integer", "null"] },
     "provenanceCompoundName": { "type": ["string", "null"] },
     "formatProvenance": { "type": ["string", "null"] },
     "formatSourceDate": { "type": ["string", "null"] },
@@ -35,10 +33,9 @@
     "formatRisk": { "type": ["string", "null"] },
     "formatAliases": { "type": ["string", "null"] },
     "formatTypes": { "type": ["string", "null"] },
-    "byteOrders": { "type": ["string", "null"] },
     "formatFamilies": { "type": ["string", "null"] },
 
-    "source": {
+    "submittedBy": {
       "type": "array",
       "items": {
         "type": "integer",
