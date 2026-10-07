@@ -4,9 +4,6 @@
   "formatDescription": "HALO Photonics Doppler LiDAR File Format is a proprietary, text-based format that contains header information and time-series data for atmospheric measurements. It is designed for continuous remote sensing specifically to log atmospheric backscatter and line-of-sight wind velocity.",
   "binaryFileFormat": null,
   "formatTypes": "Text (Structured)",
-  "source": [
-    349
-  ],
   "identifiers": [
     {
       "identifierText": "fmt/2115",
@@ -41,5 +38,8 @@
   "formatNote": "Vendor: HALO Photonics: https://halo-photonics.com/\\nDocumentation: https://aidaho-edu.uni-hohenheim.de/gitlab/lafe_test/lafi-data-management/-/wikis/home/HPL-Doppler-LiDAR-File-Format-Documentation",
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
-  "fileFormatID": 4991
+  "fileFormatID": 4991,
+  "submittedBy": [
+    349
+  ]
 }

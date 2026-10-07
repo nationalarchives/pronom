@@ -98,9 +98,6 @@
   "developedBy": [
     93
   ],
-  "source": [
-    1
-  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -144,5 +141,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

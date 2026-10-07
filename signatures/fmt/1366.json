@@ -35,9 +35,6 @@
   "developedBy": [
     221
   ],
-  "source": [
-    234
-  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -61,5 +58,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    234
   ]
 }

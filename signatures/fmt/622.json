@@ -45,9 +45,6 @@
   "developedBy": [
     203
   ],
-  "source": [
-    202
-  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -72,5 +69,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    202
   ]
 }

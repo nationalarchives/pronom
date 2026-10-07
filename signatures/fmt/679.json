@@ -35,9 +35,6 @@
       "relatedFormatName": "Serif PagePlus Publication"
     }
   ],
-  "source": [
-    178
-  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -62,5 +59,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    178
   ]
 }

@@ -39,9 +39,6 @@
       "relatedFormatName": "Open XML Paper Specification"
     }
   ],
-  "source": [
-    1
-  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -65,5 +62,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

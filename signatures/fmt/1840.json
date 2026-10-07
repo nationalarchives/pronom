@@ -33,9 +33,6 @@
     }
   ],
   "relationships": [],
-  "source": [
-    180
-  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -58,5 +55,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    180
   ]
 }

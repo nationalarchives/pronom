@@ -43,9 +43,6 @@
       "relatedFormatName": "Serif DrawPlus Drawing"
     }
   ],
-  "source": [
-    220
-  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -84,5 +81,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    220
   ]
 }

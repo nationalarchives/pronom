@@ -4,9 +4,6 @@
   "formatDescription": "The NumPy format is the standard binary format for saving NumPy arrays to disk. These formats preserve the exact data type (dtype), shape, and byte order of your numerical arrays, allowing you to save and load them without losing information.",
   "binaryFileFormat": null,
   "formatTypes": "Dataset",
-  "source": [
-    349
-  ],
   "identifiers": [
     {
       "identifierText": "fmt/2112",
@@ -45,5 +42,8 @@
   "formatNote": "https://numpy.org/doc/stable/reference/generated/numpy.lib.format.html",
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
-  "fileFormatID": 4988
+  "fileFormatID": 4988,
+  "submittedBy": [
+    349
+  ]
 }

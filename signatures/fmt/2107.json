@@ -4,9 +4,6 @@
   "formatDescription": "The native format of Aseprite, a graphics package primarily targeted at the creation of pixel art. Aseprite sprites can be static (technically single-framed), or animated.",
   "binaryFileFormat": null,
   "formatTypes": "Image (Raster)",
-  "source": [
-    244
-  ],
   "identifiers": [
     {
       "identifierText": "fmt/2107",
@@ -46,5 +43,8 @@
   "formatNote": null,
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
-  "fileFormatID": 4983
+  "fileFormatID": 4983,
+  "submittedBy": [
+    244
+  ]
 }

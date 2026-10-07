@@ -35,9 +35,6 @@
       "relatedFormatName": "GST Art File"
     }
   ],
-  "source": [
-    299
-  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -85,5 +82,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    299
   ]
 }

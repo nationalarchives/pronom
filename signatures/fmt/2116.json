@@ -4,9 +4,6 @@
   "formatDescription": "The Hugin Project File from Hugin panorama stitcher, contains the instructions on how a photo should be stitched together. The file is associated with PanoTools.",
   "binaryFileFormat": null,
   "formatTypes": "Text (Structured)",
-  "source": [
-    349
-  ],
   "identifiers": [
     {
       "identifierText": "fmt/2116",
@@ -45,5 +42,8 @@
   "formatNote": "Developed by Pablo d'Angelo and maintained by the community.\\nDocumentation: https://wiki.panotools.org/Hugin",
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
-  "fileFormatID": 4992
+  "fileFormatID": 4992,
+  "submittedBy": [
+    349
+  ]
 }

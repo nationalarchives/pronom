@@ -48,9 +48,6 @@
       "relatedFormatName": "Associated Signature Container Extended (ASiC-E)"
     }
   ],
-  "source": [
-    242
-  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -104,5 +101,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    242
   ]
 }

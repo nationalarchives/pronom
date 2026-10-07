@@ -84,8 +84,8 @@
       "relatedFormatName": "Rich Text Format"
     }
   ],
-  "source": [
+  "containerSignatures": [],
+  "submittedBy": [
     1
-  ],
-  "containerSignatures": []
+  ]
 }

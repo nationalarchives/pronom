@@ -49,9 +49,6 @@
       "relatedFormatName": "OpenDocument Format"
     }
   ],
-  "source": [
-    244
-  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -97,5 +94,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    244
   ]
 }

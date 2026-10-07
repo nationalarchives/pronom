@@ -40,9 +40,6 @@
       "relatedFormatName": "Serif DrawPlus Drawing"
     }
   ],
-  "source": [
-    1
-  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -67,5 +64,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }
