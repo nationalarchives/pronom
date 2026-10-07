@@ -3,7 +3,6 @@
   "version": null,
   "formatName": "Final Cut Pro Project File",
   "formatDescription": "Video editing project files, created with Apple Final Cut Pro or Final Cut Express. They include video and audio clips organized into tracks, and possibly visual effects, transitions, text overlays.",
-  "formatSourceID": 363,
   "formatTypes": "Video",
   "formatNote": "Note: https://fileinfo.com/extension/fcp\nhttps://www.apple.com/uk/final-cut-pro/resources/",
   "lastUpdatedDate": "03 Dec 2025",

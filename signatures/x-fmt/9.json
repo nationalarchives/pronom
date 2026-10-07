@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "http://www.dbase.com/help/Design_Tables/IDH_TABLEDES_FIELD_TYPES.htm;http://www.dbase.com/KnowledgeBase/int/db7_file_fmt.htm\r\n\r\nhttps://www.promotic.eu/en/pmdoc/Subsystems/Db/dBase/DbfFormat.htm",
   "lastUpdatedDate": "15 Nov 2023",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "11/2023 (v.115)- Links and specifications added to note field. Submitted by The National Library of Australia.",
   "formatSourceDate": "10 Oct 2003",

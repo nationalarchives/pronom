@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "https://dicom.nema.org/medical/dicom/current/output/pdf/part10.pdf\r\n\r\nhttps://dicom.nema.org/medical/dicom/current/output/pdf/part12.pdf\r\n\r\nhttps://www.dicomstandard.org/",
   "lastUpdatedDate": "22 Apr 2024",
-  "formatSourceID": 192,
   "provenanceCompoundName": "Tessella / Tessella",
   "formatProvenance": "09/2022- Amended signature to disregard first 127 bytes according to specification. Added links to specification and references, altered description. Submitted by University Medical Center Utrecht.11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched. 04/2024 (v.118)- Added alias of DICOM. Submitted by Preservica.",
   "formatSourceDate": "28 Aug 2013",

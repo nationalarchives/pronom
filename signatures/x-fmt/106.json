@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "http://fileformats.archiveteam.org/wiki/SYLK\r\nhttp://netghost.narod.ru/gff/graphics/summary/micsylk.htm",
   "lastUpdatedDate": "14 Nov 2023",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "11/2023 (v.115)- description updated, internal signature max offset values changed from null to 0 and EOF signature modified to accommodate for different operating systems. Submitted by Brigham Young University as part of PRONOM Research Week.",
   "formatSourceDate": "02 Aug 2005",

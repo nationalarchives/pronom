@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000179.shtml; Only incomplete versions of the TGA version 1 are available but https://www.dca.fee.unicamp.br/~martino/disciplinas/ea978/tgaffs.pdf explains some of the differences between the versions in that version 2 added specification of pixel aspect ratio (providing more explicit support for square and non-square pixels), color correction tables, an embedded thumbnail image (termed postage-stamp in the standard), and some very basic metadata elements (such as author, software, date/timestamp, job number, comments). A developer area provided a mechanism for including additional information.",
   "lastUpdatedDate": "02 Jan 2025",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "v.120- New description created, additional notes and fdd identifier added as part of PRONOM Research Week 2024. Submitted by Library of Congress.",
   "formatSourceDate": "02 Aug 2005",

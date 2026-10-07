@@ -7,7 +7,6 @@
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Added priority over fmt/1886 (Resource Interchange Format (RIFF)) and simplified internal signature to reduce identification tool processing time. Submitted by Preservica and New York Public Libraries.",
   "formatSourceDate": "11 Mar 2005",

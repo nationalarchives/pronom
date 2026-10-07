@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "https://www.iana.org/assignments/media-types/application/vnd.etsi.asic-e+zip\r\r\nhttps://www.eparaksts.lv/en/",
   "lastUpdatedDate": "13 Dec 2021",
-  "formatSourceID": 245,
   "provenanceCompoundName": "The National Archives of Latvia / The National Archives of Latvia",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "18 Jan 2020",

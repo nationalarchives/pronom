@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "Specification: https://developer.garmin.com/fit/protocol/",
   "lastUpdatedDate": "15 Nov 2023",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched.",
   "formatSourceDate": "15 Mar 2022",

@@ -3,7 +3,6 @@
   "version": null,
   "formatName": "BioSemi Data Format",
   "formatDescription": "BioSemi Data Format is a 24 bit version of the older 16 bit European Data Format. It is used to record biological signals, primarily EEG/EMG readings, and can store multiple data types.",
-  "formatSourceID": 349,
   "formatTypes": "Dataset",
   "formatNote": "https://www.biosemi.com/faq/file_format.htm",
   "lastUpdatedDate": "09 Jun 2026",

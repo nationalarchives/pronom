@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Jan 2020",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "The container holds the Music XML file, which has the same file name as the MXL container. Variable file names cannot currently be represented within the PRONOM container signature file.",
   "formatSourceDate": "16 Jun 2016",

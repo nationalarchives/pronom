@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "Specification: http://www.wapforum.org/what/technical.htmandhttp://www.wapforum.org/what/technical/wml-30-apr-98.pdf",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 295,
   "provenanceCompoundName": "Stadtarchiv Hof / Stadtarchiv Hof",
   "formatProvenance": "08/2023 (v.113)- Offset and signature modified for the EOF byte sequence to remove floating curly brackets from the signature for consistency.",
   "formatSourceDate": "22 Nov 2022",

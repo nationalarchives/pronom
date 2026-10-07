@@ -7,7 +7,6 @@
   "binaryFileFormat": "Binary",
   "formatNote": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000017.shtml#:~:text=The%20Library%20of%20Congress%20Recommended,specify%20a%20version%20of%20JPEG.\r\n\r\nhttps://web.archive.org/web/20220624201809/https://www.adobe.com/creativecloud/file-types/image/raster/jpeg-file.html\r\n\r\nhttps://web.archive.org/web/20221015163305/https://en.wikipedia.org/wiki/JPEG",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Photoshop JPEG signature added 0 value to offset in EOF signature as null offset is causing max-offset to be ignored. Submitted by Preservica.",
   "formatSourceDate": "11 Mar 2005",
