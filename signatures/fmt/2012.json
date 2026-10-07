@@ -4,7 +4,6 @@
   "version": "4.2",
   "formatDescription": "VTK files are outputs of the Visualization Toolkit, an open source, \"Object-Oriented Approach to 3D Graphics\" software that supports image processing, modeling, scientific visualization and 3D computer graphics. The Visualization Software and the corresponding vtk file outputs date from 1994. VTK are serial formats and are considered a legacy format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://docs.vtk.org/en/latest/design_documents/VTKFileFormats.html\r\n\r\nhttps://vtk.org/wp-content/uploads/2021/08/VTKUsersGuide.pdf",
   "lastUpdatedDate": "22 Aug 2024",

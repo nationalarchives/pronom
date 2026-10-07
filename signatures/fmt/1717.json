@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Time Stamp Tokens contain a hash of data which is being time stamped, electronically signed by a Timestamping Authority. For example, tst files might be generated to prove a digital signature was created before a given time. The hash refers to data objects carried in ASiC containers.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.iana.org/assignments/media-types/application/vnd.etsi.timestamp-token\r\nSpecification: https://www.etsi.org/deliver/etsi_ts/102900_102999/102918/01.03.01_60/ts_102918v010301p.pdf",
   "lastUpdatedDate": "14 Jun 2022",

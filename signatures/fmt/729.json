@@ -4,7 +4,6 @@
   "version": "3",
   "formatDescription": "SQLite is a relational database management system. SQLite does not define a formal file extension, but .sqlite, .db, and .db3 are commonly used.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "13 Sep 2018",

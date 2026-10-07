@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Adobe Design software such as Photoshop, Illustrator and InDesign use color swatches to assign specific color values to a design. These can be created using many different color spaces and can even use color libraries, such as Pantone. Adobe Swatch Exchange is a format used for storing, importing and exporting color samplers and pickers.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.cyotek.com/blog/reading-adobe-swatch-exchange-ase-files-using-csharp",
   "lastUpdatedDate": "14 Nov 2023",

@@ -4,7 +4,6 @@
   "version": "2.0",
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.\r\nWindows bitmap 2.0 and OS/2 bitmap 1.0 are effectively the same format - the only difference is the data type of the width and height fields of the bitmap header \u2013 for Windows 2.0 bitmaps they are signed short integers, for OS/2 1.0 bitmaps they are unsigned shorts. For positive numbers the representation is the same. Consequently, the file formats cannot be distinguished with a file signature test. The PUID for OS/2 Bitmap 1.0 (x-fmt/25) has therefore been deprecated.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "11 Jul 2011",

@@ -4,7 +4,6 @@
   "version": "2000-2005",
   "formatDescription": "AutoCAD is 2D and 3D computer-aided design software used by professionals such as architects, engineers and city planners to prepare technical drawings. Developed by Autodesk, it was first released in 1982, and is now very widely used. . In AutoCAD, the term \u2018plot\u2019 is used instead of \u2018print\u2019. AutoCAD Batch Plot Files store lists of the file(s) to publish to a printer. The files contain information including the name of each file to be printed, its file type, number of copies to be printed, and the location where the file is saved.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "17 Apr 2024",

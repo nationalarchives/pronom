@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Active Server Pages are dynamic Web pages created using Microsoft Active Server Pages. An ASP page is an HTML page containing script commands that are processed by the Web server (server-side script code) before the page is sent to the client\u2019s browser.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524929(v=vs.90)",
   "lastUpdatedDate": "16 Apr 2024",

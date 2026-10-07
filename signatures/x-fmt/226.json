@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "ESRI ArcInfo Export File Format (also known as ArcInfo Interchange File Format) is a vector file format which is produced by ESRI and pre-dates the shapefile. It is as an export file used to enable coverage, grid or TIN and an associated INFO table to be transferred between different machines, which are not connected by any type of file sharing network. A volume has the extension .E00 through .E99. \r\nA non-authoritative version of the specification can be found at: http://avce00.maptools.org/docs/v7_e00_cover.html",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "20 Jan 2020",

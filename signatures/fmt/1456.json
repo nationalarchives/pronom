@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "This signature profiles dump files produced by the Autocad program. These are files which contain data \u2018dumped\u2019 from the program's memory space, usually created when the program has an error or crashes.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Oct 2021",

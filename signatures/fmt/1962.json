@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "SolidWorks is a CAD program that engineers and product designers use to prototype manufactured products, such as vehicle parts, tools, and other instruments. After creating a 3D representation of a part or product in SolidWorks, users can export a 2D drawing of that part or product. The drawing usually contains multiple 2D views of the part, as well as measurements, noted tolerances, and other annotations.\r\nThe sldmat file stores material database used by SolidWorks.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.file-extensions.org/sldmat-file-extension",
   "lastUpdatedDate": "15 Apr 2024",

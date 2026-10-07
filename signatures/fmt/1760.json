@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "CloneCD Control File is used by the CloneCD software to mark the properties of a CD/DVD image and contains metadata and structural information about the disk image. It is found alongside the .img disk image file. They often have a .sub subchannel file alongside them.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Aug 2022",

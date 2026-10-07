@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "CAL is an image file format used by CALS. CAL files are compressed bitmap formatted files used for storing monochrome images. CAL files were developed in the 1980s to standardize graphics data interchange for electronic publishing for the federal government.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "03 Aug 2015",

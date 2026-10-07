@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Z Compressed Data are files that have been compressed by Unix's shell compression program, compress. The compress software was developed by Spencer Thomas in 1984 and uses LZW algorithm. The format has lossless data, it can be compressed and decompressed using the Unix and Linux operating systems.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/Compress\r\n\r\nhttps://docs.fileformat.com/compression/z/\r\n\r\nhttp://fileformats.archiveteam.org/wiki/Compress_(Unix)",
   "lastUpdatedDate": "15 Apr 2024",

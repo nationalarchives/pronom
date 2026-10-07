@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The AccessData Custom Content Image (AD1) file format is a file-level disk image format created by AccessData's proprietary forensic software, such as FTK Imager. \r\n\r\nAn AD1 image may span multiple files, with multipart files distinguished by their incrementing file extension, e.g. .ad1, .ad2, .ad3, etc.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Dec 2015",

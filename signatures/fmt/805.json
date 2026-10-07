@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A XAML Binary Format (XBF) file is a pre-parsed binary representation of a .XAML file. The XBf file is created by Microsoft Visual Studio.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Nov 2015",

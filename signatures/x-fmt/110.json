@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "In a fixed-width text file, data is contained in columns that are of a fixed width (meaning that each column contains a certain number of character positions). Data that does not fill the width of the column is padded with filler characters, which are usually spaces or zeroes. Sometimes, your fixed-width text file uses special characters to visually delineate one column from the next.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://help.seagullscientific.com/2019/en/Content/DB_Types_FixedWidth.htm#:~:text=In%20a%20fixed%2Dwidth%20text,are%20usually%20spaces%20or%20zeroes.",
   "lastUpdatedDate": "03 Jan 2025",

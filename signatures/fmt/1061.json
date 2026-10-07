@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Phase One is a camera manufacturer and Capture One is the accompanying software. This format contains the raw image data captured by the camera's image sensor. IIQ stands for Intelligent Image Quality, a compressed version of the raw image data captured by Phase One camera equipment. IIQ has a choice of a 'Large' (lossless) or 'Small' (lossy) options. With further research it may be possible to distinguish between these outputs.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Jul 2017",

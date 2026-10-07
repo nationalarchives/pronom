@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Waveform Audio (WAVE) is a chunk-based audio format developed by Microsoft, based on the generic Resource Interchange File Format (RIFF) specification developed by Microsoft and IBM. Structurally, a WAVE file is composed of a number of chunks, each comprising a four character code chunk identifier, the chunk size, and the chunk data. It  comprises a RIFF header with a WAVE data type identifier, followed by a series of chunks. Every file must include a Format chunk, which describes the format of the audio data, and a Data chunk, containing the audio data itself. Other optional chunks are also allowed. The format supports a wide variety of compressed and uncompressed audio encodings.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",

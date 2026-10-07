@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "ELAN is a professional software tool to manually and semi-automatically annotate and transcribe audio or video recordings. It was developed by the Max Planck Institute for Psycholinguistics in Nijmegen.  The .eaf file contains the annotations.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "EAF Specification f\u00fcr Version 3.0 (2017): www.mpi.nl/tools/elan/EAF_Annotation_Format_3.0_and_ELAN.pdf",
   "lastUpdatedDate": "22 Apr 2024",

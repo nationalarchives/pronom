@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A format that utilizes the cxcal Instrument Digital Interface (MIDI) protocol to record, store, and read sound event instructions such as pitch, tempo, velocity, and sustain. As the file does not contain actual recorded audio, the file size is greatly reduced.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://en.wikipedia.org/wiki/MIDI#MIDI_file_format\r\nhttps://fileinfo.com/extension/midi",
   "lastUpdatedDate": "22 Apr 2024",

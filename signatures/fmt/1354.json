@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "QBB file format used by QuickBooks for their backup files. It is used to manage inventory, payroll, sales and other needs of a business. QuickBooks includes many features such as marketing tools, product and suppliers, merchant services and training solutions. QBB files are the backups files QuickBooks QBW files containing all financial records, logos, images, letters, and templates.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Jan 2020",

@@ -4,7 +4,6 @@
   "version": "5",
   "formatDescription": "CATIA is a 3D modelling software created by Dassault Syst\u00e8mes, widely used across many industries for computer aided design, manufacture and engineering. The .catdrawing files are created with this software to store two dimensional drawings, including different views of the item being designed. Catdrawing files are always linked to .catpart files - without a .catpart file, the .catdrawing file won\u2019t open.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Official website: https://www.3ds.com/products-services/catia/",
   "lastUpdatedDate": "03 Feb 2022",

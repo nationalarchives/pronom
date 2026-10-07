@@ -4,7 +4,6 @@
   "version": "6.0-2003",
   "formatDescription": "This format is identifiable via a container signature in DROID 6 and later. Some Word documents from this era lack an internal [CompObj] stream, which is used by fmt/39 and fmt/40 to distinguish between Word files generated in Microsoft Office 6.0/95, and 97-2003. Since compatible files created by certain software lack this stream (potentially including, but not necessarily limited to Apple Pages), this additional identifying record is required to avoid the limiting identification of OLE2.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Nov 2013",

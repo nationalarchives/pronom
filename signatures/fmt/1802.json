@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "TAG is the native, XML-based format of Transcriber AG, a tool for assisting the manual annotation of speech signals. Transcriber AG (https://transag.sourceforge.net/) superseded a previous tool, Transcriber (https://trans.sourceforge.net/)",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Nov 2022",

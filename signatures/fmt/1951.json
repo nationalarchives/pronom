@@ -4,7 +4,6 @@
   "version": "5-9",
   "formatDescription": "Pro Tools is a digital audio workstation software application developed by AVID Technology. A Pro Tools session file contains the configuration of a Pro Tools session including settings, plugin details, references to audio and midi tracks etc. Pro Tools Session files do not contain audio data directly.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Apr 2024",

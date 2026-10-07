@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Files which store information about the fonts installed by various Adobe applications. They are often named AdobeFntXX.lst. The files can be deleted (as they do not store the actual font data), and are created again when the Adobe product next scans the font locations.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Jun 2022",

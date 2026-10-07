@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Autorun.inf is the primary instruction file associated with the Autorun function. Autorun.inf itself is a simple text-based configuration file that tells the operating system which executable to start, which icon to use, and which additional menu commands to make available.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "30 Mar 2011",

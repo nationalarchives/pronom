@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Within Adobe Premiere and Adobe Audition, graphical waveform files may be created during the editing process. These are typically found alongside 'Conformed Audio' files that contain audio data. .pek files may sometimes be found to contain no data and have a size of zero bytes - PRONOM will be unable to automatically identify such files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "07 Jul 2017",

@@ -4,7 +4,6 @@
   "version": "5",
   "formatDescription": "The HyperText Markup Language (HTML) is a markup language designed for the rendering of information via a web browser. It was originally defined as a highly simplified subset of SGML, but is now an international standard, and is maintained by the World Wide Web Consortium (W3C). A HTML document consists of nested elements, each of which may have attributes and content. It begins with an HTML Document Type declaration. HTML 5 does not explicitly define the HTML version or any Document Type Definition (DTD) within the DOCTYPE tag.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "25 Oct 2012",

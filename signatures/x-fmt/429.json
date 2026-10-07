@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "AKA MIME Encapsulation of Aggregate Documents, such as HTML. This entry was previously named 'Microsoft Web Archive', however MHTML is not specific to Microsoft. MHTML is described by the IETF standard RFC2557.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "26 Sep 2020",

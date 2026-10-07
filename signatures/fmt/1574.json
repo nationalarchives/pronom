@@ -4,7 +4,6 @@
   "version": "1-6",
   "formatDescription": "These are files created by Visual Basic, a software development tool for Windows. The files hold coordinate positions for each window in the visual programming environment, and are used to reload elements into their previous positions after a close/reopen. Visual Basic software has been replaced with Visual Basic.NET., which doesn\u2019t generate .vbw files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Dec 2021",

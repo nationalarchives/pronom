@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Esri Shapefile (actually a collection of files), was introduced with ArcView GIS software in the early 1990s, but is now used within a wide variety of software. It enables geographical datasets to be used between Esri and other GIS software. Esri Shapefiles consist of a collection of files within a directory. They always have files with extension shp, shx and dbf. The actual shapefile is the .shp file, but the other files are required supporting files. The shp.xml file is not mandatory, and stores geospatial metadata in xml format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/Shapefile \r\nSpecification: https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/whitepapers/pdfs/shapefile.pdf",
   "lastUpdatedDate": "07 Jul 2022",

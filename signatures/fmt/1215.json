@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The ERDAS HFA format defines a heirachichal data structure used by many formats primarily associated with with the ERDAS Imagine software package for processing geospatial imagery. Other formats use this structure also, notably ArcGIS 'Reduced resolution datasets' and their auxilliary files. It may be possible to distinguish between distinct subsets of HFA with further research. Please contact the PRONOM team if you can assist with this.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "13 Mar 2023",

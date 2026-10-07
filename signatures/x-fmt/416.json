@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "BinHex or Binary to Hexadecimal is a text encoded system primary used for Macintosh Classic systems when transferring over email and for transferring online. The file can include the data and resource fork of a file along with original names, type, and creator. It can be combined with MacBinary, Stuffit and others. Encoding uses a 16-bit CRC for validation.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "http://fileformats.archiveteam.org/wiki/BinHex\r\nhttps://preservation.tylerthorsted.com/2023/09/29/binhex/",
   "lastUpdatedDate": "15 Apr 2024",

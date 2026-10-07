@@ -4,7 +4,6 @@
   "version": "12",
   "formatDescription": "The Adobe Flash format, SWF, previously known as Shockwave Flash or Macromedia Shockwave Flash, and alternatively known as the Small Web Format, is a file format primarily designed for creating interactive multimedia applications. The format iterates rapidly, often in line with new releases of Adobe Flash or Adobe Air. Prior to version 6 all SWF files were uncompressed, however version 6 introduced the option of using zlib compression. Version 13 introduced the option of using LZMA compression.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "07 Aug 2015",

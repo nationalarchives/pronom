@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "MicroStation Symbology Resource Files contain fonts and line styles, and are preinstalled with Bentley Microstation CAD software. When a Microstation Design is used with LISCAD software, the .rsc files match Microstation fonts and line styles with equivalent LISCAD ones.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.bentley.com/en/products/brands/microstation",
   "lastUpdatedDate": "18 Feb 2022",

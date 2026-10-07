@@ -4,7 +4,6 @@
   "version": "1.7",
   "formatDescription": "PDF Portfolio files are PDFs using a feature added to the PDF specification in version 1.7 called \"Collections\". Collections offer a way to embed file attachments that are related in structure or content, as well as information that a reader application should use to determine how to present these files. A simple metadata schema can also be defined for the collection, allowing metadata to be provided for each item in the collection. Additionally, folder structure can be provided for the collection items, allowing reader applications to present the attachments with a tree-view. This makes the PDF Portfolio a convenient format to export mailboxes as mail folder structure can be preserved, along with standard email metadata such as \"To\", \"From\" and \"Subject\" fields. \n\nPDF Portfolio files can specify a \"default view\", which is a file in the collection that a reader application should display when opening the Portfolio.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Apr 2024",

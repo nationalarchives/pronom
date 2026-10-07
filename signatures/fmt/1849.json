@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "GoPro action camera's since the HERO5 model have the ability to capture a RAW image along with a JPG. The GPR format is a 12-bit raw image coding format, based on Adobe DNG but uses a VC-5 compression making the files much smaller than a typical DNG.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://github.com/gopro/gpr\r\n\r\nhttp://fileformats.archiveteam.org/wiki/GoPro_GPR\r\n\r\nhttps://www.wikidata.org/wiki/Q111147971",
   "lastUpdatedDate": "21 Apr 2023",

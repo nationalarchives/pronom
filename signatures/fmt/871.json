@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Adobe Content Server Message files are used to manage and download digital content, mostly ebooks, via Adobe Digital Editions. \rThe .acsm file is essentially a 'key' to allow the download of purchased content.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Jan 2016",

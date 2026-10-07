@@ -4,7 +4,6 @@
   "version": "3",
   "formatDescription": "DM3 is a file format produced by some Digital Micrography instruments created by Gatan. Please contact the PRONOM team if you are able to provide a more detailed description.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "29 Nov 2017",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "SGI YAODL (Yet Another Object Description Language) is a description language used for storing 3D object data to disk files. YAODL is an obsolete format created specifically for the Silicon Graphics Powerflip demo program, but it is not widely supported by SGI. The format is an example of a basic vector-object description language and is stored in plain text (ASCII) format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/SGI_YAODL\r\n\r\nhttp://paulbourke.net/dataformats/yaodl/",
   "lastUpdatedDate": "29 Mar 2022",

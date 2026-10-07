@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Waveform Audio (WAVEFORMATEXTENSION) is an extended version of the Waveform Audio file format, and was developed by Microsoft. It is related to the Waveform Audio (WAVEFORMATEX) format, but is an even more extended version.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "25 Aug 2022",

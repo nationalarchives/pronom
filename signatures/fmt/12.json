@@ -4,7 +4,6 @@
   "version": "1.1",
   "formatDescription": "Portable Network Graphics (PNG) was designed for the lossless, portable, compressed storage of raster images.  PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, grayscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits. PNG is designed to work in online viewing applications, so it is fully streamable.  It can store gamma and chromaticity.  PNG also detects file corruption.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",

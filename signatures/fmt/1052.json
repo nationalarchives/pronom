@@ -4,7 +4,6 @@
   "version": "1.0",
   "formatDescription": "BKNAS is an ASCII data format created to allow easy transfer of seismic data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "19 May 2017",

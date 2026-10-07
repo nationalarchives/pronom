@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Interoperable Master Format (IMF) is a file-based media format, and an IMF Package (IMP) is a collection of media files with accompanying XML data describing the IMF Package structure. The Asset Map is an XML file that provides a mapping between the UUIDs and filenames used within an IMP. An Asset Map file should be found alongside the other IMP component files described within the file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://www.smpte-ra.org",
   "lastUpdatedDate": "19 Apr 2024",

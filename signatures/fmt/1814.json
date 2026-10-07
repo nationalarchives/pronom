@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Adobe Photoshop has a custom colours function, allowing the user to choose from a wide variety of colours from industry-standard colour catalogues including ANPA, DIC, Focoltone and Pantone. The colour catalogue data comes from Adobe Color Book files. These file have the .acb file extension on Windows and reside inside the \u201c\u2026/Presets/Color Books\u201d folder in a typical installation.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Unofficial specification:  https://magnetiq.ca/pages/acb-spec/",
   "lastUpdatedDate": "02 Feb 2023",

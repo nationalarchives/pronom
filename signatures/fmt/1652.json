@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Typescript is a superset of Javascript, which adds additional syntax/ types. It has compilers that convert it to Javascript, enabling it to run wherever Javascript runs. Created by Microsoft, it was released as Open Source.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Official website: https://www.typescriptlang.org/\r\nSpecification: https://github.com/microsoft/TypeScript/blob/main/doc/TypeScript%20Language%20Specification%20-%20ARCHIVED.pdf?raw=true",
   "lastUpdatedDate": "15 Mar 2022",

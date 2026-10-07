@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "IntelliFont Font file is a format belonging to IntelliFont utility developed by Tom Hawkins at Compugraphic in Wilmington during the late 1980s. The font utility is native to AmigaOS, it was originally developed by Compugraphic Corporation, which was later acquired by Agfa, later becoming Monotype. This font format appears to be LHZ archive which holds data specific to create IntelliFont requirements.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/Intellifont\r\n\r\nhttp://fileformats.archiveteam.org/wiki/IntelliFont\r\n\r\nhttps://en.wikipedia.org/wiki/AmigaOS\r\n\r\nhttp://aminet.net/search?query=intellifont\r\n\r\nhttps://wiki.amigaos.net/wiki/AmigaOS_Manual:_Workbench_Fonts",
   "lastUpdatedDate": "26 Apr 2022",

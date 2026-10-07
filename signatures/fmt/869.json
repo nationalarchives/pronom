@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A CDX file consists of individual lines of text, each of which summarizes a single web document. \r\nThe first line in the file is a legend for interpreting the data, and the following lines contain the data for referencing the corresponding pages within the host. The CDX signatures use a field delimiter character which is assumed to be a space character, however please contact the PRONOM team should you encounter CDX index files where the delimiter is different.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Sep 2020",

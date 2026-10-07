@@ -4,7 +4,6 @@
   "version": "4.0",
   "formatDescription": "XLM is an old format for Microsoft Excel spreadsheets with macros. It has been superseded by XLSM, a new XML-based format. The new macro format is based on Visual Basic for Applications (VBA), but the old format was different. The old format was used through Excel 4.0, but discontinued in 5.0, and is not supported in later versions.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "23 Apr 2024",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "M2TS is the video stream packet format used on Blu-ray discs. M2TS is similar to fmt/585 - MPEG-2 Transport Stream, but instead features 192 byte packets, with a 4 byte TP_extra_header preceeding each 188 byte transport packet. Filenames usually take the form 'xxxxx.mts' or xxxxx.m2ts' where xxxxx represents a numeric value, beginning with 00000 and incrementing by 1 for each stream.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "10 Jul 2017",

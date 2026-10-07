@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "LegalDocML is an open standard maintained by the LegalDocML Technical Committee under the OASIS Standards body. It is an XML-based standard for describing the structure of legal documents.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part1-vocabulary/akn-core-v1.0-os-part1-vocabulary.html",
   "lastUpdatedDate": "15 Jul 2022",

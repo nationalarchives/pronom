@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "SafeGuard PrivateDisk is disk encryption software produced by Sophos. The .hdr file appears to contain header information, while the .vol file is the encrypted virtual disk.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Jun 2016",

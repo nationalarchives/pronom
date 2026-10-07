@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "EDOC is an electronically certified document. A format used to protect and verify identity for sensitive files. It contains a document, maybe with additional attached files and one or more digital signatures. The file can also store metadata about the document such as creator, creation time, last modification and the format version.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.iana.org/assignments/media-types/application/vnd.etsi.asic-e+zip\r\r\nhttps://www.eparaksts.lv/en/",
   "lastUpdatedDate": "13 Dec 2021",

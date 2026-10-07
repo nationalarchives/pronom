@@ -4,7 +4,6 @@
   "version": "7",
   "formatDescription": "Roxio Easy Media Creator Layout version 7 with extension RCL is a part of Roxio disc project formats. RCL files are formed using Roxio Easy Media Creator software (previously named as Easy CD Creator and Roxio Easy CD Creator), originally published by Adaptec in 1996, this version follows the rebranding of the software to Roxio and was published around 2003. The format is different in hex structure to its predecessor version 6 (fmt/1665), with its hex sequence referencing the format version. Roxio Easy Media Creator software allowed the user to create data or audio CD layout by adding files or music in order to burn a disc. The layout only referenced the file location and not the files themselves. It allowed for files to be saved for later use with references to files that will be included on the disc as well as other settings.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/RCL\r\n\r\nhttps://archive.org/details/roxio-emc7-content/1-CDFront.jpg",
   "lastUpdatedDate": "19 Apr 2022",

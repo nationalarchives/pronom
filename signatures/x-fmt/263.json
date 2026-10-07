@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A popular archive format supported by most modern operating systems. It can contain one or more files and can utilize any of a number of compression methods.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "http://fileformats.archiveteam.org/wiki/ZIP\r\nhttps://fileinfo.com/extension/zip",
   "lastUpdatedDate": "02 Aug 2005",

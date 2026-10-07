@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A Verity collection is the fundamental structure underlying the search capabilities of Verity applications. A collection consists of information about a particular set of documents that are available for searching and viewing. The specific information stored for a collection includes a word index and various other indexes, plus a document table containing document field information and logical pointers to the document files. The Verity Collection Stop List file contains a list of words that are to be excluded from a collection\u2019s full-word index.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Nov 2023",

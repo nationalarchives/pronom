@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Adobe FrameMaker Interchange Format is an alternative representation of an Adobe FrameMaker document as a text file, using ASCII statements to convey its contents, graphics and formatting. It allows FrameMaker and other applications, or different versions of FrameMaker, to exchange information.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://help.adobe.com/en_US/framemaker/mifreference/mifref.pdf",
   "lastUpdatedDate": "17 Apr 2024",

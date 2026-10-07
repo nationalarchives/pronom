@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The WARC (Web ARChive) file format offers a convention for concatenating multiple resource records (data objects), each consisting of a set of simple text headers and an arbitrary data block into one long file. The WARC format is an extension of the ARC file format (ARC) that has traditionally been used to store \"web crawls\" as sequences of content blocks harvested from the World Wide Web (\u2026)\r\nBesides the primary content recorded in ARCs, the extended WARC format accommodates related secondary content, such as assigned metadata, abbreviated duplicate detection events, later-date transformations, and segmentation of large resources\u201d.\r\nWARC format has been written by the members of the IIPC (http://www.netpreserve.org/) grouped within the ISO/TC46/SC4/WG12.",
   "releaseDate": "15 May 2009",
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Sep 2020",

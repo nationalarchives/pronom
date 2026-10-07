@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "RIFF (Resource Interchange File Format) is a structured framework for multimedia files. Rather than being a precise file format, RIFF serves as a broader structure that encompasses specific file formats, including several subtypes. The fundamental component of a RIFF file is a chunk, identifiable by a unique four-character code. Applications such as viewers can bypass chunks with unfamiliar codes. A core RIFF chunk starts with a second distinctive four-character code identifying the specific RIFF variant or subtype. Applications rendering RIFF files can disregard chunks with unknown labels. Chunks can also be layered within each other. While the RIFF structure underpins several critical file formats, it has not been employed as the enclosing structure for any formats developed post the mid-1990s.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "01 Aug 2023",

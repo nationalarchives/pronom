@@ -4,7 +4,6 @@
   "version": "Generic",
   "formatDescription": "SAS (Statistical Analysis System) is a statistical analysis software suite developed by SAS Institute. A SAS data file is a type of SAS data set that contains data values and descriptor information. This generic entry applies where PRONOM is unable to be specific regarding the version number of the file format. Please contact the PRONOM mailbox if you encounter a 'generic' SAS data file as this will help improve the data within PRONOM.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Mar 2017",

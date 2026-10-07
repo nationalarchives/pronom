@@ -4,7 +4,6 @@
   "version": "1",
   "formatDescription": "Computer Graphics Metafile (CGM) is a standardized platform-independent format used for the interchange of raster and vector data. CGM was developed under the auspices of the International Standards Organization (ISO) and the American Standards National Institute (ANSI). It is also used in conjunction with a variety of input and output devices. Although CGM incorporates extensions designed to support raster data storage, files in CGM format are used primarily to store vector information. CGM files typically contain either bitmap or vector data, but rarely both. It uses Clear Text Encoding.\r\nFile format specifications available at http://standards.iso.org/ittf/PubliclyAvailableStandards/c044114_ISO_IEC_8632-1_1999_Cor_1_2006%28E%29.pdf",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "29 Nov 2011",

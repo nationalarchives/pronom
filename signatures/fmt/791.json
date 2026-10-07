@@ -4,7 +4,6 @@
   "version": "Operational Pattern OP-ATOM",
   "formatDescription": "MXF is a media container format which supports a number of different streams of coded \"essence\", encoded with any of a variety of codecs, together with a metadata wrapper which describes the material contained within the MXF file. \r\n\r\nMXF allows for different degrees of complexity within the wrapper, which are standardised and defined as Operational Patterns, and this may be a consideration for an institution considering preserving the format, hence the separation of these Operational Patterns into separate PUIDs.\r\n\r\nOperational Pattern \u201cOP-Atom\u201d is intended to satisfy the demands of applications where there is a requirement for exchange of material and associated metadata together in a single file with an open and standardized format, yet also a demand for a simple, predictable, layout with minimum scope for variation. OP-Atom is specifically intended for applications where each Essence Track is held separately.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "17 Oct 2021",

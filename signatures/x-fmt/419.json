@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "IFO files contain DVD-Video Disc Information including headers that tell the DVD player what screen to show at startup, where each chapter starts, where audio tracks are located on the disc, etc. IFO files are accompanied by BUP files which are backups of the IFO files and therefore completely identical.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2012",

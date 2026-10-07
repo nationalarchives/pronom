@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "This format is native to MacOS where .DS_Store files are hidden files storing attributes of their containing folder. These can include view options, icon positions, and other visual information. They are created and maintained by the Finder application in every folder it accesses. Their functions are similar to those of desktop.ini files in Windows.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/.DS_Store",
   "lastUpdatedDate": "16 Apr 2024",

@@ -4,7 +4,6 @@
   "version": "95",
   "formatDescription": "Office Binder, a companion application bundled with Office 95, makes it possible for you to group all your documents, workbooks, and presentations for a project all in one file. The Binder format uses the Microsoft Compund Object Container to group other office files together. No longer supported by Office software. Must use UNBIND.EXE provided with Office XP and 2003 to extract contents.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "03 Jan 2025",

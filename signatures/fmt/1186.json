@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Dr. Halo Image Palette stores colour palette information for the Dr. Halo Image Data format. Having a separate colour palette file aloows the ability to change the stored colours of an image without re-encoding the image data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "09 Aug 2018",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Dalvik is the process virtual machine in Google's Android operating system, which executes applications written for Android. Programs are commonly written in Java and compiled to bytecode for the Java virtual machine, which is then translated to Dalvik bytecode and stored in .dex (Dalvik EXecutable) and .odex (Optimized Dalvik EXecutable) files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Feb 2015",

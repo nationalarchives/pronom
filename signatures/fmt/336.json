@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Image thumbnail files created by default within Graphic Workshop whenever a graphic file is written or updated. Can contain image, keywords and/or comment information. THN files are read by Graphic Workshop when it wants to display thumbnail images. The files themselves do not store graphics in any conventional sense.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Apr 2011",

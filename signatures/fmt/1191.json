@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "An InDesign Book file is a collection of InDesign documents that can share styles, swatches, master pages, and other items. One document can belong to multiple book files. PRONOM currently doesn't distinguish between different format versions of INDB. Please let the PRONOM team know if this is desirable.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/InDesign_Book",
   "lastUpdatedDate": "24 Feb 2022",

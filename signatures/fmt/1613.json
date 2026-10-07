@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Xspf is a format for sharing playlists, supported by many applications. It uses xml, so is easily edited with a text editor. The official website gives useful information as to the structure of xspf files: https://www.xspf.org/quickstart",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification: https://www.xspf.org/spec",
   "lastUpdatedDate": "27 Jan 2022",

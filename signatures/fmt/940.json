@@ -4,7 +4,6 @@
   "version": "3.4",
   "formatDescription": "Python automatically compiles a python script before running it, the first time the script runs it will create a .pyc in the same directory as the .py file which will then be used if the script is run again to save time by not having to re-compile the code.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Nov 2023",

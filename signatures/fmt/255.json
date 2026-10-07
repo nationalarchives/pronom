@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The DjVu file format is an image file format used primarily for storing scanned documents. The format, developed by AT&T Labs, is based on the Interchange File format. There are three elements that comprise a DjVu encoded image file: the mask which is encoded using the JB2 algorithm; the background encoded using the wavelet-based compression IW44; and the foreground, containing the colour of the text and the line drawings, also encoding using IW44. The background and foreground are usually lower resolution (100 dpi) colour images with the mask at a higher level resolution (e.g. 300 dpi).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "02 Sep 2026",

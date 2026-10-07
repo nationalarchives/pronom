@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "DiskDoubler is a data compression utility for the Apple Macintosh. Individual files are compressed by the software, but their file system details do not change, meaning files subject to DiskDoubler compression retain their original names, including file extensions. As such DROID and other PRONOM-based file format identification tools may report file format mismatch for DiskDoubler-compressed files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Sep 2020",

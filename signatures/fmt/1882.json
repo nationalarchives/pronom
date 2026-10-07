@@ -4,7 +4,6 @@
   "version": "1.*",
   "formatDescription": "OPML (Outline Processor Markup Language) files are an XML format developed to enable exchange of lists of internet web feeds (e.g. RSS feeds) between between different web feed aggregators, regardless of their operating system. OPML files have <opml version=\"x\"> near the start, then contents mainly divided into <head> and <body> sections. It was developed in the early 2000s, and is still commonly used for backing up or sharing RSS feeds.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification:  https://web.archive.org/web/20160304125338/http://dev.opml.org/spec1.htm",
   "lastUpdatedDate": "06 Jul 2023",

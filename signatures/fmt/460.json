@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A Verity collection is the fundamental structure underlying the search capabilities of Verity applications. A collection consists of information about a particular set of documents that are available for searching and viewing. The specific information stored for a collection includes a word index and various other indexes, plus a document table containing document field information and logical pointers to the document files. The Verity Collection Partition Definition Descriptor Style Set contains parameters for configuring and managing the collection\u2019s partitions.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2012",

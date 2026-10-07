@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Netscape Bookmark File Format was originally created to store bookmarks for the Netscape web browser. It was subsequently used by Internet Explorer. Microsoft have provided a thorough description of the format: https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/aa753582(v=vs.85)",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "29 May 2018",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Speedo fonts are a type of scalable font, created by Bitstream, Inc. The font was widely used in the disk operating system (DOS) era of computers, but has since became obsolete and is not used by any current software. Speedo was used on Atari ST, Falcon, in the XyWrite word processor, and in very early versions of WordPerfect and Microsoft Windows. It was then replaced by more popular font types like Type 1 fonts. Before Speedo was considered obsolete it was supported by the X Window System through the speedo module, and most Linux distributions had a Speedo font package, but support was removed from X in the X11R7.0 release in 2005. Speedo fonts include large international character set (over six hundred characters) and they are able to adapt their \"pixels\", \"points\", \"horiz\", \"vert\", and \"avgwidth\" XLFD values to match whatever value is requested by the X server.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/Bitstream_Speedo_Fonts\r\n\r\nhttp://fileformats.archiveteam.org/wiki/Speedo\r\n\r\nhttp://www.columbia.edu/~em36/wpdos/speedo.html\r\n\r\nhttp://www.netsweng.com/~anderson/talks/xclass/fonts.html\r\n\r\nhttps://web.archive.org/web/20091108153822/http://www.bitstream.com/fonts/support/speedo_fonts.html",
   "lastUpdatedDate": "14 Nov 2023",

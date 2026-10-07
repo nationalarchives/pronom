@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "AutoCAD Block Attribute Template file is used when extracting attribute information from a drawing which creates a text file for use with database software. Signatures based on v. 2005, 2006, 2008 versions. Any information which can help us expand these signatures would be valuable.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "15 Nov 2023",

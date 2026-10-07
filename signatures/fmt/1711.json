@@ -4,7 +4,6 @@
   "version": "1.0",
   "formatDescription": "Binary format for configuration, containing paths to printers and/ or dictionaries, used by Software602 programmes.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "14 Jun 2022",

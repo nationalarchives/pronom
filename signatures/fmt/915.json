@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The mapsforge project aims to provide free and open software for the rendering of maps based on OpenStreetMap data. The Binary Map File Format is designed for map rendering on devices with limited resources, such as mobile phones.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Jul 2016",

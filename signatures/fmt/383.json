@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The VICAR  image file format is used primarily for storing planetary image data collected by both interplanetary spacecraft and Earth-based stations. Many astronomical and astrophysical organizations use and support the VICAR format. \r\nFull specifications available at http://www-mipl.jpl.nasa.gov/external/VICAR_file_fmt.pdf",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "09 Nov 2011",

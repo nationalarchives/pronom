@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "In the OS X, iOS, NeXTSTEP, and GNUstep programming frameworks, property list files store serialized objects. It is the standard way to save and load data between the internal representation within the objects defined in an Objective-C program and disk files, in order to store program settings and other data. This is the XML version but there is also a binary version of the format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Feb 2017",

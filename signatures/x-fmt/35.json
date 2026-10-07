@@ -4,7 +4,6 @@
   "version": "6 and Later",
   "formatDescription": "The Corel Presentation Exchange file format is the presentation format of the CorelSuite applications. It is a recording of the display primitives of an application to a display interface. The CMX format supports Intel and Motorola binary formats.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "FrameMD5 is incorporated by ffmpeg and is used to generate frame by frame checksums of each decoded audio and video frame within a media file. For each frame it provides a timestamp, size in bytes, and an MD5 checksum, which can be used to verify the integrity of the decoded data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2018",

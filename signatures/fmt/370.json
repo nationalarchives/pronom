@@ -4,7 +4,6 @@
   "version": "1.2",
   "formatDescription": "The Lidar Data Exchange Format is a binary file format for the interchange of LIDAR (Light Detection and Ranging) optical remote sensing data. \r\nSpecifications available at http://www.asprs.org/Committee-General/LASer-LAS-File-Format-Exchange-Activities.html",
   "releaseDate": "09 Feb 2008",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "03 Nov 2011",

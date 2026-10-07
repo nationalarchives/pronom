@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Avro is a framework developed within Apache's Hadoop project for row-oriented remote procedure calls and data serialization. It employs JSON to define data types and protocols, and serializes data into a compact binary format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/Apache_Avro \r\nSamples: https://github.com/apache/avro/tree/main/share/test/data\r\nSpecification: https://avro.apache.org/docs/++version++/",
   "lastUpdatedDate": "28 Jan 2025",

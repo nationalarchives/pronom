@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Adobe Capture Document, proprietary binary format, associated with Adobe Acrobat Capture software. Intermediary format during scanning and OCR process. It must be accompanied by one or more ACI bitmap images files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "16 Apr 2024",

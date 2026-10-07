@@ -4,7 +4,6 @@
   "version": "II",
   "formatDescription": "MacBinary is a format for the encoding of Macintosh files for transmission or storage on other operating systems. This means that all system specific aspects of the file can be reconstituted after transmission. The file itself combines the two forks of a MacOS file into a single file alongside the metadata.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Aug 2022",

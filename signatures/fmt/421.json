@@ -4,7 +4,6 @@
   "version": "Japan",
   "formatDescription": "The documents (files) created by Adobe Illustrator are PostScript language\r\ndocuments. A PostScript language document description that minimally conforms to the Document Structuring Conventions has two main parts: a prolog and a script. The prolog encapsulates information needed by other programs to interpret the file. The script describes the graphic elements on the page.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Jun 2012",

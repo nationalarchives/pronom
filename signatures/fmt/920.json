@@ -4,7 +4,6 @@
   "version": "3D Binary Little Endian 2.0",
   "formatDescription": "AmiraMesh is the native general purpose format of Amira, a software platform for 3D and 4D data visualisation. While no public specification for the file format is available, a number of parsers of the format are available and the signatures within PRONOM represent the variants both witnessed and described by these parsers.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Jul 2016",

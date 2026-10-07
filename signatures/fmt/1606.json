@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "True Colour Sprites files are part of raster image graphics associated with Spooky Sprites, a graphics editor for Atari Falcon. This particular record identifies True Colour Sprites files that were compressed using Packed-Ice, a file compression tool used on Atari computers. Packed-Ice was developed by pseudonym \"Axe of Delight\", later changed to \"Axe of Superior\". There are several different versions of this compression tool. The files compressed using Packed-Ice program, start with ASCII \"Ice!\", or \"ICE!\", followed by a gap between 4-11 characters and then the magic bytes of the original file format. \r\n\r\nThe Atari Falcon030 (usually shortened to Atari Falcon), released in 1992, was the final personal computer product from Atari Corporation. A high-end model of the Atari ST line, the machine is based on a Motorola 68030 CPU and a Motorola 56000 digital signal processor, a feature which distinguishes it from most other microcomputers of the era. It included a VIDEL programmable graphics system which greatly improved graphics capabilities.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Spooky_Sprites\r\n\r\nhttp://fileformats.archiveteam.org/wiki/Pack-Ice\r\n\r\nhttps://mikro.naprvyraz.sk/docs/Coding/1/PACKING.TXT\r\n\r\nhttps://en.wikipedia.org/wiki/Atari_Falcon",
   "lastUpdatedDate": "24 Jan 2022",

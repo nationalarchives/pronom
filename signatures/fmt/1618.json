@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "SGML/XML entity files are plain text files, often found alongside, and referenced by, xml and sgml files. Ent files list the parameters and entity declarations for a specific set of tags defined in a Document Type Definition.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.w3.org/TR/REC-html40/sgml/entities.html\r\nhttps://www.w3.org/TR/REC-html40/sgml/intro.html",
   "lastUpdatedDate": "15 Nov 2023",

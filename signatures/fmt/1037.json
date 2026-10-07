@@ -4,7 +4,6 @@
   "version": "118",
   "formatDescription": "Stata is a research data analysis and statistical software package. The DTA format contains the Stata dataset.  DTA version 118 is known to be associated with Stata software version 14. Please contact the PRONOM team if you can provide further information about this format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Mar 2017",

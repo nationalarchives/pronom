@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Audio Interchange File Format, Compressed (AIFF-C) provides a standard for storing uncompressed or compressed sampled sounds.  The format can store monaural or multichannel sampled sounds in a range of sample rates and sample widths.  The format is extensible to handle new compression types and application-specific data.",
   "releaseDate": "26 Aug 1991",
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2012",

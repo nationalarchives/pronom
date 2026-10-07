@@ -4,7 +4,6 @@
   "version": "3",
   "formatDescription": "DAISY (Digital Accessible Information System) is a type of digital book format conceived in 1988 as a way of creating talking books for the visually impaired. The books are actually a package of interoperable files.The ncx file is the first file accessed since it lays out the navigation for the whole Daisy Talking Book.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://daisy.org/activities/standards/daisy/daisy-3/z39-86-2005-r2012-specifications-for-the-digital-talking-book/\r\nhttps://www.niso.org/publications/ansiniso-z3986-2005-r2012-specifications-digital-talking-book\r\nhttps://preservation.tylerthorsted.com/2024/10/04/daisy/ \r\nhttps://github.com/digital-preservation/PRONOM_Research/tree/main/Submissions/Daisy",
   "lastUpdatedDate": "29 Jan 2025",

@@ -4,7 +4,6 @@
   "version": "2.1",
   "formatDescription": "The National Imagery Transmission Format Standard (NITFS) is the standard for formatting\r\ndigital imagery and imagery-related products and exchanging them among members of the US Intelligence\r\nCommunity (IC) and other departments and agencies of the United States Government. The NITF provides a common basis for storage and digital interchange of images and associated data. The NITF can be used as a standard message format for dissemination of images and associated data (text, symbols, labels) via digital communications.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "19 Aug 2011",

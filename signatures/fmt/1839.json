@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Puz files are Microsoft Publisher documents which have been archived using the 'Pack and Go' feature of Publisher. The document and its associated files are compressed in an archive of Microsoft Cabinet format, using a .puz extension instead of the normal .cab.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/PUZ",
   "lastUpdatedDate": "28 Feb 2023",

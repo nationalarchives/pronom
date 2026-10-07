@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "TheDraw Save File (also known as TheDraw format, TheDraw Data File, or TheDraw Setup Save) is a layered character graphics format native to TheDraw, a character graphics editor for MS-DOS. \r\n\r\nTheDraw is a text editor for MS-DOS to create ANSI and animations as well as ASCII art. The editor creates or modifies files in ANSI format and text documents, which use the graphical characters of the IBM ASCII code pages, as they are no longer supported by Microsoft Windows. The first version of the editor was developed in 1986 by Ian E. Davis of TheSoft Programming Services. The last public version of the editor was version 4.63, which was released in October 1993.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/TheDraw_Save_File\r\n\r\nhttps://en.wikipedia.org/wiki/TheDraw",
   "lastUpdatedDate": "04 Jan 2022",

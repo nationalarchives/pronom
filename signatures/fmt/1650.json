@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Bayesian Interchange files store the structure and probability tables for a Bayesian network, allowing for interchange of said networks between people, and facilitating comparison and discussion of research and other results.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "\thttp://www.cs.washington.edu/dm/vfml/appendixes/bif.htm",
   "lastUpdatedDate": "15 Mar 2022",

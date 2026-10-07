@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Magick Image File Format (MIFF) is ImageMagick's own format for storing bitmap images. It stores all metadata known to ImageMagick.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "08 Jul 2016",

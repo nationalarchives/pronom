@@ -4,7 +4,6 @@
   "version": "4f",
   "formatDescription": "PDF/A-4 is the file format described by ISO 19005-4:2020 \u201cDocument management \u2014 Electronic document file format for long-term preservation \u2014 Part 4: Use of ISO 32000-2 (PDF/A-4)\u201d. It is the first of the PDF-Archival format family to be based on PDF 2.0. PDF/A-4f allows files of any format to be embedded.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.iso.org/standard/71832.html",
   "lastUpdatedDate": "25 Aug 2023",

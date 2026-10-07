@@ -4,7 +4,6 @@
   "version": "4S",
   "formatDescription": "The Binary Interchange File Format (BIFF) is a spreadsheet file format developed by Microsoft. BIFF 4S is a native file format of Microsoft Excel 4.0 for Windows. Excel 4.0 allowed either a single worksheet to be stored as a worksheet file (BIFF 4S), or for multiple worksheets to be combined in a single workbook file (BIFF 4W). The format is proprietary and Microsoft does not make details of its structure public. The information contained here is derived primarily from OpenOffice.org's reverse-engineered documentation of the format, and should not therefore be regarded as definitive. BIFF is a stream based format, and a BIFF 4S file comprises a single Worksheet stream, containing a Beginning of File (BOF) record, followed by a series of Worksheet records, and terminated by an End of File (EOF) record.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "19 Jul 2013",

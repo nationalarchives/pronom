@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "RawBitmap is a pure binary format for storing raster image data, where the image type and dimensions are specified separately. It serves as an intermediate format for imaging devices, storing images as RGB or grayscale bitmaps with an 8-bit depth per channel. This binary format does not include metadata and is similar to the binary component of PPM files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://reference.wolfram.com/language/ref/format/RawBitmap.html",
   "lastUpdatedDate": "19 Feb 2025",

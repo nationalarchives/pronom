@@ -4,7 +4,6 @@
   "version": "Lossy",
   "formatDescription": "WebP is a raster image format developed by Google that uses the Resource Interchange File Format as a container. WebP's lossy compression algorithm is based on the intra-frame coding of the VP8 video format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Axon Binary Format was created to store binary experimental data. It originated with the pCLAMP suite of programs in the late 1990s, and is also supported by AxoTape and AxoScope. The Axon binary format is encoded as a proprietary format, however it can be read and created by third-party developers. This file format is commonly used in the life sciences.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Aug 2024",

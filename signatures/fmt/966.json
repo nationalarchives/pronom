@@ -4,7 +4,6 @@
   "version": "1",
   "formatDescription": "The resource fork is a construct of the Mac OS operating system used to store structured data in a file, alongside unstructured data stored within the data fork. The format specification is available here: http://support.apple.com/kb/TA32537?viewlocale=en_US\r\n\r\nThe format lacks an extension, and is instead represented by a file name consisting of ._<filename resource fork belongs to>",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "21 Sep 2016",

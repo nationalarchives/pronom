@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Advanced Systems Format is an extensible file format developed by Microsoft for storing multimedia data streams. It comprises a Header Object, which describes the properties of the data streams, a Data Object, which contains the actual data streams stored in Data Packets and, optionally, one or more Index Objects. ASF files can contain audio, video and still image data streams, and the format supports streaming across networks. ASF supports a variety of audio, video and still image compression types, although it is most widely used for storing Windows Media Audio and Video encoded data.",
   "releaseDate": "01 Nov 2004",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",

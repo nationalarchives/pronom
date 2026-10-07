@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Maestro is a music notation program available through RISC OS, an operating system designed in Cambridge, England by Acorn and first released in 1987.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Maestro\r\n\r\nhttp://www.riscos.com/support/developers/prm/fileformats.html",
   "lastUpdatedDate": "16 Oct 2021",

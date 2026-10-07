@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "EBU STL was a format devised by the European Broadcasting Union, which enabled the display of subtitles. It has been superseded by EBU Timed Text.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification:  https://tech.ebu.ch/docs/tech/tech3264.pdf",
   "lastUpdatedDate": "02 Nov 2023",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "AVCHD (Advanced Video Coding High Definition) is a file-based format for the digital recording and playback of high-definition video. The Thumbnail Index file stores an index to AVCHD thumbails, which are JPEG files with a .tdt extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "21 Jul 2017",

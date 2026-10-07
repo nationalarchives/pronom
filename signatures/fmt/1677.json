@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "These are xml files generated when a format requiring multiple files is saved by Microsoft Office Programmes (for example, an html page with images). The files are saved alongside the document in a folder called filename_files , and are named filelist.xml. The purpose of the files is to provide a list of all the files which were saved as part of the document, for example the html pages, and the images.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Apr 2022",

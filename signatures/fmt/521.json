@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Multiple Master Metrics (MMM) files are the multiple master equivalent of the single master font PFM files. A multiple master base font is composed of a PFM file, a PFB file, and an MMM file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "01 May 2013",

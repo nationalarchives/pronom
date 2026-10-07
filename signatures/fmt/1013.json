@@ -4,7 +4,6 @@
   "version": "1",
   "formatDescription": "INTERLIS is a description and transfer mechanism for spatial data. INTERLIS 1 Transfer files  contain data, e.g. geodata, which is structured according to certain rules. These rules are described in another file (or multiple files) called a model file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "24 Mar 2017",

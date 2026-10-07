@@ -4,7 +4,6 @@
   "version": "2.3",
   "formatDescription": "INTERLIS is a description and transfer mechanism for spatial data. INTERLIS 2 Transfer files are XML files that contain data, e.g. geodata, which is structured according to certain rules. These rules are described in another file (or multiple files) called a model file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Jul 2014",

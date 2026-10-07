@@ -4,7 +4,6 @@
   "version": "2",
   "formatDescription": "This format contains the raw data produced by Bruker X-ray Powder Diffraction (XRD) Instrumentation. Please contact the PRONOM team if you are able to provide a more detailed description.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Nov 2017",

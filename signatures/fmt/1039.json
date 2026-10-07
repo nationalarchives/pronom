@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Redcode Metadata File stores post-production edits of the raw media files. The original files remain untouched as the RMD file records, among other adjustments, changes to colour, white-balance, and dynamic range of the original image.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Mar 2017",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Codebook Exchange Format (.qdc) is a file format for sharing codes so that they can easily be read by different types of Qualitative Data Analysis software. Files contain an xml header followed by the names of coding categories (name=), and a description (<Description>) of what data goes into that category. They don\u2019t contain the coded data itself. Qdc files help researchers share and interpret information consistently and reliably, and identify patterns in their data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "10 Jan 2025",

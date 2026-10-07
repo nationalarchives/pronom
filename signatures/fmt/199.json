@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Container format that can contain any of a number of audio and video codecs. It may also contain subtitle data or file metadata. This family of container can be used with several different file extensions.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "9 Jun 2026",

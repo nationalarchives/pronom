@@ -4,7 +4,6 @@
   "version": "3",
   "formatDescription": "Nrrd is a library and file format designed to support scientific visualization and image processing involving N-dimensional raster data. Version 3 added a 'kinds:' field.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Mar 2017",

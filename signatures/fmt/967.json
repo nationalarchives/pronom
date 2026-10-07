@@ -4,7 +4,6 @@
   "version": "1",
   "formatDescription": "Apple Computers created the AppleSingle format (as well as the AppleDouble format) to represent and preserve the attributes of files across files systems that do not support the same attributes of the file\u2019s home systems. AppleSingle is primarily a storage format and contains both a file\u2019s contents and attributes. It consists of a header and one or more optional data entries followed by the byte stream of the file it is storing. It maintains the original Macintosh filename and file type (e.g. Mydoc.pdf). The AppleSingle format can store a number of different kinds of formats.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "29 Jul 2022",

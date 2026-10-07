@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The ABIF file format is a binary file format for storing data. Elements of data stored in the file are associated with tags, which are analogous to the keys in a (key, value) mapping.",
   "releaseDate": "28 Aug 2013",
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2013",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A plain-text playlist of one or more media files and their location.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://fileinfo.com/extension/m3u\r\nhttps://dotwhat.net/file/extension/m3u/505",
   "lastUpdatedDate": "17 Apr 2024",

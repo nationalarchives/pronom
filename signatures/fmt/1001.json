@@ -4,7 +4,6 @@
   "version": "2",
   "formatDescription": "OpenEXR is a raster image file format developed by Industrial Light and Magic for use in computer imaging applications. The published specification for OpenEXR describes version 2 of the file format. Version 1 was used internally by Industrial Light and Magic before OpenEXR was released as open source.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Mar 2017",

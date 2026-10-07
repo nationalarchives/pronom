@@ -4,7 +4,6 @@
   "version": "1",
   "formatDescription": "The Common Instrument File (CIF) format is a file format designed to distribute sound data, similar to the CLF format. It follows the same principles as the CLF format, but its focus is on the directivities of natural sources like musical instruments, talkers, singers, and noise sources instead of loudspeakers. The CIF format was officially released on October 27, 2020.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2023",

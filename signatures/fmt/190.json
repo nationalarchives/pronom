@@ -4,7 +4,6 @@
   "version": "5.0",
   "formatDescription": "Adobe FrameMaker format is a desktop publishing and word processing format originally developed by Frame Technology Corp. Frame Technology Corp was bought by Adobe Systems in 1995, who continued to develop and support FrameMaker. This version of FrameMaker was used by professional designers and technical writers for writing documents that require\u2019 substantial, standardised and structured content. FrameMaker 5.0 uses XML and SGML concepts. \r\nDocumentation for FrameMaker 5.0 was integrated into the user manual that was bundled with the software. FrameMaker 5.0 introduced online help, long filename support in Windows 95, OLE support, save to HTML and import text by reference. This information has been derived from third party sources and should be considered speculative.",
   "releaseDate": "01 Jan 1995",
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "19 Jul 2013",

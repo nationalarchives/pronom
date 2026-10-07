@@ -4,7 +4,6 @@
   "version": "2.x",
   "formatDescription": "This is a generic record for several versions of the Fox Pro database format, which at the moment we are unable to identify down to version level. This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "03 Nov 2011",

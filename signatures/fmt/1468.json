@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "multiArtist is a PC (Windows) program for creating MultiGigaScreen graphics for the ZX Spectrum. It is likely that the four known file extensions (.mg1, .mg2, .mg4 and .mg8) relate to the attribute blocks (8x1, 8x2, 8x4, 8x8) in a given file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/MultiArtist\r\n\r\nhttp://multiartist.untergrund.net/index.php\r\n\r\nhttps://en.wikipedia.org/wiki/ZX_Spectrum_graphic_modes",
   "lastUpdatedDate": "16 Oct 2021",

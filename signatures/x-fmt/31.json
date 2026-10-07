@@ -4,7 +4,6 @@
   "version": "1",
   "formatDescription": "The CorelDraw Compressed format is known to have been used by Corel ArtShow 5, with the .cdx extension, and Corel Web.Move, with the .cjw extension. CDX files can be opened in CorelDraw but CJW files can only be opened in Web.Move. Please let the PRONOM team know of any other instances of use for this format",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "27 Sep 2020",

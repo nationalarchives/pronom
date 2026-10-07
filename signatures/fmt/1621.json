@@ -4,7 +4,6 @@
   "version": "0-2",
   "formatDescription": "Music files created using AHX (Abyss' Highest Experience) software, which is used to create synthesised music similar to that played on Commodore 64 systems. The software was previously known as THX, but was changed after a legal dispute with LucasFilm.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification:  http://ftp.modland.com/pub/documents/format_documentation/Abyss%27%20Highest%20eXperience%20(.ahx).txt\r\n\r\nhttp://fileformats.archiveteam.org/wiki/AHX_(Abyss)",
   "lastUpdatedDate": "17 Feb 2022",
