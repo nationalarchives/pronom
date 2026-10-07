@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "https://docs.oracle.com/javase/7/docs/technotes/guides/jar/jarGuide.html\r\nhttps://docs.oracle.com/javase/7/docs/technotes/guides/jar/index.html\r\nSpecification: https://docs.oracle.com/javase/7/docs/technotes/guides/jar/jarGuide.html",
   "lastUpdatedDate": "17 Apr 2024",
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.; 04/2024 (v.118): Description and links added as part of PRONOM Research Week 2023. Submitted by Ross Spencer.",
   "formatSourceDate": "17 Feb 2006",
   "formatDisclosure": null,

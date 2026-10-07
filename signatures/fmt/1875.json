@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "https://web.archive.org/web/20161021191749/http://www.iho.int:80/iho_pubs/standard/S-64/RNC_Test_Data_Sets/BSB_TDS/BSB_Test_Dataset_Instructions_for_RNC.pdf",
   "lastUpdatedDate": "14 Nov 2023",
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": "11/2023 (v.115)- Modified the offset values from null to 0 as part of a project to match PRONOM data with the xsd standard.",
   "formatSourceDate": "04 Jul 2023",
   "formatDisclosure": null,

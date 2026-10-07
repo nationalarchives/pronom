@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "This specification describes the structure of executable (image) files and object files under the Windows family of operating systems. These files are referred to as Portable Executable (PE) and Common Object File Format (COFF) files, respectively- https://learn.microsoft.com/en-us/windows/win32/debug/pe-format",
   "lastUpdatedDate": "22 Apr 2024",
-  "provenanceCompoundName": "Archives New Zealand / Archives New Zealand",
   "formatProvenance": "04/2024 (v.118): Description added as part of PRONOM Research Week 2023. Submitted by Ross Spencer",
   "formatSourceDate": "21 Jun 2016",
   "formatDisclosure": null,

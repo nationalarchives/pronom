@@ -7,7 +7,6 @@
   "binaryFileFormat": "Binary",
   "formatNote": "https://www.linuxjournal.com/article/1059\r\n\r\nhttps://www.linux.org/threads/types-of-executables.9206/\r\n\r\nhttp://ftp.icm.edu.pl/packages/linux-uk/alpha/alpha/asm8.html#obj_file_formats_section\r\n\r\nhttps://www.win.tue.nl/~aeb/linux/lk/lk-3.html\r\n\r\nhttps://en.wikipedia.org/wiki/A.out\r\n\r\nhttps://wiki.osdev.org/A.out",
   "lastUpdatedDate": "14 Nov 2023",
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": "11/2023 (v.115)- File format type removed and description amended. Submitted by the Natinoal Archives and Records Administration.",
   "formatSourceDate": "22 Apr 2022",
   "formatDisclosure": null,

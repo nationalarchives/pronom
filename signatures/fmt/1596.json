@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "http://avce00.maptools.org/docs/v7_bin_cover.html#ARC.DAT\r\n \r\nhttp://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=How_coverages_are_stored \r\n\r\nhttps://support.esri.com/en/technical-article/000008526\r\n\r\nhttps://www.loc.gov/preservation/digital/formats/fdd/fdd000281.shtml",
   "lastUpdatedDate": "14 Nov 2023",
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": "11/2023 (v.115)- Format type changed to GIS and max-offset modified for BOF signature to allow for more exact signature identification. Internally researched",
   "formatSourceDate": "18 Jan 2022",
   "formatDisclosure": null,

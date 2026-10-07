@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "https://www.id.ee/?lang=en&id=34336. Standard: EVS 821:2009 BDOC - Format for Digital Signatures https://www.evs.ee/products/evs-821-2009",
   "lastUpdatedDate": "20 Jan 2020",
-  "provenanceCompoundName": "The National Archives of Estonia / The National Archives of Estonia",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "20 Jan 2020",
   "formatDisclosure": null,

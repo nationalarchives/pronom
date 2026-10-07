@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "PFSX-Schema for Version 1.1 (2010): http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd",
   "lastUpdatedDate": "14 Nov 2023",
-  "provenanceCompoundName": null,
   "formatProvenance": "11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched",
   "formatSourceDate": "04 Nov 2021",
   "formatDisclosure": null,
