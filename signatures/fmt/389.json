@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "Specifications available at: \r\nhttp://www.cwls.org/las_info.php",
   "lastUpdatedDate": "15 Aug 2023",
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113)- Max-offset added to BOF signature to accommodate header bytes. Submitted by The National Library of Australia.",
   "formatSourceDate": "25 Nov 2011",
   "formatDisclosure": null,

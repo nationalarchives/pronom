@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "https://www.captureone.com/blog/eip-file-format-enhanced-image-package\r\n\r\nhttps://support.captureone.com/hc/en-us/articles/360002478617-Enhanced-Image-Package-EIP-overview\r\n\r\nhttps://support.captureone.com/hc/en-us/articles/360002544898-Metadata-in-XMP-sidecar-files\r\n\r\nhttp://fileformats.archiveteam.org/wiki/Enhanced_Image_Package",
   "lastUpdatedDate": "25 Apr 2023",
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "25 Apr 2023",
   "formatDisclosure": null,

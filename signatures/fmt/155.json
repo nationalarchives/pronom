@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "https://en.wikipedia.org/wiki/GeoTIFF\r\nhttp://www.remotesensing.org/geotiff/spec/geotiffhome.html\r\nhttp://justsolve.archiveteam.org/wiki/GeoTIFF",
   "lastUpdatedDate": "22 Apr 2024",
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "04/2024 (v.118)- Increased the max-offset for internal EOF signatures, updated the description, specification and LOC identifier.",
   "formatSourceDate": "02 Feb 2007",
   "formatDisclosure": null,

@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Nov 2017",
-  "provenanceCompoundName": "University of Edinburgh / University of Edinburgh",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures. The identification mechanism for this format is based largely on the jwslib.py file with the jwsProcessor software created by V\u00edctor M. Hern\u00e1ndez-Rocamora - https://github.com/vhernandez/jwsProcessor",
   "formatSourceDate": "28 Nov 2017",
   "formatDisclosure": null,

@@ -6,7 +6,6 @@
   "formatTypes": "Text (Mark-up)",
   "formatNote": "Specification: https://www.xrepository.de/api/xrepository/urn:xoev-de:xdomea:kosit:standard:xdomea_4.0.0:dokument:Spezifikation_zu_xdomea_4.0.0\nSchema files: https://www.xrepository.de/api/xrepository/urn:xoev-de:xdomea:kosit:standard:xdomea_4.0.0:xmlschema\nExample file: https://github.com/lavnrw/xdomea-examples/blob/main/v4.0.0/518c7c31-d1a0-11ef-accb-005056871b7c_0503_1.xml\nPRONOM submission: https://github.com/digital-preservation/PRONOM_Research/issues/100",
   "lastUpdatedDate": "09 Jun 2026",
-  "provenanceCompoundName": "Landesarchiv Nordrhein-Westfalen / Landesarchiv Nordrhein-Westfalen",
   "formatSourceDate": "02 Dec 2025",
   "identifiers": [
     {

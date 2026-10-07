@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Nov 2023",
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "11/2023 (v.115)- Modified the offset values from null to 0 as part of a project to match PRONOM data with the xsd standard. Internally researched.",
   "formatSourceDate": "25 Sep 2020",
   "formatDisclosure": null,
