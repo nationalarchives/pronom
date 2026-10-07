@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "Exif Compressed Image (2.0)",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Little-endian (Intel) and Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {

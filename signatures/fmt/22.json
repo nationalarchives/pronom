@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "DWG (1.2)",
   "formatTypes": "Image (Vector)",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": "DWG",
   "identifiers": [
     {

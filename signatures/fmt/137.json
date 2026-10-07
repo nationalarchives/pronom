@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "ODF Spreadsheet (1.0)",
   "formatTypes": "Spreadsheet",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

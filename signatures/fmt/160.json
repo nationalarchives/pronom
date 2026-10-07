@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "DVI",
   "formatTypes": "Page Description",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {

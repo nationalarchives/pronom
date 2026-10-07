@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "TIFF",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Little-endian (Intel) and Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {

@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "WPG (1.0)",
   "formatTypes": null,
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "tar",
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {

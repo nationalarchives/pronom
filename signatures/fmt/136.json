@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "ODF Text (1.0)",
   "formatTypes": "Word Processor",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

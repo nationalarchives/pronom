@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "ODF presentation (1.0)",
   "formatTypes": "Presentation",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

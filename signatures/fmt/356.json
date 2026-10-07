@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "AMR-NB, GSM-AMR",
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {

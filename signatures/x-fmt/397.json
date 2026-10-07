@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "Exif Audio (2.0)",
   "formatTypes": "Audio",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": "WAVE",
   "identifiers": [
     {

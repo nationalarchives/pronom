@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "ASF",
   "formatTypes": "Audio, Image (Raster), Video",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

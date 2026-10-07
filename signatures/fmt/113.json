@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "SPIFF (2.0)",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {

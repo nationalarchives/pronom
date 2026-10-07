@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "JTIP",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {

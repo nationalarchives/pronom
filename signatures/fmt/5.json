@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "AVI (Generic)",
   "formatTypes": "Audio, Video",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
