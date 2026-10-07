@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Sony OpenMG Audio files, often used for Minidisc players. The file, though originally designed for ATRAC3 (Adaptive Transform Acoustic Coding) audio files, can have different audio codecs such as MP3, ATRAC, ATRAC3, Linear PCM and WAV. These files can have DRM (digital rights management) protection, OpenMG refereing to the DRM system developed by Sony for managing and protecting digital music data on a personal computer. The OpenMG files have extensions of .omg and .oma.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "04 Oct 2024",

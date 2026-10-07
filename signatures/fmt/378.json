@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Chemical Draw Exchange Format is the native format of ChemDraw software, a molecule editor developed by  CambridgeSoft for use on Macintosh and Windows platforms. The format is used to store accurate chemical drawings and molecular data in a tagged binary format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "08 Nov 2011",

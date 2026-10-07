@@ -4,7 +4,6 @@
   "version": "8 & 8X",
   "formatDescription": "The Binary Interchange File Format (BIFF) is a spreadsheet file format developed by Microsoft. BIFF 8 is a native file format of Microsoft Excel 97. The format is proprietary and Microsoft does not make details of its structure public. The information here is derived primarily from OpenOffice.org's reverse-engineered documentation of the format and should not therefore be regarded as definitive. BIFF 8 is based on Microsoft\u2019s generic OLE2 Compound Document Format. An Excel workbook is stored as a \u2018Book\u2019 stream within a Compound Document Format file. The Book stream comprises a Workbook Globals Substream, containing a Beginning of File (BOF) record, the Workbook global records, and terminated by an End of File (EOF) record. This is followed by one or more Worksheet substreams, containing a Beginning of File (BOF) record, the worksheet records, and terminated by an End of File (EOF) record. The format remained unchanged with the release of Excel 2000.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "18 Dec 2012",

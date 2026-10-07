@@ -4,7 +4,6 @@
   "version": "1",
   "formatDescription": "Binvox files are the output of the voxelizer software Binvox and are the result of the rasterization of a 3D model into a binary 3D voxel grid. A .binvox file features a short header followed by binary data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Aug 2024",

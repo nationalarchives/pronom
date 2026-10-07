@@ -4,7 +4,6 @@
   "version": "17",
   "formatDescription": "DeviceTree Blobs are a binary representation of a DeviceTree, which represents computer hardware layout, addresses, and interconnections. They enable details to be passed to the operating system as it boots up, instead of hard coding details of a device into that operating system. This signature describes version 17 of DeviceTree, however it may apply to other versions of the dtb file. Please get in touch if you have information which can help refine this signature.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://github.com/devicetree-org/devicetree-specification/releases/download/v0.3/devicetree-specification-v0.3.pdf",
   "lastUpdatedDate": "03 Feb 2022",

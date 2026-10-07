@@ -4,7 +4,6 @@
   "version": "10+",
   "formatDescription": "File created every time a user sets up a session in Pro Tools, music creation software made by Avid, which allows the user to create, record and mix music. Every time a session is started, a ptx file is created, containing all plug ins, audio and midi tracks and mixer settings. They do not contain actual audio, but have audio files linked to them.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "08 Jan 2024",

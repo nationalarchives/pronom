@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A file format developed by Garmin, for the storing and sharing of data from sports and health devices. Data is collected during a sporting activity, stored on the Garmin device, and can then be uploaded to the Garmin Connect web service, and other web applications. The format ensures that any .fit compliant device can interpret data from another .fit compliant device.  The format allows users to track and compare data about their physical activities over time.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification: https://developer.garmin.com/fit/protocol/",
   "lastUpdatedDate": "15 Nov 2023",

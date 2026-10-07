@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Sony SML files store housekeeping information used by 7-series cameras, including user-defined settings and lists. They are found in the SOUNDDEV folder in storage volumes formatted by 7-series recorders. More specifically, these files contain the following information:\r\n\r\nPROJECTFOLDERS.SML - contains any entry and setting that has been made under the Top-Level Folder selection of the File: Folder Options Setup Menu option. \r\n\r\nROLLFOLDERS.SML - contains any entry and setting that has been made under the Mid-Level Folder selection of the File: Folder Options Setup Menu option.\r\n\r\nSCENEFOLDERS.SML - contains any entry and setting that has been made under the Bottom-Level Folder selection of the File: Folder Options Setup Menu option.\r\n\r\nSCENENAMES.SML - contains any entry and setting that has been made under the Setup Menu option Rec: Scene Name/Number.\r\n\r\nTRKANAME.SML - contains any entry and setting that has been made under the Track A selection of the Rec: Track Names Setup Menu option.\r\n\r\nTRKBNAME.SML - contains any entry and setting that has been made under the Track B selection of the Rec: Track Names Setup Menu option.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.sounddevices.com/sounddev-folder-in-7-series-storage-volumes/",
   "lastUpdatedDate": "26 Aug 2022",

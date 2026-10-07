@@ -4,7 +4,6 @@
   "version": "1-6",
   "formatDescription": "These are project files created by Visual Basic, a software development tool for Windows, which stored project information in a plain text format. The vbp files refer to other resources in the project, including forms (.FRM files) souce code files (.BAS files) and class module files (.CLS extension). Visual Basic software was replaced with Visual Basic.NET, which doesn\u2019t generate .vbp files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Dec 2021",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The RIFF-based MIDI file format was created by Microsoft Corporation in 1991. The file is a RIFF container holding a MIDI file which may also include a sound bank.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",

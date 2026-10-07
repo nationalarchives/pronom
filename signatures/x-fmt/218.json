@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "An Arc/Info binary grid is a proprietary raster GIS file format developed by ESRI. The grid defines geographic space as an array of equally sized square grid points arranged in rows and columns. Each grid point stores a numeric value that represents a geographic attribute such as elevation or surface slope. Each grid cell is referenced by its x,y coordinate.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "02 Dec 2010",

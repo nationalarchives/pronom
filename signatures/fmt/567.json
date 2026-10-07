@@ -4,7 +4,6 @@
   "version": "Lossless",
   "formatDescription": "WebP is a raster image format developed by Google that uses the Resource Interchange File Format as a container. WebP\u2019s lossless compression uses advanced techniques such as dedicated entropy codes for different color channels, exploiting 2D locality of backward reference distances and a color cache of recently used colors. This complements basic techniques such as dictionary coding, Huffman coding and color indexing transform.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Apr 2024",

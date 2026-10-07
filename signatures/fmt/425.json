@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A Video Object File (or VOB) is a strict subset of the MPEG-2 Program Stream, primarily used within DVD video. A VOB will contain an extended private stream containing both 'Packet Control Information', and 'Data Search Information'.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Nov 2023",

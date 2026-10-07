@@ -4,7 +4,6 @@
   "version": "4.0",
   "formatDescription": "A binary source patch file containing differences to be applied to a source binary in order to create a target binary file.  As only the delta is stored and BZIP2 compression is used, this format provides an efficient means of applying patches to binary files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "11 Jun 2012",

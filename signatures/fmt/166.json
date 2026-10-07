@@ -4,7 +4,6 @@
   "version": "1-5",
   "formatDescription": "Microsoft Works is a discontinued office software suite developed by Microsoft and available from 1987-2009. It was often available bundled with Windows computers. This format was a forerunner to other spreadsheet editors with grid of cells arranged in rows and numbers. Versions 1-5 were binary files before the .xlr compound files were developed from version 6 onwards.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://en.wikipedia.org/wiki/Microsoft_Works\r\n\r\nhttp://justsolve.archiveteam.org/wiki/Microsoft_Works_Spreadsheet",
   "lastUpdatedDate": "14 Nov 2023",

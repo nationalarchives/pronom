@@ -4,7 +4,6 @@
   "version": "Level 4",
   "formatDescription": "A Mat-file stores data in binary form. You can read and write Mat-files using MATLAB. Level 4 MAT files are compatible with MATLAB versions up to Version 4.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Nov 2021",

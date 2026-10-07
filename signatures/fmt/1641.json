@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Adobe InDesign is a desktop publishing application developed and produced by Adobe Inc., first released in 1999. It is the successor to PageMaker, software previously created by Aldus Corporation in 1985, which was subsequently acquired by Adobe. It can be used to produce a number of works such as posters, flyers, brochures, magazines, newspapers, presentations and books. InDesign supports XML, stylesheets and other coding markup, providing functionality for exporting tagged text content for use in other digital and online formats. INX is an XML-based format used to serialize and deserialize the InDesign scripting DOM.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/InDesign_INX\r\n\r\nhttps://web.archive.org/web/20060821042511/http://partners.adobe.com/public/developer/en/indesign/sdk/working_with_inx_file_format.pdf",
   "lastUpdatedDate": "24 Feb 2022",

@@ -4,7 +4,6 @@
   "version": "95",
   "formatDescription": "Powerpoint format is a presentation format developed by Microsoft. Powerpoint 95 format is the native format of Powerpoint 95. The format is proprietary and Microsoft does not make details of its structure public. The information here is derived primarily from OpenOffice.org's reverse-engineered documentation of the format and should not therefore be regarded as definitive. Powerpoint 95 is based on Microsoft\u2019s generic OLE2 Compound Document Format. A Powerpoint presentation is stored as a \u2018PowerPoint Document\u2019 stream within a Compound Document Format file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "30 Sep 2020",

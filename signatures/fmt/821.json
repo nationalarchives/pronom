@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "G64 is a Commodore 64 emulation format. It is a raw group code recording (GCR) binary representation of a Commodore 1541 diskette.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Dec 2015",

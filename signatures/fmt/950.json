@@ -4,7 +4,6 @@
   "version": "1.0",
   "formatDescription": "An Internet Message Format email message conforming to RFC 2045 (https://www.ietf.org/rfc/rfc2045.txt), specifically containing MIME-Version and Content-Type header fields, in addition to header fields 'To', 'From', and 'Date' as described in RFC 822 (https://www.ietf.org/rfc/rfc822.txt).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "08 Jul 2024",

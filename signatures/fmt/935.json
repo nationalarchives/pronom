@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "APNG is an extension of the PNG format, adding support for animated images. It is intended to be a replacement for simple animated images that have traditionally used the GIF format, while adding support for 24-bit images and 8-bit transparency. APNG is intended as a simpler alternative to MNG.\r\n\r\nAPNG is backwards-compatible with PNG; any PNG decoder should be able to ignore the APNG-specific chunks and display a single image.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Jul 2016",

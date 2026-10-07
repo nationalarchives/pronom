@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Synchronized Multimedia Integration Language is a World Wide Web Consortium recommended Extensible Markup Language (XML) markup language to describe multimedia presentations. It defines markup for timing, layout, animations, visual transitions, media embedding and others. SMIL allows presenting media items such as text, images, video, audio, links to other SMIL presentations, and files from multiple web servers. SMIL markup is written in XML, and has similarities to HTML. This is the generic entry for this file format which most commonly is denoted with the .smil extension. It is likely that the truncated .smi extension refers specifically to the metadata files accompanying the corresponding images taken by Sony digital cameras.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language\r\n\r\nhttps://www.w3.org/TR/SMIL3/\r\n\r\nhttp://www.telestream.net/pdfs/app-notes/app_Camera_Ingest.pdf",
   "lastUpdatedDate": "04 Oct 2024",

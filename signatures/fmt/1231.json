@@ -4,7 +4,6 @@
   "version": "1.1",
   "formatDescription": "DigiDoc is a digital signature format specific to Estonia. The format is based on the ETSI TS 101 903 Standard \u2018XML Advanced Electronic Signatures (XAdES)\u2019. DigiDoc corresponds to the XAdES profile \u2018XAdES-X-L\u2019. A DigiDoc container includes source files (the files that were signed) as well as signatures that are related to the signed file(s). Also every signature contains the certificate, validity confirmation and the validity confirmation service certificate. https://www.id.ee/?id=35780",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 Feb 2019",

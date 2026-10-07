@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "ISO 9660 Disk Image File is a virtual image of optical disk, storing content and structure of an optical disc which can be transferred on the other media. This format specifically uses ISO 9660, a so-called original standard for file system for optical disc media, written by International Organization for Standardization (ISO) and considered an international technical standard available for many operating systems. A disk image is a uncompressed copy of the contents of a disk or a folder, it can facilitate certain types of backup and recovery strategies. Please see ID: fdd000348 from Library of Congress and other the links attached to this entry for further information.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/ISO_image\r\n\r\nhttps://www.loc.gov/preservation/digital/formats/fdd/fdd000348.shtml\r\n\r\nhttps://en.wikipedia.org/wiki/Optical_disc_image\r\n\r\nhttps://docs.microsoft.com/en-us/windows/win32/imapi/disc-formats",
   "lastUpdatedDate": "15 Aug 2023",

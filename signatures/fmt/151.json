@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "JPX is an image file format extended from JP2, providing the potential for extended colour space support, alternative compression methods, and other features. JPX may be used in applications that require additional functionality or data structures beyond those defined in the JP2 file format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "02 Feb 2007",

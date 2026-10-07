@@ -4,7 +4,6 @@
   "version": "4",
   "formatDescription": "Sonic Foundry CD Architect, later sold as Sony CD Architect is a software used for burning and mastering CDs. It was sold in 2016 to MAGIX Software. CD Archtect software uses a small project file (CDP) to handle the organisation of CDs which saves informatin about source file locations, edits, cuts and insertion points. The project file is used to create the CD when the editing is finished and is not a multimedia file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/CD_Architect",
   "lastUpdatedDate": "10 Jan 2025",

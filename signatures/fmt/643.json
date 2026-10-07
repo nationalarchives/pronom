@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The E57 file format is a format for storing point clouds, images, and metadata produced by 3D imaging systems.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://www.libe57.org/ \r\nhttps://www.ri.cmu.edu/pub_files/2011/1/2011-huber-e57-v3.pdf",
   "lastUpdatedDate": "09 Feb 2022",

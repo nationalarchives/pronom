@@ -4,7 +4,6 @@
   "version": "H6",
   "formatDescription": "File made by the Zoom H6, a portable audio recorder which is in widespread use. The hprj file is outputted by the device, sitting alongside the audio files. The file holds metadata information including project title, recording date etc. The H5 records in 2GB chunks, and when that is exceeded splits the recording into smaller chunks. The metadata tells the H6 which files go together and their order.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.zoom.co.jp/sites/default/files/products/downloads/pdfs/E_H6_0.pdf \r\nhttps://www.reddit.com/r/videography/comments/alagpf/what_are_the_hprj_files_for_that_my_zoom_h6_is/ \r\nhttps://zoomcorp.com/en/gb/handheld-recorders/handheld-recorders/h6-audio-recorder/",
   "lastUpdatedDate": "25 Jan 2024",

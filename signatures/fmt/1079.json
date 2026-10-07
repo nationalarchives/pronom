@@ -4,7 +4,6 @@
   "version": "7.00",
   "formatDescription": "A Program Database File stores debugging information about a compiled executable, usually created at compile-time. It stores a list of all symbols in a module with their addresses and possibly the name of the file and the line on which the symbol was declared.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "24 Jul 2017",

@@ -4,7 +4,6 @@
   "version": "32bit",
   "formatDescription": "Mach-O is a standard used to store programs and libraries on disk in the Apple Mac app binary interface. Mach-O files generally lack a format extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Feb 2015",

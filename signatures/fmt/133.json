@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Windows Media Video Format is a subtype of the Advanced Systems Format, developed by Microsoft for storing video data streams. It comprises a Header Object, which describes the properties of the data streams, a Data Object, which contains the actual data streams stored in Data Packets and, optionally, one or more Index Objects. Video data is stored using the Windows Media Video codec, and the format supports streaming across networks.",
   "releaseDate": "01 Dec 2004",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",

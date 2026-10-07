@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "DLS is a file format that holds digital musical instrument sound banks. The DLS standards include specifications for how MIDI protocol-controlled music synthesizers should render the instruments in a DLS file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "TRS is the native, XML-based format of Transcriber, a tool for assisting the manual annotation of speech signals. Transcriber (https://trans.sourceforge.net/) was superseded by Transcriber AG (https://transag.sourceforge.net/)",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Nov 2022",

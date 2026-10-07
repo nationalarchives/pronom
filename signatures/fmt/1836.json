@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Brio Query File is a file format used by Brio Insight, an Internet Explorer plug-in for displaying reports generated from Brio business intelligence software. It contains a query that generates a client-side report from a server when executed. Brio Software underwent several acquisitions and eventually merged into Oracle's Hyperion performance management software.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://fileinfo.com/extension/bqy\r\n\r\nhttps://en.wikipedia.org/wiki/Brio_Technology",
   "lastUpdatedDate": "23 Feb 2023",

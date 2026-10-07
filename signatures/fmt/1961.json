@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Shorten is a file format used for compressing audio data.It is used to compress audio files losslessly. One of the first open source lossless compressors, it was created in 1993 by Tony Robinson.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://wiki.hydrogenaud.io/index.php?title=Shorten\r\nhttps://en.wikipedia.org/wiki/Shorten_(codec)\r\nhttps://web.archive.org/web/20180904214941/http://www.etree.org/shncom.html\r\n\r\nhttps://github.com/digital-preservation/PRONOM_Research/tree/main/Submissions/Shorten",
   "lastUpdatedDate": "23 Apr 2024",

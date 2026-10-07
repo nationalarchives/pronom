@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The GenBank format was developed by the U.S. National Center for Biotechnology Information (NCBI). The format is a standardised way of recording DNA and protein sequencing information accompanied with other data, such as Journal references, keywords, definitions and other information, so that it can be easily read by humans and machines. The NCBI Genbank database https://www.ncbi.nlm.nih.gov/genbank/ is a repository of publicly available DNA sequences in the Genbank format, and takes in submissions of Genbank files from all over the world.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification: https://www.ncbi.nlm.nih.gov/genbank/samplerecord/",
   "lastUpdatedDate": "21 Sep 2022",

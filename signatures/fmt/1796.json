@@ -4,7 +4,6 @@
   "version": "1.1",
   "formatDescription": "Wireless Markup Language (wml) is an XML-based markup language created by the WAP (Wireless Application Protocol) Forum in the late 1990s. It was intended for mobile devices which were limited by bandwidth, memory and CPU capabilities, such as mobile phones, providing text and image presentation, forms, data input and hyperlinks, much like html. WAP died out in the early 2000s. It had been developed and supported by the WAP forum, which no longer exists, and has been subsumed by the Open Mobile Alliance.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification: http://www.wapforum.org/what/technical.htmandhttp://www.wapforum.org/what/technical/wml-30-apr-98.pdf",
   "lastUpdatedDate": "15 Aug 2023",

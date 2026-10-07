@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "OBJ is an ASCII format for representing 3D geometry. The OBJ format supports both polygonal objects and free-form objects. Polygonal geometry uses points, lines, and faces to define objects while free-form geometry uses curves and surfaces.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Aug 2023",

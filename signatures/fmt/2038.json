@@ -4,7 +4,6 @@
   "version": "3",
   "formatDescription": "The HFE (HxC Floppy Emulator) File Format is a floppy bitstream tracks container which was originally designed for the SD HxC Floppy Emulator devices, but is now a universal floppy emulator. This format stores floppy media content at bit-cell level.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://github.com/digitalpreservation/PRONOM_Research/tree/main/Submissions/HFE \r\nhttps://hxc2001.com/floppy_drive_emulator/HFE-file-format.html\r\nSpecification: https://hxc2001.com/floppy_drive_emulator/HFE-file-format.html",
   "lastUpdatedDate": "05 Feb 2025",

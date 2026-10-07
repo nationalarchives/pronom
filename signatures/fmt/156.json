@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Tagged Image File for Fax Extended (TIFF-FX) format is an extension of the TIFF format.  New TIFF tags are defined to allow the mapping of Fax-specific attributes commonly associated with black and white fax and colour fax files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "01 May 2013",

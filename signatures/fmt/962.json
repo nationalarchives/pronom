@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "QCP is a storage format for exchanging Qualcomm Code Excited Linear Prediction (QCELP 13k) encoded audio data, as well as Enhanced Variable Rate Codec (EVRC) and Selectable Mode Vocoders (SMV) data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",

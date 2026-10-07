@@ -4,7 +4,6 @@
   "version": "1.0",
   "formatDescription": "The Extensible Markup Language (XML) is a general purpose markup language for creating other, special purpose, markup languages, and is a simplified subset of SGML. The structure and grammar of an XML document can be defined using a markup declaration, such as a Document Type Definition (DTD) or XML schema. A XML document consists of nested elements, each of which may have attributes and content. It typically begins with an XML declaration, defining the XML version and character set used. This may be followed by a Document Type declaration, containing or pointing to a markup declaration for the class of document. An XML document is said to be well-formed if it conforms to the XML specification; it is said to be valid if it additionally complies with a defined markup declaration. The formatting and transformation of XML documents can be controlled using the Extensible Stylesheet Language (XSL).",
   "releaseDate": "01 Jan 1998",
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "14 Sep 2018",

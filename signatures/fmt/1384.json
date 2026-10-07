@@ -4,7 +4,6 @@
   "version": "0x00020002",
   "formatDescription": "The Embedded OpenType File Format (EOT) was developed by Microsoft to enable TrueType and OpenType fonts to be linked to web pages for download to render the web page with the font the author desired - https://www.w3.org/Submission/2008/SUBM-EOT-20080305/",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Sep 2020",

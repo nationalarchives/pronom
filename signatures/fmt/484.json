@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "An archive format associated with the 7-Zip application. Its default compression method is LZMA, but it supports other compression methods as well.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://7-zip.org/7z.html\r\nhttps://filext.com/file-extension/7Z\r\nhttps://fileinfo.com/extension/7z",
   "lastUpdatedDate": "17 Apr 2024",

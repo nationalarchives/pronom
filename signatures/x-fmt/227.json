@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Geography Markup Language (GML) is the XML grammar defined by the Open Geospatial Consortium (OGC) to express geographical features. GML serves as a modeling language for geographic systems as well as an open interchange format for geographic transactions on the Internet.\r\nFull specifications can be found at http://www.opengeospatial.org/standards/gml",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "26 Sep 2012",

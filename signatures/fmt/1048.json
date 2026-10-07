@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The GFS file is used by the OGR Geography Markup Language reader to predefine dataset level information in the absense of an XML Schema definition for the feature classes within the GML file. Its purpose and syntax is described here: http://www.gdal.org/drv_gml.html",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 May 2017",

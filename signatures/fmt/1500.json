@@ -4,7 +4,6 @@
   "version": "1.x",
   "formatDescription": "FDF is a format for storing and transferring data entered into a form in a PDF file. It is primarily a text format based on PDF.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "24 Oct 2021",

@@ -4,7 +4,6 @@
   "version": "2.0",
   "formatDescription": "Surprise! Adlib Tracker v2.0\u00a0is a version of Surprise! Adlib tracker for the\u00a0MS-DOS\u00a0operating system. AdLib tracker is a 9-channel FM tracker for the OPL2-compatible chips found on most sound cards. It is a tool for creating audio with FM-synthesis and uses non-standard Volume Slide procedure in replay routine.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://www.adlibtracker.net/programfaq.php",
   "lastUpdatedDate": "17 Nov 2021",

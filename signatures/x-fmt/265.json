@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "An archive format originally intended to archive files on backup tapes without a file system of their own. TAR files are usually uncompressed.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://en.wikipedia.org/wiki/Tar_(computing)\r\nhttp://fileformats.archiveteam.org/wiki/Tape_Archive\r\nhttps://fileinfo.com/extension/tar",
   "lastUpdatedDate": "17 Apr 2024",

@@ -4,7 +4,6 @@
   "version": "87a",
   "formatDescription": "The Graphics Interchange Format (GIF) is a raster image format developed by Compuserve, primarily for use on the internet. A GIF file begins with a Header section and a Logical Screen Descriptor section. This is followed by one or more Image sections, and the file is terminated by a Trailer. GIF supports bit depths between 1 and 8 bits (i.e. up to 256 colours) and supports features such as interlacing and transparency. Images are always stored using lossless LZW compression.",
   "releaseDate": "15 Jun 1987",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",

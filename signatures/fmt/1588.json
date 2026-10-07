@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Tgif (pronounced t-g-i-f) is an Xlib-based interactive 2-D drawing tool (using vector graphics) under X11 on Linux and most UNIX platforms (including Mac OS X and cygwin on Windows). It was developed since 1990 and is free software released under the QPL license.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://bourbon.usc.edu/tgif/faq/format.html\r\n\r\nhttps://en.wikipedia.org/wiki/Tgif_(program)#:~:text=Tgif%20(pronounced%20t%2Dg%2Di%2Df)%20is%20an,released%20under%20the%20QPL%20license.",
   "lastUpdatedDate": "04 Jan 2022",

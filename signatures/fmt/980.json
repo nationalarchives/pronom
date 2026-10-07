@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The AAE sidecar format is a form of property list format. It has been reported as present in iOS 8 and OS X Yosemite for transferring non-destructive adjustments in photo editing between systems and apps. It is an XML based format. The .aae file accompanies the actual image which is in a .jpg file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Feb 2017",

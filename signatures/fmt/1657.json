@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The XIMG  (Extended GEM Bit Image) image format is more developed version of GEM raster Image [x-fmt/159] which allows for standardised verison of storing colour palettes. It originated due to the specification of GEM format being ambiguous as to the format of color images. \r\n\r\nThe GEM raster format (also known as GEM VDI Bit Image; GEM Bit Image; GEM Image; GEM Bitmap; or IMG) is an image format native to the Graphical Environment Manager (GEM) operating system and developed at Digital Research. The format was used by GEM Paint and Ventura Publisher, and by a variety of Atari ST software.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/GEM_Raster \r\n\r\nhttps://www.wikidata.org/wiki/Q28206162 \r\n\r\nhttps://www.seasip.info/Gem/ff_img.html \r\n\r\nhttps://www.fileformat.info/format/gemraster/spec/20e311cc16f844fda91beb539d62c46c/view.htm \r\n\r\nhttps://archive.org/stream/mac_Graphics_File_Formats_Second_Edition_1996/Graphics_File_Formats_Second_Edition_1996_djvu.txt",
   "lastUpdatedDate": "29 Mar 2022",

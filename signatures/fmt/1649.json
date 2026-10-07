@@ -4,7 +4,6 @@
   "version": "4.0- 4.1",
   "formatDescription": "The AGS Data Format was created in 1991 by the Association of Geotechnical and Geoenvironmental Specialists, as a way of transferring data between different organisations in the geotechnical/geoenvironmental industry. It provides a way of exchanging data that is independent of software/ hardware and operating system, and to a consistent standard.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Official specification: https://www.ags.org.uk/content/uploads/2022/02/AGS4-v-4.1.1-2022.pdf\r\nOfficial website: https://www.ags.org.uk/data-format/",
   "lastUpdatedDate": "11 Nov 2024",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Files generated in ArcMap software during the creation of map templates, to specify label formatting in Python, VBScript or Jscript codings. These are plain text files, and as such can be opened with Notepad.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://desktop.arcgis.com/en/arcmap/10.3/map/working-with-text/about-building-label-expressions.htm\r\nhttps://health.mo.gov/data/gis/pdf/Tip-LabelTipsandTricks.pdf",
   "lastUpdatedDate": "28 Mar 2023",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Snap Survey provides a selection of software which allows users to design surveys. The SNAP Survey archive file is an compressed version of the SNAP Meta Data and if one is present a SNAP Raw Data file. If it is a survey with email invitations, and responses, it also compresses system files about the current state of the mailing.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Nov 2023",

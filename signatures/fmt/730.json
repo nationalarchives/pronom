@@ -4,7 +4,6 @@
   "version": "1.4",
   "formatDescription": "The Digital Negative (DNG) Specification describes a non-proprietary file format for storing camera raw files that can be used by a wide range of hardware and software vendors. DNG is an extension of the TIFF 6.0 format, and is compatible with the TIFF-EP standard. This version was published June 2012.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Nov 2023",

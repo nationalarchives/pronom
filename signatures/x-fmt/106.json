@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The SYLK (SYmbolic LinK) file format is a ASCII format used to exchange information between versions of Multiplan and spreadsheets such as Excel.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "http://fileformats.archiveteam.org/wiki/SYLK\r\nhttp://netghost.narod.ru/gff/graphics/summary/micsylk.htm",
   "lastUpdatedDate": "14 Nov 2023",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The NIB file format is used by Interface Builder, a software development application for Apple's Mac OS X operating system. The NIB objects are stored as an XML property list, they are unpackaged upon running an application.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Feb 2017",

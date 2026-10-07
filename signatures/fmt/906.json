@@ -4,7 +4,6 @@
   "version": "2.x",
   "formatDescription": "The Variant Call Format (VCF) specifies the format of a text file used in bioinformatics for storing gene sequence variations.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "04 Jul 2016",

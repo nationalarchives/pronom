@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "BibTeX is reference management software, used for formatting lists of references, enabling the consistent citing of sources in a range of styles. It was created in 1985, and is written in WEB/ Pascal. Bib files are lists of entries, each one corresponding to a bibliographical item, for a example book or article.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/BibTeX\r\n\r\nhttp://www.heinrichfleck.net/latex/Lamport%20.pdf (Appendix B)",
   "lastUpdatedDate": "15 Nov 2023",

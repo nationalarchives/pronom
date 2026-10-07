@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The CZI file format was developed by ZEISS for use in microscopy imaging. It contains the image data plus metadata about the capture, such as image information and capture settings.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Jul 2018",

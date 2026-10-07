@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Radiance defined an image format for storing HDR images, now described as RGBE image format. RGBE stores pixels as one byte each for RGB (red, green, and blue) values with a one byte shared exponent. Thus it stores four bytes per pixel.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Nov 2013",

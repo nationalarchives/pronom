@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Apple Lossless, also known as Apple Lossless Audio Codec (ALAC), or Apple Lossless Encoder (ALE), is an audio codec developed by Apple Inc. for lossless data compression of digital music. Apple Lossless data is stored within an MP4 container with the filename extension .m4a.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://www.applelossless.com/\nhttp://alac.macosforge.org/trac/browser/trunk/ALACMagicCookieDescription.txt\nhttp://alac.macosforge.org/trac/browser/trunk/codec/ALACAudioTypes.h?rev=2#",
   "lastUpdatedDate": "09 Jun 2026",

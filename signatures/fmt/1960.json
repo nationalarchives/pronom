@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "An E-Seq Music file is a proprietary format developed by Yamaha, for the Disklavier reproducing piano in 1987. The music was recorded and played back via 3.5 2DD floppy disks. The E-Seq format was superseded by the industry-standard file format MIDI Files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://github.com/digital-preservation/PRONOM_Research/tree/main/Submissions/Disklavier%20E-SEQ",
   "lastUpdatedDate": "23 Apr 2024",

@@ -4,7 +4,6 @@
   "version": "X11",
   "formatDescription": "X-Windows Bitmap is a binary image format, for storing cursor and icon bitmaps used in the X graphical user interface",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "16 Mar 2012",

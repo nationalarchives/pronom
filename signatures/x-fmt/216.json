@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Microsoft Powerpoint had a feature which would compile the document along with all media used into a single file, using the Cabinet archive format, but with a ppz extension, rather than the typical cab extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "28 Feb 2023",

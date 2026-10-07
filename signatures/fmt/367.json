@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A world file is a plain text computer data file used by geographic information systems to georeference raster map images, which may be produced in several of the basic image formats. The file specification was introduced by Esri. World files establish an image-to-world transformation that converts the image coordinates in raster data to real-world coordinates, where each cell in the image has a row and column number.  Some image formats will store their georeferencing information in a separate file, rather than in the header. World Files do not specify a coordinate system, but contain six-line files that provide the georeferencing information. Furthe information can be found at http://webhelp.esri.com/arcgiSDEsktop/9.3/index.cfm?TopicName=World_files_for_raster_datasets and http://webhelp.esri.com/arcims/9.2/general/topics/author_world_files.htm",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Apr 2024",

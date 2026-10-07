@@ -4,7 +4,6 @@
   "version": "1.2",
   "formatDescription": "SVG is a language for describing two-dimensional graphics in XML. SVG allows for three types of graphic objects: vector graphic shapes (e.g., paths consisting of straight lines and curves), multimedia (such as raster images, video, and audio), and text. Graphical objects can be grouped, styled, transformed and composited into previously rendered objects.  Scalable Vector Graphics Tiny (SVGT), Version 1.2, is a language for describing two-dimensional vector graphics in XML, combined with raster graphics and multimedia. Its goal is to provide the ability to create a whole range of graphical content, from static images to animations to interactive Web applications. SVG 1.2 Tiny is a profile of SVG intended for implementation on mobile devices, such as cellular phones and PDAs; it also works on laptop and desktop computers.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Jun 2012",

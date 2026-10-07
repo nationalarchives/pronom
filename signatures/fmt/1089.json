@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "VBScript is a scripting language based on Visual Basic, developed by Microsoft. A VBScript file contains code but doesn't have a formal structure or mandatory elements that can be used by PRONOM for identification purposes.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "21 Aug 2017",

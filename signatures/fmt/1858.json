@@ -4,7 +4,6 @@
   "version": "5/95",
   "formatDescription": "An XLW file is a workspace file created by Microsoft Excel. It contains the screen locations of one or more workbooks. XLW files are used to restore the layout when working simultaneously on multiple workbooks, and as such do not contain any actual spreadsheet data; their only function is to store the physical layout of workbook files. They were created when the user selected View -> Save Workspace in earlier versions of Excel. Versions of Excel 2013 onwards do not generate Workspace files, but can open XLW files from Excel 2010 and before. It should be noted that Excel v.4 did create some workbook files with the .xlw extension, which contained worksheet data i.e. rows and columns of cells.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Apr 2023",

@@ -4,7 +4,6 @@
   "version": "2010",
   "formatDescription": "Autodesk Revit is 3D modeling software. RTE (template) files and RVT (project) files are actual Revit projects. RFA (family) files and RFT (family template) files are family files that can either be loaded into a project or saved externally.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Jan 2020",

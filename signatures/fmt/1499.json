@@ -4,7 +4,6 @@
   "version": "XML",
   "formatDescription": "Adobe Audition is a Digital Audio Workstation. The underlying format used to save session data was changed from an earlier binary format to an XML-based one, that this entry covers.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "24 Oct 2021",

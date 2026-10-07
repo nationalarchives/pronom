@@ -4,7 +4,6 @@
   "version": "4",
   "formatDescription": "The Folio Shadow file is a feature of the Folio Views software application, allowing multiple uses to work on 'shadow' copies of a master Folio Infobase. Users will see the content of the master Infobase, and their peronal annotated shadow content. Updates to the master content would be reflected in the shadow copy, but changes to the shadow file will not alter the master Infobase in any way.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Jul 2018",

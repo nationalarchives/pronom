@@ -4,7 +4,6 @@
   "version": "2.0",
   "formatDescription": "Adobe Portable Document Catalog Index File (PDX) is the format of a file created when an index is built for a collection of PDF documents defined as a catalog in Adobe Acrobat Pro versions 2.0 and later, allowing users to search through the contents of the catalogue.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://helpx.adobe.com/acrobat/using/creating-pdf-indexes.html",
   "lastUpdatedDate": "17 Apr 2024",

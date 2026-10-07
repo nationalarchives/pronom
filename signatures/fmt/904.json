@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Android 4.4 introduced the ability to capture all Bluetooth HCI packets and save them to a file, typically called btsnoop_hci.log. The BtSnoop file format closely resembles the snoop format, https://www.nationalarchives.gov.uk/PRONOM/fmt/781",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Jun 2016",

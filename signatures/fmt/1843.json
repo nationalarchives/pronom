@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Human Machine Interfaces HMI File is a MIDI variant file format created by Human Machine Interfaces Inc. It supports looping and conditional branching. It was used by Human Machine Interfaces Sound Operating System as the MIDI system and is used in several PC games including The Elder Scrolls II: Daggerfall, Carmageddon and Tex Murphy: Overseer.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/HMI",
   "lastUpdatedDate": "07 Mar 2023",

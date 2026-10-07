@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "PZX is a tape file format designed primarily for archiving content of Sinclair ZX Spectrum tapes. It was designed by Patrik Rak to address the perceived shortcomings of a revised version of the TZX format, as a viable, easy to use and implement alternative, while retaining the key features of TZX.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/PZX\r\n\r\nhttp://zxds.raxoft.cz/pzx.html",
   "lastUpdatedDate": "07 Aug 2023",

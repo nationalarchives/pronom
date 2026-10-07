@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "BIM is a RealTime metadata file that is stored alongside the image files on cameras such as the Sony FS7. It can contain information such as focus distance, shutter speed, aperture in relation to time.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://us.community.sony.com/s/question/0D50B00004YTYxDSAX/copy-entire-card-or-just-clips?language=en_US",
   "lastUpdatedDate": "16 Jun 2022",

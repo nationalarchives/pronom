@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A source code file written in Python that can be run by a Python interpreter. Python is a multi-paradigm, high-level general-purpose programming language which was conceived in the late 1980s as a successor to the ABC programming language. Its extensive standard library, as well as a steadily growing number of third-party modules, provides functions, classes and more for a wide range of tasks, including scientific computing, machine learning and web scraping.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Official documentation can be accessed at https://www.python.org/doc/",
   "lastUpdatedDate": "21 Mar 2023",

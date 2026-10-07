@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "This variant of ZFO file is container for proof of delivery of data mailbox messages provided by \u010cesk\u00e1 po\u0161ta, s.p. in three versions: 1. proof of delivery; 2. confirmation of delivery; 3. delivery failure. ZFO file is a ZIP archive file  (PKCS #7 Cryptographic Message File) composing of the layout structure using XML elements. The whole structure is always embedded into a digital signature represented by XML elements of the XML Signature standard.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://isds.czechpoint.cz/v20/delivery",
   "lastUpdatedDate": "18 Jan 2020",

@@ -4,7 +4,6 @@
   "version": "2",
   "formatDescription": "GST Art File is a vector based drawing format file format with an .art extension. This version of the file is an OLE file, from when the company developed their software to have OLE2 support. GST Technology developed its first drawing software in the early 1990s alongside its DTP software. In 2001, the company merged to form Greenstreet Software.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/GST_ART",
   "lastUpdatedDate": "04 Jul 2023",

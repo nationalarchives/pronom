@@ -4,7 +4,6 @@
   "version": "1",
   "formatDescription": "Prior to Windows 3.0, the bundled version of Microsoft Paint used a proprietary format with the extension MSP. The format supported only 1 bit monochrome graphics. Windows 3.0 replaced Microsoft Paint with an application called Paintbrush, that could open MSP files, but would save only as PCX or BMP.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",

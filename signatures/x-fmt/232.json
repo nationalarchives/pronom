@@ -4,7 +4,6 @@
   "version": "1.0",
   "formatDescription": "The Microsoft Project Export file or Microsoft Project Exchange file format is for earlier version of Microsoft Project to exhange project data with other Project Management software. Discontinued with Project 2000.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "03 Jan 2025",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "MPEG-2 is a lossy compression standard (an improvement and expansion of the MPEG-1 standard) designed for the generic coding of video and audio and intended to cover a wide scope of application, including: video production, broadcast and editing. Streams are at potentially higher bitrates than MPEG-1 but more efficient compression making it suited to High Definition video. MPEG-2 Video supports both 'progressive' and 'interlaced' frame video. An MPG-2 \u2018Program\u2019 stream (PS) file (*.mpg, *.mpeg) generally contain both video and audio streams, generally for synchronised playback, and may carry a variety of other data (e.g. video captions).\r\n\r\nSome camcorders store their MPEG-2 Program Stream video data as files with the .mod extension, usually alongside other files containing metadata and management information for the video.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "13 Sep 2018",

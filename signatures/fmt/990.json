@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "An ESRI file geodatabase is a collection of files in a folder on disk that can store, query, and manage both spatial and nonspatial data.The GeoDB is the primary data storage model for ArcGIS.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Feb 2017",

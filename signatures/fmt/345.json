@@ -4,7 +4,6 @@
   "version": "3.0",
   "formatDescription": "The Enhanced Metafile format is a 32-bit format that can contain both vector information and bitmap information. This format contains extended features over the Windows Metafile Format, including built-in scaling information, and improvements in color palettes and device independence.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "21 Apr 2011",

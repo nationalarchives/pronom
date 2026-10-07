@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "IDML is an XML representation of an Adobe InDesign Document. The package format is conformant with the Universal Container Format and identification is based on the contents of the mimetype file with the zip container.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/IDML",
   "lastUpdatedDate": "24 Feb 2022",

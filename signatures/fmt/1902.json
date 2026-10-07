@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "NCD is a persistent cache file associated with NCD (Norton Change Directory), a component of the Norton Commander software (mainly for MS-DOS). TREEINFO.NCD is written to the root directory of a drive, and stores the subdirectory layout of that drive.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Treeinfo.ncd",
   "lastUpdatedDate": "18 Aug 2023",

@@ -4,7 +4,6 @@
   "version": "1.6-4.5",
   "formatDescription": "The Stuffit Archive file format is a proprietary file compression format originally developed by Raymond Lau in 1987. It supports storing the Resource Fork alongside other files and is commonly used in Mac environments, though a Windows version has also been released.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://justsolve.archiveteam.org/wiki/StuffIt",
   "lastUpdatedDate": "16 Oct 2021",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "DCT is a proprietary audio file format developed by NCH Software for their dictation software. As well as audio data, .dct files also contain dictation header information and can be encrypted.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 Jan 2020",

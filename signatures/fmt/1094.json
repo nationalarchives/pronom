@@ -4,7 +4,6 @@
   "version": "2",
   "formatDescription": "A Neuroimaging format commonly used in medical industry for the analysis of MRI data. Version 2 is an extended version of NIfTI allowing 64 bit storage and addressing.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Aug 2020",

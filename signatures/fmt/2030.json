@@ -4,7 +4,6 @@
   "version": "V0 and V1",
   "formatDescription": "The Apache ORC (Optimized Row Columnar) format is an open-source, column-oriented data storage format which is utilized by prominent data processing frameworks including Apache Spark, Apache Hive, Apache Flink and Apache Hadoop.The format was annouced by Hortonworks (in collaboration with Facebook) in 2013.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specifications:  \t\r\nhttps://orc.apache.org/specification/ORCv0/\r\nhttps://orc.apache.org/specification/ORCv1/\r\nNote:\r\nhttps://github.com/apache/orc/tree/main/examples \r\nhttps://en.wikipedia.org/wiki/Apache_ORC",
   "lastUpdatedDate": "28 Jan 2025",

@@ -4,7 +4,6 @@
   "version": "Generic",
   "formatDescription": "Navisworks (known for a while as JetStream) is a 3D design review package, currently developed and maintanced by Autodesk. This generic PRONOM entry is a catchall for Navisworks Documents where the version number is presently unknown. If you have a file like this and know the version then please contact the PRONOM team.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "09 Jan 2016",

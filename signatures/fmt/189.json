@@ -4,7 +4,6 @@
   "version": "2007 onwards",
   "formatDescription": "Microsoft developed office Open XML (OOXML) in 2007. It is an XML based format representing a departure from previous Microsoft Office suites, which were binary file based. Starting with Microsoft Office 2007, the Office Open XML file formats have become the default file format of Microsoft Office. The ISO standard for OOXML is ISO/IEC DIS 29500. An OOXML file format consists of a compressed zip archive that is designated according to which file type it is. OOXML uses three custom XML based languages to describe its\u2019 three document types. WordProcessingML, SpreadsheetML and PresentationML are each used to describe Word, Excel and PowerPoint Presentation files respectively. OOXML is not an open format but the specification and development rights have been released under Microsoft\u2019s Covenant not to Sue. OOXML is platform independent.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "06 Oct 2009",

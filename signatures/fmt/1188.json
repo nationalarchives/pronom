@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Ogre Mesh is a binary format for representing 3D models for use within the Ogre 3D rendering engine. PRONOM currently does not distinguish between minor versions of the format. Please contact the PRONOM team if this is desirable.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "10 Aug 2018",

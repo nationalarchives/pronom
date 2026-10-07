@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "COS files are XML CaptureOne Session files which contain metadata for each image within a CaptureOne session. Capture One is a software for RAW photo editing geared for photography.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.captureone.com/blog/eip-file-format-enhanced-image-package\r\n\r\nhttps://support.captureone.com/hc/en-us/articles/360002478617-Enhanced-Image-Package-EIP-overview\r\n\r\nhttps://support.captureone.com/hc/en-us/articles/360002544898-Metadata-in-XMP-sidecar-files\r\n\r\nhttp://fileformats.archiveteam.org/wiki/Enhanced_Image_Package",
   "lastUpdatedDate": "25 Apr 2023",

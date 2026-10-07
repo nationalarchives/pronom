@@ -4,7 +4,6 @@
   "version": "1.x",
   "formatDescription": "ARW is a raw image format produced by some makes of Sony cameras. The format is based upon TIFF.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "28 Nov 2017",

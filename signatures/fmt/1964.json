@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Defined in ISO/IEC 15444-15:2019, JPH/HTJ2K is an extension to JPEG 2000 intended as a royalty-free format for high-throughput, lossless image encoding.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.iana.org/assignments/media-types/image/jph\r\nhttps://www.iso.org/standard/76621.html\r\nhttps://loc.gov/preservation/digital/formats/fdd/fdd000566.shtm",
   "lastUpdatedDate": "08 Feb 2024",

@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "GeoTIFF is a metadata standard, within the public domain, which allows georeferenceing information to be embedded within the TIFF file. GeoTIFF format can contain geospatial data such as aerial photography and satellite imagery which can be used in GIS applications. GeoTIFF files can be read by normal TIFF utilities, though they may unintentionally strip out the geospatial data in the process. GeoTIFF was originally created by Dr. Niles Ritter whilst working at NASA Jet Propulsion Laboratory, and published. In 2019 by the Open Geospatial Consortium publihsed the OGC GeoTIFF standard.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://en.wikipedia.org/wiki/GeoTIFF\r\nhttp://www.remotesensing.org/geotiff/spec/geotiffhome.html\r\nhttp://justsolve.archiveteam.org/wiki/GeoTIFF",
   "lastUpdatedDate": "22 Apr 2024",

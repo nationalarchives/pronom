@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The File Allocation Table is a file system architecture used across a range of computer systems. This entry aims to capture instances where the file system has been exported as a portable disk image. It may be possible and desirable to distinguish between different types of FAT image. Please contact the PRONOM team if you can assist with this.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "21 Aug 2017",

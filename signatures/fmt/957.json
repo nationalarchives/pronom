@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The DirectMusic Segment is a file format created by Microsoft. The files can be played with DirectMusic API using a Microsoft Software Synthesizer or any installed MIDI output device. DirectMusic provides DLS support, and SGT files often accompany sound banks. SGT files contain playing order and track information. Segment files always come with DirectMusic Style files, which contain all required melody pattern information.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",

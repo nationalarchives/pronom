@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "JPEG 2000 codestream (also known as J2K, J2C, or JPEG 2000 Part 1, Core Coding System) is the wavelet based compressed image format defined in Part 1 of the JPEG 2000 standard. Both lossy and lossless compression as supported.\r\n\r\nA JPEG 2000 codestream uses a variant of the JPEG format, with a nearly identical system of markers and segments.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Apr 2024",

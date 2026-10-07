@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Microsoft Excel has a built-in AutoRecover feature that has replaced the AutoSave add-in that exists in versions of Excel that are earlier than Microsoft Excel 2002. The AutoRecover feature saves copies of all open Excel files at a user-definable fixed interval. The files can be recovered if Excel closes unexpectedly, for example, during a power failure.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "03 Aug 2015",

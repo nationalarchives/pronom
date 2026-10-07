@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Universal Scene Description is a framework developed by Pixar. It is described as a system for encoding scalable, hierarchically organised, static and time-sampled data, for the primary purpose of interchanging and augmenting the data between cooperating digital content creation applications. USDA files are plain ASCII and are also known as crate files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Universal_Scene_Description",
   "lastUpdatedDate": "08 Feb 2024",

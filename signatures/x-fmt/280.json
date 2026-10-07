@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "XML Schemas Definition files define the structure, and content of XML documents. They are used to express a set of rules to which an XML document must conform in order to be considered 'valid' in accordance to the particular schema referenced.\r\nFull specifications can be found at http://www.w3.org/TR/xmlschema-0/",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "01 Nov 2011",

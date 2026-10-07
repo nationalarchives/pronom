@@ -4,7 +4,6 @@
   "version": "1.0",
   "formatDescription": "The Extensible Hypertext Markup Language (XHTML) is a reformulation of the Hypertext Markup Language (HTML) as an application of the Extensible Markup Language (XML). This allows for the automated processing of XHTML documents using a standard XML parser. XHTML 1.0 represents the reformulation of HTML 4.01 in XML. The structure and grammar of an XHTML document is defined using a Document Type Definition (DTD). An XHTML document consists of nested elements, each of which may have attributes and content. It begins with an XHTML Document Type declaration, defining the XHTML version and Document Type Definition (DTD) to which it conforms. XHTML documents are typically encoded in UTF-8 or UTF-16.",
   "releaseDate": "26 Jan 2000",
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "09 Jun 2026",

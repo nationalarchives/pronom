@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "A Mar archive is an archival container file created by the Mar utility on the Apple Macintosh. It is similar to TAR and encapsulates the Resource Fork, Data Fork, and Finder data of a classic Macintosh file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Oct 2021",

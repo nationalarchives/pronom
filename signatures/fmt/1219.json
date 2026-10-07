@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "Gnumeric is an open source spreadsheet application. The native format is an XML-based format, that is typically compressed within a GZIP container. It may be desirable to distinguish between different versions of Gnumeric spreadsheet documents. Please contact the PRONOM team if this is the case.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Feb 2019",

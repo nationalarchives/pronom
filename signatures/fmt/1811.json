@@ -4,7 +4,6 @@
   "version": null,
   "formatDescription": "The Vips file format is a native raster image format produced by the LibVips image processing library.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.libvips.org/API/current/file-format.html",
   "lastUpdatedDate": "31 Jan 2023",

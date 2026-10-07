@@ -4,7 +4,6 @@
   "version": "2007 onwards",
   "formatDescription": "From Microsoft Office 2007 onwards, the core output format of MS Word has been based on the Office Open XML (OOXML) file format. The ISO standard for OOXML is ISO/IEC DIS 29500. An OOXML file format consists of a compressed zip archive that is designated according to which file type it is. Further detail on OOXML can be found within fmt/189 - Microsoft Office Open XML. An alternative extension of .wbk refers to a backup file of a Word document, however there is no material or structural difference between a .wbk file and the .doc file it is a backup of.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Jun 2012",
