@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "https://web.archive.org/web/20220918202300/https://www.w3.org/TR/2006/REC-xml11-20060816/\r\n\r\nhttps://www.loc.gov/preservation/digital/formats/fdd/fdd000264.shtml\r\n\r\nhttps://web.archive.org/web/20210517154945/https://developer.apple.com/documentation/uniformtypeidentifiers/uttype/3551601-xml",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 295,
   "provenanceCompoundName": "Stadtarchiv Hof / Stadtarchiv Hof",
   "formatProvenance": "08/2023 (v.113)- Relationship with fmt/101 added and signature tightened to prevent clashes with fmt/92. Submitted by Preservica.",
   "formatSourceDate": "04 Oct 2022",

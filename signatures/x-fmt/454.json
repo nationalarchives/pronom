@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "https://web.archive.org/web/20120906134656/http://www.fmtz.com/formats/url-file-format/article",
   "lastUpdatedDate": "17 Apr 2024",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "Digital preservation research. Contains URL of network resource. Specific to MS Windows operating environment. Although this kind of file is not useful as a preservation target, it is important to identify it so it can be characterized as ephemeral data.; 04/2024 (v.118): Description and links added as part of PRONOM Research Week 2023. Submitted by Ross Spencer.",
   "formatSourceDate": "06 Apr 2009",

@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 231,
   "provenanceCompoundName": "New York Public Library / New York Public Library",
   "formatProvenance": "08/2023 (v.113)- Added 0 value to offset in EOF signature as null offset is causing max-offset to be ignored. Submitted by Preservica.",
   "formatSourceDate": "26 Jul 2018",

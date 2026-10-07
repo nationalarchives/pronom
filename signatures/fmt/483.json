@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000310.shtml; The official ePub spec for version 3 is maintained by https://www.w3.org/publishing/groups/epub-wg/; earlier versions (version 2) through https://idpf.org/epub/201.",
   "lastUpdatedDate": "03 Jan 2025",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures; v.120- New description, fdd library of congress identifier and notes added as part of PRONOM Research Week 2024. Submitted by Library of Congress.",
   "formatSourceDate": "18 Dec 2012",

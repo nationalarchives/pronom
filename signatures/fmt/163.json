@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "https://web.archive.org/web/20230521201727/\r\nhttps://en.wikipedia.org/wiki/Microsoft_Works\r\nhttp://fileformats.archiveteam.org/wiki/Microsoft_Works_Word_Processor\r\nhttps://docs.fileformat.com/word-processing/wps/",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Updated description to provide entry and added links to documentation. Signature updated with either or byte (\u00d0|\u00c4). Max-offset of 0 bytes added for BOF signature. Submitted by Zeitcon.",
   "formatSourceDate": "28 Sep 2009",

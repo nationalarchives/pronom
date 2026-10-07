@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "24 Jul 2017",
-  "formatSourceID": 225,
   "provenanceCompoundName": "National Library of Scotland / National Library of Scotland",
   "formatProvenance": "An implementation can be found here: https://github.com/Microsoft/microsoft-pdb/blob/master/PDB/msf/msf.cpp",
   "formatSourceDate": "24 Jul 2017",

@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/BibTeX\r\n\r\nhttp://www.heinrichfleck.net/latex/Lamport%20.pdf (Appendix B)",
   "lastUpdatedDate": "15 Nov 2023",
-  "formatSourceID": 235,
   "provenanceCompoundName": "Technische Informationsbibliothek (TIB) Hannover / Technische Informationsbibliothek (TIB) Hannover",
   "formatProvenance": "07/22 (v.107)- added BOF sequence to improve DROID performance;11/23 (v.115)- tightened signature and updated support links in note field. Submitted by Brigham Young University.\r\n08/11/23 v.115. Tightened signature.",
   "formatSourceDate": "03 Feb 2022",

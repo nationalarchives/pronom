@@ -7,7 +7,6 @@
   "binaryFileFormat": "Text",
   "formatNote": "https://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language\r\n\r\nhttps://www.w3.org/TR/SMIL3/\r\n\r\nhttp://www.telestream.net/pdfs/app-notes/app_Camera_Ingest.pdf",
   "lastUpdatedDate": "04 Oct 2024",
-  "formatSourceID": 1,
   "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "11/2024(v.120)- variable in the BOF byte sequence expanded from 20-86 to 20-256 to allow for a DOCTYPE. Submitted by Archives New Zealand and Brigham Young University.",
   "formatSourceDate": "28 Oct 2009",

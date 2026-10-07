@@ -3,7 +3,6 @@
   "version": null,
   "formatName": "Final Cut Pro XML Interchange Format",
   "formatDescription": "fcpxml is a specialised format used in Apple's Final Cut Pro which uses xml elements to describe the data exchanged between Final Cut Pro and third-party applications and tools.",
-  "formatSourceID": 299,
   "formatTypes": "Text (Mark-up)",
   "formatNote": "Note: https://fileinfo.com/extension/fcp\nhttps://www.apple.com/uk/final-cut-pro/resources/",
   "lastUpdatedDate": "04 Dec 2025",

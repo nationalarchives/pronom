@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "https://preservation.tylerthorsted.com/tag/font/\r\nhttps://web.archive.org/web/19990203113959/http://www.codamusic.com:80/down/finale/eeppd.txt\r\nhttps://en.wikipedia.org/wiki/Finale_(scorewriter)\r\nhttp://fileformats.archiveteam.org/wiki/Finale",
   "lastUpdatedDate": "16 Apr 2024",
-  "formatSourceID": 178,
   "provenanceCompoundName": "National Library of New Zealand / National Library of New Zealand",
   "formatProvenance": "04/2024 (v.118)- Removed the string 'Finale \u00ae' from signature as this can be replaced with the string 'PrintMusic \u00ae', updated description, note field and added version number. Submitted by Brigham Young University.",
   "formatSourceDate": "16 Mar 2012",

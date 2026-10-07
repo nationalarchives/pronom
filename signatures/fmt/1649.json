@@ -7,7 +7,6 @@
   "binaryFileFormat": null,
   "formatNote": "Official specification: https://www.ags.org.uk/content/uploads/2022/02/AGS4-v-4.1.1-2022.pdf\r\nOfficial website: https://www.ags.org.uk/data-format/",
   "lastUpdatedDate": "11 Nov 2024",
-  "formatSourceID": 278,
   "provenanceCompoundName": "AGS / Association of Geotechnical and Geoenvironmental Specialists",
   "formatProvenance": "v.120- Removed excess variable marker from signature, updated description and updated version number. Submitted by Ross Spencer as part of PRONOM Research Week",
   "formatSourceDate": "14 Mar 2022",

@@ -2,7 +2,6 @@
   "fileFormatID": 3949,
   "formatName": "MRtrix File Format",
   "formatDescription": "MRtrix or MIF files are associated with the MRtrix software which provides a variety of tools for diffusion MRI analysis. MIF formats are capable of handling extra data in the text header section, which stores data in binary format.",
-  "formatSourceID": 349,
   "formatTypes": "Dataset",
   "formatNote": "https://mrtrix.readthedocs.io/en/latest/index.html\nhttps://mrtrix.readthedocs.io/en/latest/getting_started/image_data.html",
   "lastUpdatedDate": "27 Nov 2025",
