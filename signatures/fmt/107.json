@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "SWF (4)",
   "formatTypes": null,
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

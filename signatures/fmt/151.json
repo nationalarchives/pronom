@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "JPF",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": "JPEG 2000",
   "identifiers": [
     {

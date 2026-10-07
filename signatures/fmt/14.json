@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "PDF (1.0)",
   "formatTypes": "Page Description",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {

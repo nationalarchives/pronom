@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured), Dataset",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {

@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "Common Object File Format, COFF, EXE",
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {

@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {

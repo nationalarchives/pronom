@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "DICOM",
   "formatTypes": "Dataset",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {

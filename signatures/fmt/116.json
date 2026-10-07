@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "BMP (3.0)",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "ODF Database (1.0)",
   "formatTypes": "Database",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "NIfTI-1 Data Format",
   "formatTypes": "Dataset",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {

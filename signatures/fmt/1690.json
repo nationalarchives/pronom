@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

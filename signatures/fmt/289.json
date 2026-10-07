@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "ISO 28500-2009, Web ARChive file format",
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {

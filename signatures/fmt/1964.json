@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "JPEG HTJ2K, High-Throughput JPEG 2000",
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": "JPEG 2000",
   "identifiers": [
     {

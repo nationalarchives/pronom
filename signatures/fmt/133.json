@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "WMV",
   "formatTypes": "Video",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

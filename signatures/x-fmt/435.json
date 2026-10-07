@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": "Rhino 3D Model (3), openNURBS (3)",
   "formatTypes": "Model",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {

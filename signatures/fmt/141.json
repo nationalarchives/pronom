@@ -16,7 +16,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": "WAVE",
   "identifiers": [
     {
