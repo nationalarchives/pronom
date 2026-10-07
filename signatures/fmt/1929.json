@@ -36,16 +36,22 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2791,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/1930"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2789,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/1928"
     }
   ],
-  "developedBy": [35],
-  "source": [299],
+  "developedBy": [
+    35
+  ],
+  "source": [
+    299
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

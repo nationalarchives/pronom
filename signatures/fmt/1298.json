@@ -36,12 +36,19 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2115,
-      "relatedFormatName": "Calendar Creator File"
+      "relatedFormatName": "Calendar Creator File",
+      "relatedFormatPUID": "fmt/1297"
     }
   ],
-  "supportedBy": [20],
-  "developedBy": [20],
-  "source": [220],
+  "supportedBy": [
+    20
+  ],
+  "developedBy": [
+    20
+  ],
+  "source": [
+    220
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

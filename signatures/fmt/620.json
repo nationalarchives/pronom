@@ -40,17 +40,25 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1417,
-      "relatedFormatName": "GeoGebra"
+      "relatedFormatName": "GeoGebra",
+      "relatedFormatPUID": "fmt/621"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1413,
-      "relatedFormatName": "GeoGebra"
+      "relatedFormatName": "GeoGebra",
+      "relatedFormatPUID": "fmt/617"
     }
   ],
-  "supportedBy": [203],
-  "developedBy": [203],
-  "source": [202],
+  "supportedBy": [
+    203
+  ],
+  "developedBy": [
+    203
+  ],
+  "source": [
+    202
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

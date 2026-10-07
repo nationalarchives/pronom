@@ -60,10 +60,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1447,
-      "relatedFormatName": "Media View Pro"
+      "relatedFormatName": "Media View Pro",
+      "relatedFormatPUID": "fmt/648"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

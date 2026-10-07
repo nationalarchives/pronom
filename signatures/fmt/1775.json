@@ -52,15 +52,23 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2549,
-      "relatedFormatName": "Calc602 Project File"
+      "relatedFormatName": "Calc602 Project File",
+      "relatedFormatPUID": "fmt/1713"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2617,
-      "relatedFormatName": "Calc602 Project File"
+      "relatedFormatName": "Calc602 Project File",
+      "relatedFormatPUID": "fmt/1767"
     }
   ],
-  "supportedBy": [4],
-  "developedBy": [4],
-  "source": [242]
+  "supportedBy": [
+    4
+  ],
+  "developedBy": [
+    4
+  ],
+  "source": [
+    242
+  ]
 }

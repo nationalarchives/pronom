@@ -60,15 +60,23 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2844,
-      "relatedFormatName": "ICC Profile"
+      "relatedFormatName": "ICC Profile",
+      "relatedFormatPUID": "fmt/1977"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2842,
-      "relatedFormatName": "ICC Profile"
+      "relatedFormatName": "ICC Profile",
+      "relatedFormatPUID": "fmt/1975"
     }
   ],
-  "supportedBy": [328],
-  "developedBy": [328],
-  "source": [162]
+  "supportedBy": [
+    328
+  ],
+  "developedBy": [
+    328
+  ],
+  "source": [
+    162
+  ]
 }

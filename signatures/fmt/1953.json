@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2819,
-      "relatedFormatName": "Zoom Project Settings"
+      "relatedFormatName": "Zoom Project Settings",
+      "relatedFormatPUID": "fmt/1954"
     }
   ],
-  "supportedBy": [337],
-  "developedBy": [337],
-  "source": [299]
+  "supportedBy": [
+    337
+  ],
+  "developedBy": [
+    337
+  ],
+  "source": [
+    299
+  ]
 }

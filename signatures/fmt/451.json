@@ -56,10 +56,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1485,
-      "relatedFormatName": "Vectorworks"
+      "relatedFormatName": "Vectorworks",
+      "relatedFormatPUID": "fmt/686"
     }
   ],
-  "supportedBy": [211],
-  "developedBy": [211],
-  "source": [1]
+  "supportedBy": [
+    211
+  ],
+  "developedBy": [
+    211
+  ],
+  "source": [
+    1
+  ]
 }

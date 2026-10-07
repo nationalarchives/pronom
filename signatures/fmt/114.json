@@ -64,8 +64,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 728,
-      "relatedFormatName": "Windows Bitmap"
+      "relatedFormatName": "Windows Bitmap",
+      "relatedFormatPUID": "fmt/115"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

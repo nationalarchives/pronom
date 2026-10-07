@@ -67,8 +67,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1902,
-      "relatedFormatName": "The Neuroimaging Informatics Technology Initiative File Format"
+      "relatedFormatName": "The Neuroimaging Informatics Technology Initiative File Format",
+      "relatedFormatPUID": "fmt/1094"
     }
   ],
-  "source": [215]
+  "source": [
+    215
+  ]
 }

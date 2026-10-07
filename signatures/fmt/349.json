@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1093,
-      "relatedFormatName": "Paint Shop Pro Image"
+      "relatedFormatName": "Paint Shop Pro Image",
+      "relatedFormatPUID": "fmt/348"
     }
   ],
-  "source": [165]
+  "source": [
+    165
+  ]
 }

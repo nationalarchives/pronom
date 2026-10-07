@@ -60,20 +60,29 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 679,
-      "relatedFormatName": "Microsoft Excel 3.0 Worksheet (xls)"
+      "relatedFormatName": "Microsoft Excel 3.0 Worksheet (xls)",
+      "relatedFormatPUID": "fmt/56"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1341,
-      "relatedFormatName": "Microsoft Excel Chart"
+      "relatedFormatName": "Microsoft Excel Chart",
+      "relatedFormatPUID": "fmt/553"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1343,
-      "relatedFormatName": "Microsoft Excel Macro"
+      "relatedFormatName": "Microsoft Excel Macro",
+      "relatedFormatPUID": "fmt/555"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

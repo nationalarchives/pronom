@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 3891,
-      "relatedFormatName": "GraphPad Prism"
+      "relatedFormatName": "GraphPad Prism",
+      "relatedFormatPUID": "fmt/2017"
     }
   ],
-  "source": [192]
+  "source": [
+    192
+  ]
 }

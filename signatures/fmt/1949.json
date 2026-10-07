@@ -60,13 +60,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2813,
-      "relatedFormatName": "Common Data Format dotCDF"
+      "relatedFormatName": "Common Data Format dotCDF",
+      "relatedFormatPUID": "fmt/1950"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2810,
-      "relatedFormatName": "Common Data Format dotCDF"
+      "relatedFormatName": "Common Data Format dotCDF",
+      "relatedFormatPUID": "fmt/1948"
     }
   ],
-  "source": [244]
+  "source": [
+    244
+  ]
 }

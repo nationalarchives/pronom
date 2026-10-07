@@ -40,10 +40,13 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 360,
-      "relatedFormatName": "Microsoft Project"
+      "relatedFormatName": "Microsoft Project",
+      "relatedFormatPUID": "x-fmt/244"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

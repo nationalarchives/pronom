@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1634,
-      "relatedFormatName": "Open Inventor File Format"
+      "relatedFormatName": "Open Inventor File Format",
+      "relatedFormatPUID": "fmt/833"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

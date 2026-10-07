@@ -70,13 +70,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1037,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/294"
     }
   ],
-  "source": [244]
+  "source": [
+    244
+  ]
 }

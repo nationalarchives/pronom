@@ -47,159 +47,194 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 779,
-      "relatedFormatName": "OpenDocument Text"
+      "relatedFormatName": "OpenDocument Text",
+      "relatedFormatPUID": "fmt/136"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 780,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/137"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 781,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/138"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 782,
-      "relatedFormatName": "OpenDocument Graphics"
+      "relatedFormatName": "OpenDocument Graphics",
+      "relatedFormatPUID": "fmt/139"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 783,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/140"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1206,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/424"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1231,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/444"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2599,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/1752"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2600,
-      "relatedFormatName": "OpenDocument Graphics"
+      "relatedFormatName": "OpenDocument Graphics",
+      "relatedFormatPUID": "fmt/1753"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2602,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/1754"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2603,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/1755"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2604,
-      "relatedFormatName": "OpenDocument Text"
+      "relatedFormatName": "OpenDocument Text",
+      "relatedFormatPUID": "fmt/1756"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 777,
-      "relatedFormatName": "Java Archive Format"
+      "relatedFormatName": "Java Archive Format",
+      "relatedFormatPUID": "x-fmt/412"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 779,
-      "relatedFormatName": "OpenDocument Text"
+      "relatedFormatName": "OpenDocument Text",
+      "relatedFormatPUID": "fmt/136"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 780,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/137"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 781,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/138"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 782,
-      "relatedFormatName": "OpenDocument Graphics"
+      "relatedFormatName": "OpenDocument Graphics",
+      "relatedFormatPUID": "fmt/139"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 783,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/140"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1206,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/424"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1231,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/444"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2599,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/1752"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2600,
-      "relatedFormatName": "OpenDocument Graphics"
+      "relatedFormatName": "OpenDocument Graphics",
+      "relatedFormatPUID": "fmt/1753"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2602,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/1754"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2603,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/1755"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2604,
-      "relatedFormatName": "OpenDocument Text"
+      "relatedFormatName": "OpenDocument Text",
+      "relatedFormatPUID": "fmt/1756"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3919,
-      "relatedFormatName": "OpenDocument Text"
+      "relatedFormatName": "OpenDocument Text",
+      "relatedFormatPUID": "fmt/2044"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3923,
-      "relatedFormatName": "OpenDocument Graphics"
+      "relatedFormatName": "OpenDocument Graphics",
+      "relatedFormatPUID": "fmt/2048"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3922,
-      "relatedFormatName": "OpenDocument Database"
+      "relatedFormatName": "OpenDocument Database",
+      "relatedFormatPUID": "fmt/2047"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3920,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/2045"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3921,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/2046"
     }
   ],
-  "developedBy": [127],
-  "source": [1]
+  "developedBy": [
+    127
+  ],
+  "source": [
+    1
+  ]
 }

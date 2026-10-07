@@ -40,12 +40,19 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 975,
-      "relatedFormatName": "Keyhole Markup Language (XML)"
+      "relatedFormatName": "Keyhole Markup Language (XML)",
+      "relatedFormatPUID": "fmt/244"
     }
   ],
-  "supportedBy": [141],
-  "developedBy": [141],
-  "source": [1],
+  "supportedBy": [
+    141
+  ],
+  "developedBy": [
+    141
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

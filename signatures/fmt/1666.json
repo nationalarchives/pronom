@@ -52,23 +52,29 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2503,
-      "relatedFormatName": "Roxio Easy Media Creator - Classic Creator File"
+      "relatedFormatName": "Roxio Easy Media Creator - Classic Creator File",
+      "relatedFormatPUID": "fmt/1667"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2504,
-      "relatedFormatName": "Roxio Easy Media Creator Layout"
+      "relatedFormatName": "Roxio Easy Media Creator Layout",
+      "relatedFormatPUID": "fmt/1668"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2505,
-      "relatedFormatName": "Roxio Data Project File"
+      "relatedFormatName": "Roxio Data Project File",
+      "relatedFormatPUID": "fmt/1669"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2501,
-      "relatedFormatName": "Easy CD Creator Layout | Roxio Easy CD Creator Layout"
+      "relatedFormatName": "Easy CD Creator Layout | Roxio Easy CD Creator Layout",
+      "relatedFormatPUID": "fmt/1665"
     }
   ],
-  "source": [220]
+  "source": [
+    220
+  ]
 }

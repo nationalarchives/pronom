@@ -36,8 +36,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2439,
-      "relatedFormatName": "XBIN (eXtended BIN)"
+      "relatedFormatName": "XBIN (eXtended BIN)",
+      "relatedFormatPUID": "fmt/1612"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

@@ -44,31 +44,40 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 2555,
-      "relatedFormatName": "PageMaker Mac Document"
+      "relatedFormatName": "PageMaker Mac Document",
+      "relatedFormatPUID": "fmt/1719"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1680,
-      "relatedFormatName": "Pagemaker Document (Generic)"
+      "relatedFormatName": "Pagemaker Document (Generic)",
+      "relatedFormatPUID": "fmt/876"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 254,
-      "relatedFormatName": "PageMaker PC Document"
+      "relatedFormatName": "PageMaker PC Document",
+      "relatedFormatPUID": "x-fmt/181"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2554,
-      "relatedFormatName": "PageMaker Mac Document"
+      "relatedFormatName": "PageMaker Mac Document",
+      "relatedFormatPUID": "fmt/1718"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 246,
-      "relatedFormatName": "PageMaker PC Document"
+      "relatedFormatName": "PageMaker PC Document",
+      "relatedFormatPUID": "x-fmt/173"
     }
   ],
-  "developedBy": [7],
-  "source": [1],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

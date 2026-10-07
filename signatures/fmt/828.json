@@ -56,13 +56,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2375,
-      "relatedFormatName": "MATLAB Mat File"
+      "relatedFormatName": "MATLAB Mat File",
+      "relatedFormatPUID": "fmt/1550"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1606,
-      "relatedFormatName": "MATLAB Mat File"
+      "relatedFormatName": "MATLAB Mat File",
+      "relatedFormatPUID": "fmt/806"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

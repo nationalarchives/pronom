@@ -56,18 +56,23 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2746,
-      "relatedFormatName": "Memory Stick Voice File (MSV)"
+      "relatedFormatName": "Memory Stick Voice File (MSV)",
+      "relatedFormatPUID": "fmt/1890"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2747,
-      "relatedFormatName": "Digital Voice File (DVF)"
+      "relatedFormatName": "Digital Voice File (DVF)",
+      "relatedFormatPUID": "fmt/1891"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2748,
-      "relatedFormatName": "Memory Stick Voice File (MSV)/Digital Voice File (DVF)"
+      "relatedFormatName": "Memory Stick Voice File (MSV)/Digital Voice File (DVF)",
+      "relatedFormatPUID": "fmt/1892"
     }
   ],
-  "source": [183]
+  "source": [
+    183
+  ]
 }

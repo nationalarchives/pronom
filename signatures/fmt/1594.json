@@ -60,13 +60,17 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 2427,
-      "relatedFormatName": "ESRI ArcInfo DAT File (Internal)"
+      "relatedFormatName": "ESRI ArcInfo DAT File (Internal)",
+      "relatedFormatPUID": "fmt/1600"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2422,
-      "relatedFormatName": "Canon Raw"
+      "relatedFormatName": "Canon Raw",
+      "relatedFormatPUID": "fmt/1595"
     }
   ],
-  "source": [234]
+  "source": [
+    234
+  ]
 }

@@ -56,8 +56,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1828,
-      "relatedFormatName": "Statistical Analysis System Catalog (Windows)"
+      "relatedFormatName": "Statistical Analysis System Catalog (Windows)",
+      "relatedFormatPUID": "fmt/1023"
     }
   ],
-  "source": [192]
+  "source": [
+    192
+  ]
 }

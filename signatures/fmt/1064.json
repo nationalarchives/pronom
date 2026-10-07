@@ -52,13 +52,17 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1874,
-      "relatedFormatName": "Silo"
+      "relatedFormatName": "Silo",
+      "relatedFormatPUID": "fmt/1067"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1872,
-      "relatedFormatName": "Portable Database"
+      "relatedFormatName": "Portable Database",
+      "relatedFormatPUID": "fmt/1065"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

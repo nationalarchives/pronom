@@ -60,14 +60,20 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 688,
-      "relatedFormatName": "Microsoft Word Document"
+      "relatedFormatName": "Microsoft Word Document",
+      "relatedFormatPUID": "fmt/39"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 733,
-      "relatedFormatName": "Microsoft Word for Windows Document"
+      "relatedFormatName": "Microsoft Word for Windows Document",
+      "relatedFormatPUID": "fmt/37"
     }
   ],
-  "developedBy": [93],
-  "source": [1]
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

@@ -52,13 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2005,
-      "relatedFormatName": "ZModeler Z3D"
+      "relatedFormatName": "ZModeler Z3D",
+      "relatedFormatPUID": "fmt/1195"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2003,
-      "relatedFormatName": "ZModeler Z3D"
+      "relatedFormatName": "ZModeler Z3D",
+      "relatedFormatPUID": "fmt/1193"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

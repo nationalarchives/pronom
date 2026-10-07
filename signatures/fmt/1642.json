@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2002,
-      "relatedFormatName": "Adobe InDesign Library"
+      "relatedFormatName": "Adobe InDesign Library",
+      "relatedFormatPUID": "fmt/1192"
     }
   ],
-  "source": [220]
+  "source": [
+    220
+  ]
 }

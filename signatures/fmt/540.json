@@ -52,13 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1990,
-      "relatedFormatName": "Cinema 4D"
+      "relatedFormatName": "Cinema 4D",
+      "relatedFormatPUID": "fmt/1180"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1194,
-      "relatedFormatName": "Cinema 4D"
+      "relatedFormatName": "Cinema 4D",
+      "relatedFormatPUID": "fmt/415"
     }
   ],
-  "source": [165]
+  "source": [
+    165
+  ]
 }

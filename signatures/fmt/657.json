@@ -44,15 +44,19 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1630,
-      "relatedFormatName": "3MF 3D Manufacturing Format"
+      "relatedFormatName": "3MF 3D Manufacturing Format",
+      "relatedFormatPUID": "fmt/829"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1782,
-      "relatedFormatName": "AutoCAD Design Web Format(DWFx)"
+      "relatedFormatName": "AutoCAD Design Web Format(DWFx)",
+      "relatedFormatPUID": "fmt/977"
     }
   ],
-  "source": [207],
+  "source": [
+    207
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

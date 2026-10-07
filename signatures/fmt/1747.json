@@ -60,10 +60,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2594,
-      "relatedFormatName": "Microsoft PowerPoint Presentation"
+      "relatedFormatName": "Microsoft PowerPoint Presentation",
+      "relatedFormatPUID": "fmt/1748"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [220]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    220
+  ]
 }

@@ -52,10 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2741,
-      "relatedFormatName": "Resource Interchange File Format (RIFF)"
+      "relatedFormatName": "Resource Interchange File Format (RIFF)",
+      "relatedFormatPUID": "fmt/1886"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

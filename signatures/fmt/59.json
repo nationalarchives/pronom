@@ -48,32 +48,43 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 684,
-      "relatedFormatName": "Microsoft Excel 97-2003 Workbook (xls)"
+      "relatedFormatName": "Microsoft Excel 97-2003 Workbook (xls)",
+      "relatedFormatPUID": "fmt/61"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 680,
-      "relatedFormatName": "Microsoft Excel 4.0 Worksheet (xls)"
+      "relatedFormatName": "Microsoft Excel 4.0 Worksheet (xls)",
+      "relatedFormatPUID": "fmt/57"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 681,
-      "relatedFormatName": "Microsoft Excel 4.0 Workbook (xls)"
+      "relatedFormatName": "Microsoft Excel 4.0 Workbook (xls)",
+      "relatedFormatPUID": "fmt/58"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

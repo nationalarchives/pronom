@@ -76,27 +76,37 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 135,
-      "relatedFormatName": "Microsoft Powerpoint Presentation"
+      "relatedFormatName": "Microsoft Powerpoint Presentation",
+      "relatedFormatPUID": "fmt/126"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 134,
-      "relatedFormatName": "Microsoft Powerpoint Presentation"
+      "relatedFormatName": "Microsoft Powerpoint Presentation",
+      "relatedFormatPUID": "fmt/125"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2594,
-      "relatedFormatName": "Microsoft PowerPoint Presentation"
+      "relatedFormatName": "Microsoft PowerPoint Presentation",
+      "relatedFormatPUID": "fmt/1748"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

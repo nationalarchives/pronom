@@ -88,14 +88,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 670,
-      "relatedFormatName": "Raw JPEG Stream"
+      "relatedFormatName": "Raw JPEG Stream",
+      "relatedFormatPUID": "fmt/41"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 668,
-      "relatedFormatName": "JPEG File Interchange Format"
+      "relatedFormatName": "JPEG File Interchange Format",
+      "relatedFormatPUID": "fmt/43"
     }
   ],
-  "developedBy": [120],
-  "source": [1]
+  "developedBy": [
+    120
+  ],
+  "source": [
+    1
+  ]
 }

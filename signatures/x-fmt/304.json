@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 87,
-      "relatedFormatName": "Macromedia Freehand"
+      "relatedFormatName": "Macromedia Freehand",
+      "relatedFormatPUID": "x-fmt/53"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

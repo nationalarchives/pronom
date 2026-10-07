@@ -60,20 +60,29 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1769,
-      "relatedFormatName": "Final Draft Document"
+      "relatedFormatName": "Final Draft Document",
+      "relatedFormatPUID": "fmt/964"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
-  "supportedBy": [158],
-  "developedBy": [158],
-  "source": [295]
+  "supportedBy": [
+    158
+  ],
+  "developedBy": [
+    158
+  ],
+  "source": [
+    295
+  ]
 }

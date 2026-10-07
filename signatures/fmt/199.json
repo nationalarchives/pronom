@@ -84,33 +84,41 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1103,
-      "relatedFormatName": "3GPP Audio/Video File"
+      "relatedFormatName": "3GPP Audio/Video File",
+      "relatedFormatPUID": "fmt/357"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1388,
-      "relatedFormatName": "Apple Lossless Audio Codec"
+      "relatedFormatName": "Apple Lossless Audio Codec",
+      "relatedFormatPUID": "fmt/596"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2422,
-      "relatedFormatName": "Canon Raw"
+      "relatedFormatName": "Canon Raw",
+      "relatedFormatPUID": "fmt/1595"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 658,
-      "relatedFormatName": "Quicktime"
+      "relatedFormatName": "Quicktime",
+      "relatedFormatPUID": "x-fmt/384"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2443,
-      "relatedFormatName": "BibTeX Database File"
+      "relatedFormatName": "BibTeX Database File",
+      "relatedFormatPUID": "fmt/1616"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3971,
-      "relatedFormatName": "M4A Audio"
+      "relatedFormatName": "M4A Audio",
+      "relatedFormatPUID": "fmt/2094"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

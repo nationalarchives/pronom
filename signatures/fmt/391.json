@@ -52,9 +52,14 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1138,
-      "relatedFormatName": "Log ASCII Standard Format"
+      "relatedFormatName": "Log ASCII Standard Format",
+      "relatedFormatPUID": "fmt/390"
     }
   ],
-  "developedBy": [176],
-  "source": [1]
+  "developedBy": [
+    176
+  ],
+  "source": [
+    1
+  ]
 }

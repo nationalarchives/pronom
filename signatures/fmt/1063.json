@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1099,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/353"
     }
   ],
-  "source": [227]
+  "source": [
+    227
+  ]
 }

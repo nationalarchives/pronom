@@ -31,8 +31,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1091,
-      "relatedFormatName": "Microsoft Word for Macintosh Document"
+      "relatedFormatName": "Microsoft Word for Macintosh Document",
+      "relatedFormatPUID": "fmt/346"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

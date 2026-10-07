@@ -56,18 +56,23 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 714,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/68"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 699,
-      "relatedFormatName": "AutoCAD Drawing"
+      "relatedFormatName": "AutoCAD Drawing",
+      "relatedFormatPUID": "fmt/26"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 697,
-      "relatedFormatName": "AutoCAD Drawing"
+      "relatedFormatName": "AutoCAD Drawing",
+      "relatedFormatPUID": "fmt/24"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

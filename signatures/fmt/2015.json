@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1454,
-      "relatedFormatName": "KryoFlux"
+      "relatedFormatName": "KryoFlux",
+      "relatedFormatPUID": "fmt/655"
     }
   ],
-  "source": [355]
+  "source": [
+    355
+  ]
 }

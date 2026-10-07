@@ -52,13 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1497,
-      "relatedFormatName": "Standard for the Exchange of Product model data"
+      "relatedFormatName": "Standard for the Exchange of Product model data",
+      "relatedFormatPUID": "fmt/698"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1499,
-      "relatedFormatName": "Industry Foundation Classes"
+      "relatedFormatName": "Industry Foundation Classes",
+      "relatedFormatPUID": "fmt/700"
     }
   ],
-  "source": [212]
+  "source": [
+    212
+  ]
 }

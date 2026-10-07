@@ -44,8 +44,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 923,
-      "relatedFormatName": "MPEG Audio Stream Layer II"
+      "relatedFormatName": "MPEG Audio Stream Layer II",
+      "relatedFormatPUID": "fmt/198"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

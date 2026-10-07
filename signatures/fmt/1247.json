@@ -56,8 +56,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2064,
-      "relatedFormatName": "SOSI"
+      "relatedFormatName": "SOSI",
+      "relatedFormatPUID": "fmt/1246"
     }
   ],
-  "source": [243]
+  "source": [
+    243
+  ]
 }

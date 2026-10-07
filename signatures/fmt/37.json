@@ -60,9 +60,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 734,
-      "relatedFormatName": "Microsoft Word for Windows Document"
+      "relatedFormatName": "Microsoft Word for Windows Document",
+      "relatedFormatPUID": "fmt/38"
     }
   ],
-  "developedBy": [93],
-  "source": [1]
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

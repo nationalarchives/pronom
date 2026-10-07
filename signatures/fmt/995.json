@@ -36,12 +36,19 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2006,
-      "relatedFormatName": "SIARD (Software-Independent Archiving of Relational Databases)"
+      "relatedFormatName": "SIARD (Software-Independent Archiving of Relational Databases)",
+      "relatedFormatPUID": "fmt/1196"
     }
   ],
-  "supportedBy": [143],
-  "developedBy": [143],
-  "source": [199],
+  "supportedBy": [
+    143
+  ],
+  "developedBy": [
+    143
+  ],
+  "source": [
+    199
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

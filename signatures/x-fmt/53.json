@@ -56,10 +56,17 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 458,
-      "relatedFormatName": "Aldus Freehand Drawing"
+      "relatedFormatName": "Aldus Freehand Drawing",
+      "relatedFormatPUID": "x-fmt/304"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [56],
-  "source": [165]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    56
+  ],
+  "source": [
+    165
+  ]
 }

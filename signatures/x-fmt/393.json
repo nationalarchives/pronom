@@ -72,18 +72,23 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2702,
-      "relatedFormatName": "WordPerfect Macro File"
+      "relatedFormatName": "WordPerfect Macro File",
+      "relatedFormatPUID": "fmt/1850"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 737,
-      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document"
+      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document",
+      "relatedFormatPUID": "x-fmt/394"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1754,
-      "relatedFormatName": "WordPerfect"
+      "relatedFormatName": "WordPerfect",
+      "relatedFormatPUID": "fmt/949"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

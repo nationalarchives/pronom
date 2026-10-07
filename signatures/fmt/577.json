@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1366,
-      "relatedFormatName": "Image Cytometry Standard"
+      "relatedFormatName": "Image Cytometry Standard",
+      "relatedFormatPUID": "fmt/578"
     }
   ],
-  "source": [192]
+  "source": [
+    192
+  ]
 }

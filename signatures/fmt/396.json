@@ -71,8 +71,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2798,
-      "relatedFormatName": "Amazon Kindle eBook File"
+      "relatedFormatName": "Amazon Kindle eBook File",
+      "relatedFormatPUID": "fmt/1937"
     }
   ],
-  "source": [178]
+  "source": [
+    178
+  ]
 }

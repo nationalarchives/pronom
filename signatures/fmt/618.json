@@ -56,10 +56,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1415,
-      "relatedFormatName": "GeoGebra"
+      "relatedFormatName": "GeoGebra",
+      "relatedFormatPUID": "fmt/619"
     }
   ],
-  "supportedBy": [203],
-  "developedBy": [203],
-  "source": [202]
+  "supportedBy": [
+    203
+  ],
+  "developedBy": [
+    203
+  ],
+  "source": [
+    202
+  ]
 }

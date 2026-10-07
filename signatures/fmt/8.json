@@ -31,18 +31,23 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 672,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/387"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 673,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/388"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 752,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/399"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

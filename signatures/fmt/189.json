@@ -47,10 +47,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

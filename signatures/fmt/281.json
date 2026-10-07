@@ -52,13 +52,17 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1020,
-      "relatedFormatName": "LaTeX (Master document)"
+      "relatedFormatName": "LaTeX (Master document)",
+      "relatedFormatPUID": "fmt/280"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

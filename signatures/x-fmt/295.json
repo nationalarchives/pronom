@@ -56,14 +56,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 78,
-      "relatedFormatName": "Micrografx Draw"
+      "relatedFormatName": "Micrografx Draw",
+      "relatedFormatPUID": "x-fmt/47"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 447,
-      "relatedFormatName": "Micrografx Draw"
+      "relatedFormatName": "Micrografx Draw",
+      "relatedFormatPUID": "x-fmt/294"
     }
   ],
-  "supportedBy": [35],
-  "source": [1]
+  "supportedBy": [
+    35
+  ],
+  "source": [
+    1
+  ]
 }

@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2374,
-      "relatedFormatName": "Bentley Microstation Hidden Line File"
+      "relatedFormatName": "Bentley Microstation Hidden Line File",
+      "relatedFormatPUID": "fmt/1549"
     }
   ],
-  "source": [216]
+  "source": [
+    216
+  ]
 }

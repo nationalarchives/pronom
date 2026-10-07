@@ -31,9 +31,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2612,
-      "relatedFormatName": "MacBinary"
+      "relatedFormatName": "MacBinary",
+      "relatedFormatPUID": "fmt/1762"
     }
   ],
-  "developedBy": [15],
-  "source": [220]
+  "developedBy": [
+    15
+  ],
+  "source": [
+    220
+  ]
 }

@@ -56,9 +56,12 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1755,
-      "relatedFormatName": "MIME Email"
+      "relatedFormatName": "MIME Email",
+      "relatedFormatPUID": "fmt/950"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": []
 }

@@ -64,15 +64,23 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2212,
-      "relatedFormatName": "Drawing Interchange Format (Binary)"
+      "relatedFormatName": "Drawing Interchange Format (Binary)",
+      "relatedFormatPUID": "fmt/1394"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2210,
-      "relatedFormatName": "Drawing Interchange Format (Binary)"
+      "relatedFormatName": "Drawing Interchange Format (Binary)",
+      "relatedFormatPUID": "fmt/1392"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [220]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "source": [
+    220
+  ]
 }

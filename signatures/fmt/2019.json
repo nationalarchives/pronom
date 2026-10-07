@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 3894,
-      "relatedFormatName": "askSam Document for Windows"
+      "relatedFormatName": "askSam Document for Windows",
+      "relatedFormatPUID": "fmt/2020"
     }
   ],
-  "source": [299]
+  "source": [
+    299
+  ]
 }

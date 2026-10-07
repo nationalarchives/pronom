@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1298,
-      "relatedFormatName": "PowerProject"
+      "relatedFormatName": "PowerProject",
+      "relatedFormatPUID": "fmt/511"
     }
   ],
-  "supportedBy": [189],
-  "developedBy": [189],
-  "source": [189]
+  "supportedBy": [
+    189
+  ],
+  "developedBy": [
+    189
+  ],
+  "source": [
+    189
+  ]
 }

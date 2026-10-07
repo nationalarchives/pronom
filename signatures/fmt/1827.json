@@ -44,12 +44,19 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1160,
-      "relatedFormatName": "Microsoft Word for Windows"
+      "relatedFormatName": "Microsoft Word for Windows",
+      "relatedFormatPUID": "fmt/412"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [301],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    301
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

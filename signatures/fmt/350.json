@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1096,
-      "relatedFormatName": "Paradox Database Table"
+      "relatedFormatName": "Paradox Database Table",
+      "relatedFormatPUID": "fmt/351"
     }
   ],
-  "source": [165]
+  "source": [
+    165
+  ]
 }

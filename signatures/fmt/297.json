@@ -60,16 +60,22 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1039,
-      "relatedFormatName": "OpenDocument Graphics"
+      "relatedFormatName": "OpenDocument Graphics",
+      "relatedFormatPUID": "fmt/296"
     }
   ],
-  "developedBy": [127],
-  "source": [1],
+  "developedBy": [
+    127
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

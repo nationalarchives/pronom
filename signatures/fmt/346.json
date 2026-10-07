@@ -60,25 +60,35 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 8,
-      "relatedFormatName": "Microsoft Word for Macintosh Document"
+      "relatedFormatName": "Microsoft Word for Macintosh Document",
+      "relatedFormatPUID": "x-fmt/1"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 11,
-      "relatedFormatName": "Microsoft Word for Macintosh Document"
+      "relatedFormatName": "Microsoft Word for Macintosh Document",
+      "relatedFormatPUID": "x-fmt/2"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 105,
-      "relatedFormatName": "Microsoft Word for Macintosh Document"
+      "relatedFormatName": "Microsoft Word for Macintosh Document",
+      "relatedFormatPUID": "x-fmt/64"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 106,
-      "relatedFormatName": "Microsoft Word for Macintosh Document"
+      "relatedFormatName": "Microsoft Word for Macintosh Document",
+      "relatedFormatPUID": "x-fmt/65"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [165]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    165
+  ]
 }

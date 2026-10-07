@@ -56,8 +56,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2645,
-      "relatedFormatName": "Asymetrix Toolbook File"
+      "relatedFormatName": "Asymetrix Toolbook File",
+      "relatedFormatPUID": "fmt/1795"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

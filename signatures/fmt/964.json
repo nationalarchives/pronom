@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2697,
-      "relatedFormatName": "Final Draft Document"
+      "relatedFormatName": "Final Draft Document",
+      "relatedFormatPUID": "fmt/1845"
     }
   ],
-  "supportedBy": [158],
-  "developedBy": [158],
-  "source": [217]
+  "supportedBy": [
+    158
+  ],
+  "developedBy": [
+    158
+  ],
+  "source": [
+    217
+  ]
 }

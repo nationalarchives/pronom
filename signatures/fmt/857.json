@@ -56,20 +56,29 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1659,
-      "relatedFormatName": "Navisworks Document"
+      "relatedFormatName": "Navisworks Document",
+      "relatedFormatPUID": "fmt/858"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1660,
-      "relatedFormatName": "Navisworks Document"
+      "relatedFormatName": "Navisworks Document",
+      "relatedFormatPUID": "fmt/859"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1661,
-      "relatedFormatName": "Navisworks Document"
+      "relatedFormatName": "Navisworks Document",
+      "relatedFormatPUID": "fmt/860"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [1]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "source": [
+    1
+  ]
 }

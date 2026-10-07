@@ -52,14 +52,20 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2421,
-      "relatedFormatName": "ESRI ArcInfo DAT File (External)"
+      "relatedFormatName": "ESRI ArcInfo DAT File (External)",
+      "relatedFormatPUID": "fmt/1594"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 924,
-      "relatedFormatName": "MPEG-4 Media File"
+      "relatedFormatName": "MPEG-4 Media File",
+      "relatedFormatPUID": "fmt/199"
     }
   ],
-  "supportedBy": [197],
-  "source": [220]
+  "supportedBy": [
+    197
+  ],
+  "source": [
+    220
+  ]
 }

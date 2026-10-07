@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1656,
-      "relatedFormatName": "Personal Ancestral File (PAF)"
+      "relatedFormatName": "Personal Ancestral File (PAF)",
+      "relatedFormatPUID": "fmt/855"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

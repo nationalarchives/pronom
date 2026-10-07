@@ -60,15 +60,23 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 645,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/96"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

@@ -56,28 +56,35 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 429,
-      "relatedFormatName": "XML Schema Definition"
+      "relatedFormatName": "XML Schema Definition",
+      "relatedFormatPUID": "x-fmt/280"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1852,
-      "relatedFormatName": "Geography Markup Language"
+      "relatedFormatName": "Geography Markup Language",
+      "relatedFormatPUID": "fmt/1047"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1852,
-      "relatedFormatName": "Geography Markup Language"
+      "relatedFormatName": "Geography Markup Language",
+      "relatedFormatPUID": "fmt/1047"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3915,
-      "relatedFormatName": "CityGML File"
+      "relatedFormatName": "CityGML File",
+      "relatedFormatPUID": "fmt/2040"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

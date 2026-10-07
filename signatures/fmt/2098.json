@@ -42,8 +42,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 3974,
-      "relatedFormatName": "GGML Universal File (GGUF)"
+      "relatedFormatName": "GGML Universal File (GGUF)",
+      "relatedFormatPUID": "fmt/2097"
     }
   ],
-  "source": [244]
+  "source": [
+    244
+  ]
 }

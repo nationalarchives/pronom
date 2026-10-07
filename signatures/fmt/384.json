@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 506,
-      "relatedFormatName": "Microsoft FoxPro Memo"
+      "relatedFormatName": "Microsoft FoxPro Memo",
+      "relatedFormatPUID": "x-fmt/342"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

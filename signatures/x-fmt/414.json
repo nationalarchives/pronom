@@ -56,25 +56,35 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 306,
-      "relatedFormatName": "Microsoft Powerpoint Packaged Presentation"
+      "relatedFormatName": "Microsoft Powerpoint Packaged Presentation",
+      "relatedFormatPUID": "x-fmt/216"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1792,
-      "relatedFormatName": "Microsoft OneNote Package File"
+      "relatedFormatName": "Microsoft OneNote Package File",
+      "relatedFormatPUID": "fmt/987"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2305,
-      "relatedFormatName": "Access Report Snapshot"
+      "relatedFormatName": "Access Report Snapshot",
+      "relatedFormatPUID": "fmt/1482"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2691,
-      "relatedFormatName": "Microsoft Publisher Packaged Document"
+      "relatedFormatName": "Microsoft Publisher Packaged Document",
+      "relatedFormatPUID": "fmt/1839"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

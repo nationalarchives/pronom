@@ -68,23 +68,29 @@
     {
       "relationshipType": "Can contain",
       "relatedFormatID": 1439,
-      "relatedFormatName": "MPEG-2 Elementary Stream"
+      "relatedFormatName": "MPEG-2 Elementary Stream",
+      "relatedFormatPUID": "fmt/640"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1207,
-      "relatedFormatName": "Video Object File (MPEG-2 subset)"
+      "relatedFormatName": "Video Object File (MPEG-2 subset)",
+      "relatedFormatPUID": "fmt/425"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 659,
-      "relatedFormatName": "MPEG-1 Program Stream"
+      "relatedFormatName": "MPEG-1 Program Stream",
+      "relatedFormatPUID": "x-fmt/385"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1207,
-      "relatedFormatName": "Video Object File (MPEG-2 subset)"
+      "relatedFormatName": "Video Object File (MPEG-2 subset)",
+      "relatedFormatPUID": "fmt/425"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

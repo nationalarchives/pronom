@@ -52,35 +52,47 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 639,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/97"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 640,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/98"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 641,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/99"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 642,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/100"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 645,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/96"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1258,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/471"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [178]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    178
+  ]
 }

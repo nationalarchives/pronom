@@ -60,8 +60,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 795,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/152"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1872,
-      "relatedFormatName": "Portable Database"
+      "relatedFormatName": "Portable Database",
+      "relatedFormatPUID": "fmt/1065"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

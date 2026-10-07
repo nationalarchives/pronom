@@ -72,28 +72,35 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2702,
-      "relatedFormatName": "WordPerfect Macro File"
+      "relatedFormatName": "WordPerfect Macro File",
+      "relatedFormatPUID": "fmt/1850"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2098,
-      "relatedFormatName": "NCH Dictation Audio File"
+      "relatedFormatName": "NCH Dictation Audio File",
+      "relatedFormatPUID": "fmt/1280"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 75,
-      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document"
+      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document",
+      "relatedFormatPUID": "x-fmt/44"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 281,
-      "relatedFormatName": "WordPerfect for Windows Document"
+      "relatedFormatName": "WordPerfect for Windows Document",
+      "relatedFormatPUID": "x-fmt/203"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 736,
-      "relatedFormatName": "WordPerfect for MS-DOS Document"
+      "relatedFormatName": "WordPerfect for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/393"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

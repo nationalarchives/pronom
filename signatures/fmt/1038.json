@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1380,
-      "relatedFormatName": "Redcode RAW (R3D) Media File"
+      "relatedFormatName": "Redcode RAW (R3D) Media File",
+      "relatedFormatPUID": "fmt/588"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

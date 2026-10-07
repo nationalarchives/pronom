@@ -56,10 +56,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2623,
-      "relatedFormatName": "Calc602 Spreadsheet File"
+      "relatedFormatName": "Calc602 Spreadsheet File",
+      "relatedFormatPUID": "fmt/1773"
     }
   ],
-  "supportedBy": [4],
-  "developedBy": [4],
-  "source": [242]
+  "supportedBy": [
+    4
+  ],
+  "developedBy": [
+    4
+  ],
+  "source": [
+    242
+  ]
 }

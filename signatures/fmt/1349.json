@@ -40,22 +40,31 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2164,
-      "relatedFormatName": "Autodesk Revit File"
+      "relatedFormatName": "Autodesk Revit File",
+      "relatedFormatPUID": "fmt/1346"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2165,
-      "relatedFormatName": "Autodesk Revit Project File"
+      "relatedFormatName": "Autodesk Revit Project File",
+      "relatedFormatPUID": "fmt/1347"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2166,
-      "relatedFormatName": "Autodesk Revit Family File"
+      "relatedFormatName": "Autodesk Revit Family File",
+      "relatedFormatPUID": "fmt/1348"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [220],
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "source": [
+    220
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

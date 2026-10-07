@@ -52,10 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2624,
-      "relatedFormatName": "602 Graph/Chart File"
+      "relatedFormatName": "602 Graph/Chart File",
+      "relatedFormatPUID": "fmt/1774"
     }
   ],
-  "supportedBy": [4],
-  "developedBy": [4],
-  "source": [242]
+  "supportedBy": [
+    4
+  ],
+  "developedBy": [
+    4
+  ],
+  "source": [
+    242
+  ]
 }

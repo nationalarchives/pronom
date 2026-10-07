@@ -36,13 +36,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 516,
-      "relatedFormatName": "PageMaker PC Document"
+      "relatedFormatName": "PageMaker PC Document",
+      "relatedFormatPUID": "x-fmt/352"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2522,
-      "relatedFormatName": "PageMaker Mac Document"
+      "relatedFormatName": "PageMaker Mac Document",
+      "relatedFormatPUID": "fmt/1686"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

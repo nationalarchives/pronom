@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1900,
-      "relatedFormatName": "Alias Pix Image File"
+      "relatedFormatName": "Alias Pix Image File",
+      "relatedFormatPUID": "fmt/1092"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

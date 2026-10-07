@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2775,
-      "relatedFormatName": "BigTIFF"
+      "relatedFormatName": "BigTIFF",
+      "relatedFormatPUID": "fmt/1917"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

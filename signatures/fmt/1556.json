@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1374,
-      "relatedFormatName": "LifeTechnologies SDS"
+      "relatedFormatName": "LifeTechnologies SDS",
+      "relatedFormatPUID": "fmt/586"
     }
   ],
-  "source": [180]
+  "source": [
+    180
+  ]
 }

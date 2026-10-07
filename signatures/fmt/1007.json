@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1813,
-      "relatedFormatName": "DSS Pro"
+      "relatedFormatName": "DSS Pro",
+      "relatedFormatPUID": "fmt/1008"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

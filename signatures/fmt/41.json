@@ -111,48 +111,59 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 667,
-      "relatedFormatName": "JPEG File Interchange Format"
+      "relatedFormatName": "JPEG File Interchange Format",
+      "relatedFormatPUID": "fmt/42"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 668,
-      "relatedFormatName": "JPEG File Interchange Format"
+      "relatedFormatName": "JPEG File Interchange Format",
+      "relatedFormatPUID": "fmt/43"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 669,
-      "relatedFormatName": "JPEG File Interchange Format"
+      "relatedFormatName": "JPEG File Interchange Format",
+      "relatedFormatPUID": "fmt/44"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 671,
-      "relatedFormatName": "Still Picture Interchange File Format"
+      "relatedFormatName": "Still Picture Interchange File Format",
+      "relatedFormatPUID": "fmt/112"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 675,
-      "relatedFormatName": "Exchangeable Image File Format (Compressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Compressed)",
+      "relatedFormatPUID": "x-fmt/390"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 676,
-      "relatedFormatName": "Exchangeable Image File Format (Compressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Compressed)",
+      "relatedFormatPUID": "x-fmt/391"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 751,
-      "relatedFormatName": "Exchangeable Image File Format (Compressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Compressed)",
+      "relatedFormatPUID": "x-fmt/398"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1444,
-      "relatedFormatName": "Exchangeable Image File Format (Compressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Compressed)",
+      "relatedFormatPUID": "fmt/645"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2330,
-      "relatedFormatName": "Exchangeable Image File Format (Compressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Compressed)",
+      "relatedFormatPUID": "fmt/1507"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

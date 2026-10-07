@@ -56,8 +56,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1758,
-      "relatedFormatName": "True Audio"
+      "relatedFormatName": "True Audio",
+      "relatedFormatPUID": "fmt/953"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

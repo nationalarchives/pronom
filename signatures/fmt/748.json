@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1542,
-      "relatedFormatName": "ClarisWorks/AppleWorks Drawing"
+      "relatedFormatName": "ClarisWorks/AppleWorks Drawing",
+      "relatedFormatPUID": "fmt/743"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "source": [
+    1
+  ]
 }

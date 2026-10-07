@@ -64,25 +64,35 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 700,
-      "relatedFormatName": "AutoCAD Drawing"
+      "relatedFormatName": "AutoCAD Drawing",
+      "relatedFormatPUID": "fmt/27"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 766,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/63"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 717,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/71"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 715,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/69"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [1]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "source": [
+    1
+  ]
 }

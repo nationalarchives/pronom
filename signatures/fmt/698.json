@@ -60,18 +60,23 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1458,
-      "relatedFormatName": "Industry Foundation Classes"
+      "relatedFormatName": "Industry Foundation Classes",
+      "relatedFormatPUID": "fmt/659"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1498,
-      "relatedFormatName": "Industry Foundation Classes"
+      "relatedFormatName": "Industry Foundation Classes",
+      "relatedFormatPUID": "fmt/699"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1499,
-      "relatedFormatName": "Industry Foundation Classes"
+      "relatedFormatName": "Industry Foundation Classes",
+      "relatedFormatPUID": "fmt/700"
     }
   ],
-  "source": [212]
+  "source": [
+    212
+  ]
 }

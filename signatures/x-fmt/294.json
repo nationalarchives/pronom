@@ -52,19 +52,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 448,
-      "relatedFormatName": "Micrografx Draw"
+      "relatedFormatName": "Micrografx Draw",
+      "relatedFormatPUID": "x-fmt/295"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 78,
-      "relatedFormatName": "Micrografx Draw"
+      "relatedFormatName": "Micrografx Draw",
+      "relatedFormatPUID": "x-fmt/47"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 449,
-      "relatedFormatName": "Micrografx Designer"
+      "relatedFormatName": "Micrografx Designer",
+      "relatedFormatPUID": "x-fmt/296"
     }
   ],
-  "supportedBy": [35],
-  "source": [1]
+  "supportedBy": [
+    35
+  ],
+  "source": [
+    1
+  ]
 }

@@ -165,15 +165,23 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 924,
-      "relatedFormatName": "MPEG-4 Media File"
+      "relatedFormatName": "MPEG-4 Media File",
+      "relatedFormatPUID": "fmt/199"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1596,
-      "relatedFormatName": "Apple ProRes"
+      "relatedFormatName": "Apple ProRes",
+      "relatedFormatPUID": "fmt/797"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "source": [
+    1
+  ]
 }

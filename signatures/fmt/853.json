@@ -36,15 +36,19 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2352,
-      "relatedFormatName": "Serif DrawPlus Drawing"
+      "relatedFormatName": "Serif DrawPlus Drawing",
+      "relatedFormatPUID": "fmt/1528"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1653,
-      "relatedFormatName": "Serif DrawPlus Drawing"
+      "relatedFormatName": "Serif DrawPlus Drawing",
+      "relatedFormatPUID": "fmt/852"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

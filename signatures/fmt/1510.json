@@ -52,12 +52,19 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1229,
-      "relatedFormatName": "Microsoft Visio (generic)"
+      "relatedFormatName": "Microsoft Visio (generic)",
+      "relatedFormatPUID": "fmt/442"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [220],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    220
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

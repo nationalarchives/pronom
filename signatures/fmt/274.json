@@ -33,9 +33,15 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [46],
-  "developedBy": [156],
-  "source": [1],
+  "supportedBy": [
+    46
+  ],
+  "developedBy": [
+    156
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

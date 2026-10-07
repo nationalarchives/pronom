@@ -80,13 +80,17 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 281,
-      "relatedFormatName": "WordPerfect for Windows Document"
+      "relatedFormatName": "WordPerfect for Windows Document",
+      "relatedFormatPUID": "x-fmt/203"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 737,
-      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document"
+      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document",
+      "relatedFormatPUID": "x-fmt/394"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

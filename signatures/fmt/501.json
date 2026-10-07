@@ -56,20 +56,29 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 331,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/124"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1073,
-      "relatedFormatName": "EndNote Import File"
+      "relatedFormatName": "EndNote Import File",
+      "relatedFormatPUID": "fmt/328"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 773,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/408"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [178]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    178
+  ]
 }

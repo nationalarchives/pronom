@@ -64,64 +64,80 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 310,
-      "relatedFormatName": "Internet Archive"
+      "relatedFormatName": "Internet Archive",
+      "relatedFormatPUID": "x-fmt/219"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1029,
-      "relatedFormatName": "WARC"
+      "relatedFormatName": "WARC",
+      "relatedFormatPUID": "fmt/289"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1158,
-      "relatedFormatName": "Internet Archive"
+      "relatedFormatName": "Internet Archive",
+      "relatedFormatPUID": "fmt/410"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1269,
-      "relatedFormatName": "Apple iBook format"
+      "relatedFormatName": "Apple iBook format",
+      "relatedFormatPUID": "fmt/482"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1270,
-      "relatedFormatName": "ePub Format"
+      "relatedFormatName": "ePub Format",
+      "relatedFormatPUID": "fmt/483"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1287,
-      "relatedFormatName": "Internet Explorer for Mac cache file"
+      "relatedFormatName": "Internet Explorer for Mac cache file",
+      "relatedFormatPUID": "fmt/500"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1670,
-      "relatedFormatName": "Apple Safari Webarchive"
+      "relatedFormatName": "Apple Safari Webarchive",
+      "relatedFormatPUID": "fmt/866"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2099,
-      "relatedFormatName": "WARC"
+      "relatedFormatName": "WARC",
+      "relatedFormatPUID": "fmt/1281"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2173,
-      "relatedFormatName": "WARC"
+      "relatedFormatName": "WARC",
+      "relatedFormatPUID": "fmt/1355"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 645,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/96"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 640,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/98"
     }
   ],
-  "developedBy": [106],
-  "source": [1]
+  "developedBy": [
+    106
+  ],
+  "source": [
+    1
+  ]
 }

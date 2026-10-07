@@ -51,178 +51,215 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 60,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "x-fmt/29"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 64,
-      "relatedFormatName": "Corel R.A.V.E."
+      "relatedFormatName": "Corel R.A.V.E.",
+      "relatedFormatPUID": "x-fmt/33"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 65,
-      "relatedFormatName": "Corel Presentation Exchange File"
+      "relatedFormatName": "Corel Presentation Exchange File",
+      "relatedFormatPUID": "x-fmt/34"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 66,
-      "relatedFormatName": "Corel Presentation Exchange File"
+      "relatedFormatName": "Corel Presentation Exchange File",
+      "relatedFormatPUID": "x-fmt/35"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 314,
-      "relatedFormatName": "CD Audio"
+      "relatedFormatName": "CD Audio",
+      "relatedFormatPUID": "x-fmt/222"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 444,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "x-fmt/291"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 445,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "x-fmt/292"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 552,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "x-fmt/374"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 553,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "x-fmt/375"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 556,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "x-fmt/378"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 557,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "x-fmt/379"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 654,
-      "relatedFormatName": "Waveform Audio"
+      "relatedFormatName": "Waveform Audio",
+      "relatedFormatPUID": "fmt/6"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 655,
-      "relatedFormatName": "Audio/Video Interleaved Format"
+      "relatedFormatName": "Audio/Video Interleaved Format",
+      "relatedFormatPUID": "fmt/5"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1134,
-      "relatedFormatName": "Microsoft Animated Cursor Format"
+      "relatedFormatName": "Microsoft Animated Cursor Format",
+      "relatedFormatPUID": "fmt/386"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1211,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/427"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1213,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/428"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1217,
-      "relatedFormatName": "Corel R.A.V.E."
+      "relatedFormatName": "Corel R.A.V.E.",
+      "relatedFormatPUID": "fmt/431"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1218,
-      "relatedFormatName": "Corel R.A.V.E."
+      "relatedFormatName": "Corel R.A.V.E.",
+      "relatedFormatPUID": "fmt/432"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1251,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/464"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1252,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/465"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1354,
-      "relatedFormatName": "WebP"
+      "relatedFormatName": "WebP",
+      "relatedFormatPUID": "fmt/566"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1355,
-      "relatedFormatName": "WebP"
+      "relatedFormatName": "WebP",
+      "relatedFormatPUID": "fmt/567"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1356,
-      "relatedFormatName": "WebP"
+      "relatedFormatName": "WebP",
+      "relatedFormatPUID": "fmt/568"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1420,
-      "relatedFormatName": "RIFF Palette Format"
+      "relatedFormatName": "RIFF Palette Format",
+      "relatedFormatPUID": "fmt/624"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1619,
-      "relatedFormatName": "CD-ROM/XA (eXtended Architecture)"
+      "relatedFormatName": "CD-ROM/XA (eXtended Architecture)",
+      "relatedFormatPUID": "fmt/819"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1728,
-      "relatedFormatName": "Microsoft xWMA"
+      "relatedFormatName": "Microsoft xWMA",
+      "relatedFormatPUID": "fmt/923"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1760,
-      "relatedFormatName": "Downloadable Sounds Audio"
+      "relatedFormatName": "Downloadable Sounds Audio",
+      "relatedFormatPUID": "fmt/955"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1761,
-      "relatedFormatName": "RIFF-based MIDI"
+      "relatedFormatName": "RIFF-based MIDI",
+      "relatedFormatPUID": "fmt/956"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1762,
-      "relatedFormatName": "DirectMusic Segment File Format"
+      "relatedFormatName": "DirectMusic Segment File Format",
+      "relatedFormatPUID": "fmt/957"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1763,
-      "relatedFormatName": "DirectMusic Style File Format"
+      "relatedFormatName": "DirectMusic Style File Format",
+      "relatedFormatPUID": "fmt/958"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1767,
-      "relatedFormatName": "QCP Audio File Format"
+      "relatedFormatName": "QCP Audio File Format",
+      "relatedFormatPUID": "fmt/962"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1960,
-      "relatedFormatName": "4X Movie File"
+      "relatedFormatName": "4X Movie File",
+      "relatedFormatPUID": "fmt/1150"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2783,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/1924"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2823,
-      "relatedFormatName": "Melco OFM Project"
+      "relatedFormatName": "Melco OFM Project",
+      "relatedFormatPUID": "fmt/1958"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3898,
-      "relatedFormatName": "CD Architect Project File"
+      "relatedFormatName": "CD Architect Project File",
+      "relatedFormatPUID": "fmt/2024"
     }
   ],
-  "source": [231]
+  "source": [
+    231
+  ]
 }

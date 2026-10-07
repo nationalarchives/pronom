@@ -60,8 +60,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1439,
-      "relatedFormatName": "MPEG-2 Elementary Stream"
+      "relatedFormatName": "MPEG-2 Elementary Stream",
+      "relatedFormatPUID": "fmt/640"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

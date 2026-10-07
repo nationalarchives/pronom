@@ -64,20 +64,29 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 773,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/408"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 331,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/124"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 332,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/123"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [234]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    234
+  ]
 }

@@ -56,20 +56,29 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 866,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "x-fmt/451"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 867,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "x-fmt/452"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2077,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1259"
     }
   ],
-  "supportedBy": [141],
-  "developedBy": [141],
-  "source": [224]
+  "supportedBy": [
+    141
+  ],
+  "developedBy": [
+    141
+  ],
+  "source": [
+    224
+  ]
 }

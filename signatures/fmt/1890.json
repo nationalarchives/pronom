@@ -52,10 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1259,
-      "relatedFormatName": "Sony Digital Voice File/Sony Memory Stick Voice File"
+      "relatedFormatName": "Sony Digital Voice File/Sony Memory Stick Voice File",
+      "relatedFormatPUID": "fmt/472"
     }
   ],
-  "supportedBy": [319],
-  "developedBy": [319],
-  "source": [299]
+  "supportedBy": [
+    319
+  ],
+  "developedBy": [
+    319
+  ],
+  "source": [
+    299
+  ]
 }

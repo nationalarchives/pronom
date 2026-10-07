@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2101,
-      "relatedFormatName": "PFS:First Choice Document"
+      "relatedFormatName": "PFS:First Choice Document",
+      "relatedFormatPUID": "fmt/1283"
     }
   ],
-  "source": [220]
+  "source": [
+    220
+  ]
 }

@@ -52,13 +52,17 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 2742,
-      "relatedFormatName": "Common Instrument File (CIF)"
+      "relatedFormatName": "Common Instrument File (CIF)",
+      "relatedFormatPUID": "fmt/1887"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2807,
-      "relatedFormatName": "Common Loudspeaker Format (CLF)"
+      "relatedFormatName": "Common Loudspeaker Format (CLF)",
+      "relatedFormatPUID": "fmt/1945"
     }
   ],
-  "source": [299]
+  "source": [
+    299
+  ]
 }

@@ -112,9 +112,10 @@
         "properties": {
           "relationshipType": { "type": "string" },
           "relatedFormatID": { "type": "integer" },
-          "relatedFormatName": { "type": "string" }
+          "relatedFormatName": { "type": "string" },
+          "relatedFormatPUID": { "type": "string" }
         },
-        "required": ["relationshipType", "relatedFormatID", "relatedFormatName"]
+        "required": ["relationshipType", "relatedFormatID", "relatedFormatName", "relatedFormatPUID"]
       }
     },
     "containerSignatures": {

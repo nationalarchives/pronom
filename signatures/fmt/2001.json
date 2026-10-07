@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2874,
-      "relatedFormatName": "Husqvarna Embroidery Stitch File"
+      "relatedFormatName": "Husqvarna Embroidery Stitch File",
+      "relatedFormatPUID": "fmt/2000"
     }
   ],
-  "supportedBy": [336],
-  "developedBy": [336],
-  "source": [299]
+  "supportedBy": [
+    336
+  ],
+  "developedBy": [
+    336
+  ],
+  "source": [
+    299
+  ]
 }

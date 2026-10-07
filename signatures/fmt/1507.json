@@ -91,8 +91,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 670,
-      "relatedFormatName": "Raw JPEG Stream"
+      "relatedFormatName": "Raw JPEG Stream",
+      "relatedFormatPUID": "fmt/41"
     }
   ],
-  "source": [220]
+  "source": [
+    220
+  ]
 }

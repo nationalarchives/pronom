@@ -52,10 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
-  "supportedBy": [46],
-  "developedBy": [46],
-  "source": [190]
+  "supportedBy": [
+    46
+  ],
+  "developedBy": [
+    46
+  ],
+  "source": [
+    190
+  ]
 }

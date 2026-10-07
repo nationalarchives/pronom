@@ -36,20 +36,25 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2473,
-      "relatedFormatName": "Roxio Label Creator Project File"
+      "relatedFormatName": "Roxio Label Creator Project File",
+      "relatedFormatPUID": "fmt/1646"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2471,
-      "relatedFormatName": "Roxio Label Creator Project File"
+      "relatedFormatName": "Roxio Label Creator Project File",
+      "relatedFormatPUID": "fmt/1644"
     }
   ],
-  "source": [221],
+  "source": [
+    221
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

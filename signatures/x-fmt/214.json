@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1717,
-      "relatedFormatName": "Microsoft Paint"
+      "relatedFormatName": "Microsoft Paint",
+      "relatedFormatPUID": "fmt/912"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

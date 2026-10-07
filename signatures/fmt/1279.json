@@ -56,8 +56,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2096,
-      "relatedFormatName": "Cindex Document"
+      "relatedFormatName": "Cindex Document",
+      "relatedFormatPUID": "fmt/1278"
     }
   ],
-  "source": [220]
+  "source": [
+    220
+  ]
 }

@@ -52,18 +52,23 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1099,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/353"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3967,
-      "relatedFormatName": "Kodak DCS RAW Image"
+      "relatedFormatName": "Kodak DCS RAW Image",
+      "relatedFormatPUID": "fmt/2090"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3968,
-      "relatedFormatName": "Kodak DCS RAW Image"
+      "relatedFormatName": "Kodak DCS RAW Image",
+      "relatedFormatPUID": "fmt/2091"
     }
   ],
-  "source": [227]
+  "source": [
+    227
+  ]
 }

@@ -87,19 +87,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2767,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/1911"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2770,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/1912"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1939,
-      "relatedFormatName": "PDF 2.0 - Portable Document Format"
+      "relatedFormatName": "PDF 2.0 - Portable Document Format",
+      "relatedFormatPUID": "fmt/1129"
     }
   ],
-  "developedBy": [7],
-  "source": [244]
+  "developedBy": [
+    7
+  ],
+  "source": [
+    244
+  ]
 }

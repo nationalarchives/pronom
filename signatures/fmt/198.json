@@ -205,13 +205,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 425,
-      "relatedFormatName": "MPEG 1/2 Audio Layer 3 Streaming"
+      "relatedFormatName": "MPEG 1/2 Audio Layer 3 Streaming",
+      "relatedFormatPUID": "x-fmt/279"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1092,
-      "relatedFormatName": "MPEG 1/2 Audio Layer I"
+      "relatedFormatName": "MPEG 1/2 Audio Layer I",
+      "relatedFormatPUID": "fmt/347"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

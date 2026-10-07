@@ -56,13 +56,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1225,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/438"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 1225,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/438"
     }
   ],
-  "source": [220]
+  "source": [
+    220
+  ]
 }

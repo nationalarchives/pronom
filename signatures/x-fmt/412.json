@@ -68,45 +68,55 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 783,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/140"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1206,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/424"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1231,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/444"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 643,
-      "relatedFormatName": "Extensible Hypertext Markup Language"
+      "relatedFormatName": "Extensible Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/102"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 644,
-      "relatedFormatName": "Extensible Hypertext Markup Language"
+      "relatedFormatName": "Extensible Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/103"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 645,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/96"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

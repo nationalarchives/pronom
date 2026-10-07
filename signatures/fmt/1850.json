@@ -71,15 +71,23 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 736,
-      "relatedFormatName": "WordPerfect for MS-DOS Document"
+      "relatedFormatName": "WordPerfect for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/393"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 737,
-      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document"
+      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document",
+      "relatedFormatPUID": "x-fmt/394"
     }
   ],
-  "supportedBy": [35],
-  "developedBy": [35],
-  "source": [247]
+  "supportedBy": [
+    35
+  ],
+  "developedBy": [
+    35
+  ],
+  "source": [
+    247
+  ]
 }

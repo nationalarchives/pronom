@@ -133,8 +133,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1617,
-      "relatedFormatName": "JSON Data Interchange Format"
+      "relatedFormatName": "JSON Data Interchange Format",
+      "relatedFormatPUID": "fmt/817"
     }
   ],
-  "source": [244]
+  "source": [
+    244
+  ]
 }

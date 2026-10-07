@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 680,
-      "relatedFormatName": "Microsoft Excel 4.0 Worksheet (xls)"
+      "relatedFormatName": "Microsoft Excel 4.0 Worksheet (xls)",
+      "relatedFormatPUID": "fmt/57"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

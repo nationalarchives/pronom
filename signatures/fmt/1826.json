@@ -52,10 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1528,
-      "relatedFormatName": "SQLite Database File Format"
+      "relatedFormatName": "SQLite Database File Format",
+      "relatedFormatPUID": "fmt/729"
     }
   ],
-  "supportedBy": [300],
-  "developedBy": [300],
-  "source": [220]
+  "supportedBy": [
+    300
+  ],
+  "developedBy": [
+    300
+  ],
+  "source": [
+    220
+  ]
 }

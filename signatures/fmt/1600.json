@@ -31,8 +31,11 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 2421,
-      "relatedFormatName": "ESRI ArcInfo DAT File (External)"
+      "relatedFormatName": "ESRI ArcInfo DAT File (External)",
+      "relatedFormatPUID": "fmt/1594"
     }
   ],
-  "source": [234]
+  "source": [
+    234
+  ]
 }

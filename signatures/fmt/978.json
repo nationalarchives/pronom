@@ -40,10 +40,13 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2292,
-      "relatedFormatName": "MAKIchan Graphics File"
+      "relatedFormatName": "MAKIchan Graphics File",
+      "relatedFormatPUID": "fmt/1469"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

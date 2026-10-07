@@ -40,47 +40,61 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1311,
-      "relatedFormatName": "Microsoft Office Theme"
+      "relatedFormatName": "Microsoft Office Theme",
+      "relatedFormatPUID": "fmt/524"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2681,
-      "relatedFormatName": "PPTX Strict OOXML Presentation"
+      "relatedFormatName": "PPTX Strict OOXML Presentation",
+      "relatedFormatPUID": "fmt/1829"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1428,
-      "relatedFormatName": "Microsoft PowerPoint Show"
+      "relatedFormatName": "Microsoft PowerPoint Show",
+      "relatedFormatPUID": "fmt/629"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1429,
-      "relatedFormatName": "Microsoft PowerPoint Macro-Enabled Show"
+      "relatedFormatName": "Microsoft PowerPoint Macro-Enabled Show",
+      "relatedFormatPUID": "fmt/630"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1430,
-      "relatedFormatName": "Microsoft PowerPoint Template"
+      "relatedFormatName": "Microsoft PowerPoint Template",
+      "relatedFormatPUID": "fmt/631"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1431,
-      "relatedFormatName": "Microsoft PowerPoint Macro-Enabled Template"
+      "relatedFormatName": "Microsoft PowerPoint Macro-Enabled Template",
+      "relatedFormatPUID": "fmt/632"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1432,
-      "relatedFormatName": "Microsoft PowerPoint Macro-Enabled Add-In"
+      "relatedFormatName": "Microsoft PowerPoint Macro-Enabled Add-In",
+      "relatedFormatPUID": "fmt/633"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1436,
-      "relatedFormatName": "Microsoft PowerPoint Macro-Enabled Slide"
+      "relatedFormatName": "Microsoft PowerPoint Macro-Enabled Slide",
+      "relatedFormatPUID": "fmt/636"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

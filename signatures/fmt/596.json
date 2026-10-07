@@ -64,20 +64,29 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 924,
-      "relatedFormatName": "MPEG-4 Media File"
+      "relatedFormatName": "MPEG-4 Media File",
+      "relatedFormatPUID": "fmt/199"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 3971,
-      "relatedFormatName": "M4A Audio"
+      "relatedFormatName": "M4A Audio",
+      "relatedFormatPUID": "fmt/2094"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 3907,
-      "relatedFormatName": "Daisy Talking Book Navigation Control File"
+      "relatedFormatName": "Daisy Talking Book Navigation Control File",
+      "relatedFormatPUID": "fmt/2033"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "source": [
+    1
+  ]
 }

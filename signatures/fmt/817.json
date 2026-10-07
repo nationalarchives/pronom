@@ -40,8 +40,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2129,
-      "relatedFormatName": "Tweet JSON"
+      "relatedFormatName": "Tweet JSON",
+      "relatedFormatPUID": "fmt/1311"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

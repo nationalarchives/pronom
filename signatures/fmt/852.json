@@ -36,20 +36,25 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2352,
-      "relatedFormatName": "Serif DrawPlus Drawing"
+      "relatedFormatName": "Serif DrawPlus Drawing",
+      "relatedFormatPUID": "fmt/1528"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1654,
-      "relatedFormatName": "Serif DrawPlus Drawing"
+      "relatedFormatName": "Serif DrawPlus Drawing",
+      "relatedFormatPUID": "fmt/853"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1628,
-      "relatedFormatName": "Serif DrawPlus Drawing"
+      "relatedFormatName": "Serif DrawPlus Drawing",
+      "relatedFormatPUID": "fmt/827"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

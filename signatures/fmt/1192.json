@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2469,
-      "relatedFormatName": "Adobe InDesign Library"
+      "relatedFormatName": "Adobe InDesign Library",
+      "relatedFormatPUID": "fmt/1642"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [239]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    239
+  ]
 }

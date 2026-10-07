@@ -72,19 +72,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2163,
-      "relatedFormatName": "Legacy Family Tree Database"
+      "relatedFormatName": "Legacy Family Tree Database",
+      "relatedFormatPUID": "fmt/1345"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 353,
-      "relatedFormatName": "Microsoft Access Database File"
+      "relatedFormatName": "Microsoft Access Database File",
+      "relatedFormatPUID": "x-fmt/241"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 351,
-      "relatedFormatName": "Microsoft Access Database File"
+      "relatedFormatName": "Microsoft Access Database File",
+      "relatedFormatPUID": "x-fmt/239"
     }
   ],
-  "developedBy": [93],
-  "source": [1]
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

@@ -52,10 +52,17 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1358,
-      "relatedFormatName": "Extensible Metadata Platform Packet"
+      "relatedFormatName": "Extensible Metadata Platform Packet",
+      "relatedFormatPUID": "fmt/570"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [220]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    220
+  ]
 }

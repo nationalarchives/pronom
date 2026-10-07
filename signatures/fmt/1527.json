@@ -44,10 +44,13 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2352,
-      "relatedFormatName": "Serif DrawPlus Drawing"
+      "relatedFormatName": "Serif DrawPlus Drawing",
+      "relatedFormatPUID": "fmt/1528"
     }
   ],
-  "source": [220],
+  "source": [
+    220
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

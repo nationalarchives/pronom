@@ -60,8 +60,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1060,
-      "relatedFormatName": "Play SID Audio"
+      "relatedFormatName": "Play SID Audio",
+      "relatedFormatPUID": "fmt/315"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

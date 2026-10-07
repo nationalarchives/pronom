@@ -60,60 +60,77 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 786,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)",
+      "relatedFormatPUID": "fmt/143"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1502,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/703"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1503,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/704"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1505,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/706"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1506,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/707"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1507,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/708"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 654,
-      "relatedFormatName": "Waveform Audio"
+      "relatedFormatName": "Waveform Audio",
+      "relatedFormatPUID": "fmt/6"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 786,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)",
+      "relatedFormatPUID": "fmt/143"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 654,
-      "relatedFormatName": "Waveform Audio"
+      "relatedFormatName": "Waveform Audio",
+      "relatedFormatPUID": "fmt/6"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 784,
-      "relatedFormatName": "Waveform Audio (PCMWAVEFORMAT)"
+      "relatedFormatName": "Waveform Audio (PCMWAVEFORMAT)",
+      "relatedFormatPUID": "fmt/141"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 654,
-      "relatedFormatName": "Waveform Audio"
+      "relatedFormatName": "Waveform Audio",
+      "relatedFormatPUID": "fmt/6"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

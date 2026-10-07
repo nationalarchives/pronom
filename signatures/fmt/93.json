@@ -56,8 +56,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 662,
-      "relatedFormatName": "Virtual Reality Modeling Language"
+      "relatedFormatName": "Virtual Reality Modeling Language",
+      "relatedFormatPUID": "fmt/94"
     }
   ],
-  "source": [180]
+  "source": [
+    180
+  ]
 }

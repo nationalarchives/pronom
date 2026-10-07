@@ -64,25 +64,35 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 724,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/78"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2212,
-      "relatedFormatName": "Drawing Interchange Format (Binary)"
+      "relatedFormatName": "Drawing Interchange Format (Binary)",
+      "relatedFormatPUID": "fmt/1394"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 744,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/85"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 742,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/83"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [1]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "source": [
+    1
+  ]
 }

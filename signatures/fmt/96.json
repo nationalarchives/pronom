@@ -95,108 +95,131 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 310,
-      "relatedFormatName": "Internet Archive"
+      "relatedFormatName": "Internet Archive",
+      "relatedFormatPUID": "x-fmt/219"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 639,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/97"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 640,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/98"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 641,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/99"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 642,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/100"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 643,
-      "relatedFormatName": "Extensible Hypertext Markup Language"
+      "relatedFormatName": "Extensible Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/102"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 644,
-      "relatedFormatName": "Extensible Hypertext Markup Language"
+      "relatedFormatName": "Extensible Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/103"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 777,
-      "relatedFormatName": "Java Archive Format"
+      "relatedFormatName": "Java Archive Format",
+      "relatedFormatPUID": "x-fmt/412"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1018,
-      "relatedFormatName": "Internet Message Format"
+      "relatedFormatName": "Internet Message Format",
+      "relatedFormatPUID": "fmt/278"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1029,
-      "relatedFormatName": "WARC"
+      "relatedFormatName": "WARC",
+      "relatedFormatPUID": "fmt/289"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1158,
-      "relatedFormatName": "Internet Archive"
+      "relatedFormatName": "Internet Archive",
+      "relatedFormatPUID": "fmt/410"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1258,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/471"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1269,
-      "relatedFormatName": "Apple iBook format"
+      "relatedFormatName": "Apple iBook format",
+      "relatedFormatPUID": "fmt/482"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1270,
-      "relatedFormatName": "ePub Format"
+      "relatedFormatName": "ePub Format",
+      "relatedFormatPUID": "fmt/483"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1287,
-      "relatedFormatName": "Internet Explorer for Mac cache file"
+      "relatedFormatName": "Internet Explorer for Mac cache file",
+      "relatedFormatPUID": "fmt/500"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1371,
-      "relatedFormatName": "Vector Markup Language"
+      "relatedFormatName": "Vector Markup Language",
+      "relatedFormatPUID": "fmt/583"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1670,
-      "relatedFormatName": "Apple Safari Webarchive"
+      "relatedFormatName": "Apple Safari Webarchive",
+      "relatedFormatPUID": "fmt/866"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2099,
-      "relatedFormatName": "WARC"
+      "relatedFormatName": "WARC",
+      "relatedFormatPUID": "fmt/1281"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2173,
-      "relatedFormatName": "WARC"
+      "relatedFormatName": "WARC",
+      "relatedFormatPUID": "fmt/1355"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3930,
-      "relatedFormatName": "Apple Mail EMLX Format"
+      "relatedFormatName": "Apple Mail EMLX Format",
+      "relatedFormatPUID": "fmt/2055"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

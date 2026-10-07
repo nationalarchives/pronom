@@ -68,20 +68,29 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2733,
-      "relatedFormatName": "vCard"
+      "relatedFormatName": "vCard",
+      "relatedFormatPUID": "fmt/1879"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2734,
-      "relatedFormatName": "vCard"
+      "relatedFormatName": "vCard",
+      "relatedFormatPUID": "fmt/1880"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2735,
-      "relatedFormatName": "vCard"
+      "relatedFormatName": "vCard",
+      "relatedFormatPUID": "fmt/1881"
     }
   ],
-  "supportedBy": [106],
-  "developedBy": [106],
-  "source": [178]
+  "supportedBy": [
+    106
+  ],
+  "developedBy": [
+    106
+  ],
+  "source": [
+    178
+  ]
 }

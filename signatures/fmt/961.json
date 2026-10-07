@@ -56,8 +56,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1513,
-      "relatedFormatName": "Extensible Music Format"
+      "relatedFormatName": "Extensible Music Format",
+      "relatedFormatPUID": "fmt/714"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

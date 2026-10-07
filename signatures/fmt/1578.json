@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2402,
-      "relatedFormatName": "Spectrum 512 Extended"
+      "relatedFormatName": "Spectrum 512 Extended",
+      "relatedFormatPUID": "fmt/1577"
     }
   ],
-  "source": [180]
+  "source": [
+    180
+  ]
 }

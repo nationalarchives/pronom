@@ -36,8 +36,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2712,
-      "relatedFormatName": "Microsoft Excel Workspace File"
+      "relatedFormatName": "Microsoft Excel Workspace File",
+      "relatedFormatPUID": "fmt/1858"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

@@ -121,43 +121,53 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 672,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/387"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 673,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/388"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 752,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/399"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 797,
-      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)"
+      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)",
+      "relatedFormatPUID": "fmt/154"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 927,
-      "relatedFormatName": "Nikon Digital SLR Camera Raw Image File"
+      "relatedFormatName": "Nikon Digital SLR Camera Raw Image File",
+      "relatedFormatPUID": "fmt/202"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1099,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/353"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 795,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/152"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 1099,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/353"
     }
   ],
-  "source": [7]
+  "source": [
+    7
+  ]
 }

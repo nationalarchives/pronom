@@ -45,8 +45,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3939,
-      "relatedFormatName": "DaVinci Resolve Project File"
+      "relatedFormatName": "DaVinci Resolve Project File",
+      "relatedFormatPUID": "fmt/2064"
     }
   ],
-  "source": [299]
+  "source": [
+    299
+  ]
 }

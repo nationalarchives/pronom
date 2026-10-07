@@ -44,12 +44,19 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 941,
-      "relatedFormatName": "Microsoft Powerpoint for Windows"
+      "relatedFormatName": "Microsoft Powerpoint for Windows",
+      "relatedFormatPUID": "fmt/215"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [301],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    301
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

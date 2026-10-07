@@ -44,10 +44,13 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1470,
-      "relatedFormatName": "Serif PagePlus Publication"
+      "relatedFormatName": "Serif PagePlus Publication",
+      "relatedFormatPUID": "fmt/671"
     }
   ],
-  "source": [220],
+  "source": [
+    220
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

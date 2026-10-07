@@ -129,48 +129,59 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 385,
-      "relatedFormatName": "Tape Archive Format"
+      "relatedFormatName": "Tape Archive Format",
+      "relatedFormatPUID": "x-fmt/265"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 672,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/387"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 673,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/388"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 752,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/399"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 927,
-      "relatedFormatName": "Nikon Digital SLR Camera Raw Image File"
+      "relatedFormatName": "Nikon Digital SLR Camera Raw Image File",
+      "relatedFormatPUID": "fmt/202"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1099,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/353"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1224,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/437"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1223,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/436"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 612,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/10"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

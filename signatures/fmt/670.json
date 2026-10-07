@@ -68,23 +68,29 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2061,
-      "relatedFormatName": "ZFO (Message) File"
+      "relatedFormatName": "ZFO (Message) File",
+      "relatedFormatPUID": "fmt/1243"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2062,
-      "relatedFormatName": "ZFO (Sent Message) File"
+      "relatedFormatName": "ZFO (Sent Message) File",
+      "relatedFormatPUID": "fmt/1244"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2063,
-      "relatedFormatName": "ZFO (Proof of Delivery) File"
+      "relatedFormatName": "ZFO (Proof of Delivery) File",
+      "relatedFormatPUID": "fmt/1245"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

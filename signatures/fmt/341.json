@@ -68,10 +68,17 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 122,
-      "relatedFormatName": "Macintosh PICT Image"
+      "relatedFormatName": "Macintosh PICT Image",
+      "relatedFormatPUID": "x-fmt/80"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [165]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "source": [
+    165
+  ]
 }

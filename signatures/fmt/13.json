@@ -68,18 +68,23 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 664,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/11"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 665,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/12"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 665,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/12"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

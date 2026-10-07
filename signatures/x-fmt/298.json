@@ -56,13 +56,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 554,
-      "relatedFormatName": "Paint Shop Pro Image"
+      "relatedFormatName": "Paint Shop Pro Image",
+      "relatedFormatPUID": "x-fmt/376"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 450,
-      "relatedFormatName": "Paint Shop Pro Image"
+      "relatedFormatName": "Paint Shop Pro Image",
+      "relatedFormatPUID": "x-fmt/297"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

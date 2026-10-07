@@ -103,120 +103,149 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1450,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/651"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1451,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/652"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1484,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/685"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2135,
-      "relatedFormatName": "QuarkXPress Document"
+      "relatedFormatName": "QuarkXPress Document",
+      "relatedFormatPUID": "fmt/1317"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2136,
-      "relatedFormatName": "QuarkXPress Document"
+      "relatedFormatName": "QuarkXPress Document",
+      "relatedFormatPUID": "fmt/1318"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2137,
-      "relatedFormatName": "QuarkXPress Document"
+      "relatedFormatName": "QuarkXPress Document",
+      "relatedFormatPUID": "fmt/1319"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2138,
-      "relatedFormatName": "QuarkXPress Document"
+      "relatedFormatName": "QuarkXPress Document",
+      "relatedFormatPUID": "fmt/1320"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2139,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1321"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2140,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1322"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2141,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1323"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2142,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1324"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2143,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1325"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2144,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1326"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2145,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1327"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2146,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1328"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2262,
-      "relatedFormatName": "QuarkXPress Document"
+      "relatedFormatName": "QuarkXPress Document",
+      "relatedFormatPUID": "fmt/1444"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2263,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1445"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2264,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1446"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2317,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1494"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2318,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1495"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2881,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/2006"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2882,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/2007"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2883,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/2008"
     }
   ],
-  "supportedBy": [91],
-  "developedBy": [91],
-  "source": [220]
+  "supportedBy": [
+    91
+  ],
+  "developedBy": [
+    91
+  ],
+  "source": [
+    220
+  ]
 }

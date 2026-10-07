@@ -40,12 +40,19 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 1160,
-      "relatedFormatName": "Microsoft Word for Windows"
+      "relatedFormatName": "Microsoft Word for Windows",
+      "relatedFormatPUID": "fmt/412"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

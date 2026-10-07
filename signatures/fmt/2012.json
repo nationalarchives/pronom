@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 3883,
-      "relatedFormatName": "Visualization Toolkit"
+      "relatedFormatName": "Visualization Toolkit",
+      "relatedFormatPUID": "fmt/2011"
     }
   ],
-  "source": [349]
+  "source": [
+    349
+  ]
 }

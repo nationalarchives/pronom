@@ -64,23 +64,29 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 319,
-      "relatedFormatName": "Geography Markup Language"
+      "relatedFormatName": "Geography Markup Language",
+      "relatedFormatPUID": "x-fmt/227"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1852,
-      "relatedFormatName": "Geography Markup Language"
+      "relatedFormatName": "Geography Markup Language",
+      "relatedFormatPUID": "fmt/1047"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2192,
-      "relatedFormatName": "xdomea"
+      "relatedFormatName": "xdomea",
+      "relatedFormatPUID": "fmt/1374"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

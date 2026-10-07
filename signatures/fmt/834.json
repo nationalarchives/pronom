@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1636,
-      "relatedFormatName": "Quattro Pro Spreadsheet for Windows"
+      "relatedFormatName": "Quattro Pro Spreadsheet for Windows",
+      "relatedFormatPUID": "fmt/835"
     }
   ],
-  "supportedBy": [35],
-  "developedBy": [35],
-  "source": [1]
+  "supportedBy": [
+    35
+  ],
+  "developedBy": [
+    35
+  ],
+  "source": [
+    1
+  ]
 }

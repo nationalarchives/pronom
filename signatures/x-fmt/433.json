@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 828,
-      "relatedFormatName": "3DM"
+      "relatedFormatName": "3DM",
+      "relatedFormatPUID": "x-fmt/434"
     }
   ],
-  "supportedBy": [130],
-  "developedBy": [130],
-  "source": [131]
+  "supportedBy": [
+    130
+  ],
+  "developedBy": [
+    130
+  ],
+  "source": [
+    131
+  ]
 }

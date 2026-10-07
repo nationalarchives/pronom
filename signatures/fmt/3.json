@@ -68,9 +68,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 620,
-      "relatedFormatName": "Graphics Interchange Format"
+      "relatedFormatName": "Graphics Interchange Format",
+      "relatedFormatPUID": "fmt/4"
     }
   ],
-  "developedBy": [108],
-  "source": [1]
+  "developedBy": [
+    108
+  ],
+  "source": [
+    1
+  ]
 }

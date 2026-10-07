@@ -56,155 +56,191 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 613,
-      "relatedFormatName": "Acrobat PDF 1.0 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.0 - Portable Document Format",
+      "relatedFormatPUID": "fmt/14"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 614,
-      "relatedFormatName": "Acrobat PDF 1.1 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.1 - Portable Document Format",
+      "relatedFormatPUID": "fmt/15"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 615,
-      "relatedFormatName": "Acrobat PDF 1.2 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.2 - Portable Document Format",
+      "relatedFormatPUID": "fmt/16"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 616,
-      "relatedFormatName": "Acrobat PDF 1.3 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.3 - Portable Document Format",
+      "relatedFormatPUID": "fmt/17"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 617,
-      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format",
+      "relatedFormatPUID": "fmt/18"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 618,
-      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format",
+      "relatedFormatPUID": "fmt/19"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 637,
-      "relatedFormatName": "Acrobat PDF 1.6 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.6 - Portable Document Format",
+      "relatedFormatPUID": "fmt/20"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 770,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/95"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 787,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1:1999"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1:1999",
+      "relatedFormatPUID": "fmt/144"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 788,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1:2001"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1:2001",
+      "relatedFormatPUID": "fmt/145"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 789,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1a:2003"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1a:2003",
+      "relatedFormatPUID": "fmt/146"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 790,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 2:2003"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 2:2003",
+      "relatedFormatPUID": "fmt/147"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 791,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 3:2003"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 3:2003",
+      "relatedFormatPUID": "fmt/148"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 818,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1a:2001"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1a:2001",
+      "relatedFormatPUID": "fmt/157"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 819,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 3:2002"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 3:2002",
+      "relatedFormatPUID": "fmt/158"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1016,
-      "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format",
+      "relatedFormatPUID": "fmt/276"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1100,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/354"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1263,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/476"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1264,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/477"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1265,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/478"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1266,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/479"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1267,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/480"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1268,
-      "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF/A - Portable Document Format",
+      "relatedFormatPUID": "fmt/481"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1275,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4",
+      "relatedFormatPUID": "fmt/488"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1276,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4p"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4p",
+      "relatedFormatPUID": "fmt/489"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1277,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5g"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5g",
+      "relatedFormatPUID": "fmt/490"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1278,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5pg"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5pg",
+      "relatedFormatPUID": "fmt/491"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1279,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5n"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5n",
+      "relatedFormatPUID": "fmt/492"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1280,
-      "relatedFormatName": "Acrobat PDF/E - Portable Document Format for Engineering PDF/E-1"
+      "relatedFormatName": "Acrobat PDF/E - Portable Document Format for Engineering PDF/E-1",
+      "relatedFormatPUID": "fmt/493"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1412,
-      "relatedFormatName": "Web Open Font Format"
+      "relatedFormatName": "Web Open Font Format",
+      "relatedFormatPUID": "fmt/616"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [180]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "source": [
+    180
+  ]
 }

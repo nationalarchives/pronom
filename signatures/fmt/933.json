@@ -56,8 +56,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1739,
-      "relatedFormatName": "Simple Vector Format"
+      "relatedFormatName": "Simple Vector Format",
+      "relatedFormatPUID": "fmt/934"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1120,
-      "relatedFormatName": "FoxPro Database"
+      "relatedFormatName": "FoxPro Database",
+      "relatedFormatPUID": "fmt/373"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

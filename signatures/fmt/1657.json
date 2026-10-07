@@ -56,8 +56,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 223,
-      "relatedFormatName": "GEM Image"
+      "relatedFormatName": "GEM Image",
+      "relatedFormatPUID": "x-fmt/159"
     }
   ],
-  "source": [180]
+  "source": [
+    180
+  ]
 }

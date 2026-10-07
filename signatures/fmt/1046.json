@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 3944,
-      "relatedFormatName": "Draco"
+      "relatedFormatName": "Draco",
+      "relatedFormatPUID": "fmt/2069"
     }
   ],
-  "supportedBy": [141],
-  "developedBy": [141],
-  "source": [1]
+  "supportedBy": [
+    141
+  ],
+  "developedBy": [
+    141
+  ],
+  "source": [
+    1
+  ]
 }

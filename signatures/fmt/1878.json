@@ -36,10 +36,13 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2731,
-      "relatedFormatName": "GST Art File"
+      "relatedFormatName": "GST Art File",
+      "relatedFormatPUID": "fmt/1877"
     }
   ],
-  "source": [299],
+  "source": [
+    299
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

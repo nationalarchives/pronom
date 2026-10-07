@@ -56,8 +56,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1511,
-      "relatedFormatName": "RF64"
+      "relatedFormatName": "RF64",
+      "relatedFormatPUID": "fmt/712"
     }
   ],
-  "source": [178]
+  "source": [
+    178
+  ]
 }

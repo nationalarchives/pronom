@@ -91,13 +91,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 670,
-      "relatedFormatName": "Raw JPEG Stream"
+      "relatedFormatName": "Raw JPEG Stream",
+      "relatedFormatPUID": "fmt/41"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 675,
-      "relatedFormatName": "Exchangeable Image File Format (Compressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Compressed)",
+      "relatedFormatPUID": "x-fmt/390"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

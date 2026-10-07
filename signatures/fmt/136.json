@@ -60,21 +60,28 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1033,
-      "relatedFormatName": "OpenDocument Text"
+      "relatedFormatName": "OpenDocument Text",
+      "relatedFormatPUID": "fmt/290"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     }
   ],
-  "developedBy": [127],
-  "source": [1],
+  "developedBy": [
+    127
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

@@ -71,23 +71,29 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 641,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/99"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 820,
-      "relatedFormatName": "MHTML"
+      "relatedFormatName": "MHTML",
+      "relatedFormatPUID": "x-fmt/429"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1755,
-      "relatedFormatName": "MIME Email"
+      "relatedFormatName": "MIME Email",
+      "relatedFormatPUID": "fmt/950"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 645,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/96"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

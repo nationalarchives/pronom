@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1021,
-      "relatedFormatName": "LaTeX (Subdocument)"
+      "relatedFormatName": "LaTeX (Subdocument)",
+      "relatedFormatPUID": "fmt/281"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

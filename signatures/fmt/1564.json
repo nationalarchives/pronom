@@ -44,25 +44,31 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2069,
-      "relatedFormatName": "Electronically Certified Document (EDOC)"
+      "relatedFormatName": "Electronically Certified Document (EDOC)",
+      "relatedFormatPUID": "fmt/1251"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2160,
-      "relatedFormatName": "BDOC"
+      "relatedFormatName": "BDOC",
+      "relatedFormatPUID": "fmt/1342"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2069,
-      "relatedFormatName": "Electronically Certified Document (EDOC)"
+      "relatedFormatName": "Electronically Certified Document (EDOC)",
+      "relatedFormatPUID": "fmt/1251"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2160,
-      "relatedFormatName": "BDOC"
+      "relatedFormatName": "BDOC",
+      "relatedFormatPUID": "fmt/1342"
     }
   ],
-  "source": [254],
+  "source": [
+    254
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

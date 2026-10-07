@@ -52,10 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 658,
-      "relatedFormatName": "Quicktime"
+      "relatedFormatName": "Quicktime",
+      "relatedFormatPUID": "x-fmt/384"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [194]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "source": [
+    194
+  ]
 }

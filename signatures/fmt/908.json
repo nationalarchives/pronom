@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1712,
-      "relatedFormatName": "Variant Call Format"
+      "relatedFormatName": "Variant Call Format",
+      "relatedFormatPUID": "fmt/907"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

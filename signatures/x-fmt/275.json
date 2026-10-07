@@ -60,14 +60,20 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 408,
-      "relatedFormatName": "Microsoft Word for MS-DOS Document"
+      "relatedFormatName": "Microsoft Word for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/276"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 406,
-      "relatedFormatName": "Microsoft Word for MS-DOS Document"
+      "relatedFormatName": "Microsoft Word for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/274"
     }
   ],
-  "developedBy": [93],
-  "source": [1]
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

@@ -64,8 +64,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2498,
-      "relatedFormatName": "Yamaha TX Wave Audio"
+      "relatedFormatName": "Yamaha TX Wave Audio",
+      "relatedFormatPUID": "fmt/1662"
     }
   ],
-  "source": [180]
+  "source": [
+    180
+  ]
 }

@@ -40,32 +40,43 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2679,
-      "relatedFormatName": "XLSX Strict OOXML Spreadsheet"
+      "relatedFormatName": "XLSX Strict OOXML Spreadsheet",
+      "relatedFormatPUID": "fmt/1828"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1387,
-      "relatedFormatName": "Microsoft Excel Non-XML Binary Workbook"
+      "relatedFormatName": "Microsoft Excel Non-XML Binary Workbook",
+      "relatedFormatPUID": "fmt/595"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1390,
-      "relatedFormatName": "Microsoft Excel Template"
+      "relatedFormatName": "Microsoft Excel Template",
+      "relatedFormatPUID": "fmt/598"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1426,
-      "relatedFormatName": "Microsoft Excel Macro-Enabled Template"
+      "relatedFormatName": "Microsoft Excel Macro-Enabled Template",
+      "relatedFormatPUID": "fmt/627"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1427,
-      "relatedFormatName": "Microsoft Excel Macro-Enabled Add-In"
+      "relatedFormatName": "Microsoft Excel Macro-Enabled Add-In",
+      "relatedFormatPUID": "fmt/628"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

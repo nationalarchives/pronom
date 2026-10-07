@@ -44,12 +44,19 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 940,
-      "relatedFormatName": "Microsoft Excel for Windows"
+      "relatedFormatName": "Microsoft Excel for Windows",
+      "relatedFormatPUID": "fmt/214"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [301],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    301
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

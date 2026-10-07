@@ -416,10 +416,17 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2870,
-      "relatedFormatName": "SPIR-V"
+      "relatedFormatName": "SPIR-V",
+      "relatedFormatPUID": "fmt/1996"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

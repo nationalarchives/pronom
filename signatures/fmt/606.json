@@ -56,8 +56,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1829,
-      "relatedFormatName": "Statistical Analysis System Catalog (Unix)"
+      "relatedFormatName": "Statistical Analysis System Catalog (Unix)",
+      "relatedFormatPUID": "fmt/1024"
     }
   ],
-  "source": [192]
+  "source": [
+    192
+  ]
 }

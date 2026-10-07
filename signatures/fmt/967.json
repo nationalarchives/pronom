@@ -56,10 +56,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1773,
-      "relatedFormatName": "AppleSingle"
+      "relatedFormatName": "AppleSingle",
+      "relatedFormatPUID": "fmt/968"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "source": [
+    1
+  ]
 }

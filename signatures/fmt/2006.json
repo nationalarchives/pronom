@@ -79,20 +79,29 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 255,
-      "relatedFormatName": "QuarkXPress Data File"
+      "relatedFormatName": "QuarkXPress Data File",
+      "relatedFormatPUID": "x-fmt/182"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2882,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/2007"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2318,
-      "relatedFormatName": "QuarkXPress Project"
+      "relatedFormatName": "QuarkXPress Project",
+      "relatedFormatPUID": "fmt/1495"
     }
   ],
-  "supportedBy": [91],
-  "developedBy": [91],
-  "source": [299]
+  "supportedBy": [
+    91
+  ],
+  "developedBy": [
+    91
+  ],
+  "source": [
+    299
+  ]
 }

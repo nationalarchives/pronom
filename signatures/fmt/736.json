@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1536,
-      "relatedFormatName": "ClarisWorks"
+      "relatedFormatName": "ClarisWorks",
+      "relatedFormatPUID": "fmt/737"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "source": [
+    1
+  ]
 }

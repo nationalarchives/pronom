@@ -64,10 +64,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1801,
-      "relatedFormatName": "Adobe Photoshop Large Document Format"
+      "relatedFormatName": "Adobe Photoshop Large Document Format",
+      "relatedFormatPUID": "fmt/996"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    1
+  ]
 }

@@ -79,199 +79,242 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 672,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/387"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 673,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/388"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 752,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/399"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 795,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/152"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 797,
-      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)"
+      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)",
+      "relatedFormatPUID": "fmt/154"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 798,
-      "relatedFormatName": "Geographic Tagged Image File Format (GeoTIFF)"
+      "relatedFormatName": "Geographic Tagged Image File Format (GeoTIFF)",
+      "relatedFormatPUID": "fmt/155"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 799,
-      "relatedFormatName": "Tagged Image File Format for Internet Fax (TIFF-FX)"
+      "relatedFormatName": "Tagged Image File Format for Internet Fax (TIFF-FX)",
+      "relatedFormatPUID": "fmt/156"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 916,
-      "relatedFormatName": "Sony ARW RAW Image File"
+      "relatedFormatName": "Sony ARW RAW Image File",
+      "relatedFormatPUID": "fmt/191"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 917,
-      "relatedFormatName": "Kodak Digital Camera Raw Image File"
+      "relatedFormatName": "Kodak Digital Camera Raw Image File",
+      "relatedFormatPUID": "fmt/192"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 927,
-      "relatedFormatName": "Nikon Digital SLR Camera Raw Image File"
+      "relatedFormatName": "Nikon Digital SLR Camera Raw Image File",
+      "relatedFormatPUID": "fmt/202"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1223,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/436"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1224,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/437"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1225,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/438"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1384,
-      "relatedFormatName": "Canon RAW"
+      "relatedFormatName": "Canon RAW",
+      "relatedFormatPUID": "fmt/592"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1440,
-      "relatedFormatName": "Epson Raw Image Format"
+      "relatedFormatName": "Epson Raw Image Format",
+      "relatedFormatPUID": "fmt/641"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1529,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/730"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1867,
-      "relatedFormatName": "Phase One IIQ Raw Image"
+      "relatedFormatName": "Phase One IIQ Raw Image",
+      "relatedFormatPUID": "fmt/1061"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1868,
-      "relatedFormatName": "Hasselblad 3FR Raw Image"
+      "relatedFormatName": "Hasselblad 3FR Raw Image",
+      "relatedFormatPUID": "fmt/1062"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1870,
-      "relatedFormatName": "Leaf Mosaic Raw Image"
+      "relatedFormatName": "Leaf Mosaic Raw Image",
+      "relatedFormatPUID": "fmt/1063"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1936,
-      "relatedFormatName": "Sony SR2 RAW Image File"
+      "relatedFormatName": "Sony SR2 RAW Image File",
+      "relatedFormatPUID": "fmt/1126"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1937,
-      "relatedFormatName": "Sony ARW RAW Image File"
+      "relatedFormatName": "Sony ARW RAW Image File",
+      "relatedFormatPUID": "fmt/1127"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2130,
-      "relatedFormatName": "CorelCHART Document"
+      "relatedFormatName": "CorelCHART Document",
+      "relatedFormatPUID": "fmt/1312"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2131,
-      "relatedFormatName": "CorelCHART Document"
+      "relatedFormatName": "CorelCHART Document",
+      "relatedFormatPUID": "fmt/1313"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2302,
-      "relatedFormatName": "XIFF (Xerox Image File Format)"
+      "relatedFormatName": "XIFF (Xerox Image File Format)",
+      "relatedFormatPUID": "fmt/1479"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2303,
-      "relatedFormatName": "XIFF (Xerox Image File Format)"
+      "relatedFormatName": "XIFF (Xerox Image File Format)",
+      "relatedFormatPUID": "fmt/1480"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2631,
-      "relatedFormatName": "Pentax PEF Image File"
+      "relatedFormatName": "Pentax PEF Image File",
+      "relatedFormatPUID": "fmt/1781"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2693,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/1841"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2694,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/1842"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2804,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/1943"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 687,
-      "relatedFormatName": "MPEG 1/2 Audio Layer 3"
+      "relatedFormatName": "MPEG 1/2 Audio Layer 3",
+      "relatedFormatPUID": "fmt/134"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 798,
-      "relatedFormatName": "Geographic Tagged Image File Format (GeoTIFF)"
+      "relatedFormatName": "Geographic Tagged Image File Format (GeoTIFF)",
+      "relatedFormatPUID": "fmt/155"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1223,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/436"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1224,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/437"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1225,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/438"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1529,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/730"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2693,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/1841"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2694,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/1842"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3967,
-      "relatedFormatName": "Kodak DCS RAW Image"
+      "relatedFormatName": "Kodak DCS RAW Image",
+      "relatedFormatPUID": "fmt/2090"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3968,
-      "relatedFormatName": "Kodak DCS RAW Image"
+      "relatedFormatName": "Kodak DCS RAW Image",
+      "relatedFormatPUID": "fmt/2091"
     }
   ],
-  "developedBy": [82],
-  "source": [1]
+  "developedBy": [
+    82
+  ],
+  "source": [
+    1
+  ]
 }

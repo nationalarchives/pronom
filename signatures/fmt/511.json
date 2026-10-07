@@ -52,40 +52,53 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1299,
-      "relatedFormatName": "PowerProject"
+      "relatedFormatName": "PowerProject",
+      "relatedFormatPUID": "fmt/512"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1300,
-      "relatedFormatName": "PowerProject"
+      "relatedFormatName": "PowerProject",
+      "relatedFormatPUID": "fmt/513"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1301,
-      "relatedFormatName": "PowerProject"
+      "relatedFormatName": "PowerProject",
+      "relatedFormatPUID": "fmt/514"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1302,
-      "relatedFormatName": "PowerProject"
+      "relatedFormatName": "PowerProject",
+      "relatedFormatPUID": "fmt/515"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1303,
-      "relatedFormatName": "PowerProject"
+      "relatedFormatName": "PowerProject",
+      "relatedFormatPUID": "fmt/516"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1304,
-      "relatedFormatName": "PowerProject"
+      "relatedFormatName": "PowerProject",
+      "relatedFormatPUID": "fmt/517"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1297,
-      "relatedFormatName": "PowerProject Teamplan"
+      "relatedFormatName": "PowerProject Teamplan",
+      "relatedFormatPUID": "fmt/510"
     }
   ],
-  "supportedBy": [189],
-  "developedBy": [189],
-  "source": [189]
+  "supportedBy": [
+    189
+  ],
+  "developedBy": [
+    189
+  ],
+  "source": [
+    189
+  ]
 }

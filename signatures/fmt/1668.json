@@ -52,18 +52,23 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2505,
-      "relatedFormatName": "Roxio Data Project File"
+      "relatedFormatName": "Roxio Data Project File",
+      "relatedFormatPUID": "fmt/1669"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2506,
-      "relatedFormatName": "Roxio Audio Project File"
+      "relatedFormatName": "Roxio Audio Project File",
+      "relatedFormatPUID": "fmt/1670"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2502,
-      "relatedFormatName": "Roxio Easy Media Creator Layout"
+      "relatedFormatName": "Roxio Easy Media Creator Layout",
+      "relatedFormatPUID": "fmt/1666"
     }
   ],
-  "source": [220]
+  "source": [
+    220
+  ]
 }

@@ -40,12 +40,19 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 941,
-      "relatedFormatName": "Microsoft Powerpoint for Windows"
+      "relatedFormatName": "Microsoft Powerpoint for Windows",
+      "relatedFormatPUID": "fmt/215"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [193],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    193
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

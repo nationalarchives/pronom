@@ -36,30 +36,37 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 777,
-      "relatedFormatName": "Java Archive Format"
+      "relatedFormatName": "Java Archive Format",
+      "relatedFormatPUID": "x-fmt/412"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1231,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/444"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

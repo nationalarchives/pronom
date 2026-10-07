@@ -64,20 +64,29 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 617,
-      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format",
+      "relatedFormatPUID": "fmt/18"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1350,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/562"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1348,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/560"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [165]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    165
+  ]
 }

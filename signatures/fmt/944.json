@@ -68,53 +68,65 @@
     {
       "relationshipType": "Can contain",
       "relatedFormatID": 929,
-      "relatedFormatName": "Ogg Vorbis Codec Compressed Multimedia File"
+      "relatedFormatName": "Ogg Vorbis Codec Compressed Multimedia File",
+      "relatedFormatPUID": "fmt/203"
     },
     {
       "relationshipType": "Can contain",
       "relatedFormatID": 1750,
-      "relatedFormatName": "Ogg Theora Video"
+      "relatedFormatName": "Ogg Theora Video",
+      "relatedFormatPUID": "fmt/945"
     },
     {
       "relationshipType": "Can contain",
       "relatedFormatID": 1751,
-      "relatedFormatName": "Ogg Opus Codec Compressed Multimedia File"
+      "relatedFormatName": "Ogg Opus Codec Compressed Multimedia File",
+      "relatedFormatPUID": "fmt/946"
     },
     {
       "relationshipType": "Can contain",
       "relatedFormatID": 1752,
-      "relatedFormatName": "Ogg FLAC Compressed Multimedia File"
+      "relatedFormatName": "Ogg FLAC Compressed Multimedia File",
+      "relatedFormatPUID": "fmt/947"
     },
     {
       "relationshipType": "Can contain",
       "relatedFormatID": 1753,
-      "relatedFormatName": "Ogg Speex Codec Multimedia File"
+      "relatedFormatName": "Ogg Speex Codec Multimedia File",
+      "relatedFormatPUID": "fmt/948"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 929,
-      "relatedFormatName": "Ogg Vorbis Codec Compressed Multimedia File"
+      "relatedFormatName": "Ogg Vorbis Codec Compressed Multimedia File",
+      "relatedFormatPUID": "fmt/203"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1750,
-      "relatedFormatName": "Ogg Theora Video"
+      "relatedFormatName": "Ogg Theora Video",
+      "relatedFormatPUID": "fmt/945"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1751,
-      "relatedFormatName": "Ogg Opus Codec Compressed Multimedia File"
+      "relatedFormatName": "Ogg Opus Codec Compressed Multimedia File",
+      "relatedFormatPUID": "fmt/946"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1752,
-      "relatedFormatName": "Ogg FLAC Compressed Multimedia File"
+      "relatedFormatName": "Ogg FLAC Compressed Multimedia File",
+      "relatedFormatPUID": "fmt/947"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1753,
-      "relatedFormatName": "Ogg Speex Codec Multimedia File"
+      "relatedFormatName": "Ogg Speex Codec Multimedia File",
+      "relatedFormatPUID": "fmt/948"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

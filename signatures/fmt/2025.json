@@ -52,13 +52,17 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1756,
-      "relatedFormatName": "Sonic Foundry WAVE 64"
+      "relatedFormatName": "Sonic Foundry WAVE 64",
+      "relatedFormatPUID": "fmt/951"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 3898,
-      "relatedFormatName": "CD Architect Project File"
+      "relatedFormatName": "CD Architect Project File",
+      "relatedFormatPUID": "fmt/2024"
     }
   ],
-  "source": [299]
+  "source": [
+    299
+  ]
 }

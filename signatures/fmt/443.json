@@ -40,20 +40,25 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1229,
-      "relatedFormatName": "Microsoft Visio (generic)"
+      "relatedFormatName": "Microsoft Visio (generic)",
+      "relatedFormatPUID": "fmt/442"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1729,
-      "relatedFormatName": "Microsoft Visio Drawing"
+      "relatedFormatName": "Microsoft Visio Drawing",
+      "relatedFormatPUID": "fmt/924"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",

@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1546,
-      "relatedFormatName": "ClarisWorks/AppleWorks Painting"
+      "relatedFormatName": "ClarisWorks/AppleWorks Painting",
+      "relatedFormatPUID": "fmt/747"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "source": [
+    1
+  ]
 }

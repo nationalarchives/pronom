@@ -50,13 +50,17 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1388,
-      "relatedFormatName": "Apple Lossless Audio Codec"
+      "relatedFormatName": "Apple Lossless Audio Codec",
+      "relatedFormatPUID": "fmt/596"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 924,
-      "relatedFormatName": "MPEG-4 Media File"
+      "relatedFormatName": "MPEG-4 Media File",
+      "relatedFormatPUID": "fmt/199"
     }
   ],
-  "source": [244]
+  "source": [
+    244
+  ]
 }

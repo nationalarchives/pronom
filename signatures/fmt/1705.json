@@ -52,9 +52,14 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2540,
-      "relatedFormatName": "Persuasion Mac Document"
+      "relatedFormatName": "Persuasion Mac Document",
+      "relatedFormatPUID": "fmt/1704"
     }
   ],
-  "developedBy": [7],
-  "source": [220]
+  "developedBy": [
+    7
+  ],
+  "source": [
+    220
+  ]
 }

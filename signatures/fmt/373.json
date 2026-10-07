@@ -52,13 +52,17 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1123,
-      "relatedFormatName": "FoxPro Report"
+      "relatedFormatName": "FoxPro Report",
+      "relatedFormatPUID": "fmt/376"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1128,
-      "relatedFormatName": "FoxPro Project"
+      "relatedFormatName": "FoxPro Project",
+      "relatedFormatPUID": "fmt/381"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

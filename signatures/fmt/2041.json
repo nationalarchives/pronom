@@ -47,8 +47,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     }
   ],
-  "source": [162]
+  "source": [
+    162
+  ]
 }

@@ -52,10 +52,17 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 738,
-      "relatedFormatName": "WordPerfect Graphics Metafile"
+      "relatedFormatName": "WordPerfect Graphics Metafile",
+      "relatedFormatPUID": "x-fmt/395"
     }
   ],
-  "supportedBy": [35],
-  "developedBy": [35],
-  "source": [1]
+  "supportedBy": [
+    35
+  ],
+  "developedBy": [
+    35
+  ],
+  "source": [
+    1
+  ]
 }

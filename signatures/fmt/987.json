@@ -52,10 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 801,
-      "relatedFormatName": "Windows Cabinet File"
+      "relatedFormatName": "Windows Cabinet File",
+      "relatedFormatPUID": "x-fmt/414"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

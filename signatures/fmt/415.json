@@ -52,13 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 221,
-      "relatedFormatName": "Interchange File"
+      "relatedFormatName": "Interchange File",
+      "relatedFormatPUID": "x-fmt/157"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1327,
-      "relatedFormatName": "Cinema 4D"
+      "relatedFormatName": "Cinema 4D",
+      "relatedFormatPUID": "fmt/540"
     }
   ],
-  "source": [165]
+  "source": [
+    165
+  ]
 }

@@ -56,15 +56,23 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1658,
-      "relatedFormatName": "Navisworks Document"
+      "relatedFormatName": "Navisworks Document",
+      "relatedFormatPUID": "fmt/857"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1660,
-      "relatedFormatName": "Navisworks Document"
+      "relatedFormatName": "Navisworks Document",
+      "relatedFormatPUID": "fmt/859"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [1]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "source": [
+    1
+  ]
 }

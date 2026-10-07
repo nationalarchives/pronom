@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1812,
-      "relatedFormatName": "Digital Speech Standard"
+      "relatedFormatName": "Digital Speech Standard",
+      "relatedFormatPUID": "fmt/1007"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

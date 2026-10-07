@@ -55,10 +55,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1438,
-      "relatedFormatName": "SPSS Data File"
+      "relatedFormatName": "SPSS Data File",
+      "relatedFormatPUID": "fmt/638"
     }
   ],
-  "supportedBy": [46],
-  "developedBy": [46],
-  "source": [234]
+  "supportedBy": [
+    46
+  ],
+  "developedBy": [
+    46
+  ],
+  "source": [
+    234
+  ]
 }

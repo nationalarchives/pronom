@@ -52,10 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1791,
-      "relatedFormatName": "Extensible Metadata Platform Format"
+      "relatedFormatName": "Extensible Metadata Platform Format",
+      "relatedFormatPUID": "fmt/986"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    1
+  ]
 }

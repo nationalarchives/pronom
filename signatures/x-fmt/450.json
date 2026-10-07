@@ -64,100 +64,125 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 921,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/196"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1336,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/548"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1337,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/549"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1338,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/550"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1339,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/551"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1340,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/552"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2457,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1630"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2458,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1631"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2459,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1632"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2460,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1633"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2461,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1634"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2462,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1635"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2463,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1636"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2464,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1637"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2465,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1638"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2466,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1639"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2467,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1640"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2802,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1941"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2803,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1942"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [131]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    131
+  ]
 }

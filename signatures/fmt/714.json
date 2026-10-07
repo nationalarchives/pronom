@@ -56,8 +56,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1766,
-      "relatedFormatName": "Mobile eXtensible Music Format"
+      "relatedFormatName": "Mobile eXtensible Music Format",
+      "relatedFormatPUID": "fmt/961"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

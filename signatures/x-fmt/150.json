@@ -52,8 +52,11 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1122,
-      "relatedFormatName": "FoxPro Compound Index File"
+      "relatedFormatName": "FoxPro Compound Index File",
+      "relatedFormatPUID": "fmt/375"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

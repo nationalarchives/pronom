@@ -64,14 +64,20 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1686,
-      "relatedFormatName": "Wordstar 2000"
+      "relatedFormatName": "Wordstar 2000",
+      "relatedFormatPUID": "fmt/882"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 343,
-      "relatedFormatName": "WordStar for MS-DOS Document"
+      "relatedFormatName": "WordStar for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/237"
     }
   ],
-  "developedBy": [110],
-  "source": [1]
+  "developedBy": [
+    110
+  ],
+  "source": [
+    1
+  ]
 }

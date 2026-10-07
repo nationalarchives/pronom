@@ -95,13 +95,17 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1150,
-      "relatedFormatName": "Truevision TGA Bitmap"
+      "relatedFormatName": "Truevision TGA Bitmap",
+      "relatedFormatPUID": "fmt/402"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1672,
-      "relatedFormatName": "MySQL Table Definition Format"
+      "relatedFormatName": "MySQL Table Definition Format",
+      "relatedFormatPUID": "fmt/868"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

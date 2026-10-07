@@ -52,13 +52,17 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1528,
-      "relatedFormatName": "SQLite Database File Format"
+      "relatedFormatName": "SQLite Database File Format",
+      "relatedFormatPUID": "fmt/729"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2518,
-      "relatedFormatName": "EndNote Library"
+      "relatedFormatName": "EndNote Library",
+      "relatedFormatPUID": "fmt/1682"
     }
   ],
-  "source": [220]
+  "source": [
+    220
+  ]
 }

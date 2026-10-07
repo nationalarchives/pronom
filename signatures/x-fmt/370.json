@@ -48,9 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 378,
-      "relatedFormatName": "WordStar for MS-DOS Document"
+      "relatedFormatName": "WordStar for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/260"
     }
   ],
-  "developedBy": [110],
-  "source": [1]
+  "developedBy": [
+    110
+  ],
+  "source": [
+    1
+  ]
 }

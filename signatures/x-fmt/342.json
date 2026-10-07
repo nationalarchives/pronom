@@ -94,8 +94,11 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1131,
-      "relatedFormatName": "Microsoft Visual FoxPro database container (memo files)"
+      "relatedFormatName": "Microsoft Visual FoxPro database container (memo files)",
+      "relatedFormatPUID": "fmt/384"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

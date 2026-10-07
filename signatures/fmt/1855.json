@@ -87,8 +87,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2707,
-      "relatedFormatName": "Open Media Framework Interchange"
+      "relatedFormatName": "Open Media Framework Interchange",
+      "relatedFormatPUID": "fmt/1854"
     }
   ],
-  "source": [299]
+  "source": [
+    299
+  ]
 }

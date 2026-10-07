@@ -36,45 +36,55 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 783,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/140"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1206,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/424"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2599,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/1752"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 777,
-      "relatedFormatName": "Java Archive Format"
+      "relatedFormatName": "Java Archive Format",
+      "relatedFormatPUID": "x-fmt/412"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3922,
-      "relatedFormatName": "OpenDocument Database"
+      "relatedFormatName": "OpenDocument Database",
+      "relatedFormatPUID": "fmt/2047"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

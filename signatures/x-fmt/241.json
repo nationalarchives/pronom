@@ -72,14 +72,20 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1015,
-      "relatedFormatName": "Microsoft Access Database File"
+      "relatedFormatName": "Microsoft Access Database File",
+      "relatedFormatPUID": "fmt/275"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 352,
-      "relatedFormatName": "Microsoft Access Database File"
+      "relatedFormatName": "Microsoft Access Database File",
+      "relatedFormatPUID": "x-fmt/240"
     }
   ],
-  "developedBy": [93],
-  "source": [1]
+  "developedBy": [
+    93
+  ],
+  "source": [
+    1
+  ]
 }

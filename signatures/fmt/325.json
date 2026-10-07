@@ -82,13 +82,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2518,
-      "relatedFormatName": "EndNote Library"
+      "relatedFormatName": "EndNote Library",
+      "relatedFormatPUID": "fmt/1682"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2519,
-      "relatedFormatName": "EndNote Compressed Library"
+      "relatedFormatName": "EndNote Compressed Library",
+      "relatedFormatPUID": "fmt/1683"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

@@ -60,18 +60,23 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1026,
-      "relatedFormatName": "HDF5"
+      "relatedFormatName": "HDF5",
+      "relatedFormatPUID": "fmt/286"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1027,
-      "relatedFormatName": "HDF5"
+      "relatedFormatName": "HDF5",
+      "relatedFormatPUID": "fmt/287"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1607,
-      "relatedFormatName": "HDF5"
+      "relatedFormatName": "HDF5",
+      "relatedFormatPUID": "fmt/807"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

@@ -52,13 +52,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1810,
-      "relatedFormatName": "Nearly Raw Raster Data"
+      "relatedFormatName": "Nearly Raw Raster Data",
+      "relatedFormatPUID": "fmt/1005"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1808,
-      "relatedFormatName": "Nearly Raw Raster Data"
+      "relatedFormatName": "Nearly Raw Raster Data",
+      "relatedFormatPUID": "fmt/1003"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

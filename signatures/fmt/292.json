@@ -75,31 +75,40 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 781,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/138"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1036,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/293"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2602,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/1754"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3921,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/2046"
     }
   ],
-  "developedBy": [127],
-  "source": [1],
+  "developedBy": [
+    127
+  ],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

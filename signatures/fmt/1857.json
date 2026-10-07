@@ -60,15 +60,23 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2569,
-      "relatedFormatName": "Capture One Settings File"
+      "relatedFormatName": "Capture One Settings File",
+      "relatedFormatPUID": "fmt/1725"
     }
   ],
-  "supportedBy": [289],
-  "developedBy": [289],
-  "source": [299]
+  "supportedBy": [
+    289
+  ],
+  "developedBy": [
+    289
+  ],
+  "source": [
+    299
+  ]
 }

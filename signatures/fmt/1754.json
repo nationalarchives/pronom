@@ -40,20 +40,25 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1035,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/292"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     }
   ],
-  "source": [244],
+  "source": [
+    244
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

@@ -64,110 +64,137 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 710,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/64"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 711,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/65"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 712,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/66"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 713,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/67"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 714,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/68"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 715,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/69"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 716,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/70"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 717,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/71"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 718,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/72"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 719,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/73"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 720,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/74"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 721,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/75"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 722,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/76"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 723,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/77"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 724,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/78"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 725,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/79"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1220,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/433"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1221,
-      "relatedFormatName": "AutoCAD Drawing"
+      "relatedFormatName": "AutoCAD Drawing",
+      "relatedFormatPUID": "fmt/434"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1222,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/435"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1319,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/532"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2207,
-      "relatedFormatName": "Drawing Interchange Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange Format (ASCII)",
+      "relatedFormatPUID": "fmt/1389"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [1]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "source": [
+    1
+  ]
 }

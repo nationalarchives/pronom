@@ -36,30 +36,37 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2520,
-      "relatedFormatName": "EndNote Library"
+      "relatedFormatName": "EndNote Library",
+      "relatedFormatPUID": "fmt/1684"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2521,
-      "relatedFormatName": "EndNote Compressed Library"
+      "relatedFormatName": "EndNote Compressed Library",
+      "relatedFormatPUID": "fmt/1685"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1070,
-      "relatedFormatName": "EndNote Library"
+      "relatedFormatName": "EndNote Library",
+      "relatedFormatPUID": "fmt/325"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 2519,
-      "relatedFormatName": "EndNote Compressed Library"
+      "relatedFormatName": "EndNote Compressed Library",
+      "relatedFormatPUID": "fmt/1683"
     }
   ],
-  "source": [220],
+  "source": [
+    220
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

@@ -56,13 +56,17 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1112,
-      "relatedFormatName": "National Imagery Transmission Format"
+      "relatedFormatName": "National Imagery Transmission Format",
+      "relatedFormatPUID": "fmt/365"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1113,
-      "relatedFormatName": "National Imagery Transmission Format"
+      "relatedFormatName": "National Imagery Transmission Format",
+      "relatedFormatPUID": "fmt/366"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

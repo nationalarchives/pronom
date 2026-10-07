@@ -56,8 +56,11 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1528,
-      "relatedFormatName": "SQLite Database File Format"
+      "relatedFormatName": "SQLite Database File Format",
+      "relatedFormatPUID": "fmt/729"
     }
   ],
-  "source": [232]
+  "source": [
+    232
+  ]
 }

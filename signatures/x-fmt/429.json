@@ -60,23 +60,29 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 641,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/99"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 642,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/100"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1018,
-      "relatedFormatName": "Internet Message Format"
+      "relatedFormatName": "Internet Message Format",
+      "relatedFormatPUID": "fmt/278"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1258,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/471"
     }
   ],
-  "source": [220]
+  "source": [
+    220
+  ]
 }

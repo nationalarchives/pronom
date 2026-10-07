@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 934,
-      "relatedFormatName": "Binary File"
+      "relatedFormatName": "Binary File",
+      "relatedFormatPUID": "fmt/208"
     }
   ],
-  "source": [180]
+  "source": [
+    180
+  ]
 }

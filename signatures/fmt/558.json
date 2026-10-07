@@ -76,25 +76,35 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 616,
-      "relatedFormatName": "Acrobat PDF 1.3 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.3 - Portable Document Format",
+      "relatedFormatPUID": "fmt/17"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 617,
-      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format",
+      "relatedFormatPUID": "fmt/18"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1347,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/559"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1345,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/557"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [165]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "source": [
+    165
+  ]
 }

@@ -52,8 +52,11 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1327,
-      "relatedFormatName": "Cinema 4D"
+      "relatedFormatName": "Cinema 4D",
+      "relatedFormatPUID": "fmt/540"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }

@@ -68,23 +68,29 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1704,
-      "relatedFormatName": "Windows Portable Executable"
+      "relatedFormatName": "Windows Portable Executable",
+      "relatedFormatPUID": "fmt/899"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1705,
-      "relatedFormatName": "Windows Portable Executable"
+      "relatedFormatName": "Windows Portable Executable",
+      "relatedFormatPUID": "fmt/900"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 774,
-      "relatedFormatName": "MS-DOS Executable"
+      "relatedFormatName": "MS-DOS Executable",
+      "relatedFormatPUID": "x-fmt/409"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 775,
-      "relatedFormatName": "Windows New Executable"
+      "relatedFormatName": "Windows New Executable",
+      "relatedFormatPUID": "x-fmt/410"
     }
   ],
-  "source": [1]
+  "source": [
+    1
+  ]
 }
