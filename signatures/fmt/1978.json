@@ -73,7 +73,13 @@
       "relatedFormatName": "Sibelius"
     }
   ],
-  "supportedBy": [291],
-  "developedBy": [332],
-  "source": [299]
+  "supportedBy": [
+    291
+  ],
+  "developedBy": [
+    332
+  ],
+  "source": [
+    299
+  ]
 }

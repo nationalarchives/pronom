@@ -59,6 +59,8 @@
       "relatedFormatName": "MIME Email"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": []
 }

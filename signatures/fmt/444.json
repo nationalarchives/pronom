@@ -74,7 +74,9 @@
       "relatedFormatName": "OpenDocument Database"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

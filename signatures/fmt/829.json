@@ -43,7 +43,9 @@
       "relatedFormatName": "Open XML Paper Specification"
     }
   ],
-  "source": [1],
+  "source": [
+    1
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",

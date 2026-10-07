@@ -81,7 +81,13 @@
       "relatedFormatName": "Windows Portable Executable"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [214]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "source": [
+    214
+  ]
 }

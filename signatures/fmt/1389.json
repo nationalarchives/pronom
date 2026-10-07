@@ -67,7 +67,13 @@
       "relatedFormatName": "Drawing Interchange File Format (ASCII)"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [220]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "source": [
+    220
+  ]
 }

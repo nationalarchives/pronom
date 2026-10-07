@@ -55,7 +55,13 @@
       "relatedFormatName": "3DM"
     }
   ],
-  "supportedBy": [130],
-  "developedBy": [130],
-  "source": [216]
+  "supportedBy": [
+    130
+  ],
+  "developedBy": [
+    130
+  ],
+  "source": [
+    216
+  ]
 }
