@@ -48,7 +48,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2399,
-      "relatedFormatName": "Visual Basic Project Workspace File"
+      "relatedFormatName": "Visual Basic Project Workspace File",
+      "relatedFormatPUID": "fmt/1574"
     }
   ],
   "supportedBy": [

@@ -61,7 +61,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 533,
-      "relatedFormatName": "Truevision TGA Bitmap"
+      "relatedFormatName": "Truevision TGA Bitmap",
+      "relatedFormatPUID": "x-fmt/367"
     }
   ],
   "submittedBy": [

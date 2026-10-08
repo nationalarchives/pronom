@@ -32,12 +32,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1638,
-      "relatedFormatName": "Quattro Pro Spreadsheet"
+      "relatedFormatName": "Quattro Pro Spreadsheet",
+      "relatedFormatPUID": "fmt/837"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1636,
-      "relatedFormatName": "Quattro Pro Spreadsheet for Windows"
+      "relatedFormatName": "Quattro Pro Spreadsheet for Windows",
+      "relatedFormatPUID": "fmt/835"
     }
   ],
   "supportedBy": [

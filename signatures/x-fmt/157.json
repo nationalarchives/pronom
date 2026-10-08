@@ -49,52 +49,62 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 195,
-      "relatedFormatName": "Audio Interchange File Format (compressed)"
+      "relatedFormatName": "Audio Interchange File Format (compressed)",
+      "relatedFormatPUID": "x-fmt/136"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1083,
-      "relatedFormatName": "Interchange File Format Interleaved Bitmap"
+      "relatedFormatName": "Interchange File Format Interleaved Bitmap",
+      "relatedFormatPUID": "fmt/338"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1084,
-      "relatedFormatName": "Interchange File Format 8-bit Sampled Voice"
+      "relatedFormatName": "Interchange File Format 8-bit Sampled Voice",
+      "relatedFormatPUID": "fmt/339"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1192,
-      "relatedFormatName": "Audio Interchange File Format"
+      "relatedFormatName": "Audio Interchange File Format",
+      "relatedFormatPUID": "fmt/414"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1194,
-      "relatedFormatName": "Cinema 4D"
+      "relatedFormatName": "Cinema 4D",
+      "relatedFormatPUID": "fmt/415"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2015,
-      "relatedFormatName": "LightWave 3D Object"
+      "relatedFormatName": "LightWave 3D Object",
+      "relatedFormatPUID": "fmt/1205"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2016,
-      "relatedFormatName": "Impulse 3D Data Description Object"
+      "relatedFormatName": "Impulse 3D Data Description Object",
+      "relatedFormatPUID": "fmt/1206"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2831,
-      "relatedFormatName": "Final Writer Document"
+      "relatedFormatName": "Final Writer Document",
+      "relatedFormatPUID": "fmt/1966"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1083,
-      "relatedFormatName": "Interchange File Format Interleaved Bitmap"
+      "relatedFormatName": "Interchange File Format Interleaved Bitmap",
+      "relatedFormatPUID": "fmt/338"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1084,
-      "relatedFormatName": "Interchange File Format 8-bit Sampled Voice"
+      "relatedFormatName": "Interchange File Format 8-bit Sampled Voice",
+      "relatedFormatPUID": "fmt/339"
     }
   ],
   "submittedBy": [

@@ -52,12 +52,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2393,
-      "relatedFormatName": "ISDOCX Information System Document"
+      "relatedFormatName": "ISDOCX Information System Document",
+      "relatedFormatPUID": "fmt/1568"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2623,
-      "relatedFormatName": "Calc602 Spreadsheet File"
+      "relatedFormatName": "Calc602 Spreadsheet File",
+      "relatedFormatPUID": "fmt/1773"
     }
   ],
   "supportedBy": [

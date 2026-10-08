@@ -49,7 +49,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2839,
-      "relatedFormatName": "Enigma Binary File (Finale)"
+      "relatedFormatName": "Enigma Binary File (Finale)",
+      "relatedFormatPUID": "fmt/1972"
     }
   ],
   "submittedBy": [

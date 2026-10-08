@@ -57,27 +57,32 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 680,
-      "relatedFormatName": "Microsoft Excel 4.0 Worksheet (xls)"
+      "relatedFormatName": "Microsoft Excel 4.0 Worksheet (xls)",
+      "relatedFormatPUID": "fmt/57"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 681,
-      "relatedFormatName": "Microsoft Excel 4.0 Workbook (xls)"
+      "relatedFormatName": "Microsoft Excel 4.0 Workbook (xls)",
+      "relatedFormatPUID": "fmt/58"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 678,
-      "relatedFormatName": "Microsoft Excel 2.x Worksheet (xls)"
+      "relatedFormatName": "Microsoft Excel 2.x Worksheet (xls)",
+      "relatedFormatPUID": "fmt/55"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1342,
-      "relatedFormatName": "Microsoft Excel Chart"
+      "relatedFormatName": "Microsoft Excel Chart",
+      "relatedFormatPUID": "fmt/554"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1344,
-      "relatedFormatName": "Microsoft Excel Macro"
+      "relatedFormatName": "Microsoft Excel Macro",
+      "relatedFormatPUID": "fmt/556"
     }
   ],
   "supportedBy": [

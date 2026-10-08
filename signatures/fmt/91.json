@@ -52,27 +52,32 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 635,
-      "relatedFormatName": "Scalable Vector Graphics"
+      "relatedFormatName": "Scalable Vector Graphics",
+      "relatedFormatPUID": "fmt/92"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1191,
-      "relatedFormatName": "Scalable Vector Graphics Tiny"
+      "relatedFormatName": "Scalable Vector Graphics Tiny",
+      "relatedFormatPUID": "fmt/413"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 635,
-      "relatedFormatName": "Scalable Vector Graphics"
+      "relatedFormatName": "Scalable Vector Graphics",
+      "relatedFormatPUID": "fmt/92"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1191,
-      "relatedFormatName": "Scalable Vector Graphics Tiny"
+      "relatedFormatName": "Scalable Vector Graphics Tiny",
+      "relatedFormatPUID": "fmt/413"
     }
   ],
   "submittedBy": [

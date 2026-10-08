@@ -40,12 +40,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2389,
-      "relatedFormatName": "Associated Signature Container Extended (ASiC-E)"
+      "relatedFormatName": "Associated Signature Container Extended (ASiC-E)",
+      "relatedFormatPUID": "fmt/1564"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 2389,
-      "relatedFormatName": "Associated Signature Container Extended (ASiC-E)"
+      "relatedFormatName": "Associated Signature Container Extended (ASiC-E)",
+      "relatedFormatPUID": "fmt/1564"
     }
   ],
   "containerSignatures": [

@@ -52,12 +52,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1367,
-      "relatedFormatName": "X3D"
+      "relatedFormatName": "X3D",
+      "relatedFormatPUID": "fmt/579"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 661,
-      "relatedFormatName": "Virtual Reality Modeling Language"
+      "relatedFormatName": "Virtual Reality Modeling Language",
+      "relatedFormatPUID": "fmt/93"
     }
   ],
   "submittedBy": [

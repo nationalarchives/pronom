@@ -57,7 +57,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1530,
-      "relatedFormatName": "Bink Video Format"
+      "relatedFormatName": "Bink Video Format",
+      "relatedFormatPUID": "fmt/731"
     }
   ],
   "submittedBy": [

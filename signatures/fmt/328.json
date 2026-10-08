@@ -73,42 +73,50 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 86,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/122"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 138,
-      "relatedFormatName": "Postscript"
+      "relatedFormatName": "Postscript",
+      "relatedFormatPUID": "x-fmt/91"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 331,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/124"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 332,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/123"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 771,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/406"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 772,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/407"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 773,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/408"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1288,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "fmt/501"
     }
   ],
   "submittedBy": [

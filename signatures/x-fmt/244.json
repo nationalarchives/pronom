@@ -36,7 +36,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 359,
-      "relatedFormatName": "Microsoft Project"
+      "relatedFormatName": "Microsoft Project",
+      "relatedFormatPUID": "x-fmt/243"
     }
   ],
   "containerSignatures": [

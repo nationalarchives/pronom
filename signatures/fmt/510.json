@@ -49,7 +49,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1298,
-      "relatedFormatName": "PowerProject"
+      "relatedFormatName": "PowerProject",
+      "relatedFormatPUID": "fmt/511"
     }
   ],
   "supportedBy": [

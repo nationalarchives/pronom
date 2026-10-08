@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2432,
-      "relatedFormatName": "True Colour Sprites [Spooky Sprites] (Atari Falcon)"
+      "relatedFormatName": "True Colour Sprites [Spooky Sprites] (Atari Falcon)",
+      "relatedFormatPUID": "fmt/1605"
     }
   ],
   "submittedBy": [

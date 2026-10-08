@@ -57,12 +57,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 343,
-      "relatedFormatName": "WordStar for MS-DOS Document"
+      "relatedFormatName": "WordStar for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/237"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 285,
-      "relatedFormatName": "WordStar for MS-DOS Document"
+      "relatedFormatName": "WordStar for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/205"
     }
   ],
   "developedBy": [

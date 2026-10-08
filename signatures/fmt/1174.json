@@ -61,7 +61,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 446,
-      "relatedFormatName": "Hewlett Packard Graphics Language"
+      "relatedFormatName": "Hewlett Packard Graphics Language",
+      "relatedFormatPUID": "x-fmt/293"
     }
   ],
   "supportedBy": [

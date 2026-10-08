@@ -71,7 +71,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1702,
-      "relatedFormatName": "Zoomify Image Format"
+      "relatedFormatName": "Zoomify Image Format",
+      "relatedFormatPUID": "fmt/898"
     }
   ],
   "submittedBy": [

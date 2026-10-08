@@ -36,7 +36,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 635,
-      "relatedFormatName": "Scalable Vector Graphics"
+      "relatedFormatName": "Scalable Vector Graphics",
+      "relatedFormatPUID": "fmt/92"
     }
   ],
   "submittedBy": [

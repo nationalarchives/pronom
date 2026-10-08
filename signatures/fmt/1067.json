@@ -81,12 +81,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1871,
-      "relatedFormatName": "Portable Database"
+      "relatedFormatName": "Portable Database",
+      "relatedFormatPUID": "fmt/1064"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1872,
-      "relatedFormatName": "Portable Database"
+      "relatedFormatName": "Portable Database",
+      "relatedFormatPUID": "fmt/1065"
     }
   ],
   "submittedBy": [

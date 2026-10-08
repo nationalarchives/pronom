@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 3895,
-      "relatedFormatName": "askSam Document for Windows"
+      "relatedFormatName": "askSam Document for Windows",
+      "relatedFormatPUID": "fmt/2021"
     }
   ],
   "submittedBy": [

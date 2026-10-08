@@ -49,12 +49,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1097,
-      "relatedFormatName": "Paradox Database Table"
+      "relatedFormatName": "Paradox Database Table",
+      "relatedFormatPUID": "fmt/352"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1095,
-      "relatedFormatName": "Paradox Database Table"
+      "relatedFormatName": "Paradox Database Table",
+      "relatedFormatPUID": "fmt/350"
     }
   ],
   "submittedBy": [

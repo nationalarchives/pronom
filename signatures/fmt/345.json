@@ -85,12 +85,14 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 215,
-      "relatedFormatName": "Microsoft Windows Enhanced Metafile"
+      "relatedFormatName": "Microsoft Windows Enhanced Metafile",
+      "relatedFormatPUID": "x-fmt/153"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1089,
-      "relatedFormatName": "Microsoft Windows Enhanced Metafile"
+      "relatedFormatName": "Microsoft Windows Enhanced Metafile",
+      "relatedFormatPUID": "fmt/344"
     }
   ],
   "submittedBy": [

@@ -36,12 +36,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2164,
-      "relatedFormatName": "Autodesk Revit File"
+      "relatedFormatName": "Autodesk Revit File",
+      "relatedFormatPUID": "fmt/1346"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2168,
-      "relatedFormatName": "Autodesk Revit Project File"
+      "relatedFormatName": "Autodesk Revit Project File",
+      "relatedFormatPUID": "fmt/1350"
     }
   ],
   "supportedBy": [

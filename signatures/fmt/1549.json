@@ -56,7 +56,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2176,
-      "relatedFormatName": "MicroStation Base File"
+      "relatedFormatName": "MicroStation Base File",
+      "relatedFormatPUID": "fmt/1358"
     }
   ],
   "developedBy": [

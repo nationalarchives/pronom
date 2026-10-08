@@ -52,12 +52,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1704,
-      "relatedFormatName": "Windows Portable Executable"
+      "relatedFormatName": "Windows Portable Executable",
+      "relatedFormatPUID": "fmt/899"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1257,
-      "relatedFormatName": "Asymetrix Toolbook File"
+      "relatedFormatName": "Asymetrix Toolbook File",
+      "relatedFormatPUID": "fmt/470"
     }
   ],
   "submittedBy": [

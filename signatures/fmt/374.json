@@ -81,22 +81,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1124,
-      "relatedFormatName": "Microsoft Visual FoxPro Report"
+      "relatedFormatName": "Microsoft Visual FoxPro Report",
+      "relatedFormatPUID": "fmt/377"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1126,
-      "relatedFormatName": "Microsoft Visual FoxPro Class Library"
+      "relatedFormatName": "Microsoft Visual FoxPro Class Library",
+      "relatedFormatPUID": "fmt/379"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1127,
-      "relatedFormatName": "Microsoft Visual FoxPro Project"
+      "relatedFormatName": "Microsoft Visual FoxPro Project",
+      "relatedFormatPUID": "fmt/380"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1129,
-      "relatedFormatName": "Microsoft Visual FoxPro database container (table files)"
+      "relatedFormatName": "Microsoft Visual FoxPro database container (table files)",
+      "relatedFormatPUID": "fmt/382"
     }
   ],
   "submittedBy": [

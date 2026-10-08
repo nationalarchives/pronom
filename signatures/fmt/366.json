@@ -53,12 +53,14 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1111,
-      "relatedFormatName": "National Imagery Transmission Format"
+      "relatedFormatName": "National Imagery Transmission Format",
+      "relatedFormatPUID": "fmt/364"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1112,
-      "relatedFormatName": "National Imagery Transmission Format"
+      "relatedFormatName": "National Imagery Transmission Format",
+      "relatedFormatPUID": "fmt/365"
     }
   ],
   "submittedBy": [

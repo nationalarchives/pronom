@@ -61,7 +61,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1875,
-      "relatedFormatName": "Silo"
+      "relatedFormatName": "Silo",
+      "relatedFormatPUID": "fmt/1068"
     }
   ],
   "submittedBy": [

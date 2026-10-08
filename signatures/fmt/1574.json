@@ -56,7 +56,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2366,
-      "relatedFormatName": "Visual Basic Form File"
+      "relatedFormatName": "Visual Basic Form File",
+      "relatedFormatPUID": "fmt/1541"
     }
   ],
   "submittedBy": [

@@ -57,17 +57,20 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 682,
-      "relatedFormatName": "Microsoft Excel 5.0/95 Workbook (xls)"
+      "relatedFormatName": "Microsoft Excel 5.0/95 Workbook (xls)",
+      "relatedFormatPUID": "fmt/59"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 679,
-      "relatedFormatName": "Microsoft Excel 3.0 Worksheet (xls)"
+      "relatedFormatName": "Microsoft Excel 3.0 Worksheet (xls)",
+      "relatedFormatPUID": "fmt/56"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 181,
-      "relatedFormatName": "Microsoft Excel Chart"
+      "relatedFormatName": "Microsoft Excel Chart",
+      "relatedFormatPUID": "x-fmt/126"
     }
   ],
   "supportedBy": [

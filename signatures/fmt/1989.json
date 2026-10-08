@@ -56,12 +56,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1495,
-      "relatedFormatName": "Sibelius"
+      "relatedFormatName": "Sibelius",
+      "relatedFormatPUID": "fmt/696"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2861,
-      "relatedFormatName": "Sibelius Score"
+      "relatedFormatName": "Sibelius Score",
+      "relatedFormatPUID": "fmt/1988"
     }
   ],
   "supportedBy": [

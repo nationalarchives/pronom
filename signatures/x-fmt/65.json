@@ -57,17 +57,20 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 8,
-      "relatedFormatName": "Microsoft Word for Macintosh Document"
+      "relatedFormatName": "Microsoft Word for Macintosh Document",
+      "relatedFormatPUID": "x-fmt/1"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 105,
-      "relatedFormatName": "Microsoft Word for Macintosh Document"
+      "relatedFormatName": "Microsoft Word for Macintosh Document",
+      "relatedFormatPUID": "x-fmt/64"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1091,
-      "relatedFormatName": "Microsoft Word for Macintosh Document"
+      "relatedFormatName": "Microsoft Word for Macintosh Document",
+      "relatedFormatPUID": "fmt/346"
     }
   ],
   "supportedBy": [

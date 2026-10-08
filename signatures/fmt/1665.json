@@ -52,7 +52,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2502,
-      "relatedFormatName": "Roxio Easy Media Creator Layout"
+      "relatedFormatName": "Roxio Easy Media Creator Layout",
+      "relatedFormatPUID": "fmt/1666"
     }
   ],
   "submittedBy": [

@@ -60,7 +60,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2542,
-      "relatedFormatName": "Persuasion Windows Document"
+      "relatedFormatName": "Persuasion Windows Document",
+      "relatedFormatPUID": "fmt/1706"
     }
   ],
   "developedBy": [

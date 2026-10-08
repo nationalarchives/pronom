@@ -56,117 +56,140 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 656,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/2"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 674,
-      "relatedFormatName": "Exchangeable Image File Format (Audio)"
+      "relatedFormatName": "Exchangeable Image File Format (Audio)",
+      "relatedFormatPUID": "x-fmt/389"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 735,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/1"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 749,
-      "relatedFormatName": "Exchangeable Image File Format (Audio)"
+      "relatedFormatName": "Exchangeable Image File Format (Audio)",
+      "relatedFormatPUID": "x-fmt/396"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 750,
-      "relatedFormatName": "Exchangeable Image File Format (Audio)"
+      "relatedFormatName": "Exchangeable Image File Format (Audio)",
+      "relatedFormatPUID": "x-fmt/397"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 784,
-      "relatedFormatName": "Waveform Audio (PCMWAVEFORMAT)"
+      "relatedFormatName": "Waveform Audio (PCMWAVEFORMAT)",
+      "relatedFormatPUID": "fmt/141"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 785,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)",
+      "relatedFormatPUID": "fmt/142"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 786,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)",
+      "relatedFormatPUID": "fmt/143"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1314,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/527"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1502,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/703"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1503,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/704"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1504,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/705"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1505,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/706"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1506,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/707"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1507,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/708"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1508,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/709"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1509,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/710"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1510,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/711"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2741,
-      "relatedFormatName": "Resource Interchange File Format (RIFF)"
+      "relatedFormatName": "Resource Interchange File Format (RIFF)",
+      "relatedFormatPUID": "fmt/1886"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 785,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)",
+      "relatedFormatPUID": "fmt/142"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 784,
-      "relatedFormatName": "Waveform Audio (PCMWAVEFORMAT)"
+      "relatedFormatName": "Waveform Audio (PCMWAVEFORMAT)",
+      "relatedFormatPUID": "fmt/141"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 785,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)",
+      "relatedFormatPUID": "fmt/142"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 786,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)",
+      "relatedFormatPUID": "fmt/143"
     }
   ],
   "submittedBy": [

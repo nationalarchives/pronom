@@ -37,7 +37,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 4985,
-      "relatedFormatName": "Clock RINEX File Format"
+      "relatedFormatName": "Clock RINEX File Format",
+      "relatedFormatPUID": "fmt/2109"
     }
   ],
   "containerSignatures": [],

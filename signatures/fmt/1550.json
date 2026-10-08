@@ -32,17 +32,20 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1606,
-      "relatedFormatName": "MATLAB Mat File"
+      "relatedFormatName": "MATLAB Mat File",
+      "relatedFormatPUID": "fmt/806"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1629,
-      "relatedFormatName": "MATLAB Mat File"
+      "relatedFormatName": "MATLAB Mat File",
+      "relatedFormatPUID": "fmt/828"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1606,
-      "relatedFormatName": "MATLAB Mat File"
+      "relatedFormatName": "MATLAB Mat File",
+      "relatedFormatPUID": "fmt/806"
     }
   ],
   "submittedBy": [

@@ -56,12 +56,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1784,
-      "relatedFormatName": "XML Property List"
+      "relatedFormatName": "XML Property List",
+      "relatedFormatPUID": "fmt/979"
     }
   ],
   "submittedBy": [

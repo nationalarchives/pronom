@@ -57,22 +57,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 894,
-      "relatedFormatName": "Microsoft Works Spreadsheet"
+      "relatedFormatName": "Microsoft Works Spreadsheet",
+      "relatedFormatPUID": "fmt/166"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 166,
-      "relatedFormatName": "Lotus 1-2-3 Worksheet"
+      "relatedFormatName": "Lotus 1-2-3 Worksheet",
+      "relatedFormatPUID": "x-fmt/114"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 167,
-      "relatedFormatName": "Lotus 1-2-3 Worksheet"
+      "relatedFormatName": "Lotus 1-2-3 Worksheet",
+      "relatedFormatPUID": "x-fmt/115"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 168,
-      "relatedFormatName": "Lotus 1-2-3 Worksheet"
+      "relatedFormatName": "Lotus 1-2-3 Worksheet",
+      "relatedFormatPUID": "x-fmt/116"
     }
   ],
   "submittedBy": [

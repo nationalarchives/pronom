@@ -52,12 +52,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 866,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "x-fmt/451"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 867,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "x-fmt/452"
     }
   ],
   "supportedBy": [

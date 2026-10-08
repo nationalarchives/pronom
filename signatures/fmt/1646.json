@@ -57,7 +57,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2472,
-      "relatedFormatName": "Roxio Label Creator Project File"
+      "relatedFormatName": "Roxio Label Creator Project File",
+      "relatedFormatPUID": "fmt/1645"
     }
   ],
   "submittedBy": [

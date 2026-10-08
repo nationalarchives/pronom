@@ -48,7 +48,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2381,
-      "relatedFormatName": "Starlink Data Format"
+      "relatedFormatName": "Starlink Data Format",
+      "relatedFormatPUID": "fmt/1556"
     }
   ],
   "submittedBy": [

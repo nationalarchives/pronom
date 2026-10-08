@@ -53,7 +53,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 3899,
-      "relatedFormatName": "CD Architect Project File"
+      "relatedFormatName": "CD Architect Project File",
+      "relatedFormatPUID": "fmt/2025"
     }
   ],
   "submittedBy": [

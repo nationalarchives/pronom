@@ -52,27 +52,32 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 316,
-      "relatedFormatName": "Cascading Style Sheet"
+      "relatedFormatName": "Cascading Style Sheet",
+      "relatedFormatPUID": "x-fmt/224"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 634,
-      "relatedFormatName": "Scalable Vector Graphics"
+      "relatedFormatName": "Scalable Vector Graphics",
+      "relatedFormatPUID": "fmt/91"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1191,
-      "relatedFormatName": "Scalable Vector Graphics Tiny"
+      "relatedFormatName": "Scalable Vector Graphics Tiny",
+      "relatedFormatPUID": "fmt/413"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 634,
-      "relatedFormatName": "Scalable Vector Graphics"
+      "relatedFormatName": "Scalable Vector Graphics",
+      "relatedFormatPUID": "fmt/91"
     }
   ],
   "submittedBy": [

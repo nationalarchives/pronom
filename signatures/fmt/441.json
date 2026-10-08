@@ -57,12 +57,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 691,
-      "relatedFormatName": "Advanced Systems Format"
+      "relatedFormatName": "Advanced Systems Format",
+      "relatedFormatPUID": "fmt/131"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 692,
-      "relatedFormatName": "Windows Media Audio"
+      "relatedFormatName": "Windows Media Audio",
+      "relatedFormatPUID": "fmt/132"
     }
   ],
   "submittedBy": [

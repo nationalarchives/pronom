@@ -57,7 +57,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1059,
-      "relatedFormatName": "Play SID Audio"
+      "relatedFormatName": "Play SID Audio",
+      "relatedFormatPUID": "fmt/314"
     }
   ],
   "submittedBy": [

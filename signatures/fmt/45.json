@@ -61,27 +61,32 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 631,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/50"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 633,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/52"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 753,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/53"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1101,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/355"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 627,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/46"
     }
   ],
   "containerSignatures": [],

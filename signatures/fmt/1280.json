@@ -48,12 +48,14 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 737,
-      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document"
+      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document",
+      "relatedFormatPUID": "x-fmt/394"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 687,
-      "relatedFormatName": "MPEG 1/2 Audio Layer 3"
+      "relatedFormatName": "MPEG 1/2 Audio Layer 3",
+      "relatedFormatPUID": "fmt/134"
     }
   ],
   "submittedBy": [

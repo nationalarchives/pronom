@@ -36,7 +36,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1984,
-      "relatedFormatName": "Hewlett Packard Graphics Language"
+      "relatedFormatName": "Hewlett Packard Graphics Language",
+      "relatedFormatPUID": "fmt/1174"
     }
   ],
   "submittedBy": [

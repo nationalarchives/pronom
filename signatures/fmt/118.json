@@ -60,17 +60,20 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 732,
-      "relatedFormatName": "Windows Bitmap"
+      "relatedFormatName": "Windows Bitmap",
+      "relatedFormatPUID": "fmt/119"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 729,
-      "relatedFormatName": "Windows Bitmap"
+      "relatedFormatName": "Windows Bitmap",
+      "relatedFormatPUID": "fmt/116"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 730,
-      "relatedFormatName": "Windows Bitmap"
+      "relatedFormatName": "Windows Bitmap",
+      "relatedFormatPUID": "fmt/117"
     }
   ],
   "submittedBy": [

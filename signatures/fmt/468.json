@@ -65,32 +65,38 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1603,
-      "relatedFormatName": "Encase Image File/Expert Witness Compression File"
+      "relatedFormatName": "Encase Image File/Expert Witness Compression File",
+      "relatedFormatPUID": "fmt/803"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2585,
-      "relatedFormatName": "UDF-ISO 9660 Bridge Disc"
+      "relatedFormatName": "UDF-ISO 9660 Bridge Disc",
+      "relatedFormatPUID": "fmt/1739"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2586,
-      "relatedFormatName": "Apple Partition Map Disk Image"
+      "relatedFormatName": "Apple Partition Map Disk Image",
+      "relatedFormatPUID": "fmt/1740"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2587,
-      "relatedFormatName": "Apple Partition Map ISO 9660 Hybrid"
+      "relatedFormatName": "Apple Partition Map ISO 9660 Hybrid",
+      "relatedFormatPUID": "fmt/1741"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2589,
-      "relatedFormatName": "Nero Burning ROM Image File"
+      "relatedFormatName": "Nero Burning ROM Image File",
+      "relatedFormatPUID": "fmt/1743"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 2584,
-      "relatedFormatName": "UDF Disc Image"
+      "relatedFormatName": "UDF Disc Image",
+      "relatedFormatPUID": "fmt/1738"
     }
   ],
   "submittedBy": [

@@ -57,12 +57,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1035,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/292"
     }
   ],
   "developedBy": [

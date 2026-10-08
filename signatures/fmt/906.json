@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1712,
-      "relatedFormatName": "Variant Call Format"
+      "relatedFormatName": "Variant Call Format",
+      "relatedFormatPUID": "fmt/907"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1710,
-      "relatedFormatName": "Variant Call Format"
+      "relatedFormatName": "Variant Call Format",
+      "relatedFormatPUID": "fmt/905"
     }
   ],
   "submittedBy": [

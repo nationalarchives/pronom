@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1551,
-      "relatedFormatName": "AppleWorks Painting"
+      "relatedFormatName": "AppleWorks Painting",
+      "relatedFormatPUID": "fmt/752"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1541,
-      "relatedFormatName": "ClarisWorks Painting"
+      "relatedFormatName": "ClarisWorks Painting",
+      "relatedFormatPUID": "fmt/742"
     }
   ],
   "supportedBy": [

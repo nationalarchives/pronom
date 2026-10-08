@@ -32,7 +32,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1456,
-      "relatedFormatName": "Open XML Paper Specification"
+      "relatedFormatName": "Open XML Paper Specification",
+      "relatedFormatPUID": "fmt/657"
     }
   ],
   "supportedBy": [

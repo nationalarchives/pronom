@@ -53,7 +53,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 221,
-      "relatedFormatName": "Interchange File"
+      "relatedFormatName": "Interchange File",
+      "relatedFormatPUID": "x-fmt/157"
     }
   ],
   "submittedBy": [

@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 380,
-      "relatedFormatName": "WordStar for Windows Document"
+      "relatedFormatName": "WordStar for Windows Document",
+      "relatedFormatPUID": "x-fmt/262"
     }
   ],
   "developedBy": [

@@ -57,52 +57,62 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 656,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/2"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 735,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/1"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1314,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/527"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1508,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/709"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1509,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/710"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1510,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/711"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 654,
-      "relatedFormatName": "Waveform Audio"
+      "relatedFormatName": "Waveform Audio",
+      "relatedFormatPUID": "fmt/6"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 785,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)",
+      "relatedFormatPUID": "fmt/142"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 785,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEX)",
+      "relatedFormatPUID": "fmt/142"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 654,
-      "relatedFormatName": "Waveform Audio"
+      "relatedFormatName": "Waveform Audio",
+      "relatedFormatPUID": "fmt/6"
     }
   ],
   "submittedBy": [

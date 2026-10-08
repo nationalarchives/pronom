@@ -49,22 +49,26 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2392,
-      "relatedFormatName": "ISDOC Information System Document"
+      "relatedFormatName": "ISDOC Information System Document",
+      "relatedFormatPUID": "fmt/1567"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2392,
-      "relatedFormatName": "ISDOC Information System Document"
+      "relatedFormatName": "ISDOC Information System Document",
+      "relatedFormatPUID": "fmt/1567"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 2396,
-      "relatedFormatName": "ISDOCX Information System Document"
+      "relatedFormatName": "ISDOCX Information System Document",
+      "relatedFormatPUID": "fmt/1571"
     }
   ],
   "submittedBy": [

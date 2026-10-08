@@ -53,12 +53,14 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1115,
-      "relatedFormatName": "ASPRS Lidar Data Exchange Format"
+      "relatedFormatName": "ASPRS Lidar Data Exchange Format",
+      "relatedFormatPUID": "fmt/368"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1116,
-      "relatedFormatName": "ASPRS Lidar Data Exchange Format"
+      "relatedFormatName": "ASPRS Lidar Data Exchange Format",
+      "relatedFormatPUID": "fmt/369"
     }
   ],
   "developedBy": [

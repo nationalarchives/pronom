@@ -64,7 +64,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 352,
-      "relatedFormatName": "Microsoft Access Database File"
+      "relatedFormatName": "Microsoft Access Database File",
+      "relatedFormatPUID": "x-fmt/240"
     }
   ],
   "submittedBy": [

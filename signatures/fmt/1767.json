@@ -48,7 +48,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2625,
-      "relatedFormatName": "Calc602 Project File"
+      "relatedFormatName": "Calc602 Project File",
+      "relatedFormatPUID": "fmt/1775"
     }
   ],
   "supportedBy": [

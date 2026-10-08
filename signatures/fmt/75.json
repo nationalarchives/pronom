@@ -61,27 +61,32 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 740,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/81"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 705,
-      "relatedFormatName": "AutoCAD Drawing"
+      "relatedFormatName": "AutoCAD Drawing",
+      "relatedFormatPUID": "fmt/32"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 766,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/63"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 722,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/76"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 720,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/74"
     }
   ],
   "supportedBy": [

@@ -53,7 +53,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1221,
-      "relatedFormatName": "AutoCAD Drawing"
+      "relatedFormatName": "AutoCAD Drawing",
+      "relatedFormatPUID": "fmt/434"
     }
   ],
   "supportedBy": [

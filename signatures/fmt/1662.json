@@ -136,7 +136,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2488,
-      "relatedFormatName": "Yamaha Wave Audio"
+      "relatedFormatName": "Yamaha Wave Audio",
+      "relatedFormatPUID": "fmt/1661"
     }
   ],
   "submittedBy": [

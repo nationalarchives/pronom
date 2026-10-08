@@ -53,7 +53,8 @@
     {
       "relationshipType": "Can be contained by",
       "relatedFormatID": 1103,
-      "relatedFormatName": "3GPP Audio/Video File"
+      "relatedFormatName": "3GPP Audio/Video File",
+      "relatedFormatPUID": "fmt/357"
     }
   ],
   "submittedBy": [

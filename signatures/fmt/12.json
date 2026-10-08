@@ -110,22 +110,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 666,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/13"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 664,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/11"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 666,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/13"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 664,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/11"
     }
   ],
   "submittedBy": [

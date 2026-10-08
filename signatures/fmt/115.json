@@ -61,22 +61,26 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 55,
-      "relatedFormatName": "OS/2 Bitmap"
+      "relatedFormatName": "OS/2 Bitmap",
+      "relatedFormatPUID": "x-fmt/25"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 729,
-      "relatedFormatName": "Windows Bitmap"
+      "relatedFormatName": "Windows Bitmap",
+      "relatedFormatPUID": "fmt/116"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 730,
-      "relatedFormatName": "Windows Bitmap"
+      "relatedFormatName": "Windows Bitmap",
+      "relatedFormatPUID": "fmt/117"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 727,
-      "relatedFormatName": "Windows Bitmap"
+      "relatedFormatName": "Windows Bitmap",
+      "relatedFormatPUID": "fmt/114"
     }
   ],
   "submittedBy": [

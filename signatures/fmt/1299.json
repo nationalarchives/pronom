@@ -100,7 +100,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 240,
-      "relatedFormatName": "Broderbund Print Shop Deluxe"
+      "relatedFormatName": "Broderbund Print Shop Deluxe",
+      "relatedFormatPUID": "x-fmt/168"
     }
   ],
   "supportedBy": [

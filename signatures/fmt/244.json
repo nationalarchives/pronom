@@ -61,12 +61,14 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 1523,
-      "relatedFormatName": "Keyhole Markup Language (Container)"
+      "relatedFormatName": "Keyhole Markup Language (Container)",
+      "relatedFormatPUID": "fmt/724"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
   "supportedBy": [

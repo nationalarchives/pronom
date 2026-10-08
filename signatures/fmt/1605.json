@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 2433,
-      "relatedFormatName": "Packed-Ice True Colour Sprites [Spooky Sprites] (Atari Falcon)"
+      "relatedFormatName": "Packed-Ice True Colour Sprites [Spooky Sprites] (Atari Falcon)",
+      "relatedFormatPUID": "fmt/1606"
     }
   ],
   "submittedBy": [

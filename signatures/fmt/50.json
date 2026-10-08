@@ -60,52 +60,62 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 633,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/52"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 753,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/53"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1101,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/355"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 626,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/45"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 627,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/46"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 628,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/47"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 629,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/48"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 630,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/49"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 632,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/51"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 630,
-      "relatedFormatName": "Rich Text Format"
+      "relatedFormatName": "Rich Text Format",
+      "relatedFormatPUID": "fmt/49"
     }
   ],
   "submittedBy": [

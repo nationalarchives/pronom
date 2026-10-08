@@ -60,17 +60,20 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 107,
-      "relatedFormatName": "Microsoft Access Database File"
+      "relatedFormatName": "Microsoft Access Database File",
+      "relatedFormatPUID": "x-fmt/66"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2656,
-      "relatedFormatName": "Microsoft Access Database File"
+      "relatedFormatName": "Microsoft Access Database File",
+      "relatedFormatPUID": "fmt/1805"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2659,
-      "relatedFormatName": "Microsoft Access Encrypted Database File"
+      "relatedFormatName": "Microsoft Access Encrypted Database File",
+      "relatedFormatPUID": "fmt/1808"
     }
   ],
   "developedBy": [

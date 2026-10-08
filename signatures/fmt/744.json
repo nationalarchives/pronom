@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1548,
-      "relatedFormatName": "AppleWorks Word Processor"
+      "relatedFormatName": "AppleWorks Word Processor",
+      "relatedFormatPUID": "fmt/749"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1538,
-      "relatedFormatName": "ClarisWorks Word Processor"
+      "relatedFormatName": "ClarisWorks Word Processor",
+      "relatedFormatPUID": "fmt/739"
     }
   ],
   "supportedBy": [

@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1545,
-      "relatedFormatName": "ClarisWorks/AppleWorks Database"
+      "relatedFormatName": "ClarisWorks/AppleWorks Database",
+      "relatedFormatPUID": "fmt/746"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1536,
-      "relatedFormatName": "ClarisWorks"
+      "relatedFormatName": "ClarisWorks",
+      "relatedFormatPUID": "fmt/737"
     }
   ],
   "supportedBy": [

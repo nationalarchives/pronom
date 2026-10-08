@@ -40,7 +40,8 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 612,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/10"
     }
   ],
   "submittedBy": [

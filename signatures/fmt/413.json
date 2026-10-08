@@ -49,22 +49,26 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 634,
-      "relatedFormatName": "Scalable Vector Graphics"
+      "relatedFormatName": "Scalable Vector Graphics",
+      "relatedFormatPUID": "fmt/91"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 634,
-      "relatedFormatName": "Scalable Vector Graphics"
+      "relatedFormatName": "Scalable Vector Graphics",
+      "relatedFormatPUID": "fmt/91"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 635,
-      "relatedFormatName": "Scalable Vector Graphics"
+      "relatedFormatName": "Scalable Vector Graphics",
+      "relatedFormatPUID": "fmt/92"
     }
   ],
   "submittedBy": [

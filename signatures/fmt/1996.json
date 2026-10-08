@@ -49,7 +49,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1260,
-      "relatedFormatName": "Microsoft Office Owner File"
+      "relatedFormatName": "Microsoft Office Owner File",
+      "relatedFormatPUID": "fmt/473"
     }
   ],
   "submittedBy": [

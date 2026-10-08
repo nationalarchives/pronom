@@ -56,12 +56,14 @@
     {
       "relationshipType": "Can be contained by",
       "relatedFormatID": 660,
-      "relatedFormatName": "MPEG-2 Program Stream"
+      "relatedFormatName": "MPEG-2 Program Stream",
+      "relatedFormatPUID": "x-fmt/386"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1448,
-      "relatedFormatName": "MPEG-1 Elementary Stream"
+      "relatedFormatName": "MPEG-1 Elementary Stream",
+      "relatedFormatPUID": "fmt/649"
     }
   ],
   "submittedBy": [

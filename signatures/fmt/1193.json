@@ -49,7 +49,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2004,
-      "relatedFormatName": "ZModeler Z3D"
+      "relatedFormatName": "ZModeler Z3D",
+      "relatedFormatPUID": "fmt/1194"
     }
   ],
   "submittedBy": [

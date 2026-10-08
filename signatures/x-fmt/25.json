@@ -27,7 +27,8 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 728,
-      "relatedFormatName": "Windows Bitmap"
+      "relatedFormatName": "Windows Bitmap",
+      "relatedFormatPUID": "fmt/115"
     }
   ],
   "submittedBy": [

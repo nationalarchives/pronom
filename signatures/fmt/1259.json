@@ -52,47 +52,56 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2085,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1267"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2086,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1268"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2087,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1269"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2088,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1270"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2089,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1271"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2090,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1272"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2091,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1273"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 866,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "x-fmt/451"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 867,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "x-fmt/452"
     }
   ],
   "supportedBy": [

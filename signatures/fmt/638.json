@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2723,
-      "relatedFormatName": "SPSS PC File Format"
+      "relatedFormatName": "SPSS PC File Format",
+      "relatedFormatPUID": "fmt/1869"
     }
   ],
   "supportedBy": [

@@ -49,17 +49,20 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1874,
-      "relatedFormatName": "Silo"
+      "relatedFormatName": "Silo",
+      "relatedFormatPUID": "fmt/1067"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1873,
-      "relatedFormatName": "Portable Database"
+      "relatedFormatName": "Portable Database",
+      "relatedFormatPUID": "fmt/1066"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1871,
-      "relatedFormatName": "Portable Database"
+      "relatedFormatName": "Portable Database",
+      "relatedFormatPUID": "fmt/1064"
     }
   ],
   "submittedBy": [

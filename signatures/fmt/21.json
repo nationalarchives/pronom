@@ -52,12 +52,14 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 710,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/64"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 695,
-      "relatedFormatName": "AutoCAD Drawing"
+      "relatedFormatName": "AutoCAD Drawing",
+      "relatedFormatPUID": "fmt/22"
     }
   ],
   "submittedBy": [

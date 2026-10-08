@@ -53,57 +53,68 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2099,
-      "relatedFormatName": "WARC"
+      "relatedFormatName": "WARC",
+      "relatedFormatPUID": "fmt/1281"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2173,
-      "relatedFormatName": "WARC"
+      "relatedFormatName": "WARC",
+      "relatedFormatPUID": "fmt/1355"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 639,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/97"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 640,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/98"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 641,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/99"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 642,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/100"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 643,
-      "relatedFormatName": "Extensible Hypertext Markup Language"
+      "relatedFormatName": "Extensible Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/102"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 644,
-      "relatedFormatName": "Extensible Hypertext Markup Language"
+      "relatedFormatName": "Extensible Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/103"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 645,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/96"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1258,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/471"
     }
   ],
   "supportedBy": [

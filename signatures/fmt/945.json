@@ -71,12 +71,14 @@
     {
       "relationshipType": "Can be contained by",
       "relatedFormatID": 1749,
-      "relatedFormatName": "Ogg Multimedia Container"
+      "relatedFormatName": "Ogg Multimedia Container",
+      "relatedFormatPUID": "fmt/944"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1749,
-      "relatedFormatName": "Ogg Multimedia Container"
+      "relatedFormatName": "Ogg Multimedia Container",
+      "relatedFormatPUID": "fmt/944"
     }
   ],
   "submittedBy": [

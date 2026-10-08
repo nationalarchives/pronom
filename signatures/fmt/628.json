@@ -36,7 +36,8 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 940,
-      "relatedFormatName": "Microsoft Excel for Windows"
+      "relatedFormatName": "Microsoft Excel for Windows",
+      "relatedFormatPUID": "fmt/214"
     }
   ],
   "supportedBy": [

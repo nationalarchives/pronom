@@ -52,7 +52,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1757,
-      "relatedFormatName": "True Audio"
+      "relatedFormatName": "True Audio",
+      "relatedFormatPUID": "fmt/952"
     }
   ],
   "submittedBy": [

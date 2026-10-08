@@ -40,7 +40,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1868,
-      "relatedFormatName": "Hasselblad 3FR Raw Image"
+      "relatedFormatName": "Hasselblad 3FR Raw Image",
+      "relatedFormatPUID": "fmt/1062"
     }
   ],
   "submittedBy": [

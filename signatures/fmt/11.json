@@ -64,22 +64,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 665,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/12"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 666,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/13"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1740,
-      "relatedFormatName": "Animated Portable Network Graphics"
+      "relatedFormatName": "Animated Portable Network Graphics",
+      "relatedFormatPUID": "fmt/935"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 665,
-      "relatedFormatName": "Portable Network Graphics"
+      "relatedFormatName": "Portable Network Graphics",
+      "relatedFormatPUID": "fmt/12"
     }
   ],
   "submittedBy": [

@@ -52,22 +52,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1399,
-      "relatedFormatName": "Statistical Analysis System Data (Windows)"
+      "relatedFormatName": "Statistical Analysis System Data (Windows)",
+      "relatedFormatPUID": "fmt/607"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1822,
-      "relatedFormatName": "Statistical Analysis System Data (Windows)"
+      "relatedFormatName": "Statistical Analysis System Data (Windows)",
+      "relatedFormatPUID": "fmt/1017"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1824,
-      "relatedFormatName": "Statistical Analysis System Data (Windows)"
+      "relatedFormatName": "Statistical Analysis System Data (Windows)",
+      "relatedFormatPUID": "fmt/1019"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1826,
-      "relatedFormatName": "Statistical Analysis System Data (Windows)"
+      "relatedFormatName": "Statistical Analysis System Data (Windows)",
+      "relatedFormatPUID": "fmt/1021"
     }
   ],
   "submittedBy": [

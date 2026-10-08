@@ -49,7 +49,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 211,
-      "relatedFormatName": "Visual FoxPro Database Container File"
+      "relatedFormatName": "Visual FoxPro Database Container File",
+      "relatedFormatPUID": "x-fmt/150"
     }
   ],
   "submittedBy": [

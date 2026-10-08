@@ -52,52 +52,62 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 739,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/80"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 740,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/81"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 741,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/82"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 742,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/83"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 743,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/84"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 744,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/85"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2208,
-      "relatedFormatName": "Drawing Interchange Format (Binary)"
+      "relatedFormatName": "Drawing Interchange Format (Binary)",
+      "relatedFormatPUID": "fmt/1390"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2209,
-      "relatedFormatName": "Drawing Interchange Format (Binary)"
+      "relatedFormatName": "Drawing Interchange Format (Binary)",
+      "relatedFormatPUID": "fmt/1391"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2210,
-      "relatedFormatName": "Drawing Interchange Format (Binary)"
+      "relatedFormatName": "Drawing Interchange Format (Binary)",
+      "relatedFormatPUID": "fmt/1392"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2211,
-      "relatedFormatName": "Drawing Interchange Format (Binary)"
+      "relatedFormatName": "Drawing Interchange Format (Binary)",
+      "relatedFormatPUID": "fmt/1393"
     }
   ],
   "supportedBy": [

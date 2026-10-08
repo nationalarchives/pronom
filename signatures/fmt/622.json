@@ -36,7 +36,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1417,
-      "relatedFormatName": "GeoGebra"
+      "relatedFormatName": "GeoGebra",
+      "relatedFormatPUID": "fmt/621"
     }
   ],
   "supportedBy": [

@@ -49,12 +49,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1139,
-      "relatedFormatName": "Log ASCII Standard Format"
+      "relatedFormatName": "Log ASCII Standard Format",
+      "relatedFormatPUID": "fmt/391"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1137,
-      "relatedFormatName": "Log ASCII Standard Format"
+      "relatedFormatName": "Log ASCII Standard Format",
+      "relatedFormatPUID": "fmt/389"
     }
   ],
   "developedBy": [

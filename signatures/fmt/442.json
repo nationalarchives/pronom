@@ -36,32 +36,38 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 165,
-      "relatedFormatName": "Microsoft Visio Drawing"
+      "relatedFormatName": "Microsoft Visio Drawing",
+      "relatedFormatPUID": "x-fmt/113"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 376,
-      "relatedFormatName": "Microsoft Visio Drawing"
+      "relatedFormatName": "Microsoft Visio Drawing",
+      "relatedFormatPUID": "x-fmt/258"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1230,
-      "relatedFormatName": "Microsoft Visio Drawing"
+      "relatedFormatName": "Microsoft Visio Drawing",
+      "relatedFormatPUID": "fmt/443"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2332,
-      "relatedFormatName": "Microsoft Visio Drawing"
+      "relatedFormatName": "Microsoft Visio Drawing",
+      "relatedFormatPUID": "fmt/1509"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2333,
-      "relatedFormatName": "Microsoft Visio Drawing"
+      "relatedFormatName": "Microsoft Visio Drawing",
+      "relatedFormatPUID": "fmt/1510"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     }
   ],
   "containerSignatures": [

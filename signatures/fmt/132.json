@@ -68,22 +68,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 693,
-      "relatedFormatName": "Windows Media Video"
+      "relatedFormatName": "Windows Media Video",
+      "relatedFormatPUID": "fmt/133"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1228,
-      "relatedFormatName": "Windows Media Video (WVC1)"
+      "relatedFormatName": "Windows Media Video (WVC1)",
+      "relatedFormatPUID": "fmt/441"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 691,
-      "relatedFormatName": "Advanced Systems Format"
+      "relatedFormatName": "Advanced Systems Format",
+      "relatedFormatPUID": "fmt/131"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 691,
-      "relatedFormatName": "Advanced Systems Format"
+      "relatedFormatName": "Advanced Systems Format",
+      "relatedFormatPUID": "fmt/131"
     }
   ],
   "submittedBy": [

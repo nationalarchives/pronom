@@ -77,7 +77,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1086,
-      "relatedFormatName": "Macintosh PICT Image"
+      "relatedFormatName": "Macintosh PICT Image",
+      "relatedFormatPUID": "fmt/341"
     }
   ],
   "supportedBy": [

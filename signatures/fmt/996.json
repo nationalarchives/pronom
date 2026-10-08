@@ -52,7 +52,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 139,
-      "relatedFormatName": "Adobe Photoshop"
+      "relatedFormatName": "Adobe Photoshop",
+      "relatedFormatPUID": "x-fmt/92"
     }
   ],
   "supportedBy": [

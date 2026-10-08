@@ -49,17 +49,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2503,
-      "relatedFormatName": "Roxio Easy Media Creator - Classic Creator File"
+      "relatedFormatName": "Roxio Easy Media Creator - Classic Creator File",
+      "relatedFormatPUID": "fmt/1667"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2504,
-      "relatedFormatName": "Roxio Easy Media Creator Layout"
+      "relatedFormatName": "Roxio Easy Media Creator Layout",
+      "relatedFormatPUID": "fmt/1668"
     }
   ],
   "submittedBy": [

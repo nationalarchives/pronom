@@ -53,7 +53,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 802,
-      "relatedFormatName": "Java Class File"
+      "relatedFormatName": "Java Class File",
+      "relatedFormatPUID": "x-fmt/415"
     }
   ],
   "supportedBy": [

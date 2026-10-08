@@ -98,22 +98,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1878,
-      "relatedFormatName": "Apple Disk Image"
+      "relatedFormatName": "Apple Disk Image",
+      "relatedFormatPUID": "fmt/1071"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2587,
-      "relatedFormatName": "Apple Partition Map ISO 9660 Hybrid"
+      "relatedFormatName": "Apple Partition Map ISO 9660 Hybrid",
+      "relatedFormatPUID": "fmt/1741"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2605,
-      "relatedFormatName": "Apple Partition Map - ISO 9660 - UDF Hybrid Disk Image"
+      "relatedFormatName": "Apple Partition Map - ISO 9660 - UDF Hybrid Disk Image",
+      "relatedFormatPUID": "fmt/1757"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1255,
-      "relatedFormatName": "ISO 9660 Disk Image File"
+      "relatedFormatName": "ISO 9660 Disk Image File",
+      "relatedFormatPUID": "fmt/468"
     }
   ],
   "supportedBy": [

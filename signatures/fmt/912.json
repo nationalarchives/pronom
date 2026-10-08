@@ -49,7 +49,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 302,
-      "relatedFormatName": "Microsoft Paint"
+      "relatedFormatName": "Microsoft Paint",
+      "relatedFormatPUID": "x-fmt/214"
     }
   ],
   "supportedBy": [

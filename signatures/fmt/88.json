@@ -56,12 +56,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 624,
-      "relatedFormatName": "PCX"
+      "relatedFormatName": "PCX",
+      "relatedFormatPUID": "fmt/89"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 622,
-      "relatedFormatName": "PCX"
+      "relatedFormatName": "PCX",
+      "relatedFormatPUID": "fmt/87"
     }
   ],
   "submittedBy": [

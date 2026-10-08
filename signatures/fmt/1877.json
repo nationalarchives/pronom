@@ -48,12 +48,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 687,
-      "relatedFormatName": "MPEG 1/2 Audio Layer 3"
+      "relatedFormatName": "MPEG 1/2 Audio Layer 3",
+      "relatedFormatPUID": "fmt/134"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2732,
-      "relatedFormatName": "GST Art File"
+      "relatedFormatName": "GST Art File",
+      "relatedFormatPUID": "fmt/1878"
     }
   ],
   "submittedBy": [

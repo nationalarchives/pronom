@@ -48,27 +48,32 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1785,
-      "relatedFormatName": "AAE Sidecar Format"
+      "relatedFormatName": "AAE Sidecar Format",
+      "relatedFormatPUID": "fmt/980"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1786,
-      "relatedFormatName": "EazyDraw File Format"
+      "relatedFormatName": "EazyDraw File Format",
+      "relatedFormatPUID": "fmt/981"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1787,
-      "relatedFormatName": "iMovieProj File Format"
+      "relatedFormatName": "iMovieProj File Format",
+      "relatedFormatPUID": "fmt/982"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1788,
-      "relatedFormatName": "NIB File Format"
+      "relatedFormatName": "NIB File Format",
+      "relatedFormatPUID": "fmt/983"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
   "submittedBy": [

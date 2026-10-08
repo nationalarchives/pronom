@@ -64,7 +64,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1143,
-      "relatedFormatName": "vCard"
+      "relatedFormatName": "vCard",
+      "relatedFormatPUID": "fmt/395"
     }
   ],
   "supportedBy": [

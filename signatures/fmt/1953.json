@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2819,
-      "relatedFormatName": "Zoom Project Settings"
+      "relatedFormatName": "Zoom Project Settings",
+      "relatedFormatPUID": "fmt/1954"
     }
   ],
   "supportedBy": [

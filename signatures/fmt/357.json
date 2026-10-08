@@ -61,12 +61,14 @@
     {
       "relationshipType": "Can contain",
       "relatedFormatID": 1102,
-      "relatedFormatName": "Adaptive Multi-Rate Audio"
+      "relatedFormatName": "Adaptive Multi-Rate Audio",
+      "relatedFormatPUID": "fmt/356"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 924,
-      "relatedFormatName": "MPEG-4 Media File"
+      "relatedFormatName": "MPEG-4 Media File",
+      "relatedFormatPUID": "fmt/199"
     }
   ],
   "submittedBy": [

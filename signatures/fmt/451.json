@@ -53,7 +53,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1485,
-      "relatedFormatName": "Vectorworks"
+      "relatedFormatName": "Vectorworks",
+      "relatedFormatPUID": "fmt/686"
     }
   ],
   "supportedBy": [

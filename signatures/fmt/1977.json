@@ -56,7 +56,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2843,
-      "relatedFormatName": "ICC Profile"
+      "relatedFormatName": "ICC Profile",
+      "relatedFormatPUID": "fmt/1976"
     }
   ],
   "supportedBy": [

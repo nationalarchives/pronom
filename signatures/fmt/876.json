@@ -44,22 +44,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 247,
-      "relatedFormatName": "PageMaker PC Document"
+      "relatedFormatName": "PageMaker PC Document",
+      "relatedFormatPUID": "x-fmt/174"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 254,
-      "relatedFormatName": "PageMaker PC Document"
+      "relatedFormatName": "PageMaker PC Document",
+      "relatedFormatPUID": "x-fmt/181"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2554,
-      "relatedFormatName": "PageMaker Mac Document"
+      "relatedFormatName": "PageMaker Mac Document",
+      "relatedFormatPUID": "fmt/1718"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2555,
-      "relatedFormatName": "PageMaker Mac Document"
+      "relatedFormatName": "PageMaker Mac Document",
+      "relatedFormatPUID": "fmt/1719"
     }
   ],
   "containerSignatures": [

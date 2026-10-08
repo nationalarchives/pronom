@@ -65,27 +65,32 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2156,
-      "relatedFormatName": "RootsMagic Database"
+      "relatedFormatName": "RootsMagic Database",
+      "relatedFormatPUID": "fmt/1338"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2520,
-      "relatedFormatName": "EndNote Library"
+      "relatedFormatName": "EndNote Library",
+      "relatedFormatPUID": "fmt/1684"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2536,
-      "relatedFormatName": "OGC GeoPackage"
+      "relatedFormatName": "OGC GeoPackage",
+      "relatedFormatPUID": "fmt/1700"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2677,
-      "relatedFormatName": "Audacity Project File"
+      "relatedFormatName": "Audacity Project File",
+      "relatedFormatPUID": "fmt/1826"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1945,
-      "relatedFormatName": "SQLite Database File Format"
+      "relatedFormatName": "SQLite Database File Format",
+      "relatedFormatPUID": "fmt/1135"
     }
   ],
   "submittedBy": [

@@ -437,7 +437,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2870,
-      "relatedFormatName": "SPIR-V"
+      "relatedFormatName": "SPIR-V",
+      "relatedFormatPUID": "fmt/1996"
     }
   ],
   "supportedBy": [

@@ -52,22 +52,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2065,
-      "relatedFormatName": "SOSI"
+      "relatedFormatName": "SOSI",
+      "relatedFormatPUID": "fmt/1247"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2066,
-      "relatedFormatName": "SOSI"
+      "relatedFormatName": "SOSI",
+      "relatedFormatPUID": "fmt/1248"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2067,
-      "relatedFormatName": "SOSI"
+      "relatedFormatName": "SOSI",
+      "relatedFormatPUID": "fmt/1249"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2068,
-      "relatedFormatName": "SOSI"
+      "relatedFormatName": "SOSI",
+      "relatedFormatPUID": "fmt/1250"
     }
   ],
   "submittedBy": [

@@ -103,17 +103,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2584,
-      "relatedFormatName": "UDF Disc Image"
+      "relatedFormatName": "UDF Disc Image",
+      "relatedFormatPUID": "fmt/1738"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2585,
-      "relatedFormatName": "UDF-ISO 9660 Bridge Disc"
+      "relatedFormatName": "UDF-ISO 9660 Bridge Disc",
+      "relatedFormatPUID": "fmt/1739"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2586,
-      "relatedFormatName": "Apple Partition Map Disk Image"
+      "relatedFormatName": "Apple Partition Map Disk Image",
+      "relatedFormatPUID": "fmt/1740"
     }
   ],
   "submittedBy": [

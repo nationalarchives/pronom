@@ -61,17 +61,20 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 660,
-      "relatedFormatName": "MPEG-2 Program Stream"
+      "relatedFormatName": "MPEG-2 Program Stream",
+      "relatedFormatPUID": "x-fmt/386"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1207,
-      "relatedFormatName": "Video Object File (MPEG-2 subset)"
+      "relatedFormatName": "Video Object File (MPEG-2 subset)",
+      "relatedFormatPUID": "fmt/425"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 687,
-      "relatedFormatName": "MPEG 1/2 Audio Layer 3"
+      "relatedFormatName": "MPEG 1/2 Audio Layer 3",
+      "relatedFormatPUID": "fmt/134"
     }
   ],
   "submittedBy": [
