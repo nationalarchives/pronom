@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Adobe After Effects is a digital visual effects, motion graphics, and compositing application developed by Adobe Systems and used in the post-production process of filmmaking and television production. Among other things, After Effects can be used for keying, tracking, rotoscoping, compositing and animation.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Nov 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "http://en.wikipedia.org/wiki/Adobe_After_Effects",
   "formatSourceDate": "26 Nov 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,7 +45,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Funpaint image file is a raster image format associated with the Funpaint / Funpaint II, an interlaced FLI graphics editor for the Commodore 64. The resolution of the images is 296x200 pixels.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Funpaint",
   "lastUpdatedDate": "25 Oct 2022",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": null,
   "formatSourceDate": "25 Oct 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -57,5 +53,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The JPEG 2000 Compound Image File Format is an optional file format for storing compound images using the JPEG 2000 file format family architecture. A compound image is an image that may contain scanned images, synthetic images or both, and that preferably requires a mix of continuous tone and bi-level compression methods.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "28 Aug 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": "JPEG 2000",
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 907
         }
-      ]
+      ],
+      "provenance": "http://www.jpeg.org/public/fcd15444-6.pdf and self generated test files"
     }
   ],
   "externalSignatures": [
@@ -53,5 +50,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

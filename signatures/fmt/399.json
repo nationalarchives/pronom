@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Stuffit X Archive format was developed in 2002 by Aladdin Systems, offering further compression methods and encryption options over the original Stuffit Archive format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "21 Feb 2014",
-  "formatSourceID": 178,
-  "provenanceCompoundName": "National Library of New Zealand / National Library of New Zealand",
   "formatProvenance": null,
   "formatSourceDate": "21 Feb 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -57,5 +53,7 @@
     }
   ],
   "relationships": [],
-  "source": [178]
+  "submittedBy": [
+    178
+  ]
 }

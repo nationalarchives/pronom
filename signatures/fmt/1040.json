@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The DirectDraw Surface file format was introduced with DirectX 7 to store uncompressed and compressed textures. The file format supports mipmaps, cube maps, and volume maps.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "29 Mar 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "29 Mar 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,7 +45,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    1
+  ]
 }

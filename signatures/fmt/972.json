@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "MLP \"Meridian Lossless Packing\" is the standard lossless compression format for DVD-Audio content. It was originally developed by Meridian Audio, Ltd.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Sep 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "22 Sep 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1598
         }
-      ]
+      ],
+      "provenance": "Based upon MIME registration: http://www.iana.org/assignments/media-types/audio/vnd.dolby.mlp"
     }
   ],
   "externalSignatures": [
@@ -53,5 +50,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

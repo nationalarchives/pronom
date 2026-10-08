@@ -1,7 +1,6 @@
 {
   "fileFormatID": 3924,
   "formatName": "ArcGIS Pro Layer File",
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "identifiers": [
     {
       "identifierText": "fmt/2049",
@@ -22,7 +21,8 @@
           "endianness": null,
           "byteSequenceID": 3794
         }
-      ]
+      ],
+      "provenance": "v.121: new signature."
     }
   ],
   "externalSignatures": [
@@ -32,5 +32,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

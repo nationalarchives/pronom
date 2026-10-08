@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Gunpaint are raster image files associated with the Gunpaint graphics program for the Commodore 64. Files are exactly 33603 bytes long and have a 296x200 resolution.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Gunpaint",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": "08/2023 (v.113)- Adjusted signature to include 'GUNPAINT' at an offset of 1002 from BOF. Submitted by National Archives and Records Administration.",
   "formatSourceDate": "25 Oct 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 2467
         }
-      ]
+      ],
+      "provenance": "08/2023 (v.113): Adjusted signature to include 'GUNPAINT' at an offset of 1002 from BOF. Submitted by National Archives and Records Administration."
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Alias is a Computer Aided Design software family owned by Autodesk. The Scene Description Language file defines a 3D scene, including its models, shaders, lights, and animation. Files of this type may lack a file extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 Sep 2017",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": null,
   "formatSourceDate": "18 Sep 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1732
         }
-      ]
+      ],
+      "provenance": "See also: https://www.autodesk.com/techpubs/aliasstudio/2010/index.html?url=WS73099cc142f4875535a241551166ac8792f-7d73.htm,topicNumber=d0e246523"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [216]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "submittedBy": [
+    216
+  ]
 }

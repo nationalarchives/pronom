@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "Microsoft PhotoDraw 2000 is a vector graphics and raster imaging software package developed by Microsoft.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Nov 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This file format is identified by container signature.",
   "formatSourceDate": "12 Nov 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,9 +33,12 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -64,5 +63,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

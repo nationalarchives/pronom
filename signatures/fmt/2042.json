@@ -1,7 +1,6 @@
 {
   "fileFormatID": 3917,
   "formatName": "Android App Bundle File",
-  "provenanceCompoundName": "Biblioth\u00e8que nationale de France / Biblioth\u00e8que nationale de France",
   "identifiers": [
     {
       "identifierText": "fmt/2042",
@@ -41,5 +40,7 @@
     }
   ],
   "relationships": [],
-  "source": [162]
+  "submittedBy": [
+    162
+  ]
 }

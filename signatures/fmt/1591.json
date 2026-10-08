@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Files which form part of an ArcInfo Coverage, which is a data model whose purpose is to store georelational data such as spatial location and descriptive data. Each ArcInfo Coverage resides in an ArcInfo workspace, a directory which contains two or more folders. These packages are generated using ArcGIS software, produced by Esri (https://www.esri.com/en-us/arcgis/about-arcgis/overview.) Files with the .txt extension contain text strings describing a geographic feature, formatted in user defined tables.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000284.shtml",
   "lastUpdatedDate": "06 Jan 2022",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "06 Jan 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,6 +45,10 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [221],
-  "source": [234]
+  "supportedBy": [
+    221
+  ],
+  "submittedBy": [
+    234
+  ]
 }

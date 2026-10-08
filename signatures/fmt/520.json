@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "OpenType is a font format developed by Microsoft, in colaboration with Adobe.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "13 Sep 2018",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 May 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Font",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1018
         }
-      ]
+      ],
+      "provenance": "http://www.microsoft.com/typography/otspec/otff.htm, files held internally"
     }
   ],
   "externalSignatures": [
@@ -53,7 +50,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    1
+  ]
 }

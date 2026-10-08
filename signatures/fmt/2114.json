@@ -4,8 +4,6 @@
   "formatDescription": "TIGER/Line Files are extracts of selected geographic and cartographic information from the US Census Bureau's Master Address File (MAF)/Topologically Integrated Geographic Encoding and Referencing (TIGER) system. In the original 2007 specification, internal files had the structure: fe_2007_<extent>_<layer>.<extension> However, from 2008 the naming convention changed to: tl_YYYY_<extent>_<layer>.<extension> Further, TIGER/Line files related to Congressional Districts and Redistricting Data may follow the naming convention: tl_rdYY_<extent>_<layer>.<extension> \u2018YYYY\u2019 or \u2018YY\u2019 represents the year the data was produced. \u2018Extent\u2019 is a 2-5 digit value representing a geographical area. \u2018Layer\u2019 specifies the type of geography or feature that the file contains. \u2018Extension\u2019 refers to the specific file type, usually .shp, .dbf, .cpg, .shx, or .prj.",
   "binaryFileFormat": null,
   "formatTypes": "Dataset, GIS",
-  "source": [244],
-  "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {
       "identifierText": "fmt/2114",
@@ -26,7 +24,8 @@
           "endianness": null,
           "byteSequenceID": 4875
         }
-      ]
+      ],
+      "provenance": "Although these are zip files, it is not currently possible to create Container Signature identification due to the variable nature of file naming within the zip."
     },
     {
       "signatureID": 4480,
@@ -41,7 +40,8 @@
           "endianness": null,
           "byteSequenceID": 4876
         }
-      ]
+      ],
+      "provenance": "Although these are zip files, it is not currently possible to create Container Signature identification due to the variable nature of file naming within the zip. For now, the first two values of YY are either assumed to be \u201820\u2019 because these have not been retrospectively applied to data before 2007, or \u2018rd\u2019, in the case of congressional redistricting data. Should this remain the convention beyond the year 2099 then the signature will need to be tweaked at that time to accommodate future datasets. The extension is assumed to be any of .cpg, .dbf .prj, .shp, .shx"
     }
   ],
   "externalSignatures": [
@@ -61,5 +61,8 @@
   "formatNote": "Specifications for TIGER/Line can be found on the US Census Bureau website: https://www.census.gov/programs-surveys/geography/technical-documentation/complete-technical-documentation/tiger-geo-line.html",
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
-  "fileFormatID": 4990
+  "fileFormatID": 4990,
+  "submittedBy": [
+    244
+  ]
 }

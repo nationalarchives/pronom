@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "ELAN is a professional software tool to manually and semi-automatically annotate and transcribe audio or video recordings. It was developed by the Max Planck Institute for Psycholinguistics in Nijmegen. The .pfsx file contains preferences such as video size, video speed and zoom.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "PFSX-Schema for Version 1.1 (2010): http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd",
   "lastUpdatedDate": "14 Nov 2023",
-  "formatSourceID": 257,
-  "provenanceCompoundName": null,
   "formatProvenance": "11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched",
   "formatSourceDate": "04 Nov 2021",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 2188
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched"
     }
   ],
   "externalSignatures": [
@@ -63,7 +60,13 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "supportedBy": [263],
-  "developedBy": [263],
-  "source": [257]
+  "supportedBy": [
+    263
+  ],
+  "developedBy": [
+    263
+  ],
+  "submittedBy": [
+    257
+  ]
 }

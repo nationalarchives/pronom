@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "PGC is a bi-level image file format used on the Atari Portfolio palmtop computer which utilises RLE compression. The image dimensions are always 240 x 64 pixels.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/PGC_(Portfolio_Graphics_Compressed)",
   "lastUpdatedDate": "19 Jul 2022",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": null,
   "formatSourceDate": "19 Jul 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

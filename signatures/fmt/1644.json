@@ -4,12 +4,9 @@
   "version": "4-5",
   "formatDescription": "Roxio Label Creator Project File is format used for storing project files produced by Roxio's Label Creator software, a software used for creating designs intended for jewel cases and disc labels. There are several known versions of this format with earlier versions being stored as OLE2 container format. This record describes the earliest version known of this format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://archive.org/details/roxio_label_creator/04_roxio_cd_label_creator.jpeg\r\n\r\nhttp://fileformats.archiveteam.org/wiki/JWL",
   "lastUpdatedDate": "25 Feb 2022",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "25 Feb 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,6 @@
       "relatedFormatName": "Roxio Label Creator Project File"
     }
   ],
-  "source": [220],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -69,5 +64,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    220
   ]
 }

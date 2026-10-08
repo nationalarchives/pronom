@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Music Encoding Initiative (MEI) is an open-source effort to define a system for encoding musical documents in a machine-readable structure. MEI is formalised in the MEI schema, a core set of rules for recording physical and intellectual characteristics of music notation documents expressed as an eXtensible Markup Language (XML) schema.  \r\n\r\nPRONOM currently does not distinguish between different versions of MEI.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Sep 2016",
-  "formatSourceID": 218,
-  "provenanceCompoundName": "Biblioth\u00e8que cantonale et universitaire - Lausanne / Biblioth\u00e8que cantonale et universitaire - Lausanne",
   "formatProvenance": null,
   "formatSourceDate": "20 Sep 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio, Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -68,5 +64,7 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "source": [218]
+  "submittedBy": [
+    218
+  ]
 }

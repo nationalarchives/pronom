@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "T64 is a Commodore 64 emulation format designed by Miha Peternel, for use with his C64s emulator.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Dec 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "14 Dec 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1429
         }
-      ]
+      ],
+      "provenance": "http://unusedino.de/ec64/technical/formats/t64.html"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

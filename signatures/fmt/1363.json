@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "DeluxePaint Animation software was a 1990s graphics editor for MS-DOS and released by Electronic Arts. Uses for the pixel graphic animations created included video games. The ANM file format defines key frame based animations of a vector 3D model (with model data in a separate file).  The file consists of ASCII text defining locations of \u2018bones\u2019 in the model at key frames.  Complex hierarchies of 3D structures can be formed to  decrease file complexity for common animations.  Events can be used to chain shorter animations into longer animations.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://gillius.org/cg3/anmfile.htm#:~:text=The%20ANM%20File%20format%20is,in%20a%20linear%20time%20space.\r\nhttp://www.textfiles.com/programming/FORMATS/animfile.txt",
   "lastUpdatedDate": "10 Aug 2020",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": null,
   "formatSourceDate": "10 Aug 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

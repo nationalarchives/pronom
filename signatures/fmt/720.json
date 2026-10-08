@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "MBOX is a commonly used format for storing email messages. MBOX files may be produced by a variety of email clients, however these are often not mutually compatible. \r\n\r\nMBOX databases typically contain a linear sequence of electronic mail messages. Each message begins with a separator line that identifies the message sender, and also identifies the date and time at which the message was received by the final recipient (either the last-hop system in the transfer path, or the system which serves as the recipient's mailstore).  Each message is typically terminated by an empty line.  The end of the database is usually recognized by either the absence of any additional data, or by the presence of an explicit end-of-file marker. \r\n\r\nAttachments within MBOX files are typically base 64 encoded, allowing binary data to be transferred over media designed to deal with textual data. \r\n\r\nDue to the variety of MBOX structures, it is not currently possible to produce an authoritative signature for the format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "02 Sep 2026",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "\tv.123- New signature created. Submitted by Preservica; v.125- Priority over fmt/950 MIME Email 1.0 added. Submitted by Preservica.",
   "formatSourceDate": "12 Feb 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 3854
         }
-      ]
+      ],
+      "provenance": "Note that this identification pattern has been tested with Gmail and Thunderbird-produced MBOX files and should suit all MBOX files produced following the established UNIX pattern described here: http://qmail.org./man/man5/mbox.html however there may be other variants that differ in implementation."
     }
   ],
   "externalSignatures": [
@@ -59,6 +56,8 @@
       "relatedFormatName": "MIME Email"
     }
   ],
-  "source": [1],
-  "containerSignatures": []
+  "containerSignatures": [],
+  "submittedBy": [
+    1
+  ]
 }

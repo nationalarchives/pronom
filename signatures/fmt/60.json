@@ -4,12 +4,9 @@
   "version": "7",
   "formatDescription": "PUID deprecated. Please see fmt/60: Microsoft Excel 5.0/95 Workbook (xls).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "19 Apr 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": "None",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,5 +35,7 @@
       "relatedFormatName": "OLE2 Compound Document Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

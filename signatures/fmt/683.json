@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Advanced Function Presentation (AFP) is a presentation architecture and family of associated printer software and hardware that provides for document and information presentation independent of specific applications and devices.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Sep 2014",
-  "formatSourceID": 210,
-  "provenanceCompoundName": "Ricoh / Ricoh",
   "formatProvenance": null,
   "formatSourceDate": "23 Sep 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1238
         }
-      ]
+      ],
+      "provenance": "http://afpcinc.org/wp-content/uploads/2014/04/modca08.pdf"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [210],
-  "developedBy": [46],
-  "source": [210]
+  "supportedBy": [
+    210
+  ],
+  "developedBy": [
+    46
+  ],
+  "submittedBy": [
+    210
+  ]
 }

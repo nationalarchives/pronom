@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "NUT is a container format for the storage of audio, video, subtitles and other related user defined streams. It provides an exact timestamp for synchronization and seeking.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Dec 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Dec 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

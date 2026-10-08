@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "YAML is data serialisation format which uses a text file organised in a human-readable form. YAML can be used with several platforms of programming languages such as C, Perl, PHP, Python, Ruby, Javascript and others.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Oct 2021",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "http://yaml.org/",
   "formatSourceDate": "11 Dec 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,5 +33,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

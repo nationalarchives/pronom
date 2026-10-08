@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Windows Media Player Playlist is a file format that stores multimedia playlists. It is a proprietary file format used in Microsoft Windows Media Player versions 9-12.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Nov 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "http://msdn.microsoft.com/en-us/library/dd564509%28v=vs.85%29.aspx\r\nhttp://support.microsoft.com/kb/316992",
   "formatSourceDate": "12 Nov 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1150
         }
-      ]
+      ],
+      "provenance": "http://msdn.microsoft.com/en-us/library/dd564509%28v=vs.85%29.aspx\nhttp://support.microsoft.com/kb/316992"
     }
   ],
   "externalSignatures": [
@@ -53,7 +50,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    1
+  ]
 }

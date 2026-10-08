@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "AutoShade was an early 3D rendering package for use with AutoCAD. AutoShade wrote the rendering to an .RND file as a 2D vector image.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Apr 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Apr 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,7 +45,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [1]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "submittedBy": [
+    1
+  ]
 }

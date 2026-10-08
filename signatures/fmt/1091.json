@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Scribus is an open source desktop publishing application originally created by Franz Schmid. Scribus document files may be compressed within a GZIP container. It may be desirable to distinguish between different versions of Scribus Document.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Aug 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "23 Aug 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1726
         }
-      ]
+      ],
+      "provenance": "https://www.scribus.net/svn/Scribus/tags/Release_1_2_4/Scribus/scribus/doc/en/scribusfileformat.html\nhttps://wiki.scribus.net/canvas/File_Format_Specification_for_Scribus_1.4\nsee also scribusxml.cpp from source code. The earliest version I've found is 0.8 - http://ftp.ntua.gr/mirror/Scribus/"
     },
     {
       "signatureID": 1470,
@@ -58,7 +55,8 @@
           "endianness": null,
           "byteSequenceID": 1725
         }
-      ]
+      ],
+      "provenance": "https://wiki.scribus.net/canvas/File_Format_Specification_for_Scribus_1.4"
     }
   ],
   "externalSignatures": [
@@ -78,5 +76,7 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

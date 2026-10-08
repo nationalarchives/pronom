@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "VDI (Virtual Disk Image) is the native format used for storage by VirtualBox virtual machines.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Mar 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "27 Mar 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1295
         }
-      ]
+      ],
+      "provenance": "https://forums.virtualbox.org/viewtopic.php?p=29266#p29266"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [63],
-  "developedBy": [63],
-  "source": [1]
+  "supportedBy": [
+    63
+  ],
+  "developedBy": [
+    63
+  ],
+  "submittedBy": [
+    1
+  ]
 }

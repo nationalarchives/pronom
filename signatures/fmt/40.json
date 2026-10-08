@@ -4,12 +4,9 @@
   "version": "97-2003",
   "formatDescription": "With the release of Word 97, Microsoft revised the native binary word processing format, which is based on its generic OLE2 Compound Document Format. The format is proprietary and Microsoft does not make details of its structure public. The information here is derived primarily from OpenOffice.org's reverse-engineered documentation of the format and should not therefore be regarded as definitive. A Word document is stored as a \u2018WordDocument\u2019 stream within a Compound Document Format file. The format remained unchanged with the releases of Word 2000, 2002 and 2003. An alternative extension of .wbk refers to a backup file of a Word document, however there is no material or structural difference between a .wbk file and the .doc file it is a backup of.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "19 Apr 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Archives New Zealand / Archives New Zealand",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": "None",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "Microsoft Word for Windows Document (97-XP)",
   "formatTypes": "Word Processor",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,7 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "D0CF11E0A1B11AE1{20}FEFF",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 222
         },
         {
@@ -52,7 +48,7 @@
           "offset": null,
           "maxOffset": null,
           "byteSequence": "57006F007200640044006F00630075006D0065006E007400{42}02(00|01)",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 223
         },
         {
@@ -60,10 +56,11 @@
           "offset": null,
           "maxOffset": null,
           "byteSequence": "4D6963726F736F667420576F7264(20382E30|20392E30|2031302E30|2D446F6B756D656E74)",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 224
         }
-      ]
+      ],
+      "provenance": "v.122- Version in name of signature changed from 97-2002 to 97-2003. Submitted by Archives New Zealand."
     }
   ],
   "externalSignatures": [
@@ -113,9 +110,12 @@
       "relatedFormatName": "OLE2 Compound Document Format"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [214],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -143,5 +143,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    214
   ]
 }

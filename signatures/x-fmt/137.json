@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "19 Jul 2013",
-  "formatSourceID": 165,
-  "provenanceCompoundName": "Georgia Tech Research Institute / Georgia Tech Research Institute",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1076
         }
-      ]
+      ],
+      "provenance": "www.wotsit.org/list.asp?search=asf&button=GO%21 http://wiki.multimedia.cx/index.php?title=Electronic_Arts_SCxl#PT_patch"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [165]
+  "submittedBy": [
+    165
+  ]
 }

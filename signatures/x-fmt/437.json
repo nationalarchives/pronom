@@ -4,12 +4,9 @@
   "version": "4",
   "formatDescription": "CATIA is a 3D modelling software created by Dassault Syst\u00e8mes, widely used across many industries for computer aided design, manufacture and engineering. Model files store representations of mechanical structures, or parts of structures.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "16 Feb 2024",
-  "formatSourceID": 131,
-  "provenanceCompoundName": "Digital Library Research Group / MIT Libraries",
   "formatProvenance": "02/2024 (v.118) changed first range of bytes from {2024} to *.",
   "formatSourceDate": "06 Apr 2009",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,7 +33,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [135],
-  "developedBy": [135],
-  "source": [131]
+  "supportedBy": [
+    135
+  ],
+  "developedBy": [
+    135
+  ],
+  "submittedBy": [
+    131
+  ]
 }

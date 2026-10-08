@@ -4,8 +4,6 @@
   "formatDescription": "FictionBook 2 is an xml-based ebook format.",
   "binaryFileFormat": null,
   "formatTypes": "Text (Structured)",
-  "source": [244],
-  "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {
       "identifierText": "fmt/2106",
@@ -30,7 +28,8 @@
           "endianness": null,
           "byteSequenceID": 4865
         }
-      ]
+      ],
+      "provenance": "v.125: new PUID."
     }
   ],
   "externalSignatures": [
@@ -50,5 +49,8 @@
   "formatNote": null,
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
-  "fileFormatID": 4982
+  "fileFormatID": 4982,
+  "submittedBy": [
+    244
+  ]
 }

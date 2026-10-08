@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "Portable Network Graphics (PNG) was designed for the lossless, portable, compressed storage of raster images.  PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, grayscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits. PNG is designed to work in online viewing applications, so it is fully streamable.  It can store gamma and chromaticity.  PNG also detects file corruption.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "11 Jun 2012",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": "Specifications link: http://tools.ietf.org/pdf/rfc2083.pdf",
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "PNG (1.0)",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,7 @@
           "offset": 0,
           "maxOffset": 0,
           "byteSequence": "89504E470D0A1A0A0000000D49484452",
-          "endianness": null,
+          "endianness": "Big-endian",
           "byteSequenceID": 161
         },
         {
@@ -52,7 +48,7 @@
           "offset": 0,
           "maxOffset": 4,
           "byteSequence": "0000000049454E44AE426082",
-          "endianness": null,
+          "endianness": "Big-endian",
           "byteSequenceID": 162
         }
       ]
@@ -86,5 +82,7 @@
       "relatedFormatName": "Portable Network Graphics"
     }
   ],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

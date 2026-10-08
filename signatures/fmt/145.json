@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This 'exchange standard' format is based on Adobe's PDF specification and a subset of the PDF specification. This version  was an updated version of PDF/X-1:1999, and was based on PDF 1.3. It was superseded in 2003 by PDF/X-1a and PDF/X-3, at which point it was recommended that PDF/X-1 no longer be used. PDF/X-1 is the only PDF/X standard permitting encryption.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "22 Oct 2009",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 Feb 2007",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "PDF/X-1:2001",
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 861
         }
-      ]
+      ],
+      "provenance": "http://www.npes.org/pdf/PDF-X_Application-Notes_V3.pdf"
     }
   ],
   "externalSignatures": [
@@ -127,5 +124,7 @@
       "relatedFormatName": "Acrobat PDF 1.3 - Portable Document Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

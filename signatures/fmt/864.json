@@ -4,12 +4,9 @@
   "version": "5",
   "formatDescription": "The 3DM (openNURBS) format is a 3D model representation based on non-uniform rational B-Splines (NURBS). The file format is defined by an open source C++ toolkit that reads and writes openNURBS models.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "09 Jan 2016",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": null,
   "formatSourceDate": "09 Jan 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "openNURBS (5), Rhino (5)",
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1496
         }
-      ]
+      ],
+      "provenance": "openNURBS SDK: https://www.rhino3d.com/opennurbs"
     }
   ],
   "externalSignatures": [
@@ -55,7 +52,13 @@
       "relatedFormatName": "3DM"
     }
   ],
-  "supportedBy": [130],
-  "developedBy": [130],
-  "source": [216]
+  "supportedBy": [
+    130
+  ],
+  "developedBy": [
+    130
+  ],
+  "submittedBy": [
+    216
+  ]
 }

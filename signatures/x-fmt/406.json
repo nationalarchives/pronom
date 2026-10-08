@@ -4,12 +4,9 @@
   "version": "2.0",
   "formatDescription": "PostScript (.ps) file format is a type of vector graphic file, it is saved by PostScript general-purpose page description language. Developed in the 1980s by Adobe Systems, its main focus was to turn digital graphics and text ready to print, it allowed for users to more easily turn their text and graphics into printed copies.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://www.adobe.com/creativecloud/file-types/image/vector/ps-file.html#:~:text=frequently%20asked%20questions-,What%20is%20a%20PS%20file%3F,open%20it%20in%20an%20application.\r\n\r\nhttps://en.wikipedia.org/wiki/PostScript\r\n\r\nhttps://docs.fileformat.com/page-description-language/ps/\r\n\r\nhttps://fileinfo.com/extension/ps",
   "lastUpdatedDate": "17 Jun 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Feb 2006",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 245
         }
-      ]
+      ],
+      "provenance": "Signature refined through ongoing DROID research"
     }
   ],
   "externalSignatures": [
@@ -133,7 +130,13 @@
       "relatedFormatName": "Postscript"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    1
+  ]
 }

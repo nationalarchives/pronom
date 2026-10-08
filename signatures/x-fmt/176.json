@@ -4,12 +4,9 @@
   "version": "4",
   "formatDescription": "\tPicture Publisher Bitmap files are the native raster graphics format of Picture Publisher, a Micrografx graphics application. The software was originally purchased from Astral in 1991 and later purchased by Corel in 2001. It was superseded by Corel Photo-Paint.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "http://justsolve.archiveteam.org/wiki/Picture_Publisher",
   "lastUpdatedDate": "23 Jul 2020",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

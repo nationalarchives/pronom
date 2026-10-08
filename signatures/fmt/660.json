@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Adobe PostScript font used on the Macintosh platform (Mac OS 9.x and earlier); contains the outline data of the font, similar to a .pfb file in Windows; used in combination with a FOND resource file and bitmap data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Jul 2014",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "14 Jul 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,13 @@
   ],
   "externalSignatures": [],
   "relationships": [],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    1
+  ]
 }

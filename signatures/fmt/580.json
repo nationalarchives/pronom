@@ -4,12 +4,9 @@
   "version": "3.1",
   "formatDescription": "X3D is an integrated 3D graphics and multimedia framework in the ISO process for Information technology \u2014 Computer graphics, image processing and environmental representation. The standards pass through a number of member only and then public review processes, until they reach full ISO approval as international standards.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2013",
-  "formatSourceID": 193,
-  "provenanceCompoundName": "Central Digital Archive / Central Digital Archive",
   "formatProvenance": "http://www.web3d.org/realtime-3d/specification/version/V3.1",
   "formatSourceDate": "28 Aug 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -65,5 +61,7 @@
       "relatedFormatName": "X3D"
     }
   ],
-  "source": [193]
+  "submittedBy": [
+    193
+  ]
 }

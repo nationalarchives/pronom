@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Enhanced Image Package is a proprietry format from Capture One software, a RAW photo editor geared for photography. The format allows for original RAW files to be packed along with all necessary settings files including Lens Cast Calibration files and custom ICC profiles into one file, for use in transferring, sharing or archiving files in Capture One software. The files are packed alongside with any edits stored in XML files such as manifest.xml files containing adjustments and other metadata. A CaptureOne folder contains settings and other technical metadata for the RAW file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.captureone.com/blog/eip-file-format-enhanced-image-package\r\n\r\nhttps://support.captureone.com/hc/en-us/articles/360002478617-Enhanced-Image-Package-EIP-overview\r\n\r\nhttps://support.captureone.com/hc/en-us/articles/360002544898-Metadata-in-XMP-sidecar-files\r\n\r\nhttp://fileformats.archiveteam.org/wiki/Enhanced_Image_Package",
   "lastUpdatedDate": "25 Apr 2023",
-  "formatSourceID": 299,
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "25 Apr 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,9 +29,12 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [289],
-  "developedBy": [289],
-  "source": [299],
+  "supportedBy": [
+    289
+  ],
+  "developedBy": [
+    289
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -60,5 +59,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    299
   ]
 }

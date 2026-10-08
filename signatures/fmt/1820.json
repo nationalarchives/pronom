@@ -4,12 +4,9 @@
   "version": "2",
   "formatDescription": "MacCaption is retired closed caption software for use in video captions. It was originally developed by CPC Computer Prompting and Captioning Co. and called CCaptionPro. It was renamed in 2003 to MacCaption. Project files have the extension .cca. Standalone caption files have the extension .mcc, and can contain both CEA-608 and CEA-708 data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "07 Feb 2023",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "07 Feb 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [220]
+  "submittedBy": [
+    220
+  ]
 }

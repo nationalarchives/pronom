@@ -2,7 +2,6 @@
   "fileFormatID": 3925,
   "version": "1",
   "formatName": "PDF/UA Portable Document Format",
-  "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {
       "identifierText": "fmt/2050",
@@ -27,7 +26,8 @@
           "endianness": null,
           "byteSequenceID": 3795
         }
-      ]
+      ],
+      "provenance": "v.121: new PUID."
     }
   ],
   "externalSignatures": [
@@ -43,5 +43,7 @@
       "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format"
     }
   ],
-  "source": [244]
+  "submittedBy": [
+    244
+  ]
 }

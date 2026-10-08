@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "SketchUp is a 3D content creation tool. PRONOM currently does not distinguish between different versions of SketchUp documents but the ability to distinguish between different file format versions may be desirable and possible with a better understanding of the format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "10 Jul 2017",
-  "formatSourceID": 224,
-  "provenanceCompoundName": "Datable / Datable",
   "formatProvenance": "An .skp file is a SketchUp document. An .skb is a SketchUp document backup.",
   "formatSourceDate": "06 Apr 2009",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -144,7 +140,13 @@
       "relatedFormatName": "SketchUp Document"
     }
   ],
-  "supportedBy": [141],
-  "developedBy": [141],
-  "source": [224]
+  "supportedBy": [
+    141
+  ],
+  "developedBy": [
+    141
+  ],
+  "submittedBy": [
+    224
+  ]
 }

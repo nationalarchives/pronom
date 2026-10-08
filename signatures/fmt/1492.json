@@ -4,12 +4,9 @@
   "version": "4",
   "formatDescription": "Harvard Graphics (originally named Harvard Presentation Graphics) was a presentation and vector graphics program, used mainly on the MS-DOS platform.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "24 Oct 2021",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "24 Oct 2021",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,7 +29,6 @@
     }
   ],
   "relationships": [],
-  "source": [220],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -58,5 +53,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    220
   ]
 }

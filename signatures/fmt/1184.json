@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "IDML is an XML representation of an Adobe InDesign Document. The package format is conformant with the Universal Container Format and identification is based on the contents of the mimetype file with the zip container.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/IDML",
   "lastUpdatedDate": "24 Feb 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "09 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,9 +33,12 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1],
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -64,5 +63,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

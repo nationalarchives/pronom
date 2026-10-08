@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "These are hidden line files, one of a range of files created when using Microstation CAD software for 2D and 3D design, which is produced by Bentley Systems, Incorporated.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://communities.bentley.com/",
   "lastUpdatedDate": "15 Nov 2021",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": null,
   "formatSourceDate": "15 Nov 2021",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -63,6 +59,10 @@
       "relatedFormatName": "MicroStation Base File"
     }
   ],
-  "developedBy": [264],
-  "source": [216]
+  "developedBy": [
+    264
+  ],
+  "submittedBy": [
+    216
+  ]
 }

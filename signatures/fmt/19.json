@@ -4,12 +4,9 @@
   "version": "1.5",
   "formatDescription": "Portable Document Format is a platform-independent format for representing formatted documents, developed by Adobe Systems Incorporated. It is the native format of Adobe\u2019s Acrobat family of software products, version 1.5 corresponding to the release of Acrobat 6.0. PDF is based on, and shares the same imaging model as, the PostScript page description language. A PDF file comprises a Header section, a Body section containing the objects which make up the document, a Cross Reference Table, and a Trailer section. PDF files can contain a wide variety of content, including text, images, video and audio.",
   "releaseDate": "01 Jan 2003",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "22 Oct 2009",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "PDF (1.5)",
   "formatTypes": "Page Description",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,7 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "255044462D312E35",
-          "endianness": null,
+          "endianness": "Big-endian",
           "byteSequenceID": 116
         },
         {
@@ -52,10 +48,11 @@
           "offset": 0,
           "maxOffset": 1024,
           "byteSequence": "2525454F46",
-          "endianness": null,
+          "endianness": "Big-endian",
           "byteSequenceID": 117
         }
-      ]
+      ],
+      "provenance": "DROID signature research."
     }
   ],
   "externalSignatures": [
@@ -221,6 +218,10 @@
       "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format"
     }
   ],
-  "developedBy": [7],
-  "source": [1]
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    1
+  ]
 }

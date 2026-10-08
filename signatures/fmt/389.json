@@ -4,12 +4,9 @@
   "version": "1.2",
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": "01 Sep 1990",
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "Specifications available at: \r\nhttp://www.cwls.org/las_info.php",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113)- Max-offset added to BOF signature to accommodate header bytes. Submitted by The National Library of Australia.",
   "formatSourceDate": "25 Nov 2011",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured), Dataset",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 711
         }
-      ]
+      ],
+      "provenance": "08/2023 (v.113)- Max-offset added to BOF signature to accommodate header bytes. Submitted by The National Library of Australia."
     }
   ],
   "externalSignatures": [
@@ -55,6 +52,10 @@
       "relatedFormatName": "Log ASCII Standard Format"
     }
   ],
-  "developedBy": [176],
-  "source": [1]
+  "developedBy": [
+    176
+  ],
+  "submittedBy": [
+    1
+  ]
 }

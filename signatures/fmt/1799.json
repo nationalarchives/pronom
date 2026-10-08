@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The FLExText Interlinear XML format is used in the field of linguistics study. FlExText is produced by SIL International\u2019s FieldWorks software, and can be imported to other programs such as ELAN and SayMore.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Apr 2024",
-  "formatSourceID": 244,
-  "provenanceCompoundName": "Preservica / Preservica",
   "formatProvenance": "04/2024 (v.118)- Offset from BOF changed from 0 to 0-3 to provide flexibility for the XML 1.0 declaration. Submitted by Preservica based on samples provided by The Endanagered Languages Archive.",
   "formatSourceDate": "23 Nov 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 2480
         }
-      ]
+      ],
+      "provenance": "v.118: Offset from BOF changed from 0 to 0-3 to provide flexibility for the XML 1.0 declaration. Submitted by Preservica based on samples provided by The Endanagered Languages Archive.\nV.121: Signature amended to allow for lower case 'utf'."
     }
   ],
   "externalSignatures": [
@@ -55,5 +52,7 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "source": [244]
+  "submittedBy": [
+    244
+  ]
 }

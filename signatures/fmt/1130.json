@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "C3D, or Coordinate 3D, is a biomechanics data file format that is a component of the family of file formats developed for the AMASS photogrammetry software system. C3D format provides a means for storing 3D coordinate and analog data, together with all associated parameters, for a single measurement trial.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "29 Nov 2017",
-  "formatSourceID": 215,
-  "provenanceCompoundName": "University of Edinburgh / University of Edinburgh",
   "formatProvenance": null,
   "formatSourceDate": "29 Nov 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Dataset",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [215]
+  "submittedBy": [
+    215
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Adaptive Multi-Rate (AMR or AMR-NB or GSM-AMR) audio codec is an audio compression format optimized for speech coding. AMR speech codec consists of a multi-rate narrowband speech codec that encodes narrowband (200\u20133400 Hz) signals at variable bit rates ranging from 4.75 to 12.2 kbit/s with toll quality speech starting at 7.4 kbit/s.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "17 Jun 2011",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "17 Jun 2011",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "AMR-NB, GSM-AMR",
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 646
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research"
     }
   ],
   "externalSignatures": [
@@ -59,5 +56,7 @@
       "relatedFormatName": "3GPP Audio/Video File"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

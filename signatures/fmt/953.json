@@ -4,12 +4,9 @@
   "version": "2",
   "formatDescription": "True Audio is a lossless audio compression format for multichannel 8, 16 and 24 bits audio data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Sep 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "14 Sep 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -59,5 +55,7 @@
       "relatedFormatName": "True Audio"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

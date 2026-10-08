@@ -4,12 +4,9 @@
   "version": "1.4",
   "formatDescription": "Deprecated in favour of fmt/45",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "25 Oct 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": "Partial",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -54,5 +50,7 @@
       "relatedFormatName": "Rich Text Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "PUID deprecated. Please see x-fmt/451: SketchUp Document",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "25 Oct 2012",
-  "formatSourceID": 131,
-  "provenanceCompoundName": "Digital Library Research Group / MIT Libraries",
   "formatProvenance": null,
   "formatSourceDate": "06 Apr 2009",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -104,7 +100,13 @@
       "relatedFormatName": "SketchUp Document"
     }
   ],
-  "supportedBy": [141],
-  "developedBy": [141],
-  "source": [131]
+  "supportedBy": [
+    141
+  ],
+  "developedBy": [
+    141
+  ],
+  "submittedBy": [
+    131
+  ]
 }

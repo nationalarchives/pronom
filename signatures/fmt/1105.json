@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Hierarchical File System (HFS) is a file system developed by Apple primarily for Mac OS. Within HFS a storage volume is divided into logical blocks of 512 bytes. The Hierarchical File System groups these logical blocks into allocation blocks, which can contain one or more logical blocks, depending on the total size of the volume.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "07 Nov 2017",
-  "formatSourceID": 195,
-  "provenanceCompoundName": "Artefactual Systems Inc / Artefactual Systems Inc",
   "formatProvenance": "This entry and identification for Hierarchical File System was a collaborative effort involving the Open Preservation Foundation, Artefactual Systems, New York Public Libraries, The University of California, Los Angeles and The National Archives.",
   "formatSourceDate": "07 Nov 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,7 +45,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [195]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    195
+  ]
 }

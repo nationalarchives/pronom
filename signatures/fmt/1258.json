@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A Microsoft Access Workgroup Information File stores the usernames and passwords for users and groups that require access to a Microsoft Access database. Compatible with MDB formats (Access 97-2003) rather than the later ACCDB format (Access 2007-2010).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 Jan 2020",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "18 Jan 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,7 +45,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [234]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    234
+  ]
 }

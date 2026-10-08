@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "16 Mar 2012",
-  "formatSourceID": 165,
-  "provenanceCompoundName": "Georgia Tech Research Institute / Georgia Tech Research Institute",
   "formatProvenance": null,
   "formatSourceDate": "16 Mar 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 729
         }
-      ]
+      ],
+      "provenance": "PPM. User Manual for Netpbm\nhttp://netpbm.sourceforge.net/doc/pgm.html"
     }
   ],
   "externalSignatures": [
@@ -61,5 +58,7 @@
     }
   ],
   "relationships": [],
-  "source": [165]
+  "submittedBy": [
+    165
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "These files, which always end with the file extension .bse, consist of the line drawing layer in Microstation from c.2000. MicroStation CAD software was developed and sold by Bentley Systems and which is used for 2D and 3D design, and is mainly used in the architectural and engineering industries.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.bentley.com/en/products/product-line/modeling-and-visualization-software/microstation",
   "lastUpdatedDate": "14 Nov 2023",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": "11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched",
   "formatSourceDate": "05 Mar 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 2019
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched"
     }
   ],
   "externalSignatures": [
@@ -55,5 +52,7 @@
       "relatedFormatName": "Bentley Microstation Hidden Line File"
     }
   ],
-  "source": [216]
+  "submittedBy": [
+    216
+  ]
 }

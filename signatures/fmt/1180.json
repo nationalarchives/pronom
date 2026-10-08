@@ -4,12 +4,9 @@
   "version": "6+",
   "formatDescription": "Cinema 4D is a 3D modeling, animation and rendering application developed by Maxon Computer GmbH.  Cinema 4D as a file format can contain elements of animation, modeling, texturing and rendering. This version of the Cinema 4D format appears to have been in use from the release of version R12 of the Cinema 4D application onwards and is distinct from the earlier versions 4.x and 5.x. Please contact the PRONOM team if you can assist with establishing a precise version number.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Aug 2018",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "06 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1830
         }
-      ]
+      ],
+      "provenance": "Based on private_headers.h from the Melange SDK v5 found here: https://developers.maxon.net/?page_id=1118"
     }
   ],
   "externalSignatures": [
@@ -55,5 +52,7 @@
       "relatedFormatName": "Cinema 4D"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

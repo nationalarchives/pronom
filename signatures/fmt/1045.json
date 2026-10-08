@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Q&A was a database and word processing software program for IBM PC-compatible computers published by Symantec and partners from 1985 to 1998. Due to their age, Q&A files may lack an extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Apr 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Apr 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -59,7 +55,13 @@
   ],
   "externalSignatures": [],
   "relationships": [],
-  "supportedBy": [72],
-  "developedBy": [72],
-  "source": [1]
+  "supportedBy": [
+    72
+  ],
+  "developedBy": [
+    72
+  ],
+  "submittedBy": [
+    1
+  ]
 }

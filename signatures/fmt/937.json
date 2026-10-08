@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "Adobe Air, formerly codenamed Apollo, is a cross-platform runtime system developed by Adobe Systems for building desktop applications and mobile applications, programmed using Adobe Flash, ActionScript and optionally Apache Flex.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "13 Jul 2016",
-  "formatSourceID": 214,
-  "provenanceCompoundName": "Archives New Zealand / Archives New Zealand",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "13 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,9 +33,12 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [214],
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -80,5 +79,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    214
   ]
 }

@@ -4,12 +4,9 @@
   "version": "2.x",
   "formatDescription": "AWD is a binary file format for 3D scenes, objects and related data, and is intended for exchange between any conforming AWD exporter and a conforming parser. Its main use is with the Away3D engine, a 3D engine designed for ActionScript 3 and the Adobe Flash Platform.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Aug 2018",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "06 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1829
         }
-      ]
+      ],
+      "provenance": "http://awaytools.com/awdformat/"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

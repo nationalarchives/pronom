@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": ".ncd is the native format of Nero CoverDesigner, a software utility for creating disk labels, inlays and booklets for compact discs.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "04 Sep 2020",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "04 Sep 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [234]
+  "submittedBy": [
+    234
+  ]
 }

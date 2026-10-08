@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A media metafile is a file that contains information about other files. A metafile can be used to list a group of media content files that are to be played in order. The .wax metafile references Windows Media files with .asf, .wma, or .wax file name extensions. The .wvx metafile references Windows Media files with .wma, .wmv, .wvx, or .wax file name extensions. The asx metafile references Windows Media files with .wma, .wax, .wmv, .wvx, .asf, or .asx file name extensions.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "http://msdn.microsoft.com/en-us/library/dd564665(v=vs.85).aspx",
   "formatSourceDate": "28 Aug 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -61,7 +57,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    1
+  ]
 }

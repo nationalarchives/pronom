@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The VICAR  image file format is used primarily for storing planetary image data collected by both interplanetary spacecraft and Earth-based stations. Many astronomical and astrophysical organizations use and support the VICAR format. \r\nFull specifications available at http://www-mipl.jpl.nasa.gov/external/VICAR_file_fmt.pdf",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "09 Nov 2011",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "09 Nov 2011",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -36,10 +32,11 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "4C424C53495A453D[30:39]{15}464F524D41543D27(48414C46|42595445|46554C4C|5245414C|444F5542|434F4D50|434F4D504C4558|574F5244|4C4F4E47)27",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 700
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research"
     }
   ],
   "externalSignatures": [
@@ -57,6 +54,10 @@
     }
   ],
   "relationships": [],
-  "developedBy": [107],
-  "source": [1]
+  "developedBy": [
+    107
+  ],
+  "submittedBy": [
+    1
+  ]
 }

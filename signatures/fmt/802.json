@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A Tap file attempts to duplicate data stored on a Commodore 64 cassette tape. It encodes the series of pulses used to store data on the tape.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Nov 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "27 Nov 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1411
         }
-      ]
+      ],
+      "provenance": "http://ist.uwaterloo.ca/~schepers/formats/TAP.TXT"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

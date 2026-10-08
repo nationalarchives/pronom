@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "FinePrint is software for previewing and editing print jobs.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "25 Sep 2020",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "25 Sep 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 2056
         }
-      ]
+      ],
+      "provenance": "Based on samples from versions 4, 5, 7 and 10 available, with later versions available from the www.fineprint.com website and earlier ones via the Internet Archive."
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [220]
+  "submittedBy": [
+    220
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "Software-Independent Archiving of Relational Databases is a format for storing content of relational databases in files for long-term preservation e.g. in archives. The format was developed by the Swiss Federal Archives. It is an open standard and is supported by the SIARD software of the Swiss Federal Archives. SIARD format is a ZIP file (based on the 64 bit extension of the  ZIP format introduced by PkWare Inc. with version 4.5 of the ZIP format definition in order to avoid size limitations which are unrealistic for databases). The ZIP file contains an XML file describing the database structure (database metadata) as well as a collection of XML files describing the table content (database primary data) as well as - optionally - some text files and some binary files representing database large objects (BLOBs and CLOBs). SIARD format is used for archiving databases adhering to the SQL (ideally SQL:1999 core) standard.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "22 Jul 2010",
-  "formatSourceID": 143,
-  "provenanceCompoundName": "Swiss Federal Archives / Swiss Federal Archives",
   "formatProvenance": null,
   "formatSourceDate": "03 Feb 2009",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -36,7 +32,7 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "504B0304*504B0304*786D6C6E733D22687474703A2F2F7777772E6261722E61646D696E2E63682F786D6C6E732F73696172642F312E302F6D657461646174612E78736422",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 389
         },
         {
@@ -44,10 +40,11 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "504B01{43-65531}504B0506{18-65531}",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 390
         }
-      ]
+      ],
+      "provenance": "Information from Swiss Federal Archives."
     }
   ],
   "externalSignatures": [
@@ -63,9 +60,12 @@
       "relatedFormatName": "ZIP Format"
     }
   ],
-  "supportedBy": [143],
-  "developedBy": [143],
-  "source": [143],
+  "supportedBy": [
+    143
+  ],
+  "developedBy": [
+    143
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -90,5 +90,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    143
   ]
 }

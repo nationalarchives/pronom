@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Microsoft Visio is a diagramming and vector graphics application and is part of the Microsoft Office family.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Jun 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures. This puid has been added so that DROID can identify versions of Visio not currently covered by the container signature file.",
   "formatSourceDate": "11 Jun 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -68,7 +64,6 @@
       "relatedFormatName": "OLE2 Compound Document Format"
     }
   ],
-  "source": [1],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -93,5 +88,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

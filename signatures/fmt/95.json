@@ -4,12 +4,9 @@
   "version": "1a",
   "formatDescription": "The Portable Document Format/ Archive is a format designed for long term preservation by Adobe Systems. PDF/A is a simplified version of PDF 1.4, with all of the features from PDF 1.4 that would impede long term preservation removed. Removed features include Javascript, Audio/Visual content, LZW compression and encryption. A major principle of PDF/A is that it is self contained and not reliant on externalities thus all font and colour information is encoded into the file. PDF/A files are larger than other types of PDF files due to the need for embedded information.\r\nPDF/A supports two levels of compliance PDF/A1-a (Accessible) and PDF/A1-b (Basic). PDF/A1-a is fully ISO 19005-1:2005 (PDF/A-1) compliant whereas PDF/A1-b is less stringent and not compliant. PDF/A1-a requires tagged PDF and Unicode whereas PDF/A1-b does not.",
   "releaseDate": "01 Oct 2005",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "11 Feb 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "17 Dec 2005",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "PDF/A (1)",
   "formatTypes": "Page Description",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,7 +51,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 337
         }
-      ]
+      ],
+      "provenance": "Ongoing Digital preservation research."
     },
     {
       "signatureID": 1954,
@@ -134,5 +131,7 @@
       "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

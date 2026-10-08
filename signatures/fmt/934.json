@@ -4,12 +4,9 @@
   "version": "2",
   "formatDescription": "SVF is a vector image format originally developed in 1994. The format supports hyperlinks and layer information.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "08 Jul 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "08 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -59,5 +55,7 @@
       "relatedFormatName": "Simple Vector Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

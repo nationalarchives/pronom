@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Camtasia Studio is a screen recording software. From version 3 to version 8, the software recorded to an OLE container in the AVI video format, with the container also including CAMXML metadata, cursor data, audio, webcam video, etc. Starting in version 9, the recordings were made to a TREC (mp42/isom) format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Camtasia_Recording_File",
   "lastUpdatedDate": "25 Apr 2023",
-  "formatSourceID": 299,
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "25 Apr 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,7 +33,6 @@
     }
   ],
   "relationships": [],
-  "source": [299],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -65,5 +60,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    299
   ]
 }

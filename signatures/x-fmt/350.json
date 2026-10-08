@@ -4,12 +4,9 @@
   "version": "5-9",
   "formatDescription": "OnmiPage is Optical Character Recognition (OCR) software for harvesting text from scanned documents and images. .met was the file format in use by versions 5-9 of the OmniPage software.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Sep 2020",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [220]
+  "submittedBy": [
+    220
+  ]
 }

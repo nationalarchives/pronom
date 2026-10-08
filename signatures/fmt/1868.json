@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Leapfrog Geo is for a suite of 3D geological modelling software, which is used particularly by the mining industry. Users can generate 3D models by inputting large datasets.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.seequent.com/products-solutions/leapfrog-geo/",
   "lastUpdatedDate": "24 May 2023",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "24 May 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "GIS",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,7 +45,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [310],
-  "developedBy": [310],
-  "source": [234]
+  "supportedBy": [
+    310
+  ],
+  "developedBy": [
+    310
+  ],
+  "submittedBy": [
+    234
+  ]
 }

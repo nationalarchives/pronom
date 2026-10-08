@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Autorun.inf is the primary instruction file associated with the Autorun function. Autorun.inf itself is a simple text-based configuration file that tells the operating system which executable to start, which icon to use, and which additional menu commands to make available.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "30 Mar 2011",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "30 Mar 2011",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Unstructured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 537
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research."
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

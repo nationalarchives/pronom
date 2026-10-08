@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Extensible Music Format (XMF) is a tree-based digital container format used to bundle music-oriented content, such as a MIDI file and optionally the sounds it uses, liner notes or other content grouped by language-codes.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Feb 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "12 Feb 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1281
         }
-      ]
+      ],
+      "provenance": "http://en.wikipedia.org/wiki/XMF\nhttp://www.midi.org/techspecs/xmf/xmf.php"
     }
   ],
   "externalSignatures": [
@@ -59,5 +56,7 @@
       "relatedFormatName": "Mobile eXtensible Music Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

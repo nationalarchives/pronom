@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "JNT is the native format of Windows Journal, a notetaking application created by Microsoft for Windows operating systems starting with Windows XP. Due to security concerns Microsoft advise against using the format and have supplied a patch for removal of the application (https://support.microsoft.com/en-gb/help/3161102/update-for-windows-journal-component-removal). Microsoft also provide an update that re-installs a version of Windows Journal that highlights the security concerns (https://support.microsoft.com/en-us/help/3162655/windows-journal-application-for-windows). A JTP is a Windows Journal Template file, however this appears to be structurally identical to a JNT file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 May 2017",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "18 May 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -53,7 +49,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [220]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    220
+  ]
 }

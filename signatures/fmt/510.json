@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Early format for Asta PowerProject project management software. Superceded by later .pp format. .pdb files are viewable in the free 'Project Viewer' software available here: http://www.astadev.com/free-project-viewer/",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "01 May 2013",
-  "formatSourceID": 188,
-  "provenanceCompoundName": "The Borthwick Institute for Archives / The Borthwick Institute for Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 May 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1008
         }
-      ]
+      ],
+      "provenance": "Information from format vendor"
     }
   ],
   "externalSignatures": [
@@ -55,7 +52,13 @@
       "relatedFormatName": "PowerProject"
     }
   ],
-  "supportedBy": [189],
-  "developedBy": [189],
-  "source": [188]
+  "supportedBy": [
+    189
+  ],
+  "developedBy": [
+    189
+  ],
+  "submittedBy": [
+    188
+  ]
 }

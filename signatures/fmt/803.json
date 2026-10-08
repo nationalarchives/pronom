@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Expert Witness was the original name for EnCase, as such this format can be referred to as either Expert Witness Compression Format or Encase Image File Format. \r\nThe format is used to store media images for forensic purposes. They are a type of disk image containing the contents and structure of an entire data storage device, disk volume or even a computer's physical memory. This format creates segments which have different file extensions, the first will have the extension '.e01'. this increases first numerically upto '.e99' the next extension will be '.eaa' increasing to an estimated limit of '.zzz'.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "09 May 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "27 Nov 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1412
         }
-      ]
+      ],
+      "provenance": "https://github.com/libyal/libewf/blob/master/documentation/Expert%20Witness%20Compression%20Format%20(EWF).asciidoc"
     }
   ],
   "externalSignatures": [
@@ -59,5 +56,7 @@
       "relatedFormatName": "ISO 9660 Disk Image File"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

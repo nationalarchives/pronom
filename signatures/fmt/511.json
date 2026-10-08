@@ -4,12 +4,9 @@
   "version": "7",
   "formatDescription": "Asta PowerProject is a proprietary project management suite.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "01 May 2013",
-  "formatSourceID": 189,
-  "provenanceCompoundName": "Asta Development / Asta Development",
   "formatProvenance": null,
   "formatSourceDate": "01 May 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1009
         }
-      ]
+      ],
+      "provenance": "Information from format vendor"
     }
   ],
   "externalSignatures": [
@@ -85,7 +82,13 @@
       "relatedFormatName": "PowerProject Teamplan"
     }
   ],
-  "supportedBy": [189],
-  "developedBy": [189],
-  "source": [189]
+  "supportedBy": [
+    189
+  ],
+  "developedBy": [
+    189
+  ],
+  "submittedBy": [
+    189
+  ]
 }

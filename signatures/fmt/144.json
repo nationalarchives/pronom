@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "PDF/X was developed by the Committee for Graphics Arts Technologies Standards (CGATS) and Adobe. This  'exchange standard' format is based on Adobe's PDF specification and includes additional notes specifically for delivery of high quality colour advertisements. A subset of the PDF specification, and an application standard as well as a file format standard; it was considered a 'more reliable' PDF file. There are several versions of the standard, which address specific issues, PDF/X-1: 1999 was based on PDF 1.2, however there is no known implementation of this version. PDF/X-1 is the only PDF/X standard permitting encryption.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "22 Oct 2009",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 Feb 2007",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "PDF/X-1:1999",
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 859
         }
-      ]
+      ],
+      "provenance": "http://web.archive.org/web/20000817091029/http://www.npes.org/standards/PDFX1AppNote-V1-Dec99.pdf"
     }
   ],
   "externalSignatures": [
@@ -117,5 +114,7 @@
       "relatedFormatName": "Acrobat PDF 1.2 - Portable Document Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

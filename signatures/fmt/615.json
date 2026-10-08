@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "XCF is the native image format of the GNU Image Manipulation Program. XCF stands for eXperimental Computing Facility which is the undergraduate computing-interest organization at University of California, Berkeley, whom originally developed the format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Feb 2014",
-  "formatSourceID": 198,
-  "provenanceCompoundName": "Provincie West-Vlaanderen / Provincie West-Vlaanderen",
   "formatProvenance": null,
   "formatSourceDate": "14 Feb 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [198]
+  "submittedBy": [
+    198
+  ]
 }

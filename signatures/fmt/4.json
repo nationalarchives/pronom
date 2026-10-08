@@ -4,12 +4,9 @@
   "version": "89a",
   "formatDescription": "The Graphics Interchange Format (GIF) is a raster image format developed by Compuserve, primarily for use on the internet. A GIF file begins with a Header section and a Logical Screen Descriptor section. This is followed by one or more Image sections, and the file is terminated by a Trailer. GIF supports bit depths between 1 and 8 bits (i.e. up to 256 colours) and supports features such as interlacing and transparency. Images are always stored using lossless LZW compression. GIF 89a introduced a number of new features, including a series of optional Control Extensions, which can be used to control the rendering of images within a file.",
   "releaseDate": "31 Jul 1990",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "GIF (1989a)",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,7 @@
           "offset": 0,
           "maxOffset": 0,
           "byteSequence": "474946383961",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 181
         },
         {
@@ -52,7 +48,7 @@
           "offset": 0,
           "maxOffset": 4,
           "byteSequence": "3B",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 182
         }
       ]
@@ -71,6 +67,10 @@
       "relatedFormatName": "Graphics Interchange Format"
     }
   ],
-  "developedBy": [108],
-  "source": [1]
+  "developedBy": [
+    108
+  ],
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Raw JPEG Stream represents JPEG bitstream sequence of digital objects. JPEG stands for Joint Photographic Experts Group, an international organization that standardized the concept of lossy compression during the late 1980s and early 1990s. It uses DCT (Discrete Cosine Transform) compression technique used for images and audio. The standard of lossy compression is able to remove some visual data invisible to human eye which averages out colour variation and reduces the file size. JPEG image consists of a sequence of segments, each beginning with a two-byte \"marker\", each of which begins with a 0xFF byte, followed by a byte indicating what kind of marker it is. The signature for this entry represents the first two bytes of every JPEG stream, which are the Start Of Image (SOI) marker with values of 0xFF and 0xD8 (indicating that the baseline is DCT-based) and the End of Image (EOI) marker with valued of 0xFF and 0xD9. The second signatures represents the \"colour transform\" field of the APP14 which is an \"Adobe\" segment, representing graphic files which may have been edited in Adobe applications such as Adobe Photoshop.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000017.shtml#:~:text=The%20Library%20of%20Congress%20Recommended,specify%20a%20version%20of%20JPEG.\r\n\r\nhttps://web.archive.org/web/20220624201809/https://www.adobe.com/creativecloud/file-types/image/raster/jpeg-file.html\r\n\r\nhttps://web.archive.org/web/20221015163305/https://en.wikipedia.org/wiki/JPEG",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Photoshop JPEG signature added 0 value to offset in EOF signature as null offset is causing max-offset to be ignored. Submitted by Preservica.",
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "JPEG",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -78,7 +74,8 @@
           "endianness": null,
           "byteSequenceID": 869
         }
-      ]
+      ],
+      "provenance": "http://www.codeproject.com/Articles/1208/Extracting-IPTC-header-information-from-JPEG-image\n08/23 (v.113) - Photoshop JPEG signature added 0 value to offset in EOF signature as null offset is causing max-offset to be ignored. Submitted by Preservica."
     }
   ],
   "externalSignatures": [
@@ -154,5 +151,7 @@
       "relatedFormatName": "Exchangeable Image File Format (Compressed)"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

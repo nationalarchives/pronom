@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Valve Texture Format is used by the Valve Corporation's Source engine to represent textures in models and environments.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Feb 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "06 Feb 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -68,7 +64,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [222],
-  "developedBy": [222],
-  "source": [1]
+  "supportedBy": [
+    222
+  ],
+  "developedBy": [
+    222
+  ],
+  "submittedBy": [
+    1
+  ]
 }

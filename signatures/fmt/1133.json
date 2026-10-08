@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Farbfeld is a simple and lossless raster image-format. Following a short header defining width and height the file consists of uncompressed, 16-bit RGBA values.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "30 May 2018",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "https://tools.suckless.org/farbfeld/",
   "formatSourceDate": "30 May 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1778
         }
-      ]
+      ],
+      "provenance": "https://tools.suckless.org/farbfeld/"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

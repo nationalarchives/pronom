@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Flexible Image Transport System (FITS) is an open standard defining a digital file format useful for storage, transmission and processing of data: formatted as multi-dimensional arrays (for example a 2D image), or tables. FITS is the most commonly used digital file format in astronomy. The FITS standard was designed specifically for astronomical data, and includes provisions such as describing photometric and spatial calibration information, together with image origin metadata.\n\nThe FITS format was first standardized in 1981; it has evolved gradually since then, and the most recent version (4.0) was standardized in 2016. FITS was designed with an eye towards long-term archival storage, and the maxim once FITS, always FITS represents the requirement that developments to the format must be backward compatible.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "03 Jan 2025",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "v.120- New description added as part of PRONOM Research Week 2024. Submitted by Brigham Young University.",
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "FITS",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,7 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "53494D504C4520203D202020202020202020202020202020202020202054{50}42495450495820203D{19}(2038|2B38|3038|3136|3332|3634){50}4E415849532020203D",
-          "endianness": null,
+          "endianness": "Big-endian",
           "byteSequenceID": 160
         }
       ]
@@ -57,5 +53,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

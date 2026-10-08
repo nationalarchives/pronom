@@ -4,12 +4,9 @@
   "version": "2",
   "formatDescription": "RPM Package Manager file (RPM) was previously known as a Red Hat Package Manager File. It is a file used by RPM Package Manager which is a package management system. RPM files currently appear in two defined types, the first is binary package files containing the compiled version of certain software. The second is source package files containing the source code used to produce a package. These have an appropriate tag in the file header that distinguishes them from Binary RPMs, causing them to be extracted to /usr/src on installation. Source package files customarily carry the file extension \u201c.src.rpm\".",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Nov 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "23 Nov 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1404
         }
-      ]
+      ],
+      "provenance": "http://www.rpm.org/max-rpm/s1-rpm-file-format-rpm-file-format.html"
     }
   ],
   "externalSignatures": [
@@ -53,5 +50,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Quicken Interchange Format (QIF) is an open specification and specially formated ASCII fie for reading and writing financial data to media (i.e. files). Although still widely used, QIF is a format older than Open Financial Exchange (OFX).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/Quicken_Interchange_Format#:~:text=Quicken%20Interchange%20Format%20(QIF)%20is,to%20media%20(i.e.%20files)",
   "lastUpdatedDate": "03 Jan 2025",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "v.120- New description and notes added as part of PRONOM Research Week 2024. Submitted by Brigham Young University.",
   "formatSourceDate": "02 Dec 2010",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 505
         }
-      ]
+      ],
+      "provenance": "Ongoing Digital Preservation research."
     }
   ],
   "externalSignatures": [
@@ -53,6 +50,10 @@
     }
   ],
   "relationships": [],
-  "developedBy": [51],
-  "source": [1]
+  "developedBy": [
+    51
+  ],
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Shell Scrap Object Files are OLE documents created by dragging objects from an Office document to a file folder. Microsoft ended support for such files with Windows Vista. Microsoft Office 2007 or earlier is required to restore these items by dragging them back onto a document for viewing and conversion.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 Jan 2020",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "18 Jan 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,9 +29,12 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [220],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -63,5 +62,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    220
   ]
 }

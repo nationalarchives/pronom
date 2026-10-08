@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "These files are interactive plugin objects produced by Macromedia Director, and are typically found embedded in web pages, rendered by the Shockwave plugin.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 Dec 2012",
-  "formatSourceID": 185,
-  "provenanceCompoundName": "Rhizome / Rhizome",
   "formatProvenance": null,
   "formatSourceDate": "18 Dec 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 953
         }
-      ]
+      ],
+      "provenance": "Samples and candidate signature provided by Rhizome"
     },
     {
       "signatureID": 759,
@@ -54,7 +51,8 @@
           "endianness": null,
           "byteSequenceID": 954
         }
-      ]
+      ],
+      "provenance": "Samples and candidate signature provided by Rhizome"
     }
   ],
   "externalSignatures": [
@@ -64,6 +62,10 @@
     }
   ],
   "relationships": [],
-  "developedBy": [7],
-  "source": [185]
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    185
+  ]
 }

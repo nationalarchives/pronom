@@ -4,12 +4,9 @@
   "version": "1-4",
   "formatDescription": "Quattro Pro is a spreadsheet program originally developed by Borland and now part of Corel's WordPerfect Office suite.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2012",
-  "formatSourceID": 181,
-  "provenanceCompoundName": "Museum of London / Museum of London",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Spreadsheet",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 914
         }
-      ]
+      ],
+      "provenance": "Self generated files Quattro Pro versions 1, 2 and 8"
     }
   ],
   "externalSignatures": [
@@ -61,5 +58,7 @@
     }
   ],
   "relationships": [],
-  "source": [181]
+  "submittedBy": [
+    181
+  ]
 }

@@ -1,7 +1,6 @@
 {
   "fileFormatID": 3928,
   "formatName": "Apache Arrow IPC Format",
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "identifiers": [
     {
       "identifierText": "fmt/2053",
@@ -34,7 +33,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 3799
         }
-      ]
+      ],
+      "provenance": "v.121: new signature."
     }
   ],
   "externalSignatures": [
@@ -44,5 +44,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

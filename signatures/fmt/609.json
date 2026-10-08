@@ -4,12 +4,9 @@
   "version": "6.0-2003",
   "formatDescription": "This format is identifiable via a container signature in DROID 6 and later. Some Word documents from this era lack an internal [CompObj] stream, which is used by fmt/39 and fmt/40 to distinguish between Word files generated in Microsoft Office 6.0/95, and 97-2003. Since compatible files created by certain software lack this stream (potentially including, but not necessarily limited to Apple Pages), this additional identifying record is required to avoid the limiting identification of OLE2.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Nov 2013",
-  "formatSourceID": 184,
-  "provenanceCompoundName": "British Library / British Library",
   "formatProvenance": "This format is identifiable via a container signature in DROID 6 and later.",
   "formatSourceDate": "12 Nov 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -67,9 +63,12 @@
       "relatedFormatName": "Microsoft Word Document Template (Password Protected)"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [184],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -81,5 +80,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    184
   ]
 }

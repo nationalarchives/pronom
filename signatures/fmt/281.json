@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "LaTeX is a document preparation system for typesetting. It is widely used in academia for technical or scientific documents but can be used for other forms of publishing. LaTeX projects can contain multiple subdocuments which are linked to a Master Document.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "01 Nov 2010",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "Following up external submission. Signature submitted by representative of KeepIt project at Southampton University.",
   "formatSourceDate": "01 Nov 2010",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 396
         }
-      ]
+      ],
+      "provenance": "Signature submitted by representative of KeepIt project at Southampton University."
     }
   ],
   "externalSignatures": [
@@ -60,5 +57,7 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

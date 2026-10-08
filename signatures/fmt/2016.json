@@ -4,12 +4,9 @@
   "version": "1",
   "formatDescription": "Binvox files are the output of the voxelizer software Binvox and are the result of the rasterization of a 3D model into a binary 3D voxel grid. A .binvox file features a short header followed by binary data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Aug 2024",
-  "formatSourceID": 349,
-  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
   "formatProvenance": null,
   "formatSourceDate": "22 Aug 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [349]
+  "submittedBy": [
+    349
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This variant of ZFO file is container for delivered data mailbox messages provided by \u010cesk\u00e1 po\u0161ta, s.p. ZFO file is a ZIP archive file (PKCS #7 Cryptographic Message File) composing of the layout structure using XML elements (envelope) and data instance encoded as Base64 (message content). \r\nThe message may contain one or more attachments in the file format specified in Annex 3 to Decree No. 194/2009 Col.  The whole structure is always embedded into a digital signature represented by XML elements of the XML Signature standard.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://isds.czechpoint.cz/v20/message",
   "lastUpdatedDate": "18 Jan 2020",
-  "formatSourceID": 242,
-  "provenanceCompoundName": "The National Archives of the Czech Republic / The National Archives of the Czech Republic",
   "formatProvenance": null,
   "formatSourceDate": "18 Jan 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -59,5 +55,7 @@
       "relatedFormatName": "PKCS #7 Cryptographic Message File"
     }
   ],
-  "source": [242]
+  "submittedBy": [
+    242
+  ]
 }

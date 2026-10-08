@@ -4,12 +4,9 @@
   "version": "5.x",
   "formatDescription": "Initial Graphics Exchange Specification, or IGES, establishes information structures for the digital representation and exchange of product definition data. It supports exchanging this data among Computer-Aided Design and Computer-Aided Manufacturing (CAD and CAM, respectively) systems.  IGES defines file structure and language formats to represent geometric, topographical, and non-geometric product definition data.  These formats are independent of the modeling method used, and they support data exchange using physical media or electronic communication protocols.",
   "releaseDate": "01 Dec 1999",
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2012",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": "Further information about this file format can be obtained at \r\nhttp://www.wiz-worx.com/iges5x/version5x/version5x.pdf",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 575
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute. Updated by Digital preservation department. Later updated by Canadian Centre for Architecture September 2018."
     }
   ],
   "externalSignatures": [
@@ -57,5 +54,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Extensible Metadata Platform (XMP) is an ISO standard, originally created by Adobe Systems Inc., for the creation, processing and interchange of standardised and custom metadata for all kinds of resources.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "02 Sep 2022",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "06 Feb 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,7 +51,13 @@
       "relatedFormatName": "Extensible Metadata Platform Packet"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [220]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    220
+  ]
 }

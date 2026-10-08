@@ -4,12 +4,9 @@
   "version": "3",
   "formatDescription": "SQLite is a relational database management system. SQLite does not define a formal file extension, but .sqlite, .db, and .db3 are commonly used.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "13 Sep 2018",
-  "formatSourceID": 213,
-  "provenanceCompoundName": "State Records New South Wales / State Records New South Wales",
   "formatProvenance": null,
   "formatSourceDate": "27 Mar 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1299
         }
-      ]
+      ],
+      "provenance": "http://www.sqlite.org/fileformat.html"
     }
   ],
   "externalSignatures": [
@@ -91,5 +88,7 @@
       "relatedFormatName": "SQLite Database File Format"
     }
   ],
-  "source": [213]
+  "submittedBy": [
+    213
+  ]
 }

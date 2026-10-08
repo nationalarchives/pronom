@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Maxwell Render is a 3D render engine developed by Next Limit Technologies. The Material file defines material properties for 3D objects for use within a Maxwell 3D Scene.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Jul 2018",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": null,
   "formatSourceDate": "23 Jul 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1790
         }
-      ]
+      ],
+      "provenance": "Observation from samples. 4 bytes following MXM seem to be fixed patterns, but meaning is unclear. Next byte is length of the file name, bytes beginning at 0x08 are file name, followed by 4 bytes of which three seem to always be 0x000000."
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [216]
+  "submittedBy": [
+    216
+  ]
 }

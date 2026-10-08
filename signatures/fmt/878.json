@@ -4,12 +4,9 @@
   "version": "3",
   "formatDescription": "Presentations is a presentation program that was formerly available as part of Novell's PerfectOffice productivity suite, and is now part of the Corel's WordPerfect Office suite.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 May 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "18 May 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,7 +45,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [35],
-  "developedBy": [61],
-  "source": [1]
+  "supportedBy": [
+    35
+  ],
+  "developedBy": [
+    61
+  ],
+  "submittedBy": [
+    1
+  ]
 }

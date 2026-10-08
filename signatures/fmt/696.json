@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Sibelius is a WYSIWYG scorewriter program, created by Sibelius Software (now part of Avid Technology) for Microsoft Windows, Mac OS X, and historically RISC OS. It is used by composers, arrangers, performers, music publishers, teachers and students, particularly for writing classical, jazz, band, vocal, film and television music.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "09 May 2023",
-  "formatSourceID": 178,
-  "provenanceCompoundName": "National Library of New Zealand / National Library of New Zealand",
   "formatProvenance": null,
   "formatSourceDate": "11 Feb 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1267
         }
-      ]
+      ],
+      "provenance": "http://en.wikipedia.org/wiki/Sibelius_%28software%29"
     }
   ],
   "externalSignatures": [
@@ -185,5 +182,7 @@
       "relatedFormatName": "Sibelius Score"
     }
   ],
-  "source": [178]
+  "submittedBy": [
+    178
+  ]
 }

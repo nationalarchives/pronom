@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A parquet file was created as part of the Apache Hadoop ecosystem, initially released in 2013. It is a data storage format that is column-orientated. It can handle large volumes of complex data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "17 Oct 2024",
-  "formatSourceID": 299,
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "formatProvenance": null,
   "formatSourceDate": "17 Oct 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -57,5 +53,7 @@
     }
   ],
   "relationships": [],
-  "source": [299]
+  "submittedBy": [
+    299
+  ]
 }

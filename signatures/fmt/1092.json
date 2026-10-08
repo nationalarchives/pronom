@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Alias is a Computer Aided Design software family owned by Autodesk. The Pix Image file is a raster image format produced produced by Alias. Files of this type may lack a file extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "13 Sep 2018",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": null,
   "formatSourceDate": "18 Sep 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1733
         }
-      ]
+      ],
+      "provenance": "For now we set Java Class file at a greater priority due to a small chance of clashes. It may be desirable to further strengthen this signature, however since bytes 1-4 represent x and y lengths, valid values for each could be anything from 0001-FFFF, and since a pix image could theoretically be 1x1 pixel in size, the whole of the image (following the header) could be, e.g. 01000000"
     }
   ],
   "externalSignatures": [
@@ -59,7 +56,13 @@
       "relatedFormatName": "Java Class File"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [216]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "submittedBy": [
+    216
+  ]
 }

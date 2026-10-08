@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "These are output files of CloudCompare, which is free, open source software, which undertakes 3D point cloud processing (similar to those obtained with a laser scanner). The development of CloudCompare began in 2003, stemming from the PhD of Daniel Girardeau-Montaut. CloudCompare was developed in C++ with Qt, and is available on Windows, Linux and Mac OS X platforms, both 32 and 64 bit.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/CloudCompare",
   "lastUpdatedDate": "01 Aug 2023",
-  "formatSourceID": 178,
-  "provenanceCompoundName": "National Library of New Zealand / National Library of New Zealand",
   "formatProvenance": null,
   "formatSourceDate": "01 Aug 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,7 +45,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [317],
-  "developedBy": [317],
-  "source": [178]
+  "supportedBy": [
+    317
+  ],
+  "developedBy": [
+    317
+  ],
+  "submittedBy": [
+    178
+  ]
 }

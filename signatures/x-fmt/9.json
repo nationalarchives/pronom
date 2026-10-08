@@ -4,12 +4,9 @@
   "version": "III",
   "formatDescription": "dBase is a database management systems for microcomputers.The dBase system includes the core database engine, a query system, a forms engine, and a programming language that ties all of these components together. dBase's underlying file format, the .dbf file, is widely used in applications needing a simple format to store structured data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "http://www.dbase.com/help/Design_Tables/IDH_TABLEDES_FIELD_TYPES.htm;http://www.dbase.com/KnowledgeBase/int/db7_file_fmt.htm\r\n\r\nhttps://www.promotic.eu/en/pmdoc/Subsystems/Db/dBase/DbfFormat.htm",
   "lastUpdatedDate": "15 Nov 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "11/2023 (v.115)- Links and specifications added to note field. Submitted by The National Library of Australia.",
   "formatSourceDate": "10 Oct 2003",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 490
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010). Additional enhancement of signature carried out by The National Archives Digital Preservation Dept."
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [80],
-  "developedBy": [80],
-  "source": [1]
+  "supportedBy": [
+    80
+  ],
+  "developedBy": [
+    80
+  ],
+  "submittedBy": [
+    1
+  ]
 }

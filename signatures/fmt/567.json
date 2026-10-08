@@ -4,12 +4,9 @@
   "version": "Lossless",
   "formatDescription": "WebP is a raster image format developed by Google that uses the Resource Interchange File Format as a container. WebP\u2019s lossless compression uses advanced techniques such as dedicated entropy codes for different color channels, exploiting 2D locality of backward reference distances and a color cache of recently used colors. This complements basic techniques such as dictionary coding, Huffman coding and color indexing transform.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Apr 2024",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Added priority over fmt/1886 (Resource Interchange Format (RIFF)). Submitted by New York Public Libraries and Preservica. 11/2023 (v.115)- Added MIME identifier 'webp/image'. Submitted by Archives New Zealand. 04/2024 (v.118)- Corrected MIME identifier to 'image/webp'. Submitted by Archives New Zealand.",
   "formatSourceDate": "19 Jul 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1127
         }
-      ]
+      ],
+      "provenance": "https://developers.google.com/speed/webp/docs/riff_container#example-file-layouts"
     }
   ],
   "externalSignatures": [
@@ -59,7 +56,13 @@
       "relatedFormatName": "Resource Interchange File Format (RIFF)"
     }
   ],
-  "supportedBy": [141],
-  "developedBy": [141],
-  "source": [1]
+  "supportedBy": [
+    141
+  ],
+  "developedBy": [
+    141
+  ],
+  "submittedBy": [
+    1
+  ]
 }

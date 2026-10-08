@@ -4,12 +4,9 @@
   "version": "IV",
   "formatDescription": "dBase is a database management systems for microcomputers.The dBase system includes the core database engine, a query system, a forms engine, and a programming language that ties all of these components together. dBase's underlying file format, the .dbf file, is widely used in applications needing a simple format to store structured data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "09 May 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "Further information about the dBASE file format can be obtained at http://www.digitalpreservation.gov/formats/fdd/fdd000325.shtml",
   "formatSourceDate": "10 Oct 2003",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 675
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from the Sustainability of Digital Formats Planning for Library of Congress Collections website http://www.digitalpreservation.gov/formats/fdd/fdd000325.shtml"
     },
     {
       "signatureID": 545,
@@ -58,7 +55,8 @@
           "endianness": null,
           "byteSequenceID": 676
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from the Sustainability of Digital Formats Planning for Library of Congress Collections website http://www.digitalpreservation.gov/formats/fdd/fdd000325.shtml"
     },
     {
       "signatureID": 546,
@@ -73,7 +71,8 @@
           "endianness": null,
           "byteSequenceID": 677
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from the Sustainability of Digital Formats Planning for Library of Congress Collections website http://www.digitalpreservation.gov/formats/fdd/fdd000325.shtml"
     },
     {
       "signatureID": 547,
@@ -88,7 +87,8 @@
           "endianness": null,
           "byteSequenceID": 678
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from the Sustainability of Digital Formats Planning for Library of Congress Collections website http://www.digitalpreservation.gov/formats/fdd/fdd000325.shtml"
     },
     {
       "signatureID": 548,
@@ -103,7 +103,8 @@
           "endianness": null,
           "byteSequenceID": 679
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from the Sustainability of Digital Formats Planning for Library of Congress Collections website http://www.digitalpreservation.gov/formats/fdd/fdd000325.shtml"
     },
     {
       "signatureID": 549,
@@ -118,7 +119,8 @@
           "endianness": null,
           "byteSequenceID": 680
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from the Sustainability of Digital Formats Planning for Library of Congress Collections website http://www.digitalpreservation.gov/formats/fdd/fdd000325.shtml"
     },
     {
       "signatureID": 550,
@@ -133,7 +135,8 @@
           "endianness": null,
           "byteSequenceID": 681
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research, in conjunction with information obtained from the Sustainability of Digital Formats Planning for Library of Congress Collections website http://www.digitalpreservation.gov/formats/fdd/fdd000325.shtml"
     }
   ],
   "externalSignatures": [
@@ -143,7 +146,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [80],
-  "developedBy": [80],
-  "source": [1]
+  "supportedBy": [
+    80
+  ],
+  "developedBy": [
+    80
+  ],
+  "submittedBy": [
+    1
+  ]
 }

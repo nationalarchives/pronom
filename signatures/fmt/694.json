@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Dalvik is the process virtual machine in Google's Android operating system, which executes applications written for Android. Programs are commonly written in Java and compiled to bytecode for the Java virtual machine, which is then translated to Dalvik bytecode and stored in .dex (Dalvik EXecutable) and .odex (Optimized Dalvik EXecutable) files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Feb 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Feb 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1265
         }
-      ]
+      ],
+      "provenance": "https://source.android.com/devices/tech/dalvik/dex-format.html"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [141],
-  "developedBy": [141],
-  "source": [1]
+  "supportedBy": [
+    141
+  ],
+  "developedBy": [
+    141
+  ],
+  "submittedBy": [
+    1
+  ]
 }

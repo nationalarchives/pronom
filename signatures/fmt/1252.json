@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The format is used to dump floppy disk images with the bbc-fdc controller. The bbc-fdc controller is a project which allows the direct connection of floppy disk drives with 34 pin ribbon cables to the Raspberry Pi for the purpose of reading floppy disks. The data stream within the file represents the magnetic flux of a disk drive reading a floppy.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://github.com/picosonic/bbc-fdc/blob/master/tools/rfi.h",
   "lastUpdatedDate": "18 Jan 2020",
-  "formatSourceID": 238,
-  "provenanceCompoundName": "SLUB Dresden / S\u00e4chsische Landesbibliothek \u2013 Staats- und Universit\u00e4tsbibliothek Dresden",
   "formatProvenance": null,
   "formatSourceDate": "18 Jan 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [238]
+  "submittedBy": [
+    238
+  ]
 }

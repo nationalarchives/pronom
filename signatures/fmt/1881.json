@@ -4,12 +4,9 @@
   "version": "4",
   "formatDescription": "vCard is a file format standard for electronic business cards, although much less frequently used at the time of writing. vCards are often attached to e-mail messages, but can be exchanged in other ways, such as on the internet or instant messaging.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "05 Jul 2023",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "05 Jul 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -71,7 +67,13 @@
       "relatedFormatName": "vCard"
     }
   ],
-  "supportedBy": [106],
-  "developedBy": [106],
-  "source": [234]
+  "supportedBy": [
+    106
+  ],
+  "developedBy": [
+    106
+  ],
+  "submittedBy": [
+    234
+  ]
 }

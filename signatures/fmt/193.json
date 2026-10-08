@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "19 Jul 2013",
-  "formatSourceID": 165,
-  "provenanceCompoundName": "Georgia Tech Research Institute / Georgia Tech Research Institute",
   "formatProvenance": null,
   "formatSourceDate": "27 Oct 2009",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Video",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1072
         }
-      ]
+      ],
+      "provenance": "ANSI/SMPTE 268M-1994 SMPTE Standard for File Format for Digital Moving-Picture Exchange (DPX)  v 1.0 18 February 1994"
     },
     {
       "signatureID": 849,
@@ -54,7 +51,8 @@
           "endianness": null,
           "byteSequenceID": 1073
         }
-      ]
+      ],
+      "provenance": "ANSI/SMPTE 268M-1994 SMPTE Standard for File Format for Digital Moving-Picture Exchange (DPX)  v 1.0 18 February 1994"
     }
   ],
   "externalSignatures": [
@@ -70,5 +68,7 @@
       "relatedFormatName": "Digital Moving Picture Exchange Bitmap"
     }
   ],
-  "source": [165]
+  "submittedBy": [
+    165
+  ]
 }

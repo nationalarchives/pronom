@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "When a previously saved Word document is opened for editing, for printing, or for review, Word creates a temporary file that has a .doc file name extension. This file name extension begins with a tilde (~) that is followed by a dollar sign ($) that is followed by the remainder of the original file name. This temporary file holds the logon name of person who opens the file. This temporary file is called the \"owner file.\"",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "30 Jun 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "25 Oct 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 927
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 739,
@@ -54,7 +51,8 @@
           "endianness": null,
           "byteSequenceID": 928
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 740,
@@ -69,7 +67,8 @@
           "endianness": null,
           "byteSequenceID": 929
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 741,
@@ -84,7 +83,8 @@
           "endianness": null,
           "byteSequenceID": 930
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 742,
@@ -99,7 +99,8 @@
           "endianness": null,
           "byteSequenceID": 931
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 743,
@@ -114,7 +115,8 @@
           "endianness": null,
           "byteSequenceID": 932
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 744,
@@ -129,7 +131,8 @@
           "endianness": null,
           "byteSequenceID": 933
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 745,
@@ -144,7 +147,8 @@
           "endianness": null,
           "byteSequenceID": 934
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 746,
@@ -159,7 +163,8 @@
           "endianness": null,
           "byteSequenceID": 935
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 747,
@@ -174,7 +179,8 @@
           "endianness": null,
           "byteSequenceID": 936
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 817,
@@ -189,7 +195,8 @@
           "endianness": null,
           "byteSequenceID": 1022
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 818,
@@ -204,7 +211,8 @@
           "endianness": null,
           "byteSequenceID": 1023
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 819,
@@ -219,7 +227,8 @@
           "endianness": null,
           "byteSequenceID": 1024
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 820,
@@ -234,7 +243,8 @@
           "endianness": null,
           "byteSequenceID": 1025
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 821,
@@ -249,7 +259,8 @@
           "endianness": null,
           "byteSequenceID": 1026
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 822,
@@ -264,7 +275,8 @@
           "endianness": null,
           "byteSequenceID": 1027
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 1182,
@@ -279,7 +291,8 @@
           "endianness": null,
           "byteSequenceID": 1436
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 1183,
@@ -294,7 +307,8 @@
           "endianness": null,
           "byteSequenceID": 1435
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 1184,
@@ -309,7 +323,8 @@
           "endianness": null,
           "byteSequenceID": 1434
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 1185,
@@ -324,7 +339,8 @@
           "endianness": null,
           "byteSequenceID": 1433
         }
-      ]
+      ],
+      "provenance": "Files held internally. http://support.microsoft.com/kb/211632"
     },
     {
       "signatureID": 2052,
@@ -339,7 +355,8 @@
           "endianness": null,
           "byteSequenceID": 2379
         }
-      ]
+      ],
+      "provenance": "Internal files."
     },
     {
       "signatureID": 2053,
@@ -354,7 +371,8 @@
           "endianness": null,
           "byteSequenceID": 2380
         }
-      ]
+      ],
+      "provenance": "Internal files."
     },
     {
       "signatureID": 2054,
@@ -369,7 +387,8 @@
           "endianness": null,
           "byteSequenceID": 2381
         }
-      ]
+      ],
+      "provenance": "Internal files."
     },
     {
       "signatureID": 2055,
@@ -384,7 +403,8 @@
           "endianness": null,
           "byteSequenceID": 2382
         }
-      ]
+      ],
+      "provenance": "Internal files."
     },
     {
       "signatureID": 2056,
@@ -399,7 +419,8 @@
           "endianness": null,
           "byteSequenceID": 2383
         }
-      ]
+      ],
+      "provenance": "Internal files."
     }
   ],
   "externalSignatures": [
@@ -419,7 +440,13 @@
       "relatedFormatName": "SPIR-V"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    1
+  ]
 }

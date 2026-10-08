@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Standard Data Format (SDF) files are commonly used to transfer data between different programs. SDF files are formatted ASCII text files, in which fields are delimited with a particular character (usually a space), and each record ends with a carriage return and/or line feed.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Nov 2021",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "22 Nov 2021",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -57,5 +53,7 @@
     }
   ],
   "relationships": [],
-  "source": [234]
+  "submittedBy": [
+    234
+  ]
 }

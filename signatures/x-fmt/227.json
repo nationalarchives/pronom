@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Geography Markup Language (GML) is the XML grammar defined by the Open Geospatial Consortium (OGC) to express geographical features. GML serves as a modeling language for geographic systems as well as an open interchange format for geographic transactions on the Internet.\r\nFull specifications can be found at http://www.opengeospatial.org/standards/gml",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "26 Sep 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "Format description information supplied by the Geospatial Multistate Access and Preservation Partnership (GeoMAPP), a grant funded collaboration sponsored by the National Digital Information Infrastructure Preservation Program (NDIIPP) of the Library of Congress, involving archives staff from North Carolina, Kentucky, Montana, and Utah state archives. Additional information supplied by Ordnance Survey. Mime type corrected to application/gml+xml 26/09/2012",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "GML",
   "formatTypes": "GIS, Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 666
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research"
     }
   ],
   "externalSignatures": [
@@ -79,5 +76,7 @@
       "relatedFormatName": "CityGML File"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

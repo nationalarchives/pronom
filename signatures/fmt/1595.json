@@ -4,12 +4,9 @@
   "version": "3.0",
   "formatDescription": "The .CR3 file format (Canon RAW version 3) is a digital photography RAW format created by Canon.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Feb 2022",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "20 Jan 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -60,6 +56,10 @@
       "relatedFormatName": "MPEG-4 Media File"
     }
   ],
-  "supportedBy": [197],
-  "source": [220]
+  "supportedBy": [
+    197
+  ],
+  "submittedBy": [
+    220
+  ]
 }

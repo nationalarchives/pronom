@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Ogg is a open container format maintained by the Xiph.Org Foundation, while Opus is a lossy audio coding format developed by Xiph and intended to replace the Vorbis codec.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "21 Jul 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "21 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -72,5 +68,7 @@
       "relatedFormatName": "Ogg Multimedia Container"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

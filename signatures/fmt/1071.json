@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Apple Disk Image is a disk image format commonly used by the macOS operating system, and is distinct from the earlier \tApple Disk Copy Image 4.2. Please contact the PRONOM team if you are able to provide a more thorough description of this format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Nov 2023",
-  "formatSourceID": 224,
-  "provenanceCompoundName": "Datable / Datable",
   "formatProvenance": "11/2023 (v.115)- Max-offset modified from null to 0. Internally researched.",
   "formatSourceDate": "17 Jul 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 1707
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.115)- Max-offset modified from null to 0. Internally researched."
     }
   ],
   "externalSignatures": [
@@ -68,7 +65,13 @@
       "relatedFormatName": "Apple Partition Map Disk Image"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [224]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    224
+  ]
 }

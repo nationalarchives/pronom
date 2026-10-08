@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A plain-text playlist of one or more media files and their location.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://fileinfo.com/extension/m3u\r\nhttps://dotwhat.net/file/extension/m3u/505",
   "lastUpdatedDate": "17 Apr 2024",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "v.118: Description and links added as part of PRONOM Research Week 2023. The Church of Jesus Christ of Latter-day Saints.\r\nV.120: Added extension m3u8.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "MP3",
   "formatTypes": "Text (Unstructured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,5 +43,7 @@
       "relatedFormatName": "MPEG Audio Stream Layer II"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "MPEG-2 is a lossy compression standard (an improvement and expansion of the MPEG-1 standard) designed for the generic coding of video and audio and intended to cover a wide scope of application, including: video production, broadcast and editing. Streams are at potentially higher bitrates than MPEG-1 but more efficient compression making it suited to High Definition video. MPEG-2 Video supports both 'progressive' and 'interlaced' frame video. An MPG2 \u2018Elementary\u2019 stream (ES) file (*.m2v) contains either a single video or audio stream. ES files are generally intended for video editing or other intermediate use, where separate audio content can be ultimately blended ('interleaved' or \u2018muxed\u2019) with a video stream to produce an output file containing both audio and video for synchronised playback.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://msdn.microsoft.com/en-us/library/ff632839.aspx",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "11/2023 (v.115)- Added priority over fmt/640 (MPEG-1 Elementary Stream). Submitted by Preservica.",
   "formatSourceDate": "31 Mar 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Video",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -68,5 +64,7 @@
       "relatedFormatName": "MPEG-1 Elementary Stream"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

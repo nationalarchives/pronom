@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "RAWACF files are raw files produced at Super Dual Auroral Radar Network (SuperDARN) radar sites. RawACF files began being used by the SuperDARN sites in 2006-2007 when it replaced the dat format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://radar-software-toolkit-rst.readthedocs.io/en/latest/references/general/rawacf/",
   "lastUpdatedDate": "22 Aug 2024",
-  "formatSourceID": 349,
-  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
   "formatProvenance": null,
   "formatSourceDate": "22 Aug 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Dataset",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [349]
+  "submittedBy": [
+    349
+  ]
 }

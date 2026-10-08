@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Vector Markup Language (VML) is an XML-based file format for two-dimensional vector graphics.VML is used by most Microsoft Office applications, such as Microsoft Word and Microsoft Visio, within HTML files created using the 'Save As HTML' option.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "http://msdn.microsoft.com/en-us/library/ee384217(v=vs.85).aspx\r\nhttp://www.w3.org/TR/NOTE-VML#h2:specification                http://en.wikipedia.org/wiki/Vector_Markup_Language",
   "formatSourceDate": "28 Aug 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector), Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -68,7 +64,13 @@
       "relatedFormatName": "Hypertext Markup Language"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    1
+  ]
 }

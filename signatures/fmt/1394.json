@@ -4,12 +4,9 @@
   "version": "Generic",
   "formatDescription": "\tBinary DXF format is the binary encoded variant of the Drawing Interchange File Format, an exchange format for vector graphics developed by AutoDesk. They are probably the widely-used formats for exchanging vector data, and have become a de-facto industry standard. The format is owned by AutoDesk and typically changes with each release of their AutoCAD family of products. DXF files contain a tagged representation of the vector data. The structure comprises a Header section, followed by sections containing data on Classes, Tables, Blocks, Entities and, optionally, thumbnail images. Each section contains a series of data elements. each preceded by a group code tag, which indicates the type of data element. Binary DXF was first developed in AutoCAD Release 10. It should not be confused with the DXB format - this is an entirely separate AutoDesk format for binary encoding vector graphics.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "25 Sep 2020",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "25 Sep 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -104,7 +100,13 @@
       "relatedFormatName": "Drawing Interchange Format (Binary)"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [220]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "submittedBy": [
+    220
+  ]
 }

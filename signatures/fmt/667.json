@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Within Adobe Photoshop, curves allow you to adjust the entire tonal range of an image. Curve files can be saved and stored as presets.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Sep 2014",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "A curve file begins with 0x0001 or 0x0004 depending on the version in use (http://www.adobe.com/devnet-apps/photoshop/fileformatashtml/). A signature based on these sequences would be highly prone to clashing with other formats, so identification is currently based on extension only.",
   "formatSourceDate": "23 Sep 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,7 +33,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    1
+  ]
 }

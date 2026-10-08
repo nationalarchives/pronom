@@ -4,12 +4,9 @@
   "version": "Operational Pattern 2c",
   "formatDescription": "MXF is a media container format which supports a number of different streams of coded \"essence\", encoded with any of a variety of codecs, together with a metadata wrapper which describes the material contained within the MXF file. \r\n\r\nMXF allows for different degrees of complexity within the wrapper, which are standardised and defined as Operational Patterns, and this may be a consideration for an institution considering preserving the format, hence the separation of these Operational Patterns into separate PUIDs.\r\n\r\nOP2c: A choice of 2 or more alternate material packages that play out selected tracks of either a sequence of single file packages, or a sequence of two or more synchronized file packages.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Nov 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "23 Nov 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1000
         }
-      ]
+      ],
+      "provenance": "Specification: http://standards.smpte.org/content/978-1-61482-517-3/st-377-1-2011/SEC1.body.pdf+html files found in-house and files found via MXF Test file repository."
     }
   ],
   "externalSignatures": [
@@ -53,5 +50,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

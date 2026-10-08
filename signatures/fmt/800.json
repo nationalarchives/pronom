@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Developed by The National Archives, CSV Schema is a human readable text based format that can also be interpreted by applications to validate CSV data. The CSV Schema language is expressed in UTF-8 text.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Nov 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "26 Nov 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,7 +33,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [1],
-  "developedBy": [1],
-  "source": [1]
+  "supportedBy": [
+    1
+  ],
+  "developedBy": [
+    1
+  ],
+  "submittedBy": [
+    1
+  ]
 }

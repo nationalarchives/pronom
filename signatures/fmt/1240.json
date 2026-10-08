@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Band sequential file is an ASCII description file that stores the pixel values of an image in a file. It is commonly used in geospatial software. The file stores the data for each band of an image, for example data for all the pixels for the first band is stored first, and so on. To be interpreted the file requires a header file. Other optional information files that can appear alongside these are colour and statistic files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://desktop.arcgis.com/en/arcmap/10.3/manage-data/raster-and-images/bil-bip-and-bsq-raster-files.htm\r\nhttps://www.harrisgeospatial.com/docs/ENVIImageFiles.html",
   "lastUpdatedDate": "16 Oct 2021",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "18 Jan 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "GIS",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,5 +29,7 @@
     }
   ],
   "relationships": [],
-  "source": [234]
+  "submittedBy": [
+    234
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "These files may be produced by saving a web page in various versions of Apple's Safari Web Browser. The file is a type of Binary Property List (https://en.wikipedia.org/wiki/Property_list) and will contain the html content of the page, plus any page attachments.\r\n\r\nWith further research and a better understanding of the format it may be possible to create a PRONOM identification signature, based on the 'bplist' magic number and further identifiers specific to the Apple Safari Webarchive format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "09 Jan 2016",
-  "formatSourceID": 178,
-  "provenanceCompoundName": "National Library of New Zealand / National Library of New Zealand",
   "formatProvenance": null,
   "formatSourceDate": "09 Jan 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -95,7 +91,13 @@
       "relatedFormatName": "Binary Property List"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [178]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    178
+  ]
 }

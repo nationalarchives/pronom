@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A text-based file used by Sibelius music composition software to list the file system locations of sound files in use within a composition.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 Feb 2019",
-  "formatSourceID": 178,
-  "provenanceCompoundName": "National Library of New Zealand / National Library of New Zealand",
   "formatProvenance": null,
   "formatSourceDate": "18 Feb 2019",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,5 +29,7 @@
     }
   ],
   "relationships": [],
-  "source": [178]
+  "submittedBy": [
+    178
+  ]
 }

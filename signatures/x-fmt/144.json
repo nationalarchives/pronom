@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1383
         }
-      ]
+      ],
+      "provenance": "http://blog.argasinski.eu/wp-content/uploads/2011/08/cpt-specification-0.01.pdf (This is not an official specification and appears to be an attempt to reverse-engineer the format)"
     },
     {
       "signatureID": 1135,
@@ -54,7 +51,8 @@
           "endianness": null,
           "byteSequenceID": 1384
         }
-      ]
+      ],
+      "provenance": "http://blog.argasinski.eu/wp-content/uploads/2011/08/cpt-specification-0.01.pdf (This is not an official specification and appears to be an attempt to reverse-engineer the format)"
     },
     {
       "signatureID": 1136,
@@ -69,7 +67,8 @@
           "endianness": null,
           "byteSequenceID": 1385
         }
-      ]
+      ],
+      "provenance": "http://blog.argasinski.eu/wp-content/uploads/2011/08/cpt-specification-0.01.pdf (This is not an official specification and appears to be an attempt to reverse-engineer the format)"
     }
   ],
   "externalSignatures": [
@@ -79,5 +78,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

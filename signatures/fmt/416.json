@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "Apple\u2019s Core Audio Format is a file format for storing and manipulating digital audio data. It is fully supported by Core Audio APIs on Mac OS X v10.4 and later and on Mac OS X v10.3 with QuickTime 7 or later. CAF provides high performance and flexibility, and is scalable to future ultra-high resolution audio recording, editing, and playback. CAF files have several advantages over other standard audio file formats:\r\n\u2022\t  Unrestricted File Size\r\n\u2022\t  Safe and Efficient Recording\r\n\u2022\t Support For Many Data Formats\r\n\u2022\t Support For Many Types of Auxiliary Data\r\n\u2022\t Support of Data Dependencies",
   "releaseDate": "04 Jun 2005",
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "19 Jul 2013",
-  "formatSourceID": 165,
-  "provenanceCompoundName": "Georgia Tech Research Institute / Georgia Tech Research Institute",
   "formatProvenance": "http://developer.apple.com/library/mac/documentation/MusicAudio/Reference/CAFSpec/CAFSpec.pdf",
   "formatSourceDate": "11 Jun 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -36,10 +32,11 @@
           "offset": 0,
           "maxOffset": 0,
           "byteSequence": "636166660001000064657363",
-          "endianness": null,
+          "endianness": "Big-endian",
           "byteSequenceID": 1069
         }
-      ]
+      ],
+      "provenance": "https://developer.apple.com/library/mac/#documentation/MusicAudio/Reference/CAFSpec/CAF_intro/CAF_intro.html"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [165]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    165
+  ]
 }

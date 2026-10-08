@@ -4,12 +4,9 @@
   "version": "2",
   "formatDescription": "The LocoScript Document format is a proprietary word processing format produced by LocoScript 2, a word processor released in 1987 for Amstrad PCWs.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.seasip.info/Unix/Joyce/ls1frm.html",
   "lastUpdatedDate": "18 Jan 2020",
-  "formatSourceID": 184,
-  "provenanceCompoundName": "British Library / British Library",
   "formatProvenance": null,
   "formatSourceDate": "18 Jan 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,6 +40,10 @@
   ],
   "externalSignatures": [],
   "relationships": [],
-  "developedBy": [246],
-  "source": [184]
+  "developedBy": [
+    246
+  ],
+  "submittedBy": [
+    184
+  ]
 }

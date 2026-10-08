@@ -4,12 +4,9 @@
   "version": "5",
   "formatDescription": "The HyperText Markup Language (HTML) is a markup language designed for the rendering of information via a web browser. It was originally defined as a highly simplified subset of SGML, but is now an international standard, and is maintained by the World Wide Web Consortium (W3C). A HTML document consists of nested elements, each of which may have attributes and content. It begins with an HTML Document Type declaration. HTML 5 does not explicitly define the HTML version or any Document Type Definition (DTD) within the DOCTYPE tag.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "25 Oct 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This signature may be subject to further revision as, at the time of writing, development on the HTML5 standard is still ongoing.",
   "formatSourceDate": "25 Oct 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 924
         }
-      ]
+      ],
+      "provenance": "http://www.whatwg.org/specs/web-apps/current-work/multipage/syntax.html#the-doctype"
     },
     {
       "signatureID": 736,
@@ -58,7 +55,8 @@
           "endianness": null,
           "byteSequenceID": 925
         }
-      ]
+      ],
+      "provenance": "http://www.whatwg.org/specs/web-apps/current-work/multipage/syntax.html#the-doctype"
     }
   ],
   "externalSignatures": [
@@ -118,5 +116,7 @@
       "relatedFormatName": "Hypertext Markup Language"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

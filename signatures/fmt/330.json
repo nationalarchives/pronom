@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Peak files contain waveform information for audio files (e.g. wav or mp3). They allow some applications to generate a graphical representation of the waveform of the audio content of associated audio files, and can enable such audio files to be accessed more quickly by reducing the time it takes to draw the waveform of the audio content.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Oct 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "30 Mar 2011",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 536
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research."
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

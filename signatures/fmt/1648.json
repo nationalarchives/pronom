@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Crystal Reports File is the proprietary format and main output file created by Crystal Reports, a business intelligence software. The software was created in 1991 and since then Crystal Reports has gone through multiple versions, though the file format structure has not changed dramatically.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/RPT",
   "lastUpdatedDate": "28 Feb 2022",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "28 Feb 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,7 +33,6 @@
     }
   ],
   "relationships": [],
-  "source": [220],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -91,5 +86,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    220
   ]
 }

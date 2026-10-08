@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Olympus raw format (.orf) is a raw image format used by models of Olympus digital cameras.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Sep 2014",
-  "formatSourceID": 209,
-  "provenanceCompoundName": "Sebastian Lasse / Redaktor CMS",
   "formatProvenance": "http://en.wikipedia.org/wiki/ORF_format",
   "formatSourceDate": "23 Sep 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -79,5 +75,7 @@
     }
   ],
   "relationships": [],
-  "source": [209]
+  "submittedBy": [
+    209
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Container format that can contain any of a number of audio and video codecs. It may also contain subtitle data or file metadata. This family of container can be used with several different file extensions.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "9 Jun 2026",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Priority added over fmt/1616 (BibTeX Database File). Internally researched; 04/2024 (v.118): Description added as part of PRONOM Research Week 2023. Submitted by The Church of Jesus Christ of Latter-day Saints; v.123- New extension added of .m4b. Submitted by Archives New Zealand.",
   "formatSourceDate": "27 Oct 2009",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio, Video",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 357
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     }
   ],
   "externalSignatures": [
@@ -112,5 +109,7 @@
       "relatedFormatName": "M4A Audio"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

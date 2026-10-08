@@ -4,12 +4,9 @@
   "version": "CS2",
   "formatDescription": "Adobe InDesign is a desktop publishing application developed and produced by Adobe Inc., first released in 1999. It is the successor to PageMaker, software previously created by Aldus Corporation in 1985, which was subsequently acquired by Adobe. It can be used to produce a number of works such as posters, flyers, brochures, magazines, newspapers, presentations and books. InDesign supports XML, stylesheets and other coding markup, providing functionality for exporting tagged text content for use in other digital and online formats.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/InDesign_INDD",
   "lastUpdatedDate": "24 Feb 2022",
-  "formatSourceID": 165,
-  "provenanceCompoundName": "Georgia Tech Research Institute / Georgia Tech Research Institute",
   "formatProvenance": null,
   "formatSourceDate": "19 Jul 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1093
         }
-      ]
+      ],
+      "provenance": "Research conducted by Georgia Technology Research Institute"
     }
   ],
   "externalSignatures": [
@@ -73,7 +70,13 @@
       "relatedFormatName": "Adobe InDesign Document"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [165]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    165
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "File created by WinFax (including WinFax PRO), a program used to send and receive faxes in Windows; contains an electronic copy of a fax sent with a computer modem; used to digitally store fax information over the Internet.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/WinFax_Fax_Image",
   "lastUpdatedDate": "19 Apr 2024",
-  "formatSourceID": 247,
-  "provenanceCompoundName": "National Archives of Australia / National Archives of Australia",
   "formatProvenance": null,
   "formatSourceDate": "19 Apr 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -57,5 +53,7 @@
     }
   ],
   "relationships": [],
-  "source": [247]
+  "submittedBy": [
+    247
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "OBJ is an ASCII format for representing 3D geometry. The OBJ format supports both polygonal objects and free-form objects. Polygonal geometry uses points, lines, and faces to define objects while free-form geometry uses curves and surfaces.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 170,
-  "provenanceCompoundName": "Archaeology Data Service / Archaeology Data Service",
   "formatProvenance": "08/2023- Modified BOF signature to increase two of the byte ranges. Submitted by Preservica.",
   "formatSourceDate": "17 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1859
         }
-      ]
+      ],
+      "provenance": "Based extensively on http://paulbourke.net/dataformats/obj/\n08/2023- Modified BOF signature to increase two of the byte ranges. Submitted by Preservica."
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [170]
+  "submittedBy": [
+    170
+  ]
 }

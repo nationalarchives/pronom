@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Dr. Halo Image Palette stores colour palette information for the Dr. Halo Image Data format. Having a separate colour palette file aloows the ability to change the stored colours of an image without re-encoding the image data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "09 Aug 2018",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "09 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1835
         }
-      ]
+      ],
+      "provenance": "Note, bytes 0x0F, 0x11, and 0x13 are likely to always be 00 as according to the file structure described here: http://www.fileformat.info/format/drhalo/egff.htm, each represents the larger half of a 32 bit (WORD) value representing a value that can only have up to 256 values - MaxRed, MaxGreen, MaxBlue, e.g. FF00 = 256. This could be used to strengthen the signature in the event of accidental clashes"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

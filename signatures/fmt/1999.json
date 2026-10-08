@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Interoperable Master Format (IMF) is a file-based media format, and an IMF Package is a collection of media files with accompanying XML data describing the IMF Package structure. The Composition Playlist (CPL) in an XML file that describes how media components are assembled on a timeline for specific content representations. A CPL file should be found alongside other IMP component files.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://www.smpte-ra.org",
   "lastUpdatedDate": "19 Apr 2024",
-  "formatSourceID": 244,
-  "provenanceCompoundName": "Preservica / Preservica",
   "formatProvenance": null,
   "formatSourceDate": "19 Apr 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,7 +51,13 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "supportedBy": [331],
-  "developedBy": [331],
-  "source": [244]
+  "supportedBy": [
+    331
+  ],
+  "developedBy": [
+    331
+  ],
+  "submittedBy": [
+    244
+  ]
 }

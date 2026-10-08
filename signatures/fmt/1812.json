@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Audio Data Transport Stream (ADTS) is a format for audio data encoded with the Advanced Audio Coding (AAC) encoding scheme and was originally introduced with the MPEG-2 specification. It is common for this format to be contained with another format such as MPEG-4, and it can also be encoded with the Advanced Audio Coding (AAC) encoding scheme, originally introduced with the MPEG-2 specification. AAC can be encountered as a stand-alone extension, AAC-encoded data stored in ADTS files can often be used for streaming audio. An ADTS file consists of series of frames each containing header data followed by the compressed audio data.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://wiki.multimedia.cx/index.php/ADTS\r\n\r\nhttp://dotwhat.net/file/extension/adts/10975\r\n\r\nhttps://www.file-extensions.org/adts-file-extension\r\n\r\nhttps://en.wikipedia.org/wiki/Advanced_Audio_Coding\r\n\r\nhttps://www.iana.org/assignments/media-types/audio/aac",
   "lastUpdatedDate": "31 Jan 2023",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "31 Jan 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,7 +51,8 @@
           "endianness": null,
           "byteSequenceID": 2494
         }
-      ]
+      ],
+      "provenance": "https://wiki.multimedia.cx/index.php/ADTS"
     },
     {
       "signatureID": 2153,
@@ -70,7 +67,8 @@
           "endianness": null,
           "byteSequenceID": 2495
         }
-      ]
+      ],
+      "provenance": "https://wiki.multimedia.cx/index.php/ADTS"
     }
   ],
   "externalSignatures": [
@@ -90,5 +88,7 @@
       "relatedFormatName": "MPEG 1/2 Audio Layer 3"
     }
   ],
-  "source": [220]
+  "submittedBy": [
+    220
+  ]
 }

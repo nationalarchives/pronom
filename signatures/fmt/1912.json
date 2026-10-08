@@ -4,12 +4,9 @@
   "version": "4f",
   "formatDescription": "PDF/A-4 is the file format described by ISO 19005-4:2020 \u201cDocument management \u2014 Electronic document file format for long-term preservation \u2014 Part 4: Use of ISO 32000-2 (PDF/A-4)\u201d. It is the first of the PDF-Archival format family to be based on PDF 2.0. PDF/A-4f allows files of any format to be embedded.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.iso.org/standard/71832.html",
   "lastUpdatedDate": "25 Aug 2023",
-  "formatSourceID": 244,
-  "provenanceCompoundName": "Preservica / Preservica",
   "formatProvenance": null,
   "formatSourceDate": "25 Aug 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -97,7 +93,8 @@
           "endianness": null,
           "byteSequenceID": 3822
         }
-      ]
+      ],
+      "provenance": "v.121: new signature (submitted by Preservica)."
     },
     {
       "signatureID": 3431,
@@ -120,7 +117,8 @@
           "endianness": null,
           "byteSequenceID": 3824
         }
-      ]
+      ],
+      "provenance": "v.121: new signature (submitted by Preservica)."
     }
   ],
   "externalSignatures": [
@@ -141,6 +139,10 @@
       "relatedFormatName": "Acrobat PDF/A - Portable Document Format"
     }
   ],
-  "developedBy": [7],
-  "source": [244]
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    244
+  ]
 }

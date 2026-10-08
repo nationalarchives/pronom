@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A MAX file is a three-dimensional scene file. They are created by 3DS Max, a 3D modeling, animation, and rendering application. It may contain multiple models that include wireframes, textures, lighting effects, shading, animation, and other 3D design elements.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "03 Feb 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format is identifiable via a container signature in DROID 6 and later.",
   "formatSourceDate": "03 Feb 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,6 @@
       "relatedFormatName": "MAKIchan Graphics File"
     }
   ],
-  "source": [1],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -114,5 +109,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

@@ -3,11 +3,9 @@
   "version": "2",
   "formatName": "ACE",
   "formatDescription": "ACE is a compressed archive format, originally developed by Marcel Lemke and later by e-merge GmbH. Some relevant software includes Ace (for DOS, OS/2 and Windows console, WinAce, Active ACE and ACE Compression. Version 2 of ACE introduced new compression schemes that are not supported by all ACE compression software.",
-  "formatSourceID": 299,
   "formatTypes": "Aggregate",
   "formatNote": "http://fileformats.archiveteam.org/wiki/ACE",
   "lastUpdatedDate": "27 Nov 2025",
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "formatSourceDate": "27 Nov 2025",
   "identifiers": [
     {
@@ -43,5 +41,7 @@
     }
   ],
   "relationships": [],
-  "source": [299]
+  "submittedBy": [
+    299
+  ]
 }

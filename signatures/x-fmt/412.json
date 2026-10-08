@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "JAR stands for Java ARchive. It's is based on the ZIP file format (x-fmt/26) and is used for aggregating many files into one, and reducing file size. One of the original purposes of JAR files was to bundle multiple Java applets and their requisite components (.class files, images and sounds) into a JAR file, which could then be downloaded to a browser in a single HTTP transaction; these could then be run over the web. JAR files can also be \"executable\" both on Linux, via a command such as `java -jar <jar-name>` and Windows, where the file-format extension '*.jar' may be associated with the Java Runtime Environment. As executable code can potentially be harmful, e.g. used in the distribution of malware, the JAR supports digital signing so that the source of the items in a JAR file can be verified. JAR consists of a zip archive, as defined by PKWARE, containing a manifest file and potentially signature files, as defined in the JAR.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://docs.oracle.com/javase/7/docs/technotes/guides/jar/jarGuide.html\r\nhttps://docs.oracle.com/javase/7/docs/technotes/guides/jar/index.html\r\nSpecification: https://docs.oracle.com/javase/7/docs/technotes/guides/jar/jarGuide.html",
   "lastUpdatedDate": "17 Apr 2024",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.; 04/2024 (v.118): Description and links added as part of PRONOM Research Week 2023. Submitted by Ross Spencer.",
   "formatSourceDate": "17 Feb 2006",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "JAR",
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,7 +51,8 @@
           "endianness": null,
           "byteSequenceID": 366
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 signature research."
     }
   ],
   "externalSignatures": [
@@ -106,7 +103,6 @@
       "relatedFormatName": "Hypertext Markup Language"
     }
   ],
-  "source": [1],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -131,5 +127,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

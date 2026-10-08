@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Ogre Mesh XML is an XML-based format for representing 3D models for use within the Ogre 3D rendering engine.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "10 Aug 2018",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "10 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 1840
         }
-      ]
+      ],
+      "provenance": "The above can be strengthened by adding in further required elements, e.g. material as an attribute to submesh. See the DTD:\nhttp://wiki.ogre3d.org/tiki-index.php?page=Ogre+meshxml+DTD"
     }
   ],
   "externalSignatures": [
@@ -57,5 +54,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

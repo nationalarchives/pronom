@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A source code file written in B programming language developed in the late 1960s as a derivation from BCPL  (Basic Combined Programming Language) and having been superseded by the C language. B is a so-called typeless language, i.e. a programming language with the only data type being the computer word treated either as an integer or a memory address to be dereferenced, depending on the context, or more precisely on how the word is processed.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification https://www.bell-labs.com/usr/dmr/www/kbman.pdf",
   "lastUpdatedDate": "04 Jan 2023",
-  "formatSourceID": 295,
-  "provenanceCompoundName": "Stadtarchiv Hof / Stadtarchiv Hof",
   "formatProvenance": null,
   "formatSourceDate": "04 Jan 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,5 +29,7 @@
     }
   ],
   "relationships": [],
-  "source": [295]
+  "submittedBy": [
+    295
+  ]
 }

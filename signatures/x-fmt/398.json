@@ -4,12 +4,9 @@
   "version": "2.0",
   "formatDescription": "Exchangeable image file format (Exif) is a standard that specifies the formats for images, sound, and ancillary tags used by digital cameras (including smartphones), scanners and other systems handling image and sound files recorded by digital cameras.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "Exif Compressed Image (2.0)",
   "formatTypes": "Image (Raster)",
-  "byteOrders": "Little-endian (Intel) and Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -99,5 +95,7 @@
       "relatedFormatName": "Exchangeable Image File Format (Compressed)"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

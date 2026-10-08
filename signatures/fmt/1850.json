@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "WordPerfect is a Word Processing application currently owned by Corel Corporation. WordPerfect macro files have extensions wpm and wcm, and are a family of macro file formats used by Wordperfect and other Corel Products.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://justsolve.archiveteam.org/wiki/WordPerfect_macro",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 247,
-  "provenanceCompoundName": "National Archives of Australia / National Archives of Australia",
   "formatProvenance": "08/2023 (v.113)- Priority added over x-fmt/393 (WordPerfect for MS-DOS Document 5.0). Researched internally.",
   "formatSourceDate": "24 Apr 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -79,7 +75,13 @@
       "relatedFormatName": "WordPerfect for MS-DOS/Windows Document"
     }
   ],
-  "supportedBy": [35],
-  "developedBy": [35],
-  "source": [247]
+  "supportedBy": [
+    35
+  ],
+  "developedBy": [
+    35
+  ],
+  "submittedBy": [
+    247
+  ]
 }

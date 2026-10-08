@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Maya is an application used to generate 3D assets for use in film, television, game development and architecture, currently developed and maintained by Autodesk.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "09 Jan 2016",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": null,
   "formatSourceDate": "09 Jan 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1495
         }
-      ]
+      ],
+      "provenance": "http://download.autodesk.com/us/maya/2009help/index.html?url=Maya_ASCII_file_format_Overview_of_Maya_ASCII_file_format.htm,topicNumber=d0e676285"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [216]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "submittedBy": [
+    216
+  ]
 }

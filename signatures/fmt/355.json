@@ -4,12 +4,9 @@
   "version": "1.9",
   "formatDescription": "Rich Text Format (RTF) is a format developed by Microsoft to encode formatted text and graphics for use within applications or for data and formatting transfer between applications. It is closely associated with Microsoft Word, and new versions are developed with each release of Word. RTF files are encoded in plain text, typically ASCII, and consists of a series of control words, control symbols and groups. An RTF file comprises a Header section, containing various header tables, followed by a Document section, containing the document content and formatting. RTF version 1.9 is the version of the format associated with Microsoft Word 2007.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "01 Jun 2011",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 Jun 2011",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 644
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research"
     }
   ],
   "externalSignatures": [
@@ -112,5 +109,7 @@
       "relatedFormatName": "Rich Text Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

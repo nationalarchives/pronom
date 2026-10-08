@@ -4,12 +4,9 @@
   "version": "1.1",
   "formatDescription": "The Extensible Hypertext Markup Language (XHTML) is a reformulation of the Hypertext Markup Language (HTML) as an application of the Extensible Markup Language (XML). This allows for the automated processing of XHTML documents using a standard XML parser. XHTML 1.1 is now recommended by the W3C over HTML for the creation of web pages. The structure and grammar of an XHTML document is defined using a Document Type Definition (DTD). An XHTML document consists of nested elements, each of which may have attributes and content. It begins with an XHTML Document Type declaration, defining the XHTML version and Document Type Definition (DTD) to which it conforms. XHTML documents are typically encoded in UTF-8 or UTF-16.",
   "releaseDate": "31 May 2001",
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "09 Jun 2026",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "v.123- New extension added of .xhtml. Submitted by the Digital Preservation Coalition.",
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "XHTML (1.1)",
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -130,6 +126,10 @@
       "relatedFormatName": "Extensible Hypertext Markup Language"
     }
   ],
-  "developedBy": [106],
-  "source": [1]
+  "developedBy": [
+    106
+  ],
+  "submittedBy": [
+    1
+  ]
 }

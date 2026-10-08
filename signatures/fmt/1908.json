@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "JT (Jupiter Tessellation) is an openly-published ISO-standardised (ISO 14306:2012, ISO/DIS 14306 V2, ISO 14306:2017) 3D CAD data exchange format used for product visualisation, collaboration, digital mockups, and other purposes. It was developed by Siemens.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/JT_(visualization_format)\r\n\r\nhttp://fileformats.archiveteam.org/wiki/JT",
   "lastUpdatedDate": "18 Aug 2023",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": null,
   "formatSourceDate": "18 Aug 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -53,5 +49,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

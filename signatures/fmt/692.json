@@ -4,12 +4,9 @@
   "version": "32bit",
   "formatDescription": "Mach-O is a standard used to store programs and libraries on disk in the Apple Mac app binary interface. Mach-O files generally lack a format extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Feb 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Feb 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1261
         }
-      ]
+      ],
+      "provenance": "http://llvm.org/docs/doxygen/html/Support_2MachO_8h_source.html\nhttps://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/MachORuntime/index.html"
     },
     {
       "signatureID": 1020,
@@ -54,12 +51,19 @@
           "endianness": null,
           "byteSequenceID": 1262
         }
-      ]
+      ],
+      "provenance": "http://llvm.org/docs/doxygen/html/Support_2MachO_8h_source.html\nhttps://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/MachORuntime/index.html"
     }
   ],
   "externalSignatures": [],
   "relationships": [],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    1
+  ]
 }

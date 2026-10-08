@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Feb 2014",
-  "formatSourceID": 195,
-  "provenanceCompoundName": "Artefactual Systems Inc / Artefactual Systems Inc",
   "formatProvenance": "This format is identifiable via a container signature in DROID 6 and later.",
   "formatSourceDate": "14 Feb 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1184
         }
-      ]
+      ],
+      "provenance": "http://www.iana.org/assignments/media-types/application/vnd.ms-htmlhelp"
     }
   ],
   "externalSignatures": [
@@ -57,7 +54,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [195]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    195
+  ]
 }

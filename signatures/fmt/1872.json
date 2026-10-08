@@ -4,12 +4,9 @@
   "version": "1",
   "formatDescription": "Guitar Pro is a multitrack editor of guitar and bass tablature and musical scores, possessing a built-in MIDI-editor, a plotter of chords, a player, a metronome and other tools for musicians. It has versions for Windows and Mac OS X (Intel processors only) and is written by the French company Arobas Music. This is an entry for version 1 of the format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/Guitar_Pro\r\n http://fileformats.archiveteam.org/wiki/Guitar_Pro_4",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": null,
   "formatSourceDate": "15 Aug 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

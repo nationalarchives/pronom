@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "MyISAM was the default storage engine for the MySQL relational database management system versions prior to 5.5. The MYI file stores the table's indexes for a MyISAM table.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2018",
-  "formatSourceID": 188,
-  "provenanceCompoundName": "The Borthwick Institute for Archives / The Borthwick Institute for Archives",
   "formatProvenance": null,
   "formatSourceDate": "14 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [188]
+  "submittedBy": [
+    188
+  ]
 }

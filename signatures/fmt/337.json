@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Motion JPEG 2000 (MJ2) is a video file format known for its mathematically lossless compression, making it suitable for long-term video preservation. Standardized in 2002 as part of ISO/IEC\u2019s JPEG 2000 (JP2) standard, MJ2 encodes timed sequences of images, with options for including audio. Unlike formats with temporal or inter-frame compression (e.g., MPEG-4), MJ2 compresses each video frame independently, enabling reversible, lossless quality. This feature makes it ideal for high-quality preservation, particularly for digitized film and analog videotape.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000127.shtml; https://www.iso.org/standard/41570.html; https://lhncbc.nlm.nih.gov/LHC-publications/PDF/pub9302.pdf",
   "lastUpdatedDate": "03 Jan 2025",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "v.120- New description, library of congress fdd identifier and notes added as part of PRONOM Research Week 2024. Submitted by the J. Paul Getty Trust.",
   "formatSourceDate": "18 May 2011",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Video",
-  "byteOrders": null,
   "formatFamilies": "JPEG 2000",
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 905
         }
-      ]
+      ],
+      "provenance": "jpeg 2000 (purchased) and Jpeg 2000 ISO 15444-3 - http://www.jpeg.org/public/fcd15444-3.pdf"
     }
   ],
   "externalSignatures": [
@@ -61,5 +58,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

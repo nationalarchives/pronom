@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Apple Partition Map - ISO 9660 - UDF Hybrid Disk Image, describes the contents and structure of optical disc media of Apple Partition Map (APM) partition scheme with ISO9660 and Universal Disk Format (UDF) file systems attached. Since all three schemes reside on the same optical disc this is most likely to be on DVD media type of file. APM partition scheme can be thought of as a container format for multiple file system image files, and in this entry together UDF file system developed for optical media by the Optical Storage Technology Association (OSTA) and ISO 9660 International Organization for Standardization (ISO), the hybrid system acts as a support for all three schemes and allows for disc to be rendered on various operating systems. A disk image is a uncompressed copy of the contents of a disk or a folder, it can facilitate certain types of backup and recovery strategies. Please see ID: fdd000348 from Library of Congress and other links attached to this entry for further information.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Apple_Partition_Map\r\n\r\nhttps://www.loc.gov/preservation/digital/formats/fdd/fdd000348.shtml\r\n\r\nhttps://en.wikipedia.org/wiki/Apple_Disk_Image\r\n\r\nhttps://en.wikipedia.org/wiki/Optical_disc_image\r\n\r\nhttps://en.wikipedia.org/wiki/ISO_9660\r\n\r\nhttp://fileformats.archiveteam.org/wiki/Universal_Disk_Format",
   "lastUpdatedDate": "25 Aug 2022",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "25 Aug 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -120,5 +116,7 @@
       "relatedFormatName": "Apple Partition Map Disk Image"
     }
   ],
-  "source": [220]
+  "submittedBy": [
+    220
+  ]
 }

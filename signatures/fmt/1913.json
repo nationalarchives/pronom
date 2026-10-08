@@ -4,12 +4,9 @@
   "version": "17+",
   "formatDescription": "Archicad is a proprietary architectural and Building Information Modelling (BIM) software application produced by Graphisoft. Files with the .pln extension are the standard working format, whereas files with the .pla extension are the Archicad archive file type, that bundles together all components, linked images and textures into a single package. This signature does not currently distinguish between specific Archicad format types.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "25 Aug 2023",
-  "formatSourceID": 244,
-  "provenanceCompoundName": "Preservica / Preservica",
   "formatProvenance": null,
   "formatSourceDate": "25 Aug 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 2637
         }
-      ]
+      ],
+      "provenance": "Note: No specification available so signature is based on observation from a selection of sample files. This signature is reported as being valid for Archicad 17 and later, according to a response to a query on the official forum, here: https://community.graphisoft.com/t5/Developer-forum/Need-Archicad-file-type-signatures-Magic-Numbers-for-pln-pla-bpn/td-p/276289"
     }
   ],
   "externalSignatures": [
@@ -53,6 +50,10 @@
     }
   ],
   "relationships": [],
-  "developedBy": [326],
-  "source": [244]
+  "developedBy": [
+    326
+  ],
+  "submittedBy": [
+    244
+  ]
 }

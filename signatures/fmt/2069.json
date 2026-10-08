@@ -3,9 +3,7 @@
   "formatName": "Draco",
   "version": "2",
   "formatDescription": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to provide efficient storage and transmission of 3D graphics.",
-  "formatSourceID": 244,
   "lastUpdatedDate": "23 Nov 2025",
-  "provenanceCompoundName": "Preservica / Preservica",
   "formatSourceDate": "23 Nov 2025",
   "identifiers": [
     {
@@ -47,6 +45,10 @@
       "relatedFormatName": "Draco"
     }
   ],
-  "source": [244],
-  "developedBy": [141]
+  "developedBy": [
+    141
+  ],
+  "submittedBy": [
+    244
+  ]
 }

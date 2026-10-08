@@ -4,12 +4,9 @@
   "version": "6.0",
   "formatDescription": "Adobe FrameMaker format is a desktop publishing and word processing format originally developed by Frame Technology Corp. Frame Technology Corp was bought by Adobe Systems in 1995, who continued to develop and support FrameMaker.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "19 Jul 2013",
-  "formatSourceID": 165,
-  "provenanceCompoundName": "Georgia Tech Research Institute / Georgia Tech Research Institute",
   "formatProvenance": null,
   "formatSourceDate": "19 Jul 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1066
         }
-      ]
+      ],
+      "provenance": "Information provided by Georgia Technology Research Institute"
     }
   ],
   "externalSignatures": [
@@ -64,7 +61,13 @@
       "relatedFormatName": "Adobe FrameMaker Document"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [165]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    165
+  ]
 }

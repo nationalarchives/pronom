@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "WinCIM was client software produced by CompuServe to enable access to CompuServe's forums and other internet services.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Jul 2018",
-  "formatSourceID": 233,
-  "provenanceCompoundName": "Harry Ransom Centre / Harry Ransom Centre",
   "formatProvenance": null,
   "formatSourceDate": "23 Jul 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Email",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1789
         }
-      ]
+      ],
+      "provenance": "Primarily described in this WinCIM conversion tool:\nhttps://www1.icsi.berkeley.edu/~chema/software/c2n"
     }
   ],
   "externalSignatures": [
@@ -53,7 +50,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [108],
-  "developedBy": [108],
-  "source": [233]
+  "supportedBy": [
+    108
+  ],
+  "developedBy": [
+    108
+  ],
+  "submittedBy": [
+    233
+  ]
 }

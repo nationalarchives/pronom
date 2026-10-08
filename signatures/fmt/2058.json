@@ -2,7 +2,6 @@
   "fileFormatID": 3933,
   "version": "3",
   "formatName": "A2R Disk Image File",
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "identifiers": [
     {
       "identifierText": "fmt/2058",
@@ -27,7 +26,8 @@
           "endianness": null,
           "byteSequenceID": 3808
         }
-      ]
+      ],
+      "provenance": "v.121: new PUID."
     }
   ],
   "externalSignatures": [
@@ -37,5 +37,7 @@
     }
   ],
   "relationships": [],
-  "source": [299]
+  "submittedBy": [
+    299
+  ]
 }

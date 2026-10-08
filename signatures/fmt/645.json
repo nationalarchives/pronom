@@ -4,12 +4,9 @@
   "version": "2.21",
   "formatDescription": "Exchangeable image file format (Exif) is a standard that specifies the formats for images, sound, and ancillary tags used by digital cameras (including smartphones), scanners and other systems handling image and sound files recorded by digital cameras.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "21 Feb 2022",
-  "formatSourceID": 205,
-  "provenanceCompoundName": "Public Record Office of Northern Ireland / Public Record Office of Northern Ireland",
   "formatProvenance": null,
   "formatSourceDate": "14 Jul 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -99,5 +95,7 @@
       "relatedFormatName": "Exchangeable Image File Format (Compressed)"
     }
   ],
-  "source": [205]
+  "submittedBy": [
+    205
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Active Server Pages (ASP) is a Microsoft server-side script engine for dynamically generated web pages. The WebService Directive file defines XML Web service specific attributes used by the ASP.NET parser and compiler.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "24 Jul 2017",
-  "formatSourceID": 225,
-  "provenanceCompoundName": "National Library of Scotland / National Library of Scotland",
   "formatProvenance": null,
   "formatSourceDate": "24 Jul 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,7 +45,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [225]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    225
+  ]
 }

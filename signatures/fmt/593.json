@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "The .CRW file format (Canon RAW version 1) is a digital photography RAW format created by Canon.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Nov 2013",
-  "formatSourceID": 195,
-  "provenanceCompoundName": "Artefactual Systems Inc / Artefactual Systems Inc",
   "formatProvenance": null,
   "formatSourceDate": "12 Nov 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1154
         }
-      ]
+      ],
+      "provenance": "http://www.sno.phy.queensu.ca/~phil/exiftool/canon_raw.html"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [197],
-  "developedBy": [197],
-  "source": [195]
+  "supportedBy": [
+    197
+  ],
+  "developedBy": [
+    197
+  ],
+  "submittedBy": [
+    195
+  ]
 }

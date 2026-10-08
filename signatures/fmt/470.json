@@ -4,12 +4,9 @@
   "version": "1-5",
   "formatDescription": "Asymetrix ToolBook was a Microsoft Windows based authoring software for creating e-learning systems. It was initially released in 1990 by Asymetrix Corporation, notably founded by Paul Allen, later merging with SumTotal Systems. ToolBook uses a book metaphor - a project file is thought of as a book containing pages of content. This is very similar to Microsoft PowerPoint\u2019s use of the metaphor where presentations contain various slides. This entry records the .tbk file format described as ToolBook Books and .sbk format which are System Books containing scripts. There were several versions of this software released, with version 11.5 as the final version of ToolBook, released in December 2012. SumTotal Systems ended all sales and support of Toolbook on December 31, 2021. Please see the full list of versions by following the links provided with this entry in Notes section.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Asymetrix_Toolbook#Software\r\n\r\nhttps://en.wikipedia.org/wiki/ToolBook\r\n\r\nhttps://winworldpc.com/product/toolbook/11",
   "lastUpdatedDate": "18 Nov 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "25 Oct 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 923
         }
-      ]
+      ],
+      "provenance": "Source files found in Digital Archive and created via Asymetrix Toolbook"
     }
   ],
   "externalSignatures": [
@@ -59,5 +56,7 @@
       "relatedFormatName": "Asymetrix Toolbook File"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

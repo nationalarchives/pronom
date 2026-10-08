@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "OpenRaster is an open exchange format for layered raster based graphics, loosely based on the Open Document standards. A specification is available: https://freedesktop.org/wiki/Specifications/OpenRaster/",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Mar 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "22 Mar 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,7 +33,6 @@
     }
   ],
   "relationships": [],
-  "source": [1],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -62,5 +57,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

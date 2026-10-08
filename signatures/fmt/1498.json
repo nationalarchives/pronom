@@ -4,12 +4,9 @@
   "version": "Binary",
   "formatDescription": "Cool Edit Pro was a Digital Audio Workstation, acquired by Adobe in 2003. The product was renamed as Adobe Audition. This entry covers both Cool Edit, and early versions of the Adobe Audition software.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "24 Oct 2021",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "24 Oct 2021",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [220]
+  "submittedBy": [
+    220
+  ]
 }

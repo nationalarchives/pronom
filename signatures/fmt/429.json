@@ -4,12 +4,9 @@
   "version": "X4",
   "formatDescription": "CorelDraw (styled CorelDRAW) is a vector graphics editor developed and marketed by Corel Corporation of Ottawa, Canada. It is also the name of Corel's Graphics Suite, which bundles CorelDraw with bitmap-image editor Corel Photo-Paint as well as other graphics-related programs.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Nov 2023",
-  "formatSourceID": 181,
-  "provenanceCompoundName": "Museum of London / Museum of London",
   "formatProvenance": "This format can be identified in DROID 6 and later via a container signature.\r\n11/2023 (v.115)- Container signature added. Modified the offset values in the internal signature from null to 0 as part of a project to match PRONOM data with the xsd standard. Submitted by Brigham Young University and internally researched.",
   "formatSourceDate": "11 Jun 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 792
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.115)- Modified the offset values from null to 0 as part of a project to match PRONOM data with the xsd standard. Internally researched."
     }
   ],
   "externalSignatures": [
@@ -55,7 +52,6 @@
       "relatedFormatName": "ZIP Format"
     }
   ],
-  "source": [181],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -91,5 +87,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    181
   ]
 }

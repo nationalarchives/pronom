@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Dr. Halo Bitmap file format, created by Media Cybernetics in 1984, was designed to facilitate image transfer between MS-DOS applications, making it one of the early device-independent bitmap formats. It is closely associated with the HALO Image File Format Library and software like the Dr. Halo raster graphics editor. The format primarily includes a .CUT file for bitmap image data and a .PAL file for color palette information. While initially popular in MS-DOS environments for basic graphic interchange, the Dr. Halo format was eventually superseded by more versatile formats as personal computing advanced.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "03 Jan 2025",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "v.120- New description added as part of PRONOM Research Week 2024. Submitted by J. Paul Getty Trust.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,5 +29,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

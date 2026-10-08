@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Cpio is a general file archiver utility and its associated file format, generally found in UNIX environments.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Feb 2014",
-  "formatSourceID": 195,
-  "provenanceCompoundName": "Artefactual Systems Inc / Artefactual Systems Inc",
   "formatProvenance": null,
   "formatSourceDate": "14 Feb 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1183
         }
-      ]
+      ],
+      "provenance": "https://www.mkssoftware.com/docs/man4/cpio.4.asp"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [195]
+  "submittedBy": [
+    195
+  ]
 }

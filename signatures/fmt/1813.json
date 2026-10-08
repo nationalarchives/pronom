@@ -4,12 +4,9 @@
   "version": "3.0.0",
   "formatDescription": "xdomea is an XML interface for the exchange of documents, cases, and records, typically used by digital record management systems in Germany. Schema files are available here: https://www.xrepository.de/api/xrepository/urn:xoev-de:xdomea:kosit:standard:xdomea_3.0.0:xmlschema",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification:: https://www.xrepository.de/api/xrepository/urn:xoev-de:xdomea:kosit:standard:xdomea_3.0.0:dokument:Spezifikation_xdomea_3.0.0",
   "lastUpdatedDate": "22 Aug 2024",
-  "formatSourceID": 232,
-  "provenanceCompoundName": "Landesarchiv Nordrhein-Westfalen / Landesarchiv Nordrhein-Westfalen",
   "formatProvenance": "v. 120- Links in description updated to correspond to specification in notes. Submitted by Landesarchiv Nordrhein-Westfalen.",
   "formatSourceDate": "31 Jan 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -60,5 +56,7 @@
       "relatedFormatName": "xdomea"
     }
   ],
-  "source": [232]
+  "submittedBy": [
+    232
+  ]
 }

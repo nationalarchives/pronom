@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Developed by Hewlett Packard, Polynomial texture maps (PTMs) are an extension to conventional texture maps that allow enhanced image quality. As opposed to storing a color per pixel, these PTM\u2019s store second-order bi-quadratic polynomial coefficients per pixel. These polynomials model the changes that appear to a pixel color based on either light source position or viewing direction.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "01 May 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 May 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1017
         }
-      ]
+      ],
+      "provenance": "Files held internally, http://www.hpl.hp.com/techreports/2001/HPL-2001-104.pdf"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [45],
-  "developedBy": [45],
-  "source": [1]
+  "supportedBy": [
+    45
+  ],
+  "developedBy": [
+    45
+  ],
+  "submittedBy": [
+    1
+  ]
 }

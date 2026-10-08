@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "\tIn the ArcGIS platform by ESRI ArcGlobe formats allow 3D visualization of GIS data based on a global view.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Feb 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format is identifiable via a container signature in DROID 6 and later.",
   "formatSourceDate": "06 Feb 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,9 +29,12 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [221],
-  "developedBy": [221],
-  "source": [1],
+  "supportedBy": [
+    221
+  ],
+  "developedBy": [
+    221
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -75,5 +74,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A colour palette format which is shared in a resource interchange file format (RIFF).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://www.tactilemedia.com/info/MCI_Control_Info.html\r\nhttp://www.daubnet.com/en/file-format-riff",
   "lastUpdatedDate": "14 Aug 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Added priority over fmt/1886 (Resource Interchange Format (RIFF)). Submitted by New York Public Libraries and Preservica.",
   "formatSourceDate": "14 Feb 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,5 +51,7 @@
       "relatedFormatName": "Resource Interchange File Format (RIFF)"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "ProRes is a lossy video compression format developed by Apple Inc.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Nov 2015",
-  "formatSourceID": 194,
-  "provenanceCompoundName": "National Library of Wales / National Library of Wales",
   "formatProvenance": "https://www.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf",
   "formatSourceDate": "26 Nov 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1407
         }
-      ]
+      ],
+      "provenance": "https://www.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf"
     }
   ],
   "externalSignatures": [
@@ -55,7 +52,13 @@
       "relatedFormatName": "Quicktime"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [194]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    194
+  ]
 }

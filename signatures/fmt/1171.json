@@ -4,12 +4,9 @@
   "version": "9.0",
   "formatDescription": "Alias PowerAnimator is a 3D modeling, animation, and visual effects suite. Files of this type may lack an extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "01 Aug 2018",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": null,
   "formatSourceDate": "01 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,13 @@
   ],
   "externalSignatures": [],
   "relationships": [],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [216]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "submittedBy": [
+    216
+  ]
 }

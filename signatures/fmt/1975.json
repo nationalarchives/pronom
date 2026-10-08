@@ -4,12 +4,9 @@
   "version": "2",
   "formatDescription": "An ICC Profile is a data set designed for color management information. It is used to describe how a peripheral renders colours, according to standards created by the International Color Consortium (ICC). This can be used to convert image files from one colour space to another or correct the colours of your images dependent on device. The file can appear by itself or embedded in certain graphics file formats. Prior to 1995 the ICC was known as the InterColor Consortium and the format was known as InterColor Profile.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specifications available at https://color.org/icc_specs2.xalter\r\nExamples available at https://www.color.org/profiles2.xalter",
   "lastUpdatedDate": "17 Apr 2024",
-  "formatSourceID": 162,
-  "provenanceCompoundName": null,
   "formatProvenance": null,
   "formatSourceDate": "17 Apr 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Dataset",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -63,7 +59,13 @@
       "relatedFormatName": "ICC Profile"
     }
   ],
-  "supportedBy": [328],
-  "developedBy": [328],
-  "source": [162]
+  "supportedBy": [
+    328
+  ],
+  "developedBy": [
+    328
+  ],
+  "submittedBy": [
+    162
+  ]
 }

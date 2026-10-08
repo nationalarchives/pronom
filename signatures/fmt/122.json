@@ -4,12 +4,9 @@
   "version": "1.2",
   "formatDescription": "Encapsulated Postscript (EPS) is a page description format, developed by Adobe Systems Incorporated. Version 1.2, the first version of the format, was developed in 1987. An EPS file comprises a header section followed by a PostScript document. An EPS can optionally include a preview raster image, in which case a binary header is prepended to the header.",
   "releaseDate": "12 Mar 1987",
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Description of magic bytes for signature added. Researched internally.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "EPS (1.2)",
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 205
         }
-      ]
+      ],
+      "provenance": "08/2023 (v.113) - Description of magic bytes for signature added. Researched internally."
     },
     {
       "signatureID": 174,
@@ -70,7 +67,8 @@
           "endianness": null,
           "byteSequenceID": 207
         }
-      ]
+      ],
+      "provenance": "08/2023 (v.113) - Description of magic bytes for signature added. Researched internally."
     }
   ],
   "externalSignatures": [
@@ -155,6 +153,10 @@
       "relatedFormatName": "Encapsulated PostScript File Format"
     }
   ],
-  "developedBy": [7],
-  "source": [1]
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    1
+  ]
 }

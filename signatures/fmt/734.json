@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "SuperScape was a company that created virtual 3D modelling software. .svr was the native, proprietary format for the software, and it can be viewed with the SuperScape Viscape viewer browser plugin.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Mar 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "27 Mar 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1309
         }
-      ]
+      ],
+      "provenance": "Format is proprietary and the source is unavailable. Signature is derived from observations from samples found across the web, particularly the Wayback Machine - the signature is based on observations from .svr samples held by The National Archives and found Wayback Machine: http://web.archive.org/web/19970619034754/http://www.vwww.com/hub/3dpage.htm"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

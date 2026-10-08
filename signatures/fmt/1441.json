@@ -4,12 +4,9 @@
   "version": "14",
   "formatDescription": "Apple iWork is a productivity suite for the Apple Macintosh. With iWork 14 Keynote, Pages and Numbers documents share an underlying structure. Please contact the PRONOM team if you can assist with distinguishing between each format type.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "30 Sep 2020",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "This format is identifiable via a container signature in DROID 6 and later.",
   "formatSourceDate": "30 Sep 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation, Spreadsheet, Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,9 +45,12 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [220],
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -78,5 +77,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    220
   ]
 }

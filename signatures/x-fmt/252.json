@@ -4,12 +4,9 @@
   "version": "2.0",
   "formatDescription": "Microsoft Publisher is a desktop publishing application.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "24 Oct 2021",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,9 +33,12 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [220],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -75,5 +74,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    220
   ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "11 Jun 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Feb 2007",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 827
         }
-      ]
+      ],
+      "provenance": "ISO: Photography \u2014 Electronic still picture imaging \u2014 Removable memory \u2014\nPart 2: Image data format \u2014 TIFF/EP\nhttp://www.map.tu.chiba-u.ac.jp/IEC/100/TA2/recdoc/N4378.pdf"
     },
     {
       "signatureID": 674,
@@ -66,7 +63,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 829
         }
-      ]
+      ],
+      "provenance": "ISO: Photography \u2014 Electronic still picture imaging \u2014 Removable memory \u2014\nPart 2: Image data format \u2014 TIFF/EP\nhttp://www.map.tu.chiba-u.ac.jp/IEC/100/TA2/recdoc/N4378.pdf"
     },
     {
       "signatureID": 675,
@@ -81,7 +79,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 830
         }
-      ]
+      ],
+      "provenance": "ISO: Photography \u2014 Electronic still picture imaging \u2014 Removable memory \u2014\nPart 2: Image data format \u2014 TIFF/EP\nhttp://www.map.tu.chiba-u.ac.jp/IEC/100/TA2/recdoc/N4378.pdf"
     },
     {
       "signatureID": 676,
@@ -104,7 +103,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 832
         }
-      ]
+      ],
+      "provenance": "ISO: Photography \u2014 Electronic still picture imaging \u2014 Removable memory \u2014\nPart 2: Image data format \u2014 TIFF/EP\nhttp://www.map.tu.chiba-u.ac.jp/IEC/100/TA2/recdoc/N4378.pdf"
     }
   ],
   "externalSignatures": [
@@ -189,5 +189,7 @@
       "relatedFormatName": "Tagged Image File Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

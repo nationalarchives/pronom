@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "ELAN is a professional software tool to manually and semi-automatically annotate and transcribe audio or video recordings. It was developed by the Max Planck Institute for Psycholinguistics in Nijmegen.  The .eaf file contains the annotations.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "EAF Specification f\u00fcr Version 3.0 (2017): www.mpi.nl/tools/elan/EAF_Annotation_Format_3.0_and_ELAN.pdf",
   "lastUpdatedDate": "22 Apr 2024",
-  "formatSourceID": 257,
-  "provenanceCompoundName": null,
   "formatProvenance": "09/2023 (v.115)- MIME Type added 'application/eaf+xml' and modified file type to 'Text (Structured) submitted by the Max Plank Insitute of Phsycholinguisitcs and Monash University. 04/2024 (v.118)- Signature updated to allow flexibility for byte length between tags. Submitted by Preservica based on samples provided by The Endanagered Languages Archive.",
   "formatSourceDate": "03 Nov 2021",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 2186
         }
-      ]
+      ],
+      "provenance": "04/2024 (v.117)- Signature updated to allow flexibility for byte length between tags. Submitted by Preservica based on samples provided by The Endanagered Languages Archive."
     }
   ],
   "externalSignatures": [
@@ -67,7 +64,13 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "supportedBy": [263],
-  "developedBy": [263],
-  "source": [257]
+  "supportedBy": [
+    263
+  ],
+  "developedBy": [
+    263
+  ],
+  "submittedBy": [
+    257
+  ]
 }

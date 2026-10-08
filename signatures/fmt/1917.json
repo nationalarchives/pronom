@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "BigTIFF is a file format intended to behave similarly to the TIFF file format, however is extended to support 64bit offset values.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Reference: https://www.awaresystems.be/imaging/tiff/bigtiff.html",
   "lastUpdatedDate": "26 Sep 2023",
-  "formatSourceID": 244,
-  "provenanceCompoundName": "Preservica / Preservica",
   "formatProvenance": null,
   "formatSourceDate": "26 Sep 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -78,5 +74,7 @@
       "relatedFormatName": "Zoomify Image Format"
     }
   ],
-  "source": [244]
+  "submittedBy": [
+    244
+  ]
 }

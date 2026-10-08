@@ -4,12 +4,9 @@
   "version": "1.2",
   "formatDescription": "The Lidar Data Exchange Format is a binary file format for the interchange of LIDAR (Light Detection and Ranging) optical remote sensing data. \r\nSpecifications available at http://www.asprs.org/Committee-General/LASer-LAS-File-Format-Exchange-Activities.html",
   "releaseDate": "09 Feb 2008",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "03 Nov 2011",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "Format information supplied by the Geospatial Multistate Access and Preservation Partnership (GeoMAPP), a grant funded collaboration involving North Carolina, Kentucky, Utah, and Montana state archives, and sponsored by the National Digital Information Infrastructure Preservation Program (NDIIPP) of the Library of Congress.",
   "formatSourceDate": "03 Nov 2011",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "GIS, Image (Raster)",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -36,10 +32,11 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "4C415346{20}0102{78}[00:99]",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 671
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research"
     }
   ],
   "externalSignatures": [
@@ -64,6 +61,10 @@
       "relatedFormatName": "ASPRS Lidar Data Exchange Format"
     }
   ],
-  "developedBy": [173],
-  "source": [1]
+  "developedBy": [
+    173
+  ],
+  "submittedBy": [
+    1
+  ]
 }

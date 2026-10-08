@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "TransXChange is a UK national data standard for the exchange of bus route and timetable information. The standard is sponsored by the UK Department for Transport and is mandated by the Vehicle Operating Services Agency (VOSA) for the electronic registration of UK bus services with Traffic Area Offices (TAO) and Local Authorities. It is a subset of XML.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Feb 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "26 Feb 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Dataset",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 970
         }
-      ]
+      ],
+      "provenance": "http://www.dft.gov.uk/transxchange/schema/2.2a/doc/TransXChangeSchemaGuide-2.1-v-44.pdf. Files obtained via data.gov.uk"
     }
   ],
   "externalSignatures": [
@@ -60,5 +57,7 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

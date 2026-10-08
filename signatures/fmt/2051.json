@@ -1,7 +1,6 @@
 {
   "fileFormatID": 3927,
   "formatName": "Cineon",
-  "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {
       "identifierText": "fmt/2051",
@@ -22,7 +21,8 @@
           "endianness": null,
           "byteSequenceID": 3797
         }
-      ]
+      ],
+      "provenance": "v.121: new PUID"
     }
   ],
   "externalSignatures": [
@@ -32,5 +32,7 @@
     }
   ],
   "relationships": [],
-  "source": [244]
+  "submittedBy": [
+    244
+  ]
 }

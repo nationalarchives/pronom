@@ -4,12 +4,9 @@
   "version": "4",
   "formatDescription": "CATIA is a 3D modelling software created by Dassault Syst\u00e8mes, widely used across many industries for computer aided design, manufacture and engineering. Model files store representations of mechanical structures, or parts of structures.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "22 Apr 2024",
-  "formatSourceID": 131,
-  "provenanceCompoundName": "Digital Library Research Group / MIT Libraries",
   "formatProvenance": "11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched. 04/2024 (v.118) changed first range of bytes from {2024} to *. Submitted by the J. Paul Getty Trust.",
   "formatSourceDate": "06 Apr 2009",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 441
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010); 11/2023 (v.115)- Max-offset modified for BOF signature to allow for more exact signature identification. Internally researched. 04/2024 (v.117)- Signature updated to include a variable rather than a fixed byte sequence of 2024 bytes. Submitted by the J. Paul Getty Trust."
     }
   ],
   "externalSignatures": [
@@ -57,7 +54,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [135],
-  "developedBy": [135],
-  "source": [131]
+  "supportedBy": [
+    135
+  ],
+  "developedBy": [
+    135
+  ],
+  "submittedBy": [
+    131
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "An Internet Message Format email message conforming to RFC 2045 (https://www.ietf.org/rfc/rfc2045.txt), specifically containing MIME-Version and Content-Type header fields, in addition to header fields 'To', 'From', and 'Date' as described in RFC 822 (https://www.ietf.org/rfc/rfc822.txt).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "08 Jul 2024",
-  "formatSourceID": 178,
-  "provenanceCompoundName": "National Library of New Zealand / National Library of New Zealand",
   "formatProvenance": "04/2024 (v.118): Max offset of one BOF sequence increased to 20000. Submitted by Archives New Zealand; 07/2024 (v.119): Internal signature BOF sequence modified to allow for t or T in 'Content-(t|T)ype:'. Submitted by the National Library of Australia.",
   "formatSourceDate": "22 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -75,7 +71,8 @@
           "endianness": null,
           "byteSequenceID": 1574
         }
-      ]
+      ],
+      "provenance": "04/2024 (v.118): Max offset of one BOF sequence increased to 20000. Submitted by Archives New Zealand; 06/2024 (v.119): BOF sequence modified to allow for t or T in 'Content-(t|T)ype:'. Submitted by National Library of Australia."
     }
   ],
   "externalSignatures": [
@@ -101,5 +98,7 @@
       "relatedFormatName": "MBOX"
     }
   ],
-  "source": [178]
+  "submittedBy": [
+    178
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "The WARC (Web ARChive) file format offers a convention for concatenating multiple resource records (data objects), each consisting of a set of simple text headers and an arbitrary data block into one long file. The WARC format is an extension of the ARC file format (ARC) that has traditionally been used to store \"web crawls\" as sequences of content blocks harvested from the World Wide Web (\u2026)\r\nBesides the primary content recorded in ARCs, the extended WARC format accommodates related secondary content, such as assigned metadata, abbreviated duplicate detection events, later-date transformations, and segmentation of large resources\u201d. The WARC format defines no internal compression, however the standard recommends the GZIP format with \"deflate\" where compression is desirable.\r\nWARC format has been written by the members of the IIPC (http://www.netpreserve.org/) grouped within the ISO/TC46/SC4/WG12.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Jan 2020",
-  "formatSourceID": 232,
-  "provenanceCompoundName": "Landesarchiv Nordrhein-Westfalen / Landesarchiv Nordrhein-Westfalen",
   "formatProvenance": null,
   "formatSourceDate": "28 Jan 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "Web ARChive, ISO 28500-2009",
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -99,5 +95,7 @@
       "relatedFormatName": "Hypertext Markup Language"
     }
   ],
-  "source": [232]
+  "submittedBy": [
+    232
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "32bit Little Endian",
   "formatDescription": "The Executable and Linkable Format (ELF) was developed by Unix System Laboratories and is the standard binary format for executables, object code, shared libraries and core dumps in Unix and Unix-like systems running x86 architecture. Generally within Unix and Unix-like systems, ELF files generally do not have a format extension, however some ELF files may be found with a .elf or .o extension",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Feb 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Feb 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1257
         }
-      ]
+      ],
+      "provenance": "http://refspecs.linuxbase.org/elf/elf.pdf"
     }
   ],
   "externalSignatures": [
@@ -53,5 +50,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

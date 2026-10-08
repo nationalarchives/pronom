@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "NuFX is an archive package format originally developed for the Apple II by Andrew Nicholas. Details of the format can be found here: http://nulib.com/library/FTN.e08002.htm while a library for handling the format can be found here: http://nulib.com/",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "06 Jan 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "06 Jan 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "ShrinkIt (NuFX) document",
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1484
         }
-      ]
+      ],
+      "provenance": "http://www.textfiles.com/apple/format.nufx.txt\nhttp://nulib.com/library/FTN.e08002.htm"
     }
   ],
   "externalSignatures": [
@@ -57,5 +54,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "FO file is a XML data file containing an electronic form intended for usage in the 602XML applications. The form is a composure of the layout structure using XSL-FO, data instance and data model using generic XML elements defined in the 602XML framework. The whole electronic form structure is always embedded into a digital signature represented by XML elements of the XML Signature standard.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Oct 2022",
-  "formatSourceID": 242,
-  "provenanceCompoundName": "The National Archives of the Czech Republic / The National Archives of the Czech Republic",
   "formatProvenance": null,
   "formatSourceDate": "20 Dec 2019",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -59,5 +55,7 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "source": [242]
+  "submittedBy": [
+    242
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "GeoGebra is a mathematics software package.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Feb 2014",
-  "formatSourceID": 202,
-  "provenanceCompoundName": "KULeuven - LIBIS / KULeuven - LIBIS",
   "formatProvenance": "http://www.geogebra.org/cms/en/",
   "formatSourceDate": "14 Feb 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -59,7 +55,13 @@
       "relatedFormatName": "GeoGebra"
     }
   ],
-  "supportedBy": [203],
-  "developedBy": [203],
-  "source": [202]
+  "supportedBy": [
+    203
+  ],
+  "developedBy": [
+    203
+  ],
+  "submittedBy": [
+    202
+  ]
 }

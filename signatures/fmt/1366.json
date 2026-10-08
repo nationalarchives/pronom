@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The PMF file is a read-only map file created with ArcMap, an application included with ESRI Desktop GIS. It can be viewed with the ArcReader application. PMF files allow the protecting of data and confidentiality by enabling the creator to limit the data views, printing, zooming and other features of a map.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "03 Sep 2020",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "03 Sep 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "GIS",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,9 +29,12 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [221],
-  "developedBy": [221],
-  "source": [234],
+  "supportedBy": [
+    221
+  ],
+  "developedBy": [
+    221
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -59,5 +58,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    234
   ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Document Content Architecture, (DCA for short) is a standard developed by IBM for text documents in the early 1980s. DCA was used on mainframe and iSeries systems, and formed the basis of DisplayWrite's file format. DCA was later extended as MO:DCA (Mixed Object Document Content Architecture), which added embedded data files, like graphics.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "03 Aug 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -28,5 +24,7 @@
   "internalSignatures": [],
   "externalSignatures": [],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

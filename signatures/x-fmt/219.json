@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "16 Mar 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 647
         }
-      ]
+      ],
+      "provenance": "Mike Burner and Brewster Kahle.  Arc File Format, Version 1.0. September 15, 1996, Internet Archive www.archive.org/web/researcher/ArcFileFormat.php"
     }
   ],
   "externalSignatures": [
@@ -99,5 +96,7 @@
       "relatedFormatName": "Internet Archive"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

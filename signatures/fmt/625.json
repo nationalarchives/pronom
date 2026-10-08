@@ -4,12 +4,9 @@
   "version": "4.2",
   "formatDescription": "Disk Copy 4.2 (DC42) is the common name used to refer to disk images of floppy disks created by the 4.2 version of Disk Copy provided by the Mac Operating System.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Feb 2014",
-  "formatSourceID": 204,
-  "provenanceCompoundName": "Yale University Library / Yale University Library",
   "formatProvenance": null,
   "formatSourceDate": "14 Feb 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -61,5 +57,7 @@
     }
   ],
   "relationships": [],
-  "source": [204]
+  "submittedBy": [
+    204
+  ]
 }

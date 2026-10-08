@@ -4,12 +4,9 @@
   "version": "Generic",
   "formatDescription": "Pages is a word processor application created by Apple as part of the iWork Productivity Suite. This entry is currently an extension-only entry to provide a default identification in the absence of a signature-based identification.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "30 Sep 2020",
-  "formatSourceID": 178,
-  "provenanceCompoundName": "National Library of New Zealand / National Library of New Zealand",
   "formatProvenance": null,
   "formatSourceDate": "16 Dec 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,7 +29,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [178]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    178
+  ]
 }

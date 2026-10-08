@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The pcap Next Generation Capture file format is intended to overcome limitations in the pcap Packet Capture format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "21 Nov 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "21 Nov 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1398
         }
-      ]
+      ],
+      "provenance": "https://github.com/pcapng/pcapng"
     },
     {
       "signatureID": 1148,
@@ -58,7 +55,8 @@
           "endianness": null,
           "byteSequenceID": 1399
         }
-      ]
+      ],
+      "provenance": "https://github.com/pcapng/pcapng"
     }
   ],
   "externalSignatures": [
@@ -68,5 +66,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

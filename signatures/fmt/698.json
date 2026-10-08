@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "ISO 10303 is an ISO standard for the computer-interpretable representation and exchange of product manufacturing information.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "11 Feb 2015",
-  "formatSourceID": 212,
-  "provenanceCompoundName": "Michelle Lindlar / German National Library of Science and Technology",
   "formatProvenance": null,
   "formatSourceDate": "11 Feb 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "STEP",
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -73,5 +69,7 @@
       "relatedFormatName": "Industry Foundation Classes"
     }
   ],
-  "source": [212]
+  "submittedBy": [
+    212
+  ]
 }

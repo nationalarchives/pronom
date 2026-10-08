@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Device Independent File Format (DVI) is the output file format of the TeX typesetting program. DVI files comprise binary data describing the visual layout of a document in a device-independent manner. A DVI file consists of a preamble, a sequence of commands defining one or more pages of text, and a postamble. Each command comprises an eight-bit opcode, followed by zero or more bytes of parameters. DVI driver software is required to render or print DVI files, or to convert them to other formats, such as PostScript or PDF.",
   "releaseDate": "01 Jan 1979",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "16 Mar 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "DVI",
   "formatTypes": "Page Description",
-  "byteOrders": "Big-endian (Motorola)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -40,7 +36,7 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "F702",
-          "endianness": null,
+          "endianness": "Big-endian",
           "byteSequenceID": 749
         },
         {
@@ -48,10 +44,11 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "F9{4}02{0-3}DFDFDFDF",
-          "endianness": null,
+          "endianness": "Big-endian",
           "byteSequenceID": 750
         }
-      ]
+      ],
+      "provenance": "DVI Specification http://www-users.math.umd.edu/~asnowden/comp-cont/dvi.html"
     }
   ],
   "externalSignatures": [
@@ -61,5 +58,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

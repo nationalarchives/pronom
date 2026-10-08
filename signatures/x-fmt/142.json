@@ -4,12 +4,9 @@
   "version": "1",
   "formatDescription": "Computer Graphics Metafile (CGM) is a standardized platform-independent format used for the interchange of raster and vector data. CGM was developed under the auspices of the International Standards Organization (ISO) and the American Standards National Institute (ANSI). It is also used in conjunction with a variety of input and output devices. Although CGM incorporates extensions designed to support raster data storage, files in CGM format are used primarily to store vector information. CGM files typically contain either bitmap or vector data, but rarely both. It uses Clear Text Encoding.\r\nFile format specifications available at http://standards.iso.org/ittf/PubliclyAvailableStandards/c044114_ISO_IEC_8632-1_1999_Cor_1_2006%28E%29.pdf",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "29 Nov 2011",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "File format information supplied by NARA Information Services/Applied Research Division, The National Archives and Records Administration.",
   "formatSourceDate": "02 Dec 2010",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster), Image (Vector), Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 446
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010)."
     },
     {
       "signatureID": 351,
@@ -74,7 +71,8 @@
           "endianness": null,
           "byteSequenceID": 448
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010)."
     },
     {
       "signatureID": 353,
@@ -97,7 +95,8 @@
           "endianness": null,
           "byteSequenceID": 450
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010). Further developed by Digital Preservation Department / The National Archives"
     },
     {
       "signatureID": 354,
@@ -120,7 +119,8 @@
           "endianness": null,
           "byteSequenceID": 452
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010). Further developed by Digital Preservation Department / The National Archives"
     }
   ],
   "externalSignatures": [
@@ -130,5 +130,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

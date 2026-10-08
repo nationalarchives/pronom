@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "CD-ROM XA (Compact Disc - read-only-memory, extended architecture) is a modification of CD-ROM that defines sectors that enable it to read and display data, graphics, video, and audio. Photo CD, Video CD, CD-EXTRA and Super Video CD have all been based on CDXA and it may be possible to further distinguish between these different CDXA variant formats with further PRONOM research.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Added priority over fmt/1886 (Resource Interchange Format (RIFF)). Submitted by New York Public Libraries and Preservica.",
   "formatSourceDate": "11 Dec 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1428
         }
-      ]
+      ],
+      "provenance": "http://www.cdrfaq.org/faq02.html"
     }
   ],
   "externalSignatures": [
@@ -55,5 +52,7 @@
       "relatedFormatName": "Resource Interchange File Format (RIFF)"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "4.00",
   "formatDescription": "The Paint Shop Pro (PSP) file format is an extremely rich graphics file format that is capable of describing a multi-layered image document in minute detail. The format facilitates the retention of a great deal of information, including layer bitmaps, layer masks, layer vector data, layer adjustment data, layer grouping information, multiple sample thumbnails, multiple sample composite images, image dimension, image resolution, creator name, copyright owner, image description, masks, selections, alpha channels, etc. The PSP format supports storing image bitmaps in an uncompressed format or, to reduce the size of the file, in either Run Length Encoding (RLE) or LZ77 compressed format. As each of these is a lossless storage method, the PSP format always maintains the original quality of stored image documents. Finally, the PSP format supports storing image bitmaps at a variety of bit depths, including 24-bit colour (16.7 million colours), 8-bit colour (256 colour), 8-bit greyscale (256 greys), 4-bit colour (16 colours), and 1-bit colour (2 colours).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "11 Jun 2012",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": "Specifications link: http://www.telegraphics.com.au/svn/pspformat/trunk/psp6spec.pdf",
   "formatSourceDate": "10 Oct 2003",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 630
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     }
   ],
   "externalSignatures": [
@@ -60,5 +57,7 @@
       "relatedFormatName": "Paint Shop Pro Image"
     }
   ],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

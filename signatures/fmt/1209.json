@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The COLLADA (COLLAborative Design Activity) Digital Asset Exchange format is an open standard XML specification for 3D images and animations.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Aug 2018",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "16 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1858
         }
-      ]
+      ],
+      "provenance": "1.3 spec: https://web.archive.org/web/20150419114923/http://www.collada.org/public_forum/files/COLLADA_Specification_131.pdf\n1.4 spec: https://www.khronos.org/files/collada_spec_1_4.pdf\n1.5 spec: https://www.khronos.org/files/collada_spec_1_5.pdf"
     }
   ],
   "externalSignatures": [
@@ -59,5 +56,7 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

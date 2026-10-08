@@ -4,12 +4,9 @@
   "version": "2",
   "formatDescription": "The resource fork is a construct of the Mac OS operating system used to store structured data in a file, alongside unstructured data stored within the data fork. The format specification is available here: http://support.apple.com/kb/TA32537?viewlocale=en_US\r\n\r\nThe format lacks an extension, and is instead represented by a file name consisting of ._<filename resource fork belongs to>",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Feb 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "26 Feb 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,12 +39,19 @@
           "endianness": null,
           "byteSequenceID": 979
         }
-      ]
+      ],
+      "provenance": "http://support.apple.com/kb/TA32537?viewlocale=en_US"
     }
   ],
   "externalSignatures": [],
   "relationships": [],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    1
+  ]
 }

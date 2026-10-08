@@ -4,12 +4,9 @@
   "version": "95",
   "formatDescription": "Powerpoint format is a presentation format developed by Microsoft. Powerpoint 95 format is the native format of Powerpoint 95. The format is proprietary and Microsoft does not make details of its structure public. The information here is derived primarily from OpenOffice.org's reverse-engineered documentation of the format and should not therefore be regarded as definitive. Powerpoint 95 is based on Microsoft\u2019s generic OLE2 Compound Document Format. A Powerpoint presentation is stored as a \u2018PowerPoint Document\u2019 stream within a Compound Document Format file.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "30 Sep 2020",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format is identifiable via a container signature in DROID 6 and later.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": "None",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,7 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "D0CF11E0A1B11AE1{20}FEFF",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 201
         },
         {
@@ -52,7 +48,7 @@
           "offset": null,
           "maxOffset": null,
           "byteSequence": "50006F0077006500720050006F0069006E007400200044006F00630075006D0065006E007400",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 202
         },
         {
@@ -60,7 +56,7 @@
           "offset": null,
           "maxOffset": null,
           "byteSequence": "4D6963726F736F66742028522920506F776572506F696E74202852292057696E646F777320200007(00|01)0000F00300005F",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 217
         }
       ]
@@ -99,8 +95,9 @@
       "relatedFormatName": "OLE2 Compound Document Format"
     }
   ],
-  "developedBy": [93],
-  "source": [1],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -144,5 +141,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

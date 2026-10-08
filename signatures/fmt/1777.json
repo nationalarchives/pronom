@@ -4,12 +4,9 @@
   "version": "2.2",
   "formatDescription": "\tSoftware-Independent Archiving of Relational Databases is a format for storing content of relational databases in files for long-term preservation e.g. in archives. The format was developed by the Swiss Federal Archives. It is an open standard and is supported by the SIARD software of the Swiss Federal Archives. SIARD format is a ZIP file (based on the 64 bit extension of the ZIP format introduced by PkWare Inc. with version 4.5 of the ZIP format definition in order to avoid size limitations which are unrealistic for databases). The ZIP file contains an XML file describing the database structure and metadata as well as a collection of XML files describing the table content (database primary data) as well as, optionally, some text files and some binary files representing database large objects (BLOBs and CLOBs).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Specification: https://siard.dilcis.eu/SIARD%202.2/SIARD%202.2.pdf",
   "lastUpdatedDate": "04 Oct 2022",
-  "formatSourceID": 143,
-  "provenanceCompoundName": "Swiss Federal Archives / Swiss Federal Archives",
   "formatProvenance": "\tThis format is identifiable via a container signature in DROID 6 and later.",
   "formatSourceDate": "04 Oct 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,9 +35,12 @@
       "relatedFormatName": "SIARD (Software-Independent Archiving of Relational Databases)"
     }
   ],
-  "supportedBy": [143],
-  "developedBy": [143],
-  "source": [143],
+  "supportedBy": [
+    143
+  ],
+  "developedBy": [
+    143
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -53,5 +52,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    143
   ]
 }

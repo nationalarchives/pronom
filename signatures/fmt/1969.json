@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This file was created for ETC\u2019s Express or Expression console, a device used for venue lighting. The file would be stored on a floppy disk for use in the console itself.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Expression Off-Line QuickGuide Version 3.1 https://web.archive.org/web/20051126055839/http://www.etcconnect.com/docs_downloads/manuals/Expression_Off-Line_v3.1_Quick_Guide.pdf\r\nExpression Console Technical Support https://www.etcconnect.com/Products/Legacy/Console/Others/Expression/Support-Articles.aspx\r\nExpress Console Technical Support https://www.etcconnect.com/Products/Legacy/Console/Others/Express/Software.aspx\r\nFile Format Wiki entry http://fileformats.archiveteam.org/wiki/ETC_Show_File",
   "lastUpdatedDate": "08 Apr 2024",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "08 Apr 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Dataset",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [220]
+  "submittedBy": [
+    220
+  ]
 }

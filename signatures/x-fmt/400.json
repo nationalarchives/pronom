@@ -4,12 +4,9 @@
   "version": "5.x",
   "formatDescription": "StarWriter is part of StarOffice, a proprietary office suite. StarWriter is a word processor. StarOffice originated in 1985 as StarWriter by StarDivision, which was acquired by Sun Microsystems in 1999. Sun was itself acquired by Oracle Corporation in 2010. StarOffice was known briefly as Oracle Open Office before being discontinued in 2011.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,7 +33,6 @@
     }
   ],
   "relationships": [],
-  "source": [1],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -62,5 +57,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

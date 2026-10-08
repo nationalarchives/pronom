@@ -4,12 +4,9 @@
   "version": "1.03",
   "formatDescription": "Open Financial Exchange is a unified specification for the electronic exchange of financial data between financial institutions, businesses and consumers via the Internet. The first verison was released in 1997, and was a result of colloborative work between CheckFree Corp., Intuit Inc., and Microsoft.",
   "releaseDate": "01 May 2006",
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "02 Dec 2010",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Dec 2010",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 508
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research work"
     }
   ],
   "externalSignatures": [
@@ -57,6 +54,10 @@
     }
   ],
   "relationships": [],
-  "developedBy": [51],
-  "source": [1]
+  "developedBy": [
+    51
+  ],
+  "submittedBy": [
+    1
+  ]
 }

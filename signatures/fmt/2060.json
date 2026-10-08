@@ -2,7 +2,6 @@
   "fileFormatID": 3935,
   "version": "2",
   "formatName": "WOZ Disk Image File",
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "identifiers": [
     {
       "identifierText": "fmt/2060",
@@ -23,7 +22,8 @@
           "endianness": null,
           "byteSequenceID": 3810
         }
-      ]
+      ],
+      "provenance": "v.121: new PUID."
     }
   ],
   "externalSignatures": [
@@ -33,5 +33,7 @@
     }
   ],
   "relationships": [],
-  "source": [299]
+  "submittedBy": [
+    299
+  ]
 }

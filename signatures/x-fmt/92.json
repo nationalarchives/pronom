@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Systems for Windows and OS X. Files natively produced by Adobe PhotoDeluxe (extension pdd) also appear to be based upon the Adobe Photoshop file format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "20 Jan 2020",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "23 Sep 2003",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 356
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     }
   ],
   "externalSignatures": [
@@ -67,7 +64,13 @@
       "relatedFormatName": "Adobe Photoshop Large Document Format"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    1
+  ]
 }

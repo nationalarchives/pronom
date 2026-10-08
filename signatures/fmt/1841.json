@@ -4,12 +4,9 @@
   "version": "1.5",
   "formatDescription": "The Digital Negative (DNG) specification describes a non-proprietary file format for storing camera raw files that can be used by a wide range of hardware and software vendors. DNG is an extension of the TIFF format, and is compatible with the TIFF-EP standard. This version was published in May 2019 and includes support for Depth Maps and processed Enhanced Image Data that can be stored alongside the raw image.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Nov 2023",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "11/2023 (v.116)- New MIME type identifier 'image/dng' added and max offset of EOF internal signatures increased to 128000. Submitted by Brigham Young University.",
   "formatSourceDate": "07 Mar 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -85,7 +81,8 @@
           "endianness": null,
           "byteSequenceID": 2525
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     },
     {
       "signatureID": 2182,
@@ -108,7 +105,8 @@
           "endianness": null,
           "byteSequenceID": 2527
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     }
   ],
   "externalSignatures": [
@@ -164,5 +162,7 @@
       "relatedFormatName": "Tagged Image File Format"
     }
   ],
-  "source": [220]
+  "submittedBy": [
+    220
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "6",
   "formatDescription": "The Adobe Flash format, SWF, previously known as Shockwave Flash or Macromedia Shockwave Flash, and alternatively known as the Small Web Format, is a file format primarily designed for creating interactive multimedia applications. The format iterates rapidly, often in line with new releases of Adobe Flash or Adobe Air. Prior to version 6 all SWF files were uncompressed, however version 6 introduced the option of using zlib compression. Version 13 introduced the option of using LZMA compression.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "14 Sep 2018",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf\r\nhttp://www.adobe.com/devnet/articles/flashplayer-air-feature-list.html",
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "SWF (6)",
   "formatTypes": null,
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -66,7 +62,8 @@
           "endianness": null,
           "byteSequenceID": 988
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec-v10.pdf"
     }
   ],
   "externalSignatures": [
@@ -92,7 +89,13 @@
       "relatedFormatName": "Macromedia Flash"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [56],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    56
+  ],
+  "submittedBy": [
+    1
+  ]
 }

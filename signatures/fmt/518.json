@@ -4,12 +4,9 @@
   "version": "LRF",
   "formatDescription": "Broad Band eBook (BBeB) is a proprietary e-book format created by Sony and Canon for Sony e-book readers. The LRF variant is a compiled, unencrypted version of an LRS file. Sony discontinued development of BBeB in 2010, in favour of the EPUB format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "01 May 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 May 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1016
         }
-      ]
+      ],
+      "provenance": "http://www.sven.de/librie/Librie/LrfFormat, files held internally"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

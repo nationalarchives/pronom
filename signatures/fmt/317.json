@@ -4,12 +4,9 @@
   "version": "Macintosh",
   "formatDescription": "Adobe Director (formerly Macromedia Director) was a multimedia application authoring platform created by Macromedia and managed by Adobe Systems until its discontinuation. Director was the primary editor on the Adobe Shockwave platform.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "20 Jan 2020",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "18 Jan 2011",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "Adobe Director",
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 516
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research work"
     }
   ],
   "externalSignatures": [
@@ -57,7 +54,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    1
+  ]
 }

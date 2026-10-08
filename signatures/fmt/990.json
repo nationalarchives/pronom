@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "An ESRI file geodatabase is a collection of files in a folder on disk that can store, query, and manage both spatial and nonspatial data.The GeoDB is the primary data storage model for ArcGIS.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Feb 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "Unfortunately we are currently unable to use PRONOM to be able to develop a signature to identify this format, hopefully in the future this functionality will be available.",
   "formatSourceDate": "06 Feb 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -28,7 +24,13 @@
   "internalSignatures": [],
   "externalSignatures": [],
   "relationships": [],
-  "supportedBy": [221],
-  "developedBy": [221],
-  "source": [1]
+  "supportedBy": [
+    221
+  ],
+  "developedBy": [
+    221
+  ],
+  "submittedBy": [
+    1
+  ]
 }

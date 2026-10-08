@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Defined in RFC5322 the Internet Message Format provides a syntax for text messages that  are sent  among computer  users, within the framework of \"electronic mail\". Consisting of header fields and an optional body, encoded using ASCII characters. The Internet Message Format (*.eml) is a format used by numerous email systems. The format does not prevent the use of alternative formats for storage of electronic mail on those systems.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Jul 2010",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "22 Jul 2010",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Email",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -89,5 +85,7 @@
       "relatedFormatName": "Hypertext Markup Language"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

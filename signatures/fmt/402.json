@@ -4,12 +4,9 @@
   "version": "2.0",
   "formatDescription": "The Truevision TGA File Format comprises 5 areas, each of which contains one or more fields of fixed or variable length. The 5 file areas are: (1) TGA File Header, (2) Image/Color Map Data, (3) Developer Area, (4) Extension Area and (5) TGA File Footer.\r\nThe last 3 areas, the Developer Area, the Extension Area and the TGA File Footer are new to the file specification as of September, 1989. For this reason, images created with software written before September, 1989 will probably not contain these three fields.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://www.dca.fee.unicamp.br/~martino/disciplinas/ea978/tgaffs.pdf; https://www.loc.gov/preservation/digital/formats/fdd/fdd000179.shtml",
   "lastUpdatedDate": "28 Aug 2012",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": "Further information about this file format can be obtained at \r\nhttp://www.dca.fee.unicamp.br/~martino/disciplinas/ea978/tgaffs.pdf",
   "formatSourceDate": "16 Feb 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 744
         }
-      ]
+      ],
+      "provenance": "Truevision TGA FILE FORMAT SPECIFICATION, Version 2.0, January 1991.\nA.\twww.dca.fee.unicamp.br/~martino/disciplinas/ea978/tgaffs.pdf \n\nTGA File Format Summary. Encyclopedia of Graphic File Formats www.fileformat.info/format/tga/egff.htm"
     }
   ],
   "externalSignatures": [
@@ -67,5 +64,7 @@
       "relatedFormatName": "Truevision TGA Bitmap"
     }
   ],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

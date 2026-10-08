@@ -4,12 +4,9 @@
   "version": "Generic",
   "formatDescription": "This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "19 Aug 2011",
-  "formatSourceID": 170,
-  "provenanceCompoundName": "Archaeology Data Service / Archaeology Data Service",
   "formatProvenance": "Submitted by Archaeology Data Service",
   "formatSourceDate": "19 Aug 2011",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 660
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research following request from Archaeology Data Service"
     },
     {
       "signatureID": 533,
@@ -70,7 +67,8 @@
           "endianness": null,
           "byteSequenceID": 662
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research following request from Archaeology Data Service"
     }
   ],
   "externalSignatures": [
@@ -80,5 +78,7 @@
     }
   ],
   "relationships": [],
-  "source": [170]
+  "submittedBy": [
+    170
+  ]
 }

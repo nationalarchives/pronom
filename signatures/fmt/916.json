@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "In the ArcGIS platform by ESRI, a map document is a file that contains one or more maps, the page layout, and the associated layers, tables, charts, and reports. Map document files have an .mxd extension. Template files have an .mxt extension and do not appear to be materially different from .mxd files. Please contact the PRONOM team if you are able to differentiate between docments and templates.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Sep 2020",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "\tThis format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "06 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "GIS",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,7 +33,6 @@
     }
   ],
   "relationships": [],
-  "source": [1],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -61,5 +56,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

@@ -4,12 +4,9 @@
   "version": "2",
   "formatDescription": "PDBLib is a small library of file management routines for storing and retrieving binary data in a portable format, created by the Lawrence Livermore National Laboratory. https://wci.llnl.gov/codes/pact/pdb.html",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Jul 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "14 Jul 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1714
         }
-      ]
+      ],
+      "provenance": "https://svn.alcf.anl.gov/repos/libs/SILO/src/pdb/pdb.c\nhttps://github.com/dhmunro/yorick/blob/master/yorick/binpdb.c"
     }
   ],
   "externalSignatures": [
@@ -65,5 +62,7 @@
       "relatedFormatName": "Portable Database"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

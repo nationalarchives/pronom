@@ -4,12 +4,9 @@
   "version": "X6",
   "formatDescription": "CorelDraw (styled CorelDRAW) is a vector graphics editor developed and marketed by Corel Corporation of Ottawa, Canada. It is also the name of Corel's Graphics Suite, which bundles CorelDraw with bitmap-image editor Corel Photo-Paint as well as other graphics-related programs.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Oct 2023",
-  "formatSourceID": 299,
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "12 Oct 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,8 +29,9 @@
     }
   ],
   "relationships": [],
-  "developedBy": [35],
-  "source": [299],
+  "developedBy": [
+    35
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -65,5 +62,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    299
   ]
 }

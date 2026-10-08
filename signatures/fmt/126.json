@@ -4,12 +4,9 @@
   "version": "97-2003",
   "formatDescription": "Powerpoint format is a presentation format developed by Microsoft. Powerpoint 97-2002 format is the native format of Powerpoint 97 onwards. The format is proprietary and Microsoft does not make details of its structure public. Currently PRONOM cannot differentiate Microsoft Powerpoint Presentation 97-2003 and Microsoft Powerpoint Show by signatures. This means Microsoft Powerpoint Show files with extensions of pps will likely identify as the Microsoft Powerpoint Presentation 97-2003 PUID. Further research may be able to address this.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "19 Apr 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": "None",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "Microsoft Powerpoint Presentation (97-XP)",
   "formatTypes": "Presentation",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,7 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "D0CF11E0A1B11AE1{20}FEFF",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 203
         },
         {
@@ -52,7 +48,7 @@
           "offset": null,
           "maxOffset": null,
           "byteSequence": "50006F0077006500720050006F0069006E007400200044006F00630075006D0065006E007400",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 204
         }
       ]
@@ -91,8 +87,9 @@
       "relatedFormatName": "OLE2 Compound Document Format"
     }
   ],
-  "developedBy": [93],
-  "source": [1],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -104,5 +101,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

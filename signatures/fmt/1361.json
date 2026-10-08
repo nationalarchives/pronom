@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "An Amiga Disk File is the file format used by Amiga computers and emulators to store images of disks. It is a sector by sector dump of an Amiga formatted disk. It's uses include backup, disk virtualisation and game production.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/Amiga_Disk_File\r\nhttp://lclevy.free.fr/adflib/adf_info.html",
   "lastUpdatedDate": "21 Jul 2020",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "21 Jul 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [234]
+  "submittedBy": [
+    234
+  ]
 }

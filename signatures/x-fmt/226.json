@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "ESRI ArcInfo Export File Format (also known as ArcInfo Interchange File Format) is a vector file format which is produced by ESRI and pre-dates the shapefile. It is as an export file used to enable coverage, grid or TIN and an associated INFO table to be transferred between different machines, which are not connected by any type of file sharing network. A volume has the extension .E00 through .E99. \r\nA non-authoritative version of the specification can be found at: http://avce00.maptools.org/docs/v7_e00_cover.html",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "20 Jan 2020",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "Format description information supplied by the Geospatial Multistate Access and Preservation Partnership (GeoMAPP), a grant funded collaboration sponsored by the National Digital Information Infrastructure Preservation Program (NDIIPP) of the Library of Congress, involving archives staff from North Carolina, Kentucky, Montana, and Utah state archives.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "GIS",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 658
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010). Signature subsequently refined through investigation of example formats supplied by Archaeology Data Service, with shorter BOF sequence and addition of EOF sequence"
     }
   ],
   "externalSignatures": [
@@ -141,5 +138,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

@@ -3,11 +3,9 @@
   "version": null,
   "formatName": "FieldWorks Language Explorer FWData XML",
   "formatDescription": "FWData is a XML data format native to FieldWorks Language Explorer (FLEx), an application for recording and analysing information relating to languages and cultures.",
-  "formatSourceID": 244,
   "formatTypes": "Text (Mark-up)",
   "formatNote": "Source: https://software.sil.org/fieldworks/wp-content/uploads/sites/38/2016/10/FieldWorks-7-XML-model.pdf",
   "lastUpdatedDate": "09 Jun 2026",
-  "provenanceCompoundName": "Preservica / Preservica",
   "formatSourceDate": "02 Dec 2025",
   "identifiers": [
     {
@@ -29,7 +27,8 @@
           "endianness": null,
           "byteSequenceID": 3843
         }
-      ]
+      ],
+      "provenance": "v.122: new signature. Submitted by Preservica, with data provided by the Endangered Language Archives."
     }
   ],
   "externalSignatures": [
@@ -45,6 +44,8 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "source": [244],
-  "formatProvenance": "v.122: new signature. Submitted by Preservica, with data provided by the Endangered Language Archives; v.123: priority added over fmt/101 Extensible Markup Language 1.0. Submitted by Preservica."
+  "formatProvenance": "v.122: new signature. Submitted by Preservica, with data provided by the Endangered Language Archives; v.123: priority added over fmt/101 Extensible Markup Language 1.0. Submitted by Preservica.",
+  "submittedBy": [
+    244
+  ]
 }

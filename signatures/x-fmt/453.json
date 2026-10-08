@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Created by Apple, TrueType Font files are a sequence of concatenated tables (a table is a sequence of words; each table must be long aligned and padded with zeroes if necessary). The first of the tables is the font directory, a special table that facilitates access to the other tables in the font. The directory is followed by a sequence of tables containing the font data. These tables can appear in any order. Certain tables are required for all fonts. Others are optional depending upon the functionality expected of a particular font. The tables have names known as tags. Tags have the type uint32. Currently defined tag names consist of four characters. Tag names with less than four characters have trailing spaces. When tag names are shown in text they are enclosed in straight quotes. Tables that are required must appear in any valid TrueType font file. Also notable is that Apple makes a distinction between a \"TrueType font\" (which refers to a particular font outline definition technology) and an \"sfnt-housed font,\" which refers to any font which uses the same packaging format as a TrueType font: that is, it uses the same directory structure and the same table format and meaning for any tables present.",
   "releaseDate": "18 Dec 2003",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "26 Feb 2013",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": "Further information about this file format can be obtained at \r\nhttp://developer.apple.com/fonts/ttrefman/rm06/Chap6.html",
   "formatSourceDate": "06 Apr 2009",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Font",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 315
         }
-      ]
+      ],
+      "provenance": "www.microsoft.com/typography/tt/ttf_spec/ttch02.doc"
     }
   ],
   "externalSignatures": [
@@ -204,7 +201,13 @@
       "relatedFormatName": "Web Open Font Format"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [180]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    180
+  ]
 }

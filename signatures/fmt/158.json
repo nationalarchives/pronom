@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This 'exchange standard' format is based on Adobe's PDF 1.3 (2002) specification and includes additional notes specifically for delivery of high quality colour advertisements. A subset of the PDF specification, and an application standard as well as a file format standard, it is considered a  'more reliable' PDF file. There are several versions of the standard, to address specific issues.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "22 Oct 2009",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "15 Feb 2007",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "PDF/X-3:2002",
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 721
         }
-      ]
+      ],
+      "provenance": "ISO 15930-3:2002: PDF/X-3:2002 Graphic technology \u2014 Prepress digital data exchange \u2014 Use of PDF\u2014 Part 3: Blind exchange suitable for colour managed workflows (PDF/X-3)"
     },
     {
       "signatureID": 597,
@@ -74,7 +71,8 @@
           "endianness": null,
           "byteSequenceID": 740
         }
-      ]
+      ],
+      "provenance": "ISO 15930-3:2002: PDF/X-3:2002 Graphic technology \u2014 Prepress digital data exchange \u2014 Use of PDF\u2014 Part 3: Blind exchange suitable for colour managed workflows (PDF/X-3)"
     }
   ],
   "externalSignatures": [
@@ -150,5 +148,7 @@
       "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 2:2003"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

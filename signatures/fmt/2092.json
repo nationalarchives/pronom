@@ -3,11 +3,9 @@
   "version": "6.0.3",
   "formatName": "Canadian Avalanche Association MarkUp Language",
   "formatDescription": "Canadian Avalanche Association Markup Language (CAAML) format represents information that is relevant to avalanche safety operations. It is based on two existing standards: Extensible MarkUp Language and the Geographic Markup Language, and provides the file structure to facilitate the exchange of avalanche related information.",
-  "formatSourceID": 349,
   "formatTypes": "Text (Mark-up)",
   "formatNote": "http://caaml.org/",
   "lastUpdatedDate": "09 Jun 2026",
-  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
   "formatSourceDate": "09 Jun 2026",
   "identifiers": [
     {
@@ -43,5 +41,7 @@
     }
   ],
   "relationships": [],
-  "source": [349]
+  "submittedBy": [
+    349
+  ]
 }

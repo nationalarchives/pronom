@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "ICDRAW icon is an icon format associated with the ICDRAW icon editor for the Atari Falcon computer. There are two versions of this file type. This entry relates to the second, a \"group icon file\" with the .ib3 extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/ICDRAW_icon",
   "lastUpdatedDate": "25 Oct 2022",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": null,
   "formatSourceDate": "25 Oct 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

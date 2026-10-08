@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The E57 file format is a format for storing point clouds, images, and metadata produced by 3D imaging systems.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://www.libe57.org/ \r\nhttps://www.ri.cmu.edu/pub_files/2011/1/2011-huber-e57-v3.pdf",
   "lastUpdatedDate": "09 Feb 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "31 Mar 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1194
         }
-      ]
+      ],
+      "provenance": "http://www.astm.org/Standards/E2807.htm\nhttp://www.libe57.org/"
     }
   ],
   "externalSignatures": [
@@ -53,5 +50,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

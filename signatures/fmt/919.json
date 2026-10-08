@@ -4,12 +4,9 @@
   "version": "3D Binary 2.0",
   "formatDescription": "AmiraMesh is the native general purpose format of Amira, a software platform for 3D and 4D data visualisation. While no public specification for the file format is available, a number of parsers of the format are available and the signatures within PRONOM represent the variants both witnessed and described by these parsers.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "06 Jul 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "06 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1541
         }
-      ]
+      ],
+      "provenance": "https://github.com/strawlab/py_amira_file_reader/blob/master/py_amira_file_reader/read_amira.py"
     }
   ],
   "externalSignatures": [
@@ -57,5 +54,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

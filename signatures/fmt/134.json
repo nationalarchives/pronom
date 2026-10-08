@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "MP3 is a digital audio format, formally known as MPEG-1 Audio Layer III or MPEG-2 Audio Layer III. A third variant, known as MPEG 2.5, which supports lower bit rates implemented by the LAME MP3 encoder among others, but is not a recognised standard.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "20 Jan 2020",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "MP3",
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,7 +51,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 358
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     },
     {
       "signatureID": 267,
@@ -78,7 +75,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 359
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     },
     {
       "signatureID": 268,
@@ -101,7 +99,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 360
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     },
     {
       "signatureID": 269,
@@ -124,7 +123,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 361
         }
-      ]
+      ],
+      "provenance": "DROID 5.0 research."
     },
     {
       "signatureID": 279,
@@ -139,7 +139,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 365
         }
-      ]
+      ],
+      "provenance": "Droid 5.0 research."
     },
     {
       "signatureID": 280,
@@ -154,7 +155,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 364
         }
-      ]
+      ],
+      "provenance": "Droid 5.0 signature research."
     },
     {
       "signatureID": 281,
@@ -169,7 +171,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 363
         }
-      ]
+      ],
+      "provenance": "Droid 5.0 signature research."
     },
     {
       "signatureID": 282,
@@ -184,7 +187,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 362
         }
-      ]
+      ],
+      "provenance": "Droid 5.0 signature research."
     },
     {
       "signatureID": 1733,
@@ -405,5 +409,7 @@
       "relatedFormatName": "VBM (VDC BitMap) File"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

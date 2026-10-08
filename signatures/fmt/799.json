@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "WriteNow was a Word Processing application for the Apple Macintosh. Its files usually lack a format extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Nov 2015",
-  "formatSourceID": 178,
-  "provenanceCompoundName": "National Library of New Zealand / National Library of New Zealand",
   "formatProvenance": null,
   "formatSourceDate": "26 Nov 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,5 +40,7 @@
   ],
   "externalSignatures": [],
   "relationships": [],
-  "source": [178]
+  "submittedBy": [
+    178
+  ]
 }

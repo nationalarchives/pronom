@@ -4,12 +4,9 @@
   "version": "4.0",
   "formatDescription": "The documents (files) created by Adobe Illustrator are PostScript language\r\ndocuments. A PostScript language document description that minimally conforms to the Document Structuring Conventions has two main parts: a prolog and a script. The prolog encapsulates information needed by other programs to interpret the file. The script describes the graphic elements on the page.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "19 Jul 2013",
-  "formatSourceID": 165,
-  "provenanceCompoundName": "Georgia Tech Research Institute / Georgia Tech Research Institute",
   "formatProvenance": "Specification available at http://mercator.elte.hu/~saman/hu/okt/AI7FileFormat.pdf",
   "formatSourceDate": "11 Jun 2012",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 1111
         }
-      ]
+      ],
+      "provenance": "http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf"
     }
   ],
   "externalSignatures": [
@@ -88,7 +85,13 @@
       "relatedFormatName": "Adobe Illustrator"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [165]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    165
+  ]
 }

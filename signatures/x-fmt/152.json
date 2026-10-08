@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Digital Video file format was developed as a videocassette format in the 1990s by a consortium of consumer video companies and is described in the IEC 61834 series of standards. DV video content utilizes Discrete Cosine Transform compression, but allows for higher quality than formats that use similar compression schemes. DV files can be \"raw\" with the .dv file extension or wrapped into video container formats.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "03 Jan 2025",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "v.120- New description added as part of PRONOM Research Week 2024. Submitted by Duke University Libraries.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Video",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,5 +33,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

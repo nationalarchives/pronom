@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The QDF file type is a financial data format. This is an outline record only, and requires further details, research or authentication to provide information that will enable users to further understand the format and to assess digital preservation risks associated with it if appropriate. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "02 Dec 2010",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Dec 2010",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 506
         }
-      ]
+      ],
+      "provenance": "Ongoing Digital Preservation research."
     }
   ],
   "externalSignatures": [
@@ -49,6 +46,10 @@
     }
   ],
   "relationships": [],
-  "developedBy": [51],
-  "source": [1]
+  "developedBy": [
+    51
+  ],
+  "submittedBy": [
+    1
+  ]
 }

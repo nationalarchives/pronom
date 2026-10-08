@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "An InDesign Book file is a collection of InDesign documents that can share styles, swatches, master pages, and other items. One document can belong to multiple book files. PRONOM currently doesn't distinguish between different format versions of INDB. Please let the PRONOM team know if this is desirable.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/InDesign_Book",
   "lastUpdatedDate": "24 Feb 2022",
-  "formatSourceID": 239,
-  "provenanceCompoundName": "The National Archives of Estonia / The National Archives of Estonia",
   "formatProvenance": null,
   "formatSourceDate": "10 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1842
         }
-      ]
+      ],
+      "provenance": "The PRONOM entries for Adobe InDesign Document distinguish between difefrent versions based on the byte at offset 0x1D. This could also be used for INDL and INDB. If this is followed it is recommended to retain this current entry as a 'generic' entry as a fallback if a particular format example doesn't have a recognised version number."
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [239]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    239
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "24",
   "formatDescription": "The Adobe Flash format, SWF, previously known as Shockwave Flash or Macromedia Shockwave Flash, and alternatively known as the Small Web Format, is a file format primarily designed for creating interactive multimedia applications. The format iterates rapidly, often in line with new releases of Adobe Flash or Adobe Air. Prior to version 6 all SWF files were uncompressed, however version 6 introduced the option of using zlib compression. Version 13 introduced the option of using LZMA compression.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "07 Aug 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf\r\nhttp://www.adobe.com/devnet/articles/flashplayer-air-feature-list.html",
   "formatSourceDate": "07 Aug 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 1455
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf\nhttp://www.adobe.com/devnet/articles/flashplayer-air-feature-list.html"
     },
     {
       "signatureID": 1113,
@@ -66,7 +63,8 @@
           "endianness": null,
           "byteSequenceID": 1362
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf\nhttp://www.adobe.com/devnet/articles/flashplayer-air-feature-list.html"
     },
     {
       "signatureID": 1129,
@@ -81,7 +79,8 @@
           "endianness": null,
           "byteSequenceID": 1378
         }
-      ]
+      ],
+      "provenance": "http://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/devnet/swf/pdf/swf-file-format-spec.pdf\nhttp://www.adobe.com/devnet/articles/flashplayer-air-feature-list.html"
     }
   ],
   "externalSignatures": [
@@ -102,7 +101,13 @@
       "relatedFormatName": "Adobe Flash"
     }
   ],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [1]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    1
+  ]
 }

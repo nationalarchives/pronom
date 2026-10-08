@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "ArcExplorer is a viewer and organiser for maps, which enables the user to access information about an area including GIS (Geographic Information System) data. The .aep project file is used to save user projects, including custom maps, comments, sketches and other GIS data. ArcExplorer has been superseded by ArcGIS Explorer.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.esri.com/en-us/arcgis/products/arcgis-field-maps/overview",
   "lastUpdatedDate": "03 Feb 2022",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "03 Feb 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,6 +45,10 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [221],
-  "source": [234]
+  "supportedBy": [
+    221
+  ],
+  "submittedBy": [
+    234
+  ]
 }

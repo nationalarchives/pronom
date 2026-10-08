@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "BIMx is a proprietary Building Information Modelling (BIM) format produced by Graphisoft architectural software applications such as Archicad. BIMx is referred to as a \u2018hyper-model\u2019 that can contain 3D models, along with views, layouts, camera paths and project documentation. It is intended as an interactive, presentational format rather than a creative or editorial one. Graphisoft provide a standalone viewer desktop and mobile application.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "25 Aug 2023",
-  "formatSourceID": 244,
-  "provenanceCompoundName": "Preservica / Preservica",
   "formatProvenance": null,
   "formatSourceDate": "25 Aug 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 2639
         }
-      ]
+      ],
+      "provenance": "No specification available so signature is based on observation from a selection of sample files."
     }
   ],
   "externalSignatures": [
@@ -57,6 +54,10 @@
     }
   ],
   "relationships": [],
-  "developedBy": [326],
-  "source": [244]
+  "developedBy": [
+    326
+  ],
+  "submittedBy": [
+    244
+  ]
 }

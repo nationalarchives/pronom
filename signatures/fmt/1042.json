@@ -4,12 +4,9 @@
   "version": "2.0",
   "formatDescription": "The WordPerfect Graphic file format (WPG) is primarily a vector graphic format, but it can store both bitmap and vector data. If you are able to help by supplying any additional information concerning this entry, please return to the main PRONOM page and select \u2018Add an Entry\u2019.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "11 Apr 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Apr 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1672
         }
-      ]
+      ],
+      "provenance": "Source - The File Formats Handbook, by Gunter Born"
     }
   ],
   "externalSignatures": [
@@ -55,7 +52,13 @@
       "relatedFormatName": "WordPerfect Graphics Metafile"
     }
   ],
-  "supportedBy": [35],
-  "developedBy": [35],
-  "source": [1]
+  "supportedBy": [
+    35
+  ],
+  "developedBy": [
+    35
+  ],
+  "submittedBy": [
+    1
+  ]
 }

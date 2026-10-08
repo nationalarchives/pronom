@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "SXG is a graphics format for the ZX Spectrum. SXG stands for \"Speccy eXtended Graphic\". Speccy is another name Spectrum is commonly known by its fan following. The ZX Spectrum is an 8-bit personal home computer developed by Sinclair Research, pioneered by Clive Sinclair. It was first released in the United Kingdom on 23 April 1982 and went on to become Britain's best-selling microcomputer. Games comprised the majority of commercial ZX Spectrum software. The SXG format was mostly used for graphics in early computer games on ZX Spectrum microcomputers.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://en.wikipedia.org/wiki/ZX_Spectrum\r\n\r\nhttp://fileformats.archiveteam.org/wiki/SXG_(ZX_Spectrum)\r\n\r\nhttp://www.computinghistory.org.uk/det/424/Sinclair-ZX-Spectrum-48k/\r\n\r\nhttps://www.theguardian.com/games/2021/sep/17/clive-sinclair-zx-spectrum-offbeat-brilliance",
   "lastUpdatedDate": "04 Jan 2022",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": null,
   "formatSourceDate": "04 Jan 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

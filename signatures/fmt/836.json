@@ -4,12 +4,9 @@
   "version": "7-8",
   "formatDescription": "Quattro Pro is a spreadsheet program originally developed by Borland and now part of Corel's WordPerfect Office suite.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "22 Dec 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "\tThis format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "22 Dec 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Spreadsheet",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,9 +40,12 @@
       "relatedFormatName": "Quattro Pro Spreadsheet for Windows"
     }
   ],
-  "supportedBy": [35],
-  "developedBy": [35],
-  "source": [1],
+  "supportedBy": [
+    35
+  ],
+  "developedBy": [
+    35
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -71,5 +70,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

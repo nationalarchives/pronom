@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The JPEG 2000 file format (JP2 file format) provides a foundation for storing application specific data (metadata) in association with a JPEG 2000 codestream, such as information which is required to display the image.  The JP2 file format encapsulates the JPEG 2000 codestream along with other core pieces of information about that codestream.  The building-block of the JP2 file format is called a box; all information contained within the format is contained in boxes.  There are several different box types; some boxes contain other boxes.  The binary structure of a file is a contiguous sequence of boxes.  The start of the first box is the first byte of the file, and the last byte of the last box is the last byte of the file.",
   "releaseDate": "15 Sep 2004",
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2012",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": "JPEG 2000",
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 323
         }
-      ]
+      ],
+      "provenance": "Digital preservation department research."
     }
   ],
   "externalSignatures": [
@@ -57,5 +54,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "5.0",
   "formatDescription": "The Corel Presentation Exchange file format is the presentation format of the CorelSuite applications. It is a recording of the display primitives of an application to a display interface. The CMX format supports Intel and Motorola binary formats.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "14 Aug 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "08/2023 (v.113) - Added priority over fmt/1886 (Resource Interchange Format (RIFF)). Submitted by New York Public Libraries and Preservica.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 480
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute. Refined through PRONOM research 25/10/2012. http://web.archive.org/web/20040928110755/http://ftp.corel.com/CorelSolutionPartners/CMXv8/CMXv800.pdf"
     }
   ],
   "externalSignatures": [
@@ -55,5 +52,7 @@
       "relatedFormatName": "Resource Interchange File Format (RIFF)"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

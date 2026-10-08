@@ -4,12 +4,9 @@
   "version": "4W",
   "formatDescription": "The Binary Interchange File Format (BIFF) is a spreadsheet file format developed by Microsoft. BIFF 4W is a native file format of Microsoft Excel 4.0 for Windows. Excel 4.0 allowed either a single worksheet to be stored as a worksheet file (BIFF 4S), or for multiple worksheets to be combined in a single workbook file (BIFF 4W). The format is proprietary and Microsoft does not make details of its structure public. The information contained here is derived primarily from OpenOffice.org's reverse-engineered documentation of the format, and should not therefore be regarded as definitive. BIFF is a stream based format, and a BIFF 4W file comprises a Workbook Globals Substream, containing a Beginning of File (BOF) record, one or more embedded Worksheet streams (in BIFF 4S format), and terminated by an End of File (EOF) record.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "19 Jul 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": "None",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "Microsoft Excel Workbook (4.0)",
   "formatTypes": "Spreadsheet",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,10 +40,11 @@
           "offset": 0,
           "maxOffset": null,
           "byteSequence": "09040600(0000|0004)0001",
-          "endianness": null,
+          "endianness": "Little-endian",
           "byteSequenceID": 192
         }
-      ]
+      ],
+      "provenance": "www.openoffice.org/sc/excelfileformat.pdf\nwww.idea2ic.com/File_Formats/MICROSOFT%20EXCEL%20FILE%20FORMATxls.pdf\nwww.opennet.ru/docs/formats/xls.txt"
     }
   ],
   "externalSignatures": [
@@ -68,7 +65,13 @@
       "relatedFormatName": "Microsoft Excel 3.0 Worksheet (xls)"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    1
+  ]
 }

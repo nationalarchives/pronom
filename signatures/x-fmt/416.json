@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "BinHex or Binary to Hexadecimal is a text encoded system primary used for Macintosh Classic systems when transferring over email and for transferring online. The file can include the data and resource fork of a file along with original names, type, and creator. It can be combined with MacBinary, Stuffit and others. Encoding uses a 16-bit CRC for validation.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "http://fileformats.archiveteam.org/wiki/BinHex\r\nhttps://preservation.tylerthorsted.com/2023/09/29/binhex/",
   "lastUpdatedDate": "15 Apr 2024",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "04/2024 (v.118)- Signature modified to increase max-offset by 4k, beginning and ending colon added for conformance to specification. Description, notefield and MIME type updated. Submitted by Brigham Young University.",
   "formatSourceDate": "02 Dec 2010",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 2704
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010). 04/2024(v.117)- 4k offset added to BOF before main identifiable string. Beginning and ending colon added in conformance with the specification. Submitted by Brigham Young University; v.122- EOF sequence offset modified to include bytes 0-64. Submitted by Archives nationales de France and Brigham Young University."
     }
   ],
   "externalSignatures": [
@@ -61,5 +58,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

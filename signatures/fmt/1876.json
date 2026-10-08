@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The HMM Packfile is a game data format that packages files for distribution with digital games.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/HMM_Packfile",
   "lastUpdatedDate": "04 Jul 2023",
-  "formatSourceID": 320,
-  "provenanceCompoundName": "Ross Spencer / Ravensburger AG",
   "formatProvenance": null,
   "formatSourceDate": "04 Jul 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [320]
+  "submittedBy": [
+    320
+  ]
 }

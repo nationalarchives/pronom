@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "MAKIchan is a family of raster image file formats developed in the early 1990s by Woody-Rinn, a Japanese software developer. The first specificaiton, MAKI v1, refers and relates to .mki files. The second specificaiton, MAKI v2, is for .mag and .max files, with the latter supporting higher resolutions, as well as the native YJK colour model for MSX2 computers.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/MAKIchan_Graphics\r\n\r\nhttps://mooncore.eu/bunny/txt/makichan.htm\r\n\r\nhttps://ja.wikipedia.org/wiki/MAG%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88",
   "lastUpdatedDate": "16 Oct 2021",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": null,
   "formatSourceDate": "16 Oct 2021",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -98,5 +94,7 @@
       "relatedFormatName": "3DS Max"
     }
   ],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

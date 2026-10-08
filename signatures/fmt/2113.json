@@ -4,8 +4,6 @@
   "formatDescription": "TIGER/Line Files are extracts of selected geographic and cartographic information from the US Census Bureau's Master Address File (MAF)/Topologically Integrated Geographic Encoding and Referencing (TIGER) system. Before 2007 these were constructed of ZIP files containing ASCII data. Each ZIP represents a single county or equivalent. Each ZIP contains a number of 'Record Type' files. In the 2000 Census data there were up to 17 Record Type files per ZIP, with each named RTx where x represents a value for the nature of the Record Type, so e.g. Record Type 1 = <filename>.RT1, Record Type Z = <filename>.RTZ. In the 1992 Census data the internal files had an .F5x extension, where x represents the value for each record type.",
   "binaryFileFormat": null,
   "formatTypes": "Dataset, GIS",
-  "source": [244],
-  "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {
       "identifierText": "fmt/2113",
@@ -30,7 +28,8 @@
           "endianness": null,
           "byteSequenceID": 4874
         }
-      ]
+      ],
+      "provenance": "Although these are zip files it is not currently possible to create Container Signature identification due to the variable nature of file naming within the zip. It may be possible to strengthen the signature with the use of part of the extension. According to the 2000 specification the extension was standardised in the 1997 update, and after 1997 this was \u2018.RTx\u2019, with x having one of many different alphanumeric values representing different \u2018record types\u2019, however at the time of research the only earlier data readily available was from 1992, for which the extensions appear to follow the pattern \u2018.F5x\u2019 but it is unclear what the extensions may have been during other years from 1989 to 1997. As such the current pattern used is: 'PK' 0x0304 {26} 'TGR' [0-9][0-9][0-9][0-9][0-9] '.'"
     }
   ],
   "externalSignatures": [
@@ -50,5 +49,8 @@
   "formatNote": "Specifications for TIGER/Line can be found on the US Census Bureau website: https://www.census.gov/programs-surveys/geography/technical-documentation/complete-technical-documentation/tiger-geo-line.html",
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
-  "fileFormatID": 4989
+  "fileFormatID": 4989,
+  "submittedBy": [
+    244
+  ]
 }

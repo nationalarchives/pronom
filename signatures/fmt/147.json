@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This 'exchange standard' format is based on Adobe's PDF specification and includes additional notes specifically for delivery of high quality colour advertisements. A subset of the PDF specification, and an application standard as well as a file format standard, it is considered a 'more reliable' PDF file. There are several versions of the standard, to address specific issues, and PDF/X-2 is a superset of PDF/X-3, which was based on PDF 1.4 (2003).",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "22 Oct 2009",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 Feb 2007",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": "PDF/X-2:2003",
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 865
         }
-      ]
+      ],
+      "provenance": "http://www.npes.org/pdf/PDF-X-Application-Notes_V4-sep06.pdf"
     }
   ],
   "externalSignatures": [
@@ -117,5 +114,7 @@
       "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 3:2002"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Waveform Audio (PCMWAVEFORMAT) is the standard Waveform Audio file format, developed by Microsoft. It has now been superseded by Waveform Audio (WAVEFORMATEX), an extended version.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "23 Jun 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 Feb 2007",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": "WAVE",
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 751
         }
-      ]
+      ],
+      "provenance": "WAVE PCM soundfile format\nhttps://ccrma.stanford.edu/courses/422/projects/WaveFormat/"
     }
   ],
   "externalSignatures": [
@@ -103,6 +100,10 @@
       "relatedFormatName": "Waveform Audio"
     }
   ],
-  "developedBy": [93],
-  "source": [1]
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    1
+  ]
 }

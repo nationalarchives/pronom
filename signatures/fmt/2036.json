@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Files created when a Daisy Talking Book Project is made using Plextalk software. Three files called Ncc.imdn, ImdPhrInfo.imph, ImdTxtTabl.imtt are automatically created each time; these files are called Plextalk project files. They store tables of contents, information etc., and may not be crucial to the playing of the Daisy format, but they are important to the PlexTalk software.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://www.plextalk.com/jp/dw_data/PRSStd/PLEX_RS_UM.html\r\nhttps://preservation.tylerthorsted.com/2024/10/04/daisy/ \r\nhttps://github.com/digital-preservation/PRONOM_Research/tree/main/Submissions/Daisy",
   "lastUpdatedDate": "29 Jan 2025",
-  "formatSourceID": 299,
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "formatProvenance": null,
   "formatSourceDate": "29 Jan 2025",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [299]
+  "submittedBy": [
+    299
+  ]
 }

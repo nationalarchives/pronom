@@ -4,12 +4,9 @@
   "version": "4",
   "formatDescription": "Autodesk Revit is 3D modeling software. RTE (template) files and RVT (project) files are actual Revit projects. RFA (family) files and RFT (family template) files are family files that can either be loaded into a project or saved externally.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Jan 2020",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "20 Jan 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -71,9 +67,12 @@
       "relatedFormatName": "Autodesk Revit Family File"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [220],
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -88,5 +87,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    220
   ]
 }

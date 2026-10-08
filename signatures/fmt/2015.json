@@ -4,12 +4,9 @@
   "version": "3",
   "formatDescription": "KryoFlux is a software-programmable FDC (Floppy Disk Controller) system that runs on small ARM7-based devices and connects to a host PC over a USB connector. It reads and writes flux transitions on floppy disks at a very fine resolution.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "22 Aug 2024",
-  "formatSourceID": 355,
-  "provenanceCompoundName": "University of Alberta / University of Alberta",
   "formatProvenance": null,
   "formatSourceDate": "22 Aug 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,5 +51,7 @@
       "relatedFormatName": "KryoFlux"
     }
   ],
-  "source": [355]
+  "submittedBy": [
+    355
+  ]
 }

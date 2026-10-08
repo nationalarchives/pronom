@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "A log file is an usually human-readable plain text file that records (= logs) activities or events occuring in or behaviors of an operating system or other software runs.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "Description provided by Stadtarchiv Hof (Municipal Archives of Hof, Free State of Bavaria, Germany).",
   "lastUpdatedDate": "23 Sep 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,5 +29,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

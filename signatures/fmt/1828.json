@@ -4,12 +4,9 @@
   "version": "2007 onwards",
   "formatDescription": "XLSX Strict is the implementation of the Office Open XML spreadsheet format that strictly conforms to the ISO 29500-1: 2008-2016 standard.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Feb 2023",
-  "formatSourceID": 301,
-  "provenanceCompoundName": "Danish National Archives / Danish National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "14 Feb 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Spreadsheet",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,9 +43,12 @@
       "relatedFormatName": "Microsoft Excel for Windows"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [301],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -74,5 +73,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    301
   ]
 }

@@ -4,12 +4,9 @@
   "version": "Generic",
   "formatDescription": "Navisworks (known for a while as JetStream) is a 3D design review package, currently developed and maintanced by Autodesk. This generic PRONOM entry is a catchall for Navisworks Documents where the version number is presently unknown. If you have a file like this and know the version then please contact the PRONOM team.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "09 Jan 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "09 Jan 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1489
         }
-      ]
+      ],
+      "provenance": "The format seems to usually begin with: \n#LcUStream-V1.1 binary double release C lichunk-###\nWhere ### is a numerical value. Values 007 and 008 have been seen so it is possible to infer the existence of values 001 through 006, and conjecture the possibility of higher values, so for identification purposes we will rely on everything upto the number, except where we are able to provide greater specificity. Version numbers are based on this page:\n\nhttp://www.davetyner.com/forum/forum/autodesk-plant-design-suite/autodesk-navisworks/11121-nwd-file-version"
     }
   ],
   "externalSignatures": [
@@ -69,7 +66,13 @@
       "relatedFormatName": "Navisworks Document"
     }
   ],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [1]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "submittedBy": [
+    1
+  ]
 }

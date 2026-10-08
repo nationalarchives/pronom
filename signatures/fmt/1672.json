@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "ZMAGIC file format is a type of a.out (an abbreviated form of \"assembler output\") executable binary format used with Unix-like operating systems. The format was superseded by ELF file format with System V Release 4 around 1898, due to some limitations of the format. The ZMAGIC was the default a.out file format before they switched to QMAGIC files. Both formats of executable have a 32 byte header at the start of the file, but with ZMAGIC the .text section starts at byte offset 1024, while with QMAGIC the .text section starts at the beginning of the file and includes the header.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": "https://www.linuxjournal.com/article/1059\r\n\r\nhttps://www.linux.org/threads/types-of-executables.9206/\r\n\r\nhttp://ftp.icm.edu.pl/packages/linux-uk/alpha/alpha/asm8.html#obj_file_formats_section\r\n\r\nhttps://www.win.tue.nl/~aeb/linux/lk/lk-3.html\r\n\r\nhttps://en.wikipedia.org/wiki/A.out\r\n\r\nhttps://wiki.osdev.org/A.out",
   "lastUpdatedDate": "14 Nov 2023",
-  "formatSourceID": 180,
-  "provenanceCompoundName": "The National Archives and Records Administration / The National Archives and Records Administration",
   "formatProvenance": "11/2023 (v.115)- File format type removed and description amended. Submitted by the Natinoal Archives and Records Administration.",
   "formatSourceDate": "22 Apr 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -53,5 +49,7 @@
     }
   ],
   "relationships": [],
-  "source": [180]
+  "submittedBy": [
+    180
+  ]
 }

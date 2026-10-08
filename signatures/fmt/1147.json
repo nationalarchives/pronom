@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Maxwell Render is a 3D render engine developed by Next Limit Technologies. The Maxwell Scene contains all the geometry in a Maxwell Render scene, as well as cameras and their settings, materials and material assignments.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "23 Jul 2018",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": null,
   "formatSourceDate": "23 Jul 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [216]
+  "submittedBy": [
+    216
+  ]
 }

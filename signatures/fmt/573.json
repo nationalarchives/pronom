@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "WebM is a media file format, developed by Google based on the Extensible Binary Meta Language.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "28 Aug 2013",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "http://www.webmproject.org/docs/container/",
   "formatSourceDate": "28 Aug 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Video",
-  "byteOrders": null,
   "formatFamilies": "EBML",
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 1135
         }
-      ]
+      ],
+      "provenance": "http://matroska.org/technical/specs/index.html http://www.webmproject.org/code/specs/container/"
     }
   ],
   "externalSignatures": [
@@ -53,7 +50,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [141],
-  "developedBy": [141],
-  "source": [1]
+  "supportedBy": [
+    141
+  ],
+  "developedBy": [
+    141
+  ],
+  "submittedBy": [
+    1
+  ]
 }

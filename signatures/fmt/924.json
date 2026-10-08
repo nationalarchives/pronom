@@ -4,12 +4,9 @@
   "version": "2013",
   "formatDescription": "Microsoft Visio is a diagramming and vector graphics application and is part of the Microsoft Office family. Visio 2013 introduced file formats based upon Open Packaging Conventions and XML. Further information about these formats can be found here: https://msdn.microsoft.com/en-us/library/office/jj228622.aspx",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "08 Jul 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "08 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector), Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,9 +39,12 @@
       "relatedFormatName": "Microsoft Visio Drawing"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [1],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "ZIP",
@@ -69,5 +68,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

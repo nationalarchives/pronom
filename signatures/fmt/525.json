@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Printer Font Binary (.pfb) is a type 1 font made by Adobe and other companies.They are encrypted and compressed and also allow for hints, which improve the appearance of text at 300 dpi and lower resolutions. With Adobe Type Manager, Type 1 fonts can also be used on non-PostScript printers. However, Mac OS X and Windows, starting with Windows 2000, natively support Type 1 fonts, and Adobe Type Manager is not required.\r\nResearch done by The National Archives.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "12 Nov 2013",
-  "formatSourceID": 188,
-  "provenanceCompoundName": "The Borthwick Institute for Archives / The Borthwick Institute for Archives",
   "formatProvenance": null,
   "formatSourceDate": "01 May 2013",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1021
         }
-      ]
+      ],
+      "provenance": "http://partners.adobe.com/public/developer/en/font/5040.Download_Fonts.pdf"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [7],
-  "developedBy": [7],
-  "source": [188]
+  "supportedBy": [
+    7
+  ],
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    188
+  ]
 }

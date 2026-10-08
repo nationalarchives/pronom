@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "HP System Software Manager is a software deployment utility for distributing software packages and updates. The CVA file describes the deliverable package and any required parameters for deployment.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Aug 2018",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "20 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1861
         }
-      ]
+      ],
+      "provenance": "https://whp-aus2.cold.extweb.hp.com/pub/caps-softpaq/cmit/whitepapers/SSM_UserGuide.pdf"
     }
   ],
   "externalSignatures": [
@@ -49,7 +46,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [45],
-  "developedBy": [45],
-  "source": [1]
+  "supportedBy": [
+    45
+  ],
+  "developedBy": [
+    45
+  ],
+  "submittedBy": [
+    1
+  ]
 }

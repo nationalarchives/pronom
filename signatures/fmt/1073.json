@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Google document link files are text based files written in the format of JSON (JavaScript Object Notation). They \r\r\nprovide a URL link to the Google document held in Google Drive.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Nov 2023",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "11/2023 (v.115)- Modified the offset values in the internal signature from null to 0 as part of a project to match PRONOM data with the xsd standard. Internally researched.",
   "formatSourceDate": "19 Jul 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Structured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1709
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.115)- Modified the offset values from null to 0 as part of a project to match PRONOM data with the xsd standard. Internally researched."
     }
   ],
   "externalSignatures": [
@@ -73,7 +70,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [141],
-  "developedBy": [141],
-  "source": [1]
+  "supportedBy": [
+    141
+  ],
+  "developedBy": [
+    141
+  ],
+  "submittedBy": [
+    1
+  ]
 }

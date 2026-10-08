@@ -4,12 +4,9 @@
   "version": "98",
   "formatDescription": "Microsoft Project 98 is project managment software that lets you plan, manage, and communicate project information. File format contained within a compound object.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "03 Jan 2025",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures; v.120- New description added as part of PRONOM Research Week 2024. Submitted by Brigham Young University.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -37,7 +33,6 @@
     }
   ],
   "relationships": [],
-  "source": [1],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -72,5 +67,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    1
   ]
 }

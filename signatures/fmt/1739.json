@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "UDF-ISO 9660 Bridge Disc is a format that stores contents and structure of an optical disc which can be transferred on the other media. It uses Universal Disk Format (UDF) file system developed for optical media by the Optical Storage Technology Association (OSTA), as well as ISO 9660 International Organization for Standardization (ISO). This format acts as a support for discs where ISO 9660 and UDF formats all reside on the same optical disc. It can be used in video applications, such as DVD-Video, DVD+VR, and DVD-VR. A disk image is a uncompressed copy of the contents of a disk or a folder, it can facilitate certain types of backup and recovery strategies. Please see ID: fdd000348 from Library of Congress and other links attached to this entry for further information.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/Universal_Disk_Format\r\n\r\nhttp://fileformats.archiveteam.org/wiki/ISO_9660\r\n\r\nhttps://www.loc.gov/preservation/digital/formats/fdd/fdd000348.shtml\r\n\r\nhttps://en.wikipedia.org/wiki/Optical_disc_image\r\n\r\nhttps://docs.microsoft.com/en-us/windows/win32/imapi/disc-formats",
   "lastUpdatedDate": "15 Aug 2023",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "08/2023- Max-offset modified for both BOF signatures to allow for more exact signature identification. Internally researched.",
   "formatSourceDate": "17 Aug 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 2405
         }
-      ]
+      ],
+      "provenance": "08/2023- Max-offset modified for BOF signatures to allow for more exact signature identification. Internally researched."
     }
   ],
   "externalSignatures": [
@@ -90,5 +87,7 @@
       "relatedFormatName": "UDF Disc Image"
     }
   ],
-  "source": [220]
+  "submittedBy": [
+    220
+  ]
 }

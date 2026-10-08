@@ -4,12 +4,9 @@
   "version": "1b",
   "formatDescription": "The Portable Document Format/ Archive is a format designed for long term preservation by Adobe Systems. PDF/A is a simplified version of PDF 1.4, with all of the features from PDF 1.4 that would impede long term preservation removed. Removed features include Javascript, Audio/Visual content, LZW compression and encryption. A major principle of PDF/A is that it is self contained and not reliant on externalities thus all font and colour information is encoded into the file. PDF/A files are larger than other types of PDF files due to the need for embedded information.\r\nPDF/A supports two levels of compliance PDF/A1-a (Accessible) and PDF/A1-b (Basic). PDF/A1-a is fully ISO 19005-1:2005 (PDF/A-1) compliant whereas PDF/A1-b is less stringent and not compliant. PDF/A1-a requires tagged PDF and Unicode whereas PDF/A1-b does not.\r\nThe signature identification proposed for PDF/A 1b has been tested against a number of PDF/A and PDF files for verification. However, PDF itself is a complex format, and while the PDF/A 1b signature contained in PRONOM will identify many PDF/A 1b files, DROID can only identify what a file asserts itself to be. As there are a number of ways in which PDF/A 1b files can violate the PDF/A 1b conformance, which can not be spotted until the file is parsed, it is recommended that PDF files are tested against validation software when attempting to confirm identification. Further information concerning PDF/A violations, and a test suite of PDF items which fail to conform to PDF/A standards, can be found at http://www.pdfa.org/2011/08/isartor-test-suite/",
   "releaseDate": "01 Oct 2005",
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "11 Feb 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "Additional information regarding violations of PDF/A 1b conformance added November 2011.\r\nAdditional information regarding violations of PDF/A 1b conformance added February 2014.",
   "formatSourceDate": "11 Jul 2011",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Page Description",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,7 +51,8 @@
           "endianness": null,
           "byteSequenceID": 643
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research following request from Archaeology Data Service. Signature further refined Nov 2011 with additional EOF sequence in order to avoid misidentifying some PDF/A's which contain 1b conformance declaration, but which are invalid as PDF/A 1b's."
     },
     {
       "signatureID": 966,
@@ -78,7 +75,8 @@
           "endianness": null,
           "byteSequenceID": 1187
         }
-      ]
+      ],
+      "provenance": "Ongoing DROID research following request from Antonio Dalvit. Signature further refined Feb 2014 to allow variations in the additional byte sequence order, in order to avoid misidentifying some PDF/A's which contain 1b conformance declaration as PDF's."
     }
   ],
   "externalSignatures": [
@@ -129,5 +127,7 @@
       "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

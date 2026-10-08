@@ -4,12 +4,9 @@
   "version": "1.0",
   "formatDescription": "The Digital Negative (DNG) Specification describes a non-proprietary file format for storing camera raw files that can be used by a wide range of hardware and software vendors.  DNG is an extension of the TIFF 6.0 format, and is compatible with the TIFF-EP standard.  \r\nThis initial version accompanied the launch of DNG and related products. It was a rare, possibly unique, example of a raw image format specification published by its owner. It was adequate for representing typical images, but it had a few errors and deficiencies (specifically the lack of support for \"masked pixels\" and an inadvertent deviation from the JPEG specification) that required it soon to be replaced by the next version.",
   "releaseDate": "27 Sep 2004",
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "16 Nov 2023",
-  "formatSourceID": 7,
-  "provenanceCompoundName": null,
   "formatProvenance": "11/2023 (v.116)- New MIME type identifier 'image/dng' added and max offset of EOF internal signatures increased to 128000. Submitted by Brigham Young University.",
   "formatSourceDate": "11 Jun 2012",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 802
         }
-      ]
+      ],
+      "provenance": "Digital Negative (DNG) Specification Version 1.3.0.0\nhttp://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec.pdf"
     },
     {
       "signatureID": 657,
@@ -70,7 +67,8 @@
           "endianness": "Little-endian",
           "byteSequenceID": 804
         }
-      ]
+      ],
+      "provenance": "Digital Negative (DNG) Specification Version 1.3.0.0\nhttp://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec.pdf; 11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     },
     {
       "signatureID": 658,
@@ -85,7 +83,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 805
         }
-      ]
+      ],
+      "provenance": "Digital Negative (DNG) Specification Version 1.3.0.0\nhttp://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec.pdf"
     },
     {
       "signatureID": 659,
@@ -108,7 +107,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 807
         }
-      ]
+      ],
+      "provenance": "Digital Negative (DNG) Specification Version 1.3.0.0\nhttp://wwwimages.adobe.com/www.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec.pdf; 11/2023 (v.116)- EOF max-offset increased to 128000. Submitted by Brigham Young University."
     }
   ],
   "externalSignatures": [
@@ -159,5 +159,7 @@
       "relatedFormatName": "Tagged Image File Format"
     }
   ],
-  "source": [7]
+  "submittedBy": [
+    7
+  ]
 }

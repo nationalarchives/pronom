@@ -4,12 +4,9 @@
   "version": "2-3 (generic)",
   "formatDescription": "ClarisWorks was a productivity suite developed by the Apple subsidiary, Claris, which was later renamed AppleWorks as of version 5. ClarisWorks included a drawing program, a word processor, a spreadsheet program, a database program, and a painting program.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Mar 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "26 Mar 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database, Image (Raster), Image (Vector), Spreadsheet, Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -105,7 +101,13 @@
       "relatedFormatName": "ClarisWorks"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    1
+  ]
 }

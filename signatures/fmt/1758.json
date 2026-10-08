@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Media Descriptor File is created by the software Alcohol %120, developed by Alcohol Soft. It is a CD/DVD image format. The Media Descriptor File is often accompanied by a sidecar file with the extension .mds. This file contains metadata and structural information about the disc image. This format supports mixed mode CDs and can contain both audio and data tracks.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "26 Aug 2022",
-  "formatSourceID": 293,
-  "provenanceCompoundName": "The Royal Danish Library / The Royal Danish Library",
   "formatProvenance": null,
   "formatSourceDate": "26 Aug 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,5 +29,7 @@
     }
   ],
   "relationships": [],
-  "source": [293]
+  "submittedBy": [
+    293
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "AutoCAD slide files are screen images. A slide file consists of a header portion and one or more data records of variable length. Data records follow the header. Each data record begins with a field whose high-order byte is the record type. If a slide contains any vectors at all, a New colour record will be the first data record. The order of the vectors in a slide, and the order of the endpoints of those vectors, may vary.\r\nThe slide format described in the previous paragraph is produced by AutoCAD Release 9 and later, and is portable among all computers running AutoCAD Release 9 or later. Previous versions of AutoCAD (as well as AutoShade 1.0 and AutoSketch 1.02) produce slides with a somewhat different header. Note that the old-format header does not contain a Test number field. The floating-point aspect ratio value and all 2-byte integers are written in the native format of the CPU that was used to create the file (for 8086-family CPUs, IEEE double-precision, and low-order byte first). Old-format slide files are not portable across machine types, but they can be read by any version of AutoCAD running on the same CPU type as the CPU with which the slide was created.\r\nFile specifications are available at http://www.autodesk.com/techpubs/autocad/acadr14/dxf/slide_file_format_al_u05_b.htm",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "29 Nov 2011",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "File format information supplied by NARA Information Services/Applied Research Division, The National Archives and Records Administration.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -51,7 +47,8 @@
           "endianness": null,
           "byteSequenceID": 433
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute (Candidate Internal Signatures for File Formats in PRONOM Registry; 05/06/2010)."
     }
   ],
   "externalSignatures": [
@@ -61,6 +58,10 @@
     }
   ],
   "relationships": [],
-  "developedBy": [18],
-  "source": [1]
+  "developedBy": [
+    18
+  ],
+  "submittedBy": [
+    1
+  ]
 }

@@ -4,12 +4,9 @@
   "version": "2.x",
   "formatDescription": "glTF (GL Transmission Format) is a royalty-free specification for the transmission and loading of 3D scenes and models by applications. It is an API-neutral runtime asset delivery format. glTF bridges the gap between 3D content creation tools and modern 3D applications by providing an extensible, interoperable format for the transmission and loading of 3D content.\r\nThe gltf contains a JSON format that must contain a top-level \"asset\" property. The \"asset\" property must contain a \"version\" property with a value equal to \"1.0\".\r\nFull specification of the format can be found at https://github.com/KhronosGroup/glTF/blob/master/specification/1.0/README.md\r\nA glTF Overview can be found at https://www.khronos.org/gltf",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "13 Mar 2023",
-  "formatSourceID": 244,
-  "provenanceCompoundName": "Preservica / Preservica",
   "formatProvenance": null,
   "formatSourceDate": "18 Jan 2020",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -61,7 +57,13 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [219],
-  "developedBy": [219],
-  "source": [244]
+  "supportedBy": [
+    219
+  ],
+  "developedBy": [
+    219
+  ],
+  "submittedBy": [
+    244
+  ]
 }

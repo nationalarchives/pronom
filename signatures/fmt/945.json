@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Ogg is a free, open container format maintained by the Xiph.Org Foundation. The Ogg container format can multiplex a number of independent streams for audio, video, text, and metadata.\r\n\r\nTheora is a free, lossy video compression format also developed by the Xiph.Org Foundation.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "21 Jul 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "21 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Video",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -83,5 +79,7 @@
       "relatedFormatName": "Ogg Multimedia Container"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

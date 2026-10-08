@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The File Allocation Table is a file system architecture used across a range of computer systems. This entry aims to capture instances where the file system has been exported as a portable disk image. It may be possible and desirable to distinguish between different types of FAT image. Please contact the PRONOM team if you can assist with this.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "21 Aug 2017",
-  "formatSourceID": 225,
-  "provenanceCompoundName": "National Library of Scotland / National Library of Scotland",
   "formatProvenance": null,
   "formatSourceDate": "21 Aug 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1727
         }
-      ]
+      ],
+      "provenance": "Based largely on https://en.wikipedia.org/wiki/Design_of_the_FAT_file_system with reference to http://thestarman.pcministry.com/asm/mbr/DOS50FDB.htm"
     }
   ],
   "externalSignatures": [
@@ -63,5 +60,7 @@
       "relatedFormatName": "exFAT (Extensible File Allocation Table) Disc Image"
     }
   ],
-  "source": [225]
+  "submittedBy": [
+    225
+  ]
 }

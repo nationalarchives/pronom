@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Ogg is a free, open container format maintained by the Xiph.Org Foundation. The Ogg container format can multiplex a number of independent streams for audio, video, text, and metadata.\r\n\r\nIn the Ogg multimedia framework, Theora provides a lossy video layer. The audio layer is commonly provided by the music-oriented Vorbis format. Other audio coding format options include the Opus compression format, the lossless audio compression format FLAC, Speex for low bitrate voice data, and OggPCM for uncompressed PCM audio.\r\n\r\nThis generic entry applies where available PRONOM signatures for Ogg do not yet apply to the file in question. In this instance you may wish to contact pronom@nationalarchives.gov.uk to help improve PRONOM's signatures.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "21 Jul 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "21 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio, Video",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -116,5 +112,7 @@
       "relatedFormatName": "Ogg Speex Codec Multimedia File"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

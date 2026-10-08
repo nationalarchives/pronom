@@ -4,12 +4,9 @@
   "version": "5-9",
   "formatDescription": "GraphPad Prism is a program that combines scientific graphing and statistics for data analysis. The pzfx format can be opened only by GraphPad Prism 5 or later. The first part of the file contains all the data tables and info sheets in a plain-text XML format that can be viewed by other programs. After that there is information about results, graphs and layouts embedded in the XML as a binary format specific to the Prism application.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "Mimetype: https://www.graphpad.com/support/faq/mime-types-for-prism-files/\r\nSignature: https://www.graphpad.com/support/faq/how-can-a-prism-file-be-identified/\r\nGeneral info: https://www.graphpad.com/guides/prism/latest/user-guide/pzf_vs__pzfx_file_format.htm\r\nSchema: https://www.graphpad.com/support/faq/prism-xml-style-sheet-and-schema-that-define-the-pzfx-format/",
   "lastUpdatedDate": "22 Aug 2024",
-  "formatSourceID": 350,
-  "provenanceCompoundName": "Portico / Portico",
   "formatProvenance": null,
   "formatSourceDate": "22 Aug 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -64,5 +60,7 @@
       "relatedFormatName": "GraphPad Prism"
     }
   ],
-  "source": [350]
+  "submittedBy": [
+    350
+  ]
 }

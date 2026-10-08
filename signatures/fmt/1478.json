@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Unisig is a uniform signature scheme for binary file formats and network protocols created by Lassi Kortela and John Cowan. It is intended as a building block for other format vendors to provide a reliable mechanism for file format identification. Unisig itself doesn't have a specific extension or media type - it is intended that format vendors using Unisig will provide their own.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "19 Oct 2021",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "19 Oct 2021",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,10 +35,13 @@
           "endianness": null,
           "byteSequenceID": 2143
         }
-      ]
+      ],
+      "provenance": "https://github.com/unisig/unisig"
     }
   ],
   "externalSignatures": [],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

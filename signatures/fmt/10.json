@@ -4,12 +4,9 @@
   "version": "6",
   "formatDescription": "PUID deprecated. Please see fmt/353 for information on Tagged Image File Format.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Binary",
   "formatNote": null,
   "lastUpdatedDate": "07 Jul 2011",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "11 Mar 2005",
   "formatDisclosure": "Full",
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -64,5 +60,7 @@
       "relatedFormatName": "Tagged Image File Format for Internet Fax (TIFF-FX)"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

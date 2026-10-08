@@ -1,7 +1,6 @@
 {
   "fileFormatID": 3942,
   "formatName": "XYZ Coordinate Data",
-  "provenanceCompoundName": "Preservica / Preservica",
   "identifiers": [
     {
       "identifierText": "fmt/2067",
@@ -16,5 +15,7 @@
     }
   ],
   "relationships": [],
-  "source": [244]
+  "submittedBy": [
+    244
+  ]
 }

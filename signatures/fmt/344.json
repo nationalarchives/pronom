@@ -4,12 +4,9 @@
   "version": "2.0",
   "formatDescription": "The Enhanced Metafile format is a 32-bit format that can contain both vector information and bitmap information. This format contains extended features over the Windows Metafile Format, including built-in scaling information, and improvements in color palettes and device independence.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "21 Apr 2011",
-  "formatSourceID": 165,
-  "provenanceCompoundName": "Georgia Tech Research Institute / Georgia Tech Research Institute",
   "formatProvenance": "Submitted by Georgia Tech Research Institute",
   "formatSourceDate": "21 Apr 2011",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Vector)",
-  "byteOrders": "Little-endian (Intel)",
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 595
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 479,
@@ -58,7 +55,8 @@
           "endianness": null,
           "byteSequenceID": 596
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 480,
@@ -73,7 +71,8 @@
           "endianness": null,
           "byteSequenceID": 597
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     }
   ],
   "externalSignatures": [
@@ -94,5 +93,7 @@
       "relatedFormatName": "Microsoft Windows Enhanced Metafile"
     }
   ],
-  "source": [165]
+  "submittedBy": [
+    165
+  ]
 }

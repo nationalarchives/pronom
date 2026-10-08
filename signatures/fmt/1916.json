@@ -4,12 +4,9 @@
   "version": "7",
   "formatDescription": "The proprietary file format used by Autodesk Alias products, a family of computer-aided industrial design (CAID) software predominantly used in automotive and industrial design. Files of this type lack an extension.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.autodesk.com/products/alias-products/overview?term=1-YEAR&tab=subscription&plc=ALSCPT",
   "lastUpdatedDate": "21 Sep 2023",
-  "formatSourceID": 216,
-  "provenanceCompoundName": "The Canadian Centre for Architecture / The Canadian Centre for Architecture",
   "formatProvenance": null,
   "formatSourceDate": "21 Sep 2023",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,7 +40,13 @@
   ],
   "externalSignatures": [],
   "relationships": [],
-  "supportedBy": [18],
-  "developedBy": [18],
-  "source": [216]
+  "supportedBy": [
+    18
+  ],
+  "developedBy": [
+    18
+  ],
+  "submittedBy": [
+    216
+  ]
 }

@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Silicon Graphics Image (SGI) or the RGB file format is the native raster graphics file format for Silicon Graphics workstations",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "16 Mar 2012",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": "Big-endian",
           "byteSequenceID": 770
         }
-      ]
+      ],
+      "provenance": "Paul Haeberli . The SGI Image File Format, Version 1.00, Silicon Graphics Computer Systems\nhttp://paulbourke.net/dataformats/sgirgb/sgiversion.html"
     }
   ],
   "externalSignatures": [
@@ -57,5 +54,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

@@ -2,8 +2,6 @@
   "fileFormatID": 3915,
   "version": "1.0",
   "formatName": "CityGML File",
-  "formatSourceID": 232,
-  "provenanceCompoundName": "Landesarchiv Nordrhein-Westfalen / Landesarchiv Nordrhein-Westfalen",
   "identifiers": [
     {
       "identifierText": "fmt/2040",
@@ -24,7 +22,8 @@
           "endianness": null,
           "byteSequenceID": 3790
         }
-      ]
+      ],
+      "provenance": "v.121: New signature."
     }
   ],
   "externalSignatures": [
@@ -44,5 +43,7 @@
       "relatedFormatName": "Geography Markup Language"
     }
   ],
-  "source": [232]
+  "submittedBy": [
+    232
+  ]
 }

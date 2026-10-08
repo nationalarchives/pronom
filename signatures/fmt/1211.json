@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "MTL is a companion file for the Wavefront OBJ file. The MTL file describes surface shading properties for use by one or more OBJ.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "20 Aug 2018",
-  "formatSourceID": 170,
-  "provenanceCompoundName": "Archaeology Data Service / Archaeology Data Service",
   "formatProvenance": null,
   "formatSourceDate": "20 Aug 2018",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1860
         }
-      ]
+      ],
+      "provenance": "http://paulbourke.net/dataformats/mtl/"
     }
   ],
   "externalSignatures": [
@@ -49,5 +46,7 @@
     }
   ],
   "relationships": [],
-  "source": [170]
+  "submittedBy": [
+    170
+  ]
 }

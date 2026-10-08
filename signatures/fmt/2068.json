@@ -1,7 +1,6 @@
 {
   "fileFormatID": 3943,
   "formatName": "Macintosh File System",
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "identifiers": [
     {
       "identifierText": "fmt/2068",
@@ -22,7 +21,8 @@
           "endianness": null,
           "byteSequenceID": 3813
         }
-      ]
+      ],
+      "provenance": "v.121: new PUID."
     }
   ],
   "externalSignatures": [
@@ -40,5 +40,7 @@
     }
   ],
   "relationships": [],
-  "source": [299]
+  "submittedBy": [
+    299
+  ]
 }

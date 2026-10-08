@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Programme files for R, a programming language for statistical computing. The official R software is free, open source, and run on command line. Other companies have produced GUI software packages which are commercially available. R files contain code which can be executed within the R environment, including commands for creating objects such as functions and values.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "The official R website: https://www.r-project.org/",
   "lastUpdatedDate": "19 Jan 2022",
-  "formatSourceID": 204,
-  "provenanceCompoundName": "Yale University Library / Yale University Library",
   "formatProvenance": null,
   "formatSourceDate": "19 Jan 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Unstructured)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -33,6 +29,10 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [266],
-  "source": [204]
+  "supportedBy": [
+    266
+  ],
+  "submittedBy": [
+    204
+  ]
 }

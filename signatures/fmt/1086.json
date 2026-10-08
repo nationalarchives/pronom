@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "Monkey's Audio is a lossless audio file format created by Matt Ashland.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "18 Aug 2017",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "18 Aug 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1729
         }
-      ]
+      ],
+      "provenance": "MACLib.h from version 4.25 SDK"
     },
     {
       "signatureID": 1467,
@@ -54,7 +51,8 @@
           "endianness": null,
           "byteSequenceID": 1728
         }
-      ]
+      ],
+      "provenance": "monkey.pas from version 4.25 SDK"
     }
   ],
   "externalSignatures": [
@@ -64,5 +62,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

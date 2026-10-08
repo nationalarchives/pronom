@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "The Portable Sound Format (PSF) is a sequencer sound file format for video game music, created by Neill Corlett. PSF files contain audio data and a sequence player. A file with the .psf or .psf1 extensions will usually be self-contained files holding both the audio library data and sequencing data. A .minipsf or .minipsf1 will hold just sequencing data, while a .psflib or .psf1lib will contain the audio library data so these must reside in the same directory where used.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Sep 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "14 Sep 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -77,5 +73,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

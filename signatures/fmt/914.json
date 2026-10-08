@@ -4,12 +4,9 @@
   "version": "Binary",
   "formatDescription": "TrueSpace was a commercial 3D computer graphics and animation software originally developed by Caligari Corporation before being acquired by Microsoft. The .scn extension indicates a scene, the .cob extension indicates an object.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "05 Jul 2016",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "05 Jul 2016",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Model",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -53,6 +49,10 @@
     }
   ],
   "relationships": [],
-  "supportedBy": [93],
-  "source": [1]
+  "supportedBy": [
+    93
+  ],
+  "submittedBy": [
+    1
+  ]
 }

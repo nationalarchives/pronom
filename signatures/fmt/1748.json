@@ -4,12 +4,9 @@
   "version": "3.x",
   "formatDescription": "Microsoft PowerPoint Presentation is a proprietary binary file format developed by Microsoft Corporation used to store presentation files created in the Microsoft PowerPoint presentation system. This record describes version 3 of .ppt file format released in May 1992 for Windows, and included in the 3.0 version of Microsoft Office for Windows released in August 1992. Versions up to version 4 [x-fmt/88] of Microsoft PowerPoint use .ppt as extension however, they are not compatible with each other. Microsoft made backwards compatibility an optional add-on after Office 2003 and appears to have removed it altogether in Office 2010. Please follow the links attached to this entry for more information.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000511.shtml\r\n\r\nhttp://justsolve.archiveteam.org/wiki/PPT\r\n\r\nhttps://web.archive.org/web/20220329174106/https://en.wikipedia.org/wiki/Microsoft_PowerPoint",
   "lastUpdatedDate": "24 Aug 2022",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": null,
   "formatSourceDate": "24 Aug 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Presentation",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -68,7 +64,13 @@
       "relatedFormatName": "Microsoft PowerPoint Presentation"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [220]
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
+  "submittedBy": [
+    220
+  ]
 }

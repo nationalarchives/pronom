@@ -3,11 +3,9 @@
   "version": null,
   "formatName": "Final Cut Pro Project File",
   "formatDescription": "Video editing project files, created with Apple Final Cut Pro or Final Cut Express. They include video and audio clips organized into tracks, and possibly visual effects, transitions, text overlays.",
-  "formatSourceID": 363,
   "formatTypes": "Video",
   "formatNote": "Note: https://fileinfo.com/extension/fcp\nhttps://www.apple.com/uk/final-cut-pro/resources/",
   "lastUpdatedDate": "03 Dec 2025",
-  "provenanceCompoundName": "Marquette University / Marquette University",
   "formatSourceDate": "03 Dec 2025",
   "identifiers": [
     {
@@ -29,7 +27,8 @@
           "endianness": null,
           "byteSequenceID": 3844
         }
-      ]
+      ],
+      "provenance": "v.122: new signature. Submitted by Marquette University, Department of Archival Collections and Institutional Repository."
     }
   ],
   "externalSignatures": [
@@ -39,5 +38,7 @@
     }
   ],
   "relationships": [],
-  "source": [363]
+  "submittedBy": [
+    363
+  ]
 }

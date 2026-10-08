@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "P00 is a Commodore 64 emulation format created for use with the PC64 emulator. The extension is normally 'Pxx', where the xx represents a two digit number corresponding to an incremented extension (beginning with P00) where more than one otherwise identically named P00 file exists in a single directory. For example, five files each called 'file' in a single dircetory would have the extensions p00, p01, p02, p03 and p04.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "14 Dec 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "14 Dec 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -39,7 +35,8 @@
           "endianness": null,
           "byteSequenceID": 1431
         }
-      ]
+      ],
+      "provenance": "http://vice-emu.sourceforge.net/vice_15.html"
     }
   ],
   "externalSignatures": [
@@ -65,5 +62,7 @@
     }
   ],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

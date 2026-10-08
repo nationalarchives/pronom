@@ -4,12 +4,9 @@
   "version": "11",
   "formatDescription": "Melco DesignShop Project files are used for embroidery machines.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "http://fileformats.archiveteam.org/wiki/OFM",
   "lastUpdatedDate": "23 Apr 2024",
-  "formatSourceID": 299,
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "formatProvenance": null,
   "formatSourceDate": "23 Apr 2024",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,6 +51,10 @@
       "relatedFormatName": "Resource Interchange File Format (RIFF)"
     }
   ],
-  "developedBy": [341],
-  "source": [299]
+  "developedBy": [
+    341
+  ],
+  "submittedBy": [
+    299
+  ]
 }

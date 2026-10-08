@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "File created by created by Capture One software which performs photo editing, raw image file processing of many different raw file types, and image cataloguing. Capture One does not make changes to the original RAW file, instead storing them as adjustments within these component files: Cos files contain the adjustments made to images.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": "https://support.captureone.com/hc/en-us/categories/360000279017-User-Guide",
   "lastUpdatedDate": "07 Jul 2022",
-  "formatSourceID": 234,
-  "provenanceCompoundName": "National Library of Australia / National Library of Australia",
   "formatProvenance": null,
   "formatSourceDate": "07 Jul 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Mark-up)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -68,7 +64,13 @@
       "relatedFormatName": "Extensible Markup Language"
     }
   ],
-  "supportedBy": [289],
-  "developedBy": [289],
-  "source": [234]
+  "supportedBy": [
+    289
+  ],
+  "developedBy": [
+    289
+  ],
+  "submittedBy": [
+    234
+  ]
 }

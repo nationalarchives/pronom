@@ -2,7 +2,6 @@
   "fileFormatID": 3939,
   "version": "9+",
   "formatName": "DaVinci Resolve Project File",
-  "provenanceCompoundName": "Brigham Young University / Brigham Young University",
   "identifiers": [
     {
       "identifierText": "fmt/2064",
@@ -51,5 +50,7 @@
       "relatedFormatName": "DaVinci Resolve Timeline File"
     }
   ],
-  "source": [299]
+  "submittedBy": [
+    299
+  ]
 }

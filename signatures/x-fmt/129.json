@@ -4,12 +4,9 @@
   "version": "X",
   "formatDescription": "PUID deprecated. Please see fmt/40: Microsoft Word 97-2003",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "02 Aug 2005",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "23 Sep 2003",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": null,
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -28,5 +24,7 @@
   "internalSignatures": [],
   "externalSignatures": [],
   "relationships": [],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

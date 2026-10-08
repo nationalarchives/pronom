@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "This format is the RAW image format used in FujiFilm cameras. RAW format images contain all the data that is taken directly from the camera's image sensor before the software in the camera applies things like white balance, sharpening etc. Storing photographs in a camera's RAW format allows you to alter those settings after the photograph has been taken.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "31 Mar 2014",
-  "formatSourceID": 195,
-  "provenanceCompoundName": "Artefactual Systems Inc / Artefactual Systems Inc",
   "formatProvenance": "http://libopenraw.freedesktop.org/wiki/Fuji_RAF/",
   "formatSourceDate": "31 Mar 2014",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Image (Raster)",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -49,5 +45,7 @@
     }
   ],
   "relationships": [],
-  "source": [195]
+  "submittedBy": [
+    195
+  ]
 }

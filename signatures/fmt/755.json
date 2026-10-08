@@ -4,12 +4,9 @@
   "version": "97-2003",
   "formatDescription": "With the release of Word 97, Microsoft revised the native binary word processing format, which is based on its generic OLE2 Compound Document Format. A Word document is stored as a \u2018WordDocument\u2019 stream within a Compound Document Format file. The format remained unchanged with the releases of Word 2000, 2002 and 2003.\r\n\r\nWithin the 'WordDocument' stream, the byte at position 0x0B deals with encryption/obfuscation, as per the MS FibBase description page - https://msdn.microsoft.com/en-us/library/dd944620(v=office.12).aspx. The first bit (Least Significant Bit (LSB) ordering) specifies whether the file is encrypted, meaning that if the byte at 0x0B is an 'odd' byte (e.g. 01, 03, 05, 07, 09, 0B, 0D, 0F, 11, 13 etc.) then this indicates obfuscation/encryption is present.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "07 Aug 2015",
-  "formatSourceID": 214,
-  "provenanceCompoundName": "Archives New Zealand / Archives New Zealand",
   "formatProvenance": "This format can be identified via a container signature in DROID version 6 or later. The PRONOM database cannot currently represent container signatures.",
   "formatSourceDate": "07 Aug 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Text (Unstructured), Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -68,9 +64,12 @@
       "relatedFormatName": "OLE2 Compound Document Format"
     }
   ],
-  "supportedBy": [93],
-  "developedBy": [93],
-  "source": [214],
+  "supportedBy": [
+    93
+  ],
+  "developedBy": [
+    93
+  ],
   "containerSignatures": [
     {
       "containerType": "OLE2",
@@ -114,5 +113,8 @@
         }
       ]
     }
+  ],
+  "submittedBy": [
+    214
   ]
 }

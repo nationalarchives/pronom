@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "An archive format primarily for Unix/Linux operating systems and which utilizes the GNU zip (gzip) compression method.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://fileinfo.com/extension/gz\r\nhttps://filext.com/file-extension/GZ",
   "lastUpdatedDate": "17 Apr 2024",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": "04/2024 (v.118): Description and links added as part of PRONOM Research Week 2023. The Church of Jesus Christ of Latter-day Saints.",
   "formatSourceDate": "02 Aug 2005",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Aggregate",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -82,5 +78,7 @@
       "relatedFormatName": "Ableton Live Set"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

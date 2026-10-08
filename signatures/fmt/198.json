@@ -4,12 +4,9 @@
   "version": null,
   "formatDescription": "MPEG Audio Stream Layer II is a lossy audio compression format defined by ISO/IEC 11172-3 standard. The format was initiated by the Digital Audio Broadcast (DAB) project financed by the European Union as a part of the EUREKA research program in the late 1980s. The format first appeared in early 1990s, with its encoding derived from the MUSICAM (Masking pattern adapted Universal Subband Integrated Coding And Multiplexing) audio codec, chosen for its simplicity and error resistance. It is a predecessor to MPEG 1/2 Audio Layer III and often referred to as MP2.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000338.shtml\r\n\r\nhttps://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II\r\n\r\nhttps://www.w3.org/TR/mse-byte-stream-format-mpeg-audio/\r\n\r\nhttp://www.library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/mp/MP3.html",
   "lastUpdatedDate": "06 Oct 2022",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "27 Oct 2009",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Audio",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -47,7 +43,8 @@
           "endianness": null,
           "byteSequenceID": 612
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 496,
@@ -62,7 +59,8 @@
           "endianness": null,
           "byteSequenceID": 613
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 497,
@@ -77,7 +75,8 @@
           "endianness": null,
           "byteSequenceID": 614
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 498,
@@ -92,7 +91,8 @@
           "endianness": null,
           "byteSequenceID": 615
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 499,
@@ -115,7 +115,8 @@
           "endianness": null,
           "byteSequenceID": 617
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 500,
@@ -138,7 +139,8 @@
           "endianness": null,
           "byteSequenceID": 619
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 501,
@@ -161,7 +163,8 @@
           "endianness": null,
           "byteSequenceID": 621
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     },
     {
       "signatureID": 502,
@@ -184,7 +187,8 @@
           "endianness": null,
           "byteSequenceID": 623
         }
-      ]
+      ],
+      "provenance": "Signature identified by Georgia Tech Research Institute"
     }
   ],
   "externalSignatures": [
@@ -213,5 +217,7 @@
       "relatedFormatName": "MPEG 1/2 Audio Layer I"
     }
   ],
-  "source": [1]
+  "submittedBy": [
+    1
+  ]
 }

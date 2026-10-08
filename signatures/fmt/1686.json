@@ -4,12 +4,9 @@
   "version": "4.0",
   "formatDescription": "PageMaker is a discontinued desktop publishing program created by Aldus Corporation in 1985. Originally created for Macintosh computers the PC version was released in 1987. It was purchased alongside other Aldus software such as FreeHand in 1994.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "15 Nov 2023",
-  "formatSourceID": 220,
-  "provenanceCompoundName": "The Church of Jesus Christ of Latter-Day Saints / The Church of Jesus Christ of Latter-Day Saints",
   "formatProvenance": "11/2023 (v.115)- max-offset modified for both BOF signatures to allow for more exact signature identification. Internally researched.",
   "formatSourceDate": "22 Jun 2022",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -43,7 +39,8 @@
           "endianness": null,
           "byteSequenceID": 2342
         }
-      ]
+      ],
+      "provenance": "11/2023 (v.115)- max-offset modified for both BOF signatures to allow for more exact signature identification. Internally researched."
     }
   ],
   "externalSignatures": [],
@@ -64,6 +61,10 @@
       "relatedFormatName": "PageMaker Document"
     }
   ],
-  "developedBy": [7],
-  "source": [220]
+  "developedBy": [
+    7
+  ],
+  "submittedBy": [
+    220
+  ]
 }

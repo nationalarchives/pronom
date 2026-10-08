@@ -4,12 +4,9 @@
   "version": "6",
   "formatDescription": "AppleWorks was a productivity suite developed by the Apple subsidiary, Claris, that was originally called ClarisWorks and was renamed AppleWorks as of version 5.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": null,
   "formatNote": null,
   "lastUpdatedDate": "27 Mar 2015",
-  "formatSourceID": 1,
-  "provenanceCompoundName": "Digital Preservation Department / The National Archives",
   "formatProvenance": null,
   "formatSourceDate": "27 Mar 2015",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Word Processor",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -55,7 +51,13 @@
       "relatedFormatName": "ClarisWorks/AppleWorks Word Processor"
     }
   ],
-  "supportedBy": [15],
-  "developedBy": [15],
-  "source": [1]
+  "supportedBy": [
+    15
+  ],
+  "developedBy": [
+    15
+  ],
+  "submittedBy": [
+    1
+  ]
 }

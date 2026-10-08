@@ -4,12 +4,9 @@
   "version": "1",
   "formatDescription": "FileMaker Pro is a cross-platform relational database application from FileMaker Inc. Early FileMaker files may lack a file format extension, particularly those created in an Apple Macintosh environment.",
   "releaseDate": null,
-  "withdrawnDate": null,
   "binaryFileFormat": "Text",
   "formatNote": null,
   "lastUpdatedDate": "18 Jul 2017",
-  "formatSourceID": 224,
-  "provenanceCompoundName": "Datable / Datable",
   "formatProvenance": null,
   "formatSourceDate": "18 Jul 2017",
   "formatDisclosure": null,
@@ -17,7 +14,6 @@
   "formatRisk": null,
   "formatAliases": null,
   "formatTypes": "Database",
-  "byteOrders": null,
   "formatFamilies": null,
   "identifiers": [
     {
@@ -44,5 +40,7 @@
   ],
   "externalSignatures": [],
   "relationships": [],
-  "source": [224]
+  "submittedBy": [
+    224
+  ]
 }
