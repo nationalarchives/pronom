@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+
 import jsonschema
 
 
@@ -105,6 +106,13 @@ def run():
                     for each_relationship in submission_json["relationships"]:
                         related_format_name = each_relationship["relatedFormatName"]
                         related_format_id = each_relationship["relatedFormatID"]
+                        related_format_puid = each_relationship.get("relatedFormatPUID")
+                        related_signature_format_puid = [x["identifierText"] for x in all_json[related_format_id]["identifiers"] if x["identifierType"] == "PUID"][0]
+                        if related_format_puid != related_signature_format_puid:
+                            message = (f"The submitted relationship has a related format with id {related_format_id}, which "
+                                       f"has PUID {related_format_puid}, which does not match {related_signature_format_puid} "
+                                       f"in file {signature_submission.split('\t')[1]}")
+                            raise Exception(message)
                         related_signature_format_name = all_json[related_format_id]["formatName"]
                         if related_signature_format_name != related_format_name:
                             message = (f"Related format with id {related_format_id} and name {related_format_name} "
