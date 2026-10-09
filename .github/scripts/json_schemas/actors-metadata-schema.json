@@ -1,6 +1,5 @@
 {
   "type": "object",
-  "additionalProperties": false,
   "properties": {
     "actorId": {"type": "number"},
     "address": {"type": ["string", "null"]},
@@ -17,5 +16,6 @@
   "required": [
     "name",
     "submittedDate"
-  ]
+  ],
+  "additionalProperties": false
 }
