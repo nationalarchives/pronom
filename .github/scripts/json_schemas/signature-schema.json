@@ -3,13 +3,6 @@
   "$id": "https://nationalarchives.gov.uk/pronom/signature.full.schema.json",
   "title": "PRONOM signature JSON",
   "type": "object",
-  "additionalProperties": true,
-
-  "required": [
-    "formatName",
-    "identifiers"
-  ],
-
   "properties": {
     "fileFormatID": { "type": "integer" },
 
@@ -206,5 +199,10 @@
         }
       }
     }
-  }
+  },
+  "required": [
+    "formatName",
+    "identifiers"
+  ],
+  "additionalProperties": false
 }
