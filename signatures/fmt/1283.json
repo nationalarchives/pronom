@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2100,
-      "relatedFormatName": "PFS:First Choice Document"
+      "relatedFormatName": "PFS:First Choice Document",
+      "relatedFormatPUID": "fmt/1282"
     }
   ],
   "submittedBy": [

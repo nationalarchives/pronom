@@ -53,7 +53,8 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 679,
-      "relatedFormatName": "Microsoft Excel 3.0 Worksheet (xls)"
+      "relatedFormatName": "Microsoft Excel 3.0 Worksheet (xls)",
+      "relatedFormatPUID": "fmt/56"
     }
   ],
   "supportedBy": [

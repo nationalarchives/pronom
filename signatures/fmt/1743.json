@@ -48,7 +48,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1255,
-      "relatedFormatName": "ISO 9660 Disk Image File"
+      "relatedFormatName": "ISO 9660 Disk Image File",
+      "relatedFormatPUID": "fmt/468"
     }
   ],
   "submittedBy": [

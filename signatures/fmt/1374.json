@@ -48,17 +48,20 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 429,
-      "relatedFormatName": "XML Schema Definition"
+      "relatedFormatName": "XML Schema Definition",
+      "relatedFormatPUID": "x-fmt/280"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
   "submittedBy": [

@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1455,
-      "relatedFormatName": "KryoFlux"
+      "relatedFormatName": "KryoFlux",
+      "relatedFormatPUID": "fmt/656"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 3889,
-      "relatedFormatName": "KryoFlux Stream"
+      "relatedFormatName": "KryoFlux Stream",
+      "relatedFormatPUID": "fmt/2015"
     }
   ],
   "submittedBy": [

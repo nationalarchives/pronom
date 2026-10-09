@@ -67,77 +67,92 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2077,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1259"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2078,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1260"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2079,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1261"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2080,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1262"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2081,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1263"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2082,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1264"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2083,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1265"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2084,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1266"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2085,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1267"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2086,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1268"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2087,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1269"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2088,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1270"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2089,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1271"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2090,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1272"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2091,
-      "relatedFormatName": "SketchUp Document"
+      "relatedFormatName": "SketchUp Document",
+      "relatedFormatPUID": "fmt/1273"
     }
   ],
   "supportedBy": [

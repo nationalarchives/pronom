@@ -52,12 +52,14 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2533,
-      "relatedFormatName": "Calc602 Spreadsheet file"
+      "relatedFormatName": "Calc602 Spreadsheet file",
+      "relatedFormatPUID": "fmt/1697"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2534,
-      "relatedFormatName": "Calc602 Spreadsheet file"
+      "relatedFormatName": "Calc602 Spreadsheet file",
+      "relatedFormatPUID": "fmt/1698"
     }
   ],
   "supportedBy": [

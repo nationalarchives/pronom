@@ -65,12 +65,14 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 931,
-      "relatedFormatName": "Synchronized Multimedia Integration Language (Generic)"
+      "relatedFormatName": "Synchronized Multimedia Integration Language (Generic)",
+      "relatedFormatPUID": "fmt/205"
     }
   ],
   "developedBy": [

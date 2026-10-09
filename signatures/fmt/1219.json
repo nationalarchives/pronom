@@ -69,17 +69,20 @@
     {
       "relationshipType": "Can be contained by",
       "relatedFormatID": 386,
-      "relatedFormatName": "GZIP Format"
+      "relatedFormatName": "GZIP Format",
+      "relatedFormatPUID": "x-fmt/266"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
   "submittedBy": [

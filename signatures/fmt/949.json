@@ -40,7 +40,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 736,
-      "relatedFormatName": "WordPerfect for MS-DOS Document"
+      "relatedFormatName": "WordPerfect for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/393"
     }
   ],
   "supportedBy": [

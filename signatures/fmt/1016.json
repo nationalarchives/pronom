@@ -52,22 +52,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1400,
-      "relatedFormatName": "Statistical Analysis System Data (Unix)"
+      "relatedFormatName": "Statistical Analysis System Data (Unix)",
+      "relatedFormatPUID": "fmt/608"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1823,
-      "relatedFormatName": "Statistical Analysis System Data (Unix)"
+      "relatedFormatName": "Statistical Analysis System Data (Unix)",
+      "relatedFormatPUID": "fmt/1018"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1825,
-      "relatedFormatName": "Statistical Analysis System Data (Unix)"
+      "relatedFormatName": "Statistical Analysis System Data (Unix)",
+      "relatedFormatPUID": "fmt/1020"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1827,
-      "relatedFormatName": "Statistical Analysis System Data (Unix)"
+      "relatedFormatName": "Statistical Analysis System Data (Unix)",
+      "relatedFormatPUID": "fmt/1022"
     }
   ],
   "submittedBy": [

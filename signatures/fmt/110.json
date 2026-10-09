@@ -76,12 +76,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 687,
-      "relatedFormatName": "MPEG 1/2 Audio Layer 3"
+      "relatedFormatName": "MPEG 1/2 Audio Layer 3",
+      "relatedFormatPUID": "fmt/134"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 651,
-      "relatedFormatName": "Macromedia Flash"
+      "relatedFormatName": "Macromedia Flash",
+      "relatedFormatPUID": "fmt/109"
     }
   ],
   "supportedBy": [

@@ -53,7 +53,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1088,
-      "relatedFormatName": "Microsoft Project Export File"
+      "relatedFormatName": "Microsoft Project Export File",
+      "relatedFormatPUID": "fmt/343"
     }
   ],
   "submittedBy": [

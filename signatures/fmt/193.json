@@ -65,7 +65,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1328,
-      "relatedFormatName": "Digital Moving Picture Exchange Bitmap"
+      "relatedFormatName": "Digital Moving Picture Exchange Bitmap",
+      "relatedFormatPUID": "fmt/541"
     }
   ],
   "submittedBy": [

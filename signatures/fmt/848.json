@@ -48,7 +48,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1536,
-      "relatedFormatName": "ClarisWorks"
+      "relatedFormatName": "ClarisWorks",
+      "relatedFormatPUID": "fmt/737"
     }
   ],
   "supportedBy": [

@@ -52,17 +52,20 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1397,
-      "relatedFormatName": "Statistical Analysis System Catalog (Windows)"
+      "relatedFormatName": "Statistical Analysis System Catalog (Windows)",
+      "relatedFormatPUID": "fmt/605"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1830,
-      "relatedFormatName": "Statistical Analysis System Catalog (Windows)"
+      "relatedFormatName": "Statistical Analysis System Catalog (Windows)",
+      "relatedFormatPUID": "fmt/1025"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1832,
-      "relatedFormatName": "Statistical Analysis System Catalog (Windows)"
+      "relatedFormatName": "Statistical Analysis System Catalog (Windows)",
+      "relatedFormatPUID": "fmt/1027"
     }
   ],
   "submittedBy": [

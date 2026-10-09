@@ -64,7 +64,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1670,
-      "relatedFormatName": "Apple Safari Webarchive"
+      "relatedFormatName": "Apple Safari Webarchive",
+      "relatedFormatPUID": "fmt/866"
     }
   ],
   "submittedBy": [

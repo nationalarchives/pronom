@@ -87,7 +87,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2117,
-      "relatedFormatName": "Broderbund Print Shop Deluxe"
+      "relatedFormatName": "Broderbund Print Shop Deluxe",
+      "relatedFormatPUID": "fmt/1299"
     }
   ],
   "supportedBy": [

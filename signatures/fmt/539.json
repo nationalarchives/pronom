@@ -53,7 +53,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 456,
-      "relatedFormatName": "Adobe FrameMaker Document"
+      "relatedFormatName": "Adobe FrameMaker Document",
+      "relatedFormatPUID": "x-fmt/302"
     }
   ],
   "supportedBy": [

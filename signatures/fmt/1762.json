@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2613,
-      "relatedFormatName": "MacBinary"
+      "relatedFormatName": "MacBinary",
+      "relatedFormatPUID": "fmt/1763"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2611,
-      "relatedFormatName": "MacBinary"
+      "relatedFormatName": "MacBinary",
+      "relatedFormatPUID": "fmt/1761"
     }
   ],
   "developedBy": [

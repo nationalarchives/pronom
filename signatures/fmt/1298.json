@@ -32,7 +32,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2115,
-      "relatedFormatName": "Calendar Creator File"
+      "relatedFormatName": "Calendar Creator File",
+      "relatedFormatPUID": "fmt/1297"
     }
   ],
   "supportedBy": [

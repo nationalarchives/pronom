@@ -73,27 +73,32 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 780,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/137"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1038,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/295"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2603,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/1755"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3920,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/2045"
     }
   ],
   "developedBy": [

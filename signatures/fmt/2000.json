@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2876,
-      "relatedFormatName": "Husqvarna / Pfaff Embroidery Stitch File"
+      "relatedFormatName": "Husqvarna / Pfaff Embroidery Stitch File",
+      "relatedFormatPUID": "fmt/2001"
     }
   ],
   "supportedBy": [

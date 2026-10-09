@@ -65,7 +65,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1329,
-      "relatedFormatName": "GEM Metafile Format"
+      "relatedFormatName": "GEM Metafile Format",
+      "relatedFormatPUID": "fmt/542"
     }
   ],
   "submittedBy": [

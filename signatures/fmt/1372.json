@@ -32,7 +32,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2189,
-      "relatedFormatName": "OmniPage Pro Document"
+      "relatedFormatName": "OmniPage Pro Document",
+      "relatedFormatPUID": "fmt/1371"
     }
   ],
   "containerSignatures": [

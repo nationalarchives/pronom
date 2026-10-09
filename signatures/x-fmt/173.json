@@ -57,17 +57,20 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 2523,
-      "relatedFormatName": "PageMaker Mac Document"
+      "relatedFormatName": "PageMaker Mac Document",
+      "relatedFormatPUID": "fmt/1687"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 247,
-      "relatedFormatName": "PageMaker PC Document"
+      "relatedFormatName": "PageMaker PC Document",
+      "relatedFormatPUID": "x-fmt/174"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 516,
-      "relatedFormatName": "PageMaker PC Document"
+      "relatedFormatName": "PageMaker PC Document",
+      "relatedFormatPUID": "x-fmt/352"
     }
   ],
   "developedBy": [

@@ -27,37 +27,44 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 672,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/387"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 673,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/388"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 752,
-      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)"
+      "relatedFormatName": "Exchangeable Image File Format (Uncompressed)",
+      "relatedFormatPUID": "x-fmt/399"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 795,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/152"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 796,
-      "relatedFormatName": "Tagged Image File Format for Image Technology (TIFF/IT)"
+      "relatedFormatName": "Tagged Image File Format for Image Technology (TIFF/IT)",
+      "relatedFormatPUID": "fmt/153"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 797,
-      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)"
+      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)",
+      "relatedFormatPUID": "fmt/154"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 799,
-      "relatedFormatName": "Tagged Image File Format for Internet Fax (TIFF-FX)"
+      "relatedFormatName": "Tagged Image File Format for Internet Fax (TIFF-FX)",
+      "relatedFormatPUID": "fmt/156"
     }
   ],
   "submittedBy": [

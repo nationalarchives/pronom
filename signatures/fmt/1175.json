@@ -43,7 +43,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1980,
-      "relatedFormatName": "Alias Studio Wire File"
+      "relatedFormatName": "Alias Studio Wire File",
+      "relatedFormatPUID": "fmt/1170"
     }
   ],
   "supportedBy": [

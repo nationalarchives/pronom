@@ -32,7 +32,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2190,
-      "relatedFormatName": "OmniPage Document"
+      "relatedFormatName": "OmniPage Document",
+      "relatedFormatPUID": "fmt/1372"
     }
   ],
   "containerSignatures": [

@@ -48,12 +48,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1369,
-      "relatedFormatName": "X3D"
+      "relatedFormatName": "X3D",
+      "relatedFormatPUID": "fmt/581"
     }
   ],
   "submittedBy": [

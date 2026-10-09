@@ -60,12 +60,14 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2300,
-      "relatedFormatName": "TEI P5 XML - Corpus File"
+      "relatedFormatName": "TEI P5 XML - Corpus File",
+      "relatedFormatPUID": "fmt/1477"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
   "submittedBy": [

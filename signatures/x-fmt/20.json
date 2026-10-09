@@ -73,27 +73,32 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 86,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/122"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 331,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/124"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 332,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/123"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 771,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/406"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 773,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/408"
     }
   ],
   "supportedBy": [

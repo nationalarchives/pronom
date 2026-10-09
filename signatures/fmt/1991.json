@@ -56,7 +56,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1495,
-      "relatedFormatName": "Sibelius"
+      "relatedFormatName": "Sibelius",
+      "relatedFormatPUID": "fmt/696"
     }
   ],
   "supportedBy": [

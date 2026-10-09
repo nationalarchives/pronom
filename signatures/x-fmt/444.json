@@ -36,7 +36,8 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     }
   ],
   "supportedBy": [

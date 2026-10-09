@@ -216,197 +216,236 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 613,
-      "relatedFormatName": "Acrobat PDF 1.0 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.0 - Portable Document Format",
+      "relatedFormatPUID": "fmt/14"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 614,
-      "relatedFormatName": "Acrobat PDF 1.1 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.1 - Portable Document Format",
+      "relatedFormatPUID": "fmt/15"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 615,
-      "relatedFormatName": "Acrobat PDF 1.2 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.2 - Portable Document Format",
+      "relatedFormatPUID": "fmt/16"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 616,
-      "relatedFormatName": "Acrobat PDF 1.3 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.3 - Portable Document Format",
+      "relatedFormatPUID": "fmt/17"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 617,
-      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format",
+      "relatedFormatPUID": "fmt/18"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 618,
-      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format",
+      "relatedFormatPUID": "fmt/19"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 625,
-      "relatedFormatName": "PCX"
+      "relatedFormatName": "PCX",
+      "relatedFormatPUID": "fmt/90"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 637,
-      "relatedFormatName": "Acrobat PDF 1.6 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.6 - Portable Document Format",
+      "relatedFormatPUID": "fmt/20"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 646,
-      "relatedFormatName": "Macromedia Flash"
+      "relatedFormatName": "Macromedia Flash",
+      "relatedFormatPUID": "fmt/104"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 647,
-      "relatedFormatName": "Macromedia Flash"
+      "relatedFormatName": "Macromedia Flash",
+      "relatedFormatPUID": "fmt/105"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 648,
-      "relatedFormatName": "Macromedia Flash"
+      "relatedFormatName": "Macromedia Flash",
+      "relatedFormatPUID": "fmt/106"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 649,
-      "relatedFormatName": "Macromedia Flash"
+      "relatedFormatName": "Macromedia Flash",
+      "relatedFormatPUID": "fmt/107"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 650,
-      "relatedFormatName": "Macromedia Flash"
+      "relatedFormatName": "Macromedia Flash",
+      "relatedFormatPUID": "fmt/108"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 651,
-      "relatedFormatName": "Macromedia Flash"
+      "relatedFormatName": "Macromedia Flash",
+      "relatedFormatPUID": "fmt/109"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 652,
-      "relatedFormatName": "Macromedia Flash"
+      "relatedFormatName": "Macromedia Flash",
+      "relatedFormatPUID": "fmt/110"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 653,
-      "relatedFormatName": "Macromedia FLV"
+      "relatedFormatName": "Macromedia FLV",
+      "relatedFormatPUID": "x-fmt/382"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 659,
-      "relatedFormatName": "MPEG-1 Program Stream"
+      "relatedFormatName": "MPEG-1 Program Stream",
+      "relatedFormatPUID": "x-fmt/385"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 872,
-      "relatedFormatName": "AutoCAD Drawing"
+      "relatedFormatName": "AutoCAD Drawing",
+      "relatedFormatPUID": "x-fmt/455"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1016,
-      "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format",
+      "relatedFormatPUID": "fmt/276"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1099,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/353"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1192,
-      "relatedFormatName": "Audio Interchange File Format"
+      "relatedFormatName": "Audio Interchange File Format",
+      "relatedFormatPUID": "fmt/414"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1357,
-      "relatedFormatName": "Matroska"
+      "relatedFormatName": "Matroska",
+      "relatedFormatPUID": "fmt/569"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1986,
-      "relatedFormatName": "Nullsoft Streaming Video"
+      "relatedFormatName": "Nullsoft Streaming Video",
+      "relatedFormatPUID": "fmt/1176"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2098,
-      "relatedFormatName": "NCH Dictation Audio File"
+      "relatedFormatName": "NCH Dictation Audio File",
+      "relatedFormatPUID": "fmt/1280"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2290,
-      "relatedFormatName": "STOS Memory Bank"
+      "relatedFormatName": "STOS Memory Bank",
+      "relatedFormatPUID": "fmt/1467"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2291,
-      "relatedFormatName": "multiArtist File"
+      "relatedFormatName": "multiArtist File",
+      "relatedFormatPUID": "fmt/1468"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2292,
-      "relatedFormatName": "MAKIchan Graphics File"
+      "relatedFormatName": "MAKIchan Graphics File",
+      "relatedFormatPUID": "fmt/1469"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2384,
-      "relatedFormatName": "Beam Software SIFF File"
+      "relatedFormatName": "Beam Software SIFF File",
+      "relatedFormatPUID": "fmt/1559"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2400,
-      "relatedFormatName": "Spectrum 512 Compressed | Spectrum 512 Smooshed"
+      "relatedFormatName": "Spectrum 512 Compressed | Spectrum 512 Smooshed",
+      "relatedFormatPUID": "fmt/1575"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2401,
-      "relatedFormatName": "Spectrum 512 Uncompressed | Spectrum 512 Uncompressed Enhanced"
+      "relatedFormatName": "Spectrum 512 Uncompressed | Spectrum 512 Uncompressed Enhanced",
+      "relatedFormatPUID": "fmt/1576"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2486,
-      "relatedFormatName": "XL-Paint"
+      "relatedFormatName": "XL-Paint",
+      "relatedFormatPUID": "fmt/1659"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2539,
-      "relatedFormatName": "Persuasion Mac Document"
+      "relatedFormatName": "Persuasion Mac Document",
+      "relatedFormatPUID": "fmt/1703"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2557,
-      "relatedFormatName": "Pablo Paint Raster Image"
+      "relatedFormatName": "Pablo Paint Raster Image",
+      "relatedFormatPUID": "fmt/1721"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2597,
-      "relatedFormatName": "Canon SIF File"
+      "relatedFormatName": "Canon SIF File",
+      "relatedFormatPUID": "fmt/1751"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2663,
-      "relatedFormatName": "Audio Data Transport Stream"
+      "relatedFormatName": "Audio Data Transport Stream",
+      "relatedFormatPUID": "fmt/1812"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2686,
-      "relatedFormatName": "GoDot 4Bit Graphics Format"
+      "relatedFormatName": "GoDot 4Bit Graphics Format",
+      "relatedFormatPUID": "fmt/1834"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2719,
-      "relatedFormatName": "SWiSH Movie File"
+      "relatedFormatName": "SWiSH Movie File",
+      "relatedFormatPUID": "fmt/1865"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2731,
-      "relatedFormatName": "GST Art File"
+      "relatedFormatName": "GST Art File",
+      "relatedFormatPUID": "fmt/1877"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2762,
-      "relatedFormatName": "VBM (VDC BitMap) File"
+      "relatedFormatName": "VBM (VDC BitMap) File",
+      "relatedFormatPUID": "fmt/1906"
     }
   ],
   "submittedBy": [

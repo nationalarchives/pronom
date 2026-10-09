@@ -36,7 +36,8 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 1160,
-      "relatedFormatName": "Microsoft Word for Windows"
+      "relatedFormatName": "Microsoft Word for Windows",
+      "relatedFormatPUID": "fmt/412"
     }
   ],
   "supportedBy": [

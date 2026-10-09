@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1808,
-      "relatedFormatName": "Nearly Raw Raster Data"
+      "relatedFormatName": "Nearly Raw Raster Data",
+      "relatedFormatPUID": "fmt/1003"
     }
   ],
   "submittedBy": [

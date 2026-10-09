@@ -53,7 +53,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 869,
-      "relatedFormatName": "TrueType Font"
+      "relatedFormatName": "TrueType Font",
+      "relatedFormatPUID": "x-fmt/453"
     }
   ],
   "supportedBy": [

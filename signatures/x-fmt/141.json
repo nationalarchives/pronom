@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2113,
-      "relatedFormatName": "Calendar Creator Event"
+      "relatedFormatName": "Calendar Creator Event",
+      "relatedFormatPUID": "fmt/1295"
     }
   ],
   "supportedBy": [

@@ -49,7 +49,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2469,
-      "relatedFormatName": "Adobe InDesign Library"
+      "relatedFormatName": "Adobe InDesign Library",
+      "relatedFormatPUID": "fmt/1642"
     }
   ],
   "supportedBy": [

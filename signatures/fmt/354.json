@@ -89,42 +89,50 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 818,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1a:2001"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 1a:2001",
+      "relatedFormatPUID": "fmt/157"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 819,
-      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 3:2002"
+      "relatedFormatName": "Acrobat PDF/X - Portable Document Format - Exchange 3:2002",
+      "relatedFormatPUID": "fmt/158"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 616,
-      "relatedFormatName": "Acrobat PDF 1.3 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.3 - Portable Document Format",
+      "relatedFormatPUID": "fmt/17"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 617,
-      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.4 - Portable Document Format",
+      "relatedFormatPUID": "fmt/18"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 618,
-      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format",
+      "relatedFormatPUID": "fmt/19"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 637,
-      "relatedFormatName": "Acrobat PDF 1.6 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.6 - Portable Document Format",
+      "relatedFormatPUID": "fmt/20"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 869,
-      "relatedFormatName": "TrueType Font"
+      "relatedFormatName": "TrueType Font",
+      "relatedFormatPUID": "x-fmt/453"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1016,
-      "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.7 - Portable Document Format",
+      "relatedFormatPUID": "fmt/276"
     }
   ],
   "submittedBy": [

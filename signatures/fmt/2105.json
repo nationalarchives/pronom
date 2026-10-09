@@ -37,7 +37,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 655,
-      "relatedFormatName": "Audio/Video Interleaved Format"
+      "relatedFormatName": "Audio/Video Interleaved Format",
+      "relatedFormatPUID": "fmt/5"
     }
   ],
   "containerSignatures": [],

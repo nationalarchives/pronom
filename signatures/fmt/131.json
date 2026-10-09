@@ -56,27 +56,32 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 692,
-      "relatedFormatName": "Windows Media Audio"
+      "relatedFormatName": "Windows Media Audio",
+      "relatedFormatPUID": "fmt/132"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 693,
-      "relatedFormatName": "Windows Media Video"
+      "relatedFormatName": "Windows Media Video",
+      "relatedFormatPUID": "fmt/133"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1228,
-      "relatedFormatName": "Windows Media Video (WVC1)"
+      "relatedFormatName": "Windows Media Video (WVC1)",
+      "relatedFormatPUID": "fmt/441"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 692,
-      "relatedFormatName": "Windows Media Audio"
+      "relatedFormatName": "Windows Media Audio",
+      "relatedFormatPUID": "fmt/132"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 693,
-      "relatedFormatName": "Windows Media Video"
+      "relatedFormatName": "Windows Media Video",
+      "relatedFormatPUID": "fmt/133"
     }
   ],
   "supportedBy": [

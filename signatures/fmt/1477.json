@@ -60,12 +60,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2299,
-      "relatedFormatName": "TEI P5 - Single Text File"
+      "relatedFormatName": "TEI P5 - Single Text File",
+      "relatedFormatPUID": "fmt/1476"
     }
   ],
   "submittedBy": [

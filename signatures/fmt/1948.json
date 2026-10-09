@@ -56,7 +56,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2812,
-      "relatedFormatName": "Common Data Format dotCDF"
+      "relatedFormatName": "Common Data Format dotCDF",
+      "relatedFormatPUID": "fmt/1949"
     }
   ],
   "submittedBy": [

@@ -52,7 +52,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2096,
-      "relatedFormatName": "Cindex Document"
+      "relatedFormatName": "Cindex Document",
+      "relatedFormatPUID": "fmt/1278"
     }
   ],
   "submittedBy": [

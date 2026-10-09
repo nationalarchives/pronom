@@ -57,12 +57,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 388,
-      "relatedFormatName": "BZIP2 Compressed Archive"
+      "relatedFormatName": "BZIP2 Compressed Archive",
+      "relatedFormatPUID": "x-fmt/268"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2586,
-      "relatedFormatName": "Apple Partition Map Disk Image"
+      "relatedFormatName": "Apple Partition Map Disk Image",
+      "relatedFormatPUID": "fmt/1740"
     }
   ],
   "supportedBy": [

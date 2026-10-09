@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2013,
-      "relatedFormatName": "QuickDraw 3D Metafile (Binary)"
+      "relatedFormatName": "QuickDraw 3D Metafile (Binary)",
+      "relatedFormatPUID": "fmt/1203"
     }
   ],
   "supportedBy": [

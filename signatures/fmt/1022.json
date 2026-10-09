@@ -52,7 +52,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1821,
-      "relatedFormatName": "Statistical Analysis System Data (Unix)"
+      "relatedFormatName": "Statistical Analysis System Data (Unix)",
+      "relatedFormatPUID": "fmt/1016"
     }
   ],
   "submittedBy": [

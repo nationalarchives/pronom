@@ -56,12 +56,14 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2711,
-      "relatedFormatName": "Capture One Session File"
+      "relatedFormatName": "Capture One Session File",
+      "relatedFormatPUID": "fmt/1857"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     }
   ],
   "supportedBy": [

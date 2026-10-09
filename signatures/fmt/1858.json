@@ -52,7 +52,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 186,
-      "relatedFormatName": "Microsoft Excel Workspace File"
+      "relatedFormatName": "Microsoft Excel Workspace File",
+      "relatedFormatPUID": "x-fmt/128"
     }
   ],
   "supportedBy": [

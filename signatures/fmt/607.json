@@ -53,7 +53,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1820,
-      "relatedFormatName": "Statistical Analysis System Data (Windows)"
+      "relatedFormatName": "Statistical Analysis System Data (Windows)",
+      "relatedFormatPUID": "fmt/1015"
     }
   ],
   "submittedBy": [

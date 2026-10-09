@@ -57,7 +57,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1085,
-      "relatedFormatName": "Lotus WordPro Document"
+      "relatedFormatName": "Lotus WordPro Document",
+      "relatedFormatPUID": "fmt/340"
     }
   ],
   "submittedBy": [

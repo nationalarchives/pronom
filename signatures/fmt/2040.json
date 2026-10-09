@@ -40,7 +40,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 319,
-      "relatedFormatName": "Geography Markup Language"
+      "relatedFormatName": "Geography Markup Language",
+      "relatedFormatPUID": "x-fmt/227"
     }
   ],
   "submittedBy": [

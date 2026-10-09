@@ -60,7 +60,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 731,
-      "relatedFormatName": "Windows Bitmap"
+      "relatedFormatName": "Windows Bitmap",
+      "relatedFormatPUID": "fmt/118"
     }
   ],
   "submittedBy": [

@@ -93,12 +93,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1575,
-      "relatedFormatName": "Adobe Flash"
+      "relatedFormatName": "Adobe Flash",
+      "relatedFormatPUID": "fmt/776"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1573,
-      "relatedFormatName": "Adobe Flash"
+      "relatedFormatName": "Adobe Flash",
+      "relatedFormatPUID": "fmt/774"
     }
   ],
   "supportedBy": [

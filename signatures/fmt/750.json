@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1544,
-      "relatedFormatName": "ClarisWorks/AppleWorks Spreadsheet"
+      "relatedFormatName": "ClarisWorks/AppleWorks Spreadsheet",
+      "relatedFormatPUID": "fmt/745"
     }
   ],
   "supportedBy": [

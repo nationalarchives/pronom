@@ -36,7 +36,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1230,
-      "relatedFormatName": "Microsoft Visio Drawing"
+      "relatedFormatName": "Microsoft Visio Drawing",
+      "relatedFormatPUID": "fmt/443"
     }
   ],
   "supportedBy": [

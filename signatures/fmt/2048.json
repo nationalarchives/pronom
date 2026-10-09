@@ -69,12 +69,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1039,
-      "relatedFormatName": "OpenDocument Graphics"
+      "relatedFormatName": "OpenDocument Graphics",
+      "relatedFormatPUID": "fmt/296"
     }
   ],
   "submittedBy": [

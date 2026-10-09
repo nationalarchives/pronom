@@ -60,22 +60,26 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 722,
-      "relatedFormatName": "Drawing Interchange File Format (ASCII)"
+      "relatedFormatName": "Drawing Interchange File Format (ASCII)",
+      "relatedFormatPUID": "fmt/76"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2212,
-      "relatedFormatName": "Drawing Interchange Format (Binary)"
+      "relatedFormatName": "Drawing Interchange Format (Binary)",
+      "relatedFormatPUID": "fmt/1394"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 742,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/83"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 740,
-      "relatedFormatName": "Drawing Interchange File Format (Binary)"
+      "relatedFormatName": "Drawing Interchange File Format (Binary)",
+      "relatedFormatPUID": "fmt/81"
     }
   ],
   "supportedBy": [

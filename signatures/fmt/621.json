@@ -36,12 +36,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1418,
-      "relatedFormatName": "GeoGebra"
+      "relatedFormatName": "GeoGebra",
+      "relatedFormatPUID": "fmt/622"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1416,
-      "relatedFormatName": "GeoGebra"
+      "relatedFormatName": "GeoGebra",
+      "relatedFormatPUID": "fmt/620"
     }
   ],
   "supportedBy": [

@@ -49,7 +49,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1633,
-      "relatedFormatName": "Open Inventor File Format"
+      "relatedFormatName": "Open Inventor File Format",
+      "relatedFormatPUID": "fmt/832"
     }
   ],
   "submittedBy": [

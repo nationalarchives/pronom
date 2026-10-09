@@ -32,12 +32,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2795,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/1934"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2793,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/1932"
     }
   ],
   "developedBy": [

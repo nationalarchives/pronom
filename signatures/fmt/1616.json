@@ -49,12 +49,14 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 771,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/406"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 924,
-      "relatedFormatName": "MPEG-4 Media File"
+      "relatedFormatName": "MPEG-4 Media File",
+      "relatedFormatPUID": "fmt/199"
     }
   ],
   "supportedBy": [

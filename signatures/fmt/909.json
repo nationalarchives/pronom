@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1715,
-      "relatedFormatName": "CRAM File Format"
+      "relatedFormatName": "CRAM File Format",
+      "relatedFormatPUID": "fmt/910"
     }
   ],
   "submittedBy": [

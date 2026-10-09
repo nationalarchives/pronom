@@ -52,7 +52,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1238,
-      "relatedFormatName": "VectorWorks"
+      "relatedFormatName": "VectorWorks",
+      "relatedFormatPUID": "fmt/451"
     }
   ],
   "supportedBy": [

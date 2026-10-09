@@ -71,12 +71,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1255,
-      "relatedFormatName": "ISO 9660 Disk Image File"
+      "relatedFormatName": "ISO 9660 Disk Image File",
+      "relatedFormatPUID": "fmt/468"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2586,
-      "relatedFormatName": "Apple Partition Map Disk Image"
+      "relatedFormatName": "Apple Partition Map Disk Image",
+      "relatedFormatPUID": "fmt/1740"
     }
   ],
   "submittedBy": [

@@ -52,17 +52,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 654,
-      "relatedFormatName": "Waveform Audio"
+      "relatedFormatName": "Waveform Audio",
+      "relatedFormatPUID": "fmt/6"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 749,
-      "relatedFormatName": "Exchangeable Image File Format (Audio)"
+      "relatedFormatName": "Exchangeable Image File Format (Audio)",
+      "relatedFormatPUID": "x-fmt/396"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 750,
-      "relatedFormatName": "Exchangeable Image File Format (Audio)"
+      "relatedFormatName": "Exchangeable Image File Format (Audio)",
+      "relatedFormatPUID": "x-fmt/397"
     }
   ],
   "submittedBy": [

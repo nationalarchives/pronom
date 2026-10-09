@@ -75,7 +75,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 255,
-      "relatedFormatName": "QuarkXPress Data File"
+      "relatedFormatName": "QuarkXPress Data File",
+      "relatedFormatPUID": "x-fmt/182"
     }
   ],
   "supportedBy": [

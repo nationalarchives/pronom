@@ -48,12 +48,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 797,
-      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)"
+      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)",
+      "relatedFormatPUID": "fmt/154"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1099,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/353"
     }
   ],
   "supportedBy": [

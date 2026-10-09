@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 75,
-      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document"
+      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document",
+      "relatedFormatPUID": "x-fmt/44"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 737,
-      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document"
+      "relatedFormatName": "WordPerfect for MS-DOS/Windows Document",
+      "relatedFormatPUID": "x-fmt/394"
     }
   ],
   "submittedBy": [

@@ -67,17 +67,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 654,
-      "relatedFormatName": "Waveform Audio"
+      "relatedFormatName": "Waveform Audio",
+      "relatedFormatPUID": "fmt/6"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 786,
-      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)"
+      "relatedFormatName": "Waveform Audio (WAVEFORMATEXTENSIBLE)",
+      "relatedFormatPUID": "fmt/143"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1314,
-      "relatedFormatName": "Broadcast WAVE"
+      "relatedFormatName": "Broadcast WAVE",
+      "relatedFormatPUID": "fmt/527"
     }
   ],
   "submittedBy": [

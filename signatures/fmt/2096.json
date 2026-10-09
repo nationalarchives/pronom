@@ -40,7 +40,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 3974,
-      "relatedFormatName": "GGML Universal File (GGUF)"
+      "relatedFormatName": "GGML Universal File (GGUF)",
+      "relatedFormatPUID": "fmt/2097"
     }
   ],
   "submittedBy": [

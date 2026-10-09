@@ -57,7 +57,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2436,
-      "relatedFormatName": "exFAT (Extensible File Allocation Table) Disc Image"
+      "relatedFormatName": "exFAT (Extensible File Allocation Table) Disc Image",
+      "relatedFormatPUID": "fmt/1609"
     }
   ],
   "submittedBy": [

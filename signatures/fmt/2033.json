@@ -56,12 +56,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 638,
-      "relatedFormatName": "Extensible Markup Language"
+      "relatedFormatName": "Extensible Markup Language",
+      "relatedFormatPUID": "fmt/101"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1388,
-      "relatedFormatName": "Apple Lossless Audio Codec"
+      "relatedFormatName": "Apple Lossless Audio Codec",
+      "relatedFormatPUID": "fmt/596"
     }
   ],
   "supportedBy": [

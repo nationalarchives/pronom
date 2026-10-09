@@ -53,7 +53,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1512,
-      "relatedFormatName": "RF64 Multichannel Broadcast Wave format"
+      "relatedFormatName": "RF64 Multichannel Broadcast Wave format",
+      "relatedFormatPUID": "fmt/713"
     }
   ],
   "submittedBy": [

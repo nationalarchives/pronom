@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2874,
-      "relatedFormatName": "Husqvarna Embroidery Stitch File"
+      "relatedFormatName": "Husqvarna Embroidery Stitch File",
+      "relatedFormatPUID": "fmt/2000"
     }
   ],
   "supportedBy": [

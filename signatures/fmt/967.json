@@ -53,7 +53,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1773,
-      "relatedFormatName": "AppleSingle"
+      "relatedFormatName": "AppleSingle",
+      "relatedFormatPUID": "fmt/968"
     }
   ],
   "supportedBy": [

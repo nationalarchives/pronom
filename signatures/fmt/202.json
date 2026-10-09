@@ -165,47 +165,56 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 795,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/152"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1223,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/436"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1224,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/437"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1225,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/438"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1529,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/730"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2693,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/1841"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2694,
-      "relatedFormatName": "Digital Negative Format (DNG)"
+      "relatedFormatName": "Digital Negative Format (DNG)",
+      "relatedFormatPUID": "fmt/1842"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 797,
-      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)"
+      "relatedFormatName": "Tagged Image File Format for Electronic Photography (TIFF/EP)",
+      "relatedFormatPUID": "fmt/154"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1099,
-      "relatedFormatName": "Tagged Image File Format"
+      "relatedFormatName": "Tagged Image File Format",
+      "relatedFormatPUID": "fmt/353"
     }
   ],
   "submittedBy": [

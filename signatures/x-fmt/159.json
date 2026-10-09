@@ -49,7 +49,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2484,
-      "relatedFormatName": "XIMG (Extended GEM Bit Image)"
+      "relatedFormatName": "XIMG (Extended GEM Bit Image)",
+      "relatedFormatPUID": "fmt/1657"
     }
   ],
   "submittedBy": [

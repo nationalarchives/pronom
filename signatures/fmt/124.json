@@ -104,82 +104,98 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 49,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "x-fmt/20"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1199,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/417"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1200,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/418"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1201,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/419"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1202,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/420"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1204,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/422"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1205,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/423"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1345,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/557"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 138,
-      "relatedFormatName": "Postscript"
+      "relatedFormatName": "Postscript",
+      "relatedFormatPUID": "x-fmt/91"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 771,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/406"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 772,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/407"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 773,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "x-fmt/408"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1073,
-      "relatedFormatName": "EndNote Import File"
+      "relatedFormatName": "EndNote Import File",
+      "relatedFormatPUID": "fmt/328"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1288,
-      "relatedFormatName": "PostScript"
+      "relatedFormatName": "PostScript",
+      "relatedFormatPUID": "fmt/501"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 332,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/123"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2740,
-      "relatedFormatName": "Encapsulated PostScript File Format"
+      "relatedFormatName": "Encapsulated PostScript File Format",
+      "relatedFormatPUID": "fmt/1884"
     }
   ],
   "developedBy": [

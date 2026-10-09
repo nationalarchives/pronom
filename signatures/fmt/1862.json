@@ -52,17 +52,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 618,
-      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format",
+      "relatedFormatPUID": "fmt/19"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1353,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/565"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2717,
-      "relatedFormatName": "Adobe Illustrator CC 2020 Artwork"
+      "relatedFormatName": "Adobe Illustrator CC 2020 Artwork",
+      "relatedFormatPUID": "fmt/1863"
     }
   ],
   "supportedBy": [

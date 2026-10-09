@@ -56,12 +56,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 687,
-      "relatedFormatName": "MPEG 1/2 Audio Layer 3"
+      "relatedFormatName": "MPEG 1/2 Audio Layer 3",
+      "relatedFormatPUID": "fmt/134"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 624,
-      "relatedFormatName": "PCX"
+      "relatedFormatName": "PCX",
+      "relatedFormatPUID": "fmt/89"
     }
   ],
   "submittedBy": [

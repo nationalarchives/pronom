@@ -32,17 +32,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 382,
-      "relatedFormatName": "ZIP Format"
+      "relatedFormatName": "ZIP Format",
+      "relatedFormatPUID": "x-fmt/263"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2393,
-      "relatedFormatName": "ISDOCX Information System Document"
+      "relatedFormatName": "ISDOCX Information System Document",
+      "relatedFormatPUID": "fmt/1568"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 2395,
-      "relatedFormatName": "ISDOC Information System Document"
+      "relatedFormatName": "ISDOC Information System Document",
+      "relatedFormatPUID": "fmt/1570"
     }
   ],
   "containerSignatures": [

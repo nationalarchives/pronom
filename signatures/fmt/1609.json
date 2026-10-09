@@ -48,7 +48,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1895,
-      "relatedFormatName": "FAT Disk Image"
+      "relatedFormatName": "FAT Disk Image",
+      "relatedFormatPUID": "fmt/1087"
     }
   ],
   "supportedBy": [

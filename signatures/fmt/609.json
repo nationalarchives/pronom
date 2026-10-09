@@ -40,27 +40,32 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 76,
-      "relatedFormatName": "Microsoft Word Document Template"
+      "relatedFormatName": "Microsoft Word Document Template",
+      "relatedFormatPUID": "x-fmt/45"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 688,
-      "relatedFormatName": "Microsoft Word Document"
+      "relatedFormatName": "Microsoft Word Document",
+      "relatedFormatPUID": "fmt/39"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 690,
-      "relatedFormatName": "Microsoft Word Document"
+      "relatedFormatName": "Microsoft Word Document",
+      "relatedFormatPUID": "fmt/40"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1553,
-      "relatedFormatName": "Microsoft Word Document (Password Protected)"
+      "relatedFormatName": "Microsoft Word Document (Password Protected)",
+      "relatedFormatPUID": "fmt/754"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1554,
-      "relatedFormatName": "Microsoft Word Document Template (Password Protected)"
+      "relatedFormatName": "Microsoft Word Document Template (Password Protected)",
+      "relatedFormatPUID": "fmt/755"
     }
   ],
   "supportedBy": [

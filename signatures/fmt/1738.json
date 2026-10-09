@@ -61,22 +61,26 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2585,
-      "relatedFormatName": "UDF-ISO 9660 Bridge Disc"
+      "relatedFormatName": "UDF-ISO 9660 Bridge Disc",
+      "relatedFormatPUID": "fmt/1739"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2605,
-      "relatedFormatName": "Apple Partition Map - ISO 9660 - UDF Hybrid Disk Image"
+      "relatedFormatName": "Apple Partition Map - ISO 9660 - UDF Hybrid Disk Image",
+      "relatedFormatPUID": "fmt/1757"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 2585,
-      "relatedFormatName": "UDF-ISO 9660 Bridge Disc"
+      "relatedFormatName": "UDF-ISO 9660 Bridge Disc",
+      "relatedFormatPUID": "fmt/1739"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1255,
-      "relatedFormatName": "ISO 9660 Disk Image File"
+      "relatedFormatName": "ISO 9660 Disk Image File",
+      "relatedFormatPUID": "fmt/468"
     }
   ],
   "submittedBy": [

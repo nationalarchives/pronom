@@ -48,17 +48,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 687,
-      "relatedFormatName": "MPEG 1/2 Audio Layer 3"
+      "relatedFormatName": "MPEG 1/2 Audio Layer 3",
+      "relatedFormatPUID": "fmt/134"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2540,
-      "relatedFormatName": "Persuasion Mac Document"
+      "relatedFormatName": "Persuasion Mac Document",
+      "relatedFormatPUID": "fmt/1704"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2538,
-      "relatedFormatName": "Persuasion Mac Document"
+      "relatedFormatName": "Persuasion Mac Document",
+      "relatedFormatPUID": "fmt/1702"
     }
   ],
   "developedBy": [

@@ -47,7 +47,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 3938,
-      "relatedFormatName": "DaVinci Resolve Timeline File"
+      "relatedFormatName": "DaVinci Resolve Timeline File",
+      "relatedFormatPUID": "fmt/2063"
     }
   ],
   "submittedBy": [

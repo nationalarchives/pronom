@@ -75,12 +75,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 645,
-      "relatedFormatName": "Hypertext Markup Language"
+      "relatedFormatName": "Hypertext Markup Language",
+      "relatedFormatPUID": "fmt/96"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1755,
-      "relatedFormatName": "MIME Email"
+      "relatedFormatName": "MIME Email",
+      "relatedFormatPUID": "fmt/950"
     }
   ],
   "submittedBy": [

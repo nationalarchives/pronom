@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 3884,
-      "relatedFormatName": "Visualization Toolkit"
+      "relatedFormatName": "Visualization Toolkit",
+      "relatedFormatPUID": "fmt/2012"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 3882,
-      "relatedFormatName": "Visualization Toolkit"
+      "relatedFormatName": "Visualization Toolkit",
+      "relatedFormatPUID": "fmt/2010"
     }
   ],
   "submittedBy": [

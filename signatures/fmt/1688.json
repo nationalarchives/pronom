@@ -56,7 +56,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 408,
-      "relatedFormatName": "Microsoft Word for MS-DOS Document"
+      "relatedFormatName": "Microsoft Word for MS-DOS Document",
+      "relatedFormatPUID": "x-fmt/276"
     }
   ],
   "developedBy": [

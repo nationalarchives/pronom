@@ -56,22 +56,26 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1495,
-      "relatedFormatName": "Sibelius"
+      "relatedFormatName": "Sibelius",
+      "relatedFormatPUID": "fmt/696"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2855,
-      "relatedFormatName": "Sibelius Score"
+      "relatedFormatName": "Sibelius Score",
+      "relatedFormatPUID": "fmt/1983"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2852,
-      "relatedFormatName": "Sibelius Score"
+      "relatedFormatName": "Sibelius Score",
+      "relatedFormatPUID": "fmt/1981"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 1495,
-      "relatedFormatName": "Sibelius"
+      "relatedFormatName": "Sibelius",
+      "relatedFormatPUID": "fmt/696"
     }
   ],
   "supportedBy": [

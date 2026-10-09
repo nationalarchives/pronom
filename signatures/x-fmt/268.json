@@ -53,7 +53,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1878,
-      "relatedFormatName": "Apple Disk Image"
+      "relatedFormatName": "Apple Disk Image",
+      "relatedFormatPUID": "fmt/1071"
     }
   ],
   "submittedBy": [

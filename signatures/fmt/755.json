@@ -36,32 +36,38 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 76,
-      "relatedFormatName": "Microsoft Word Document Template"
+      "relatedFormatName": "Microsoft Word Document Template",
+      "relatedFormatPUID": "x-fmt/45"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 690,
-      "relatedFormatName": "Microsoft Word Document"
+      "relatedFormatName": "Microsoft Word Document",
+      "relatedFormatPUID": "fmt/40"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1401,
-      "relatedFormatName": "Microsoft Word (Generic)"
+      "relatedFormatName": "Microsoft Word (Generic)",
+      "relatedFormatPUID": "fmt/609"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1553,
-      "relatedFormatName": "Microsoft Word Document (Password Protected)"
+      "relatedFormatName": "Microsoft Word Document (Password Protected)",
+      "relatedFormatPUID": "fmt/754"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     }
   ],
   "supportedBy": [

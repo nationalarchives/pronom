@@ -61,17 +61,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 618,
-      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format"
+      "relatedFormatName": "Acrobat PDF 1.5 - Portable Document Format",
+      "relatedFormatPUID": "fmt/19"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1352,
-      "relatedFormatName": "Adobe Illustrator"
+      "relatedFormatName": "Adobe Illustrator",
+      "relatedFormatPUID": "fmt/564"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 2716,
-      "relatedFormatName": "Adobe Illustrator CC Artwork"
+      "relatedFormatName": "Adobe Illustrator CC Artwork",
+      "relatedFormatPUID": "fmt/1862"
     }
   ],
   "supportedBy": [

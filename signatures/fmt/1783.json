@@ -48,7 +48,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2632,
-      "relatedFormatName": "The Spectral Geologist Dataset"
+      "relatedFormatName": "The Spectral Geologist Dataset",
+      "relatedFormatPUID": "fmt/1782"
     }
   ],
   "supportedBy": [

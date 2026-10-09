@@ -48,57 +48,68 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1646,
-      "relatedFormatName": "ClarisWorks Drawing"
+      "relatedFormatName": "ClarisWorks Drawing",
+      "relatedFormatPUID": "fmt/845"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1647,
-      "relatedFormatName": "ClarisWorks Word Processor"
+      "relatedFormatName": "ClarisWorks Word Processor",
+      "relatedFormatPUID": "fmt/846"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1648,
-      "relatedFormatName": "ClarisWorks Spreadsheet"
+      "relatedFormatName": "ClarisWorks Spreadsheet",
+      "relatedFormatPUID": "fmt/847"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1649,
-      "relatedFormatName": "ClarisWorks Database"
+      "relatedFormatName": "ClarisWorks Database",
+      "relatedFormatPUID": "fmt/848"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1650,
-      "relatedFormatName": "ClarisWorks Painting"
+      "relatedFormatName": "ClarisWorks Painting",
+      "relatedFormatPUID": "fmt/849"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1537,
-      "relatedFormatName": "ClarisWorks Drawing"
+      "relatedFormatName": "ClarisWorks Drawing",
+      "relatedFormatPUID": "fmt/738"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1538,
-      "relatedFormatName": "ClarisWorks Word Processor"
+      "relatedFormatName": "ClarisWorks Word Processor",
+      "relatedFormatPUID": "fmt/739"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1539,
-      "relatedFormatName": "ClarisWorks Spreadsheet"
+      "relatedFormatName": "ClarisWorks Spreadsheet",
+      "relatedFormatPUID": "fmt/740"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1540,
-      "relatedFormatName": "ClarisWorks Database"
+      "relatedFormatName": "ClarisWorks Database",
+      "relatedFormatPUID": "fmt/741"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1541,
-      "relatedFormatName": "ClarisWorks Painting"
+      "relatedFormatName": "ClarisWorks Painting",
+      "relatedFormatPUID": "fmt/742"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1535,
-      "relatedFormatName": "ClarisWorks"
+      "relatedFormatName": "ClarisWorks",
+      "relatedFormatPUID": "fmt/736"
     }
   ],
   "supportedBy": [

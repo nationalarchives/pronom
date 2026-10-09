@@ -65,17 +65,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 774,
-      "relatedFormatName": "MS-DOS Executable"
+      "relatedFormatName": "MS-DOS Executable",
+      "relatedFormatPUID": "x-fmt/409"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 775,
-      "relatedFormatName": "Windows New Executable"
+      "relatedFormatName": "Windows New Executable",
+      "relatedFormatPUID": "x-fmt/410"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 776,
-      "relatedFormatName": "Windows Portable Executable"
+      "relatedFormatName": "Windows Portable Executable",
+      "relatedFormatPUID": "x-fmt/411"
     }
   ],
   "supportedBy": [

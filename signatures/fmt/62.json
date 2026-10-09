@@ -31,17 +31,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 684,
-      "relatedFormatName": "Microsoft Excel 97-2003 Workbook (xls)"
+      "relatedFormatName": "Microsoft Excel 97-2003 Workbook (xls)",
+      "relatedFormatPUID": "fmt/61"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     }
   ],
   "submittedBy": [

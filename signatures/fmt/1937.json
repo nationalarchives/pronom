@@ -60,7 +60,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1144,
-      "relatedFormatName": "PocketMobi (Palm Resource) File"
+      "relatedFormatName": "PocketMobi (Palm Resource) File",
+      "relatedFormatPUID": "fmt/396"
     }
   ],
   "supportedBy": [

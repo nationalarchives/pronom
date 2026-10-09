@@ -36,7 +36,8 @@
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 941,
-      "relatedFormatName": "Microsoft Powerpoint for Windows"
+      "relatedFormatName": "Microsoft Powerpoint for Windows",
+      "relatedFormatPUID": "fmt/215"
     }
   ],
   "supportedBy": [

@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1667,
-      "relatedFormatName": "3DM"
+      "relatedFormatName": "3DM",
+      "relatedFormatPUID": "fmt/864"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 831,
-      "relatedFormatName": "3DM"
+      "relatedFormatName": "3DM",
+      "relatedFormatPUID": "x-fmt/435"
     }
   ],
   "supportedBy": [

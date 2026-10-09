@@ -52,7 +52,8 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2530,
-      "relatedFormatName": "Asymetrix Compel Presentation"
+      "relatedFormatName": "Asymetrix Compel Presentation",
+      "relatedFormatPUID": "fmt/1694"
     }
   ],
   "submittedBy": [

@@ -53,12 +53,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1322,
-      "relatedFormatName": "Adobe FrameMaker Document"
+      "relatedFormatName": "Adobe FrameMaker Document",
+      "relatedFormatPUID": "fmt/535"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1320,
-      "relatedFormatName": "Adobe FrameMaker Document"
+      "relatedFormatName": "Adobe FrameMaker Document",
+      "relatedFormatPUID": "fmt/533"
     }
   ],
   "supportedBy": [

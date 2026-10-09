@@ -57,17 +57,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 659,
-      "relatedFormatName": "MPEG-1 Program Stream"
+      "relatedFormatName": "MPEG-1 Program Stream",
+      "relatedFormatPUID": "x-fmt/385"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 660,
-      "relatedFormatName": "MPEG-2 Program Stream"
+      "relatedFormatName": "MPEG-2 Program Stream",
+      "relatedFormatPUID": "x-fmt/386"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 660,
-      "relatedFormatName": "MPEG-2 Program Stream"
+      "relatedFormatName": "MPEG-2 Program Stream",
+      "relatedFormatPUID": "x-fmt/386"
     }
   ],
   "submittedBy": [

@@ -52,7 +52,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1469,
-      "relatedFormatName": "PKCS #7 Cryptographic Message File"
+      "relatedFormatName": "PKCS #7 Cryptographic Message File",
+      "relatedFormatPUID": "fmt/670"
     }
   ],
   "submittedBy": [

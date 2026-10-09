@@ -36,7 +36,8 @@
     {
       "relationshipType": "Equivalent to",
       "relatedFormatID": 975,
-      "relatedFormatName": "Keyhole Markup Language (XML)"
+      "relatedFormatName": "Keyhole Markup Language (XML)",
+      "relatedFormatPUID": "fmt/244"
     }
   ],
   "supportedBy": [

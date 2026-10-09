@@ -32,7 +32,8 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 447,
-      "relatedFormatName": "Micrografx Draw"
+      "relatedFormatName": "Micrografx Draw",
+      "relatedFormatPUID": "x-fmt/294"
     }
   ],
   "submittedBy": [

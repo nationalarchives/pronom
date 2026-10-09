@@ -56,17 +56,20 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 865,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "x-fmt/450"
     },
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 2460,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/1633"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1340,
-      "relatedFormatName": "Adobe InDesign Document"
+      "relatedFormatName": "Adobe InDesign Document",
+      "relatedFormatPUID": "fmt/552"
     }
   ],
   "submittedBy": [

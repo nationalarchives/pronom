@@ -64,27 +64,32 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 133,
-      "relatedFormatName": "Microsoft PowerPoint Presentation"
+      "relatedFormatName": "Microsoft PowerPoint Presentation",
+      "relatedFormatPUID": "x-fmt/88"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 134,
-      "relatedFormatName": "Microsoft Powerpoint Presentation"
+      "relatedFormatName": "Microsoft Powerpoint Presentation",
+      "relatedFormatPUID": "fmt/125"
     },
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 134,
-      "relatedFormatName": "Microsoft Powerpoint Presentation"
+      "relatedFormatName": "Microsoft Powerpoint Presentation",
+      "relatedFormatPUID": "fmt/125"
     },
     {
       "relationshipType": "Is subtype of",
       "relatedFormatID": 767,
-      "relatedFormatName": "OLE2 Compound Document Format"
+      "relatedFormatName": "OLE2 Compound Document Format",
+      "relatedFormatPUID": "fmt/111"
     }
   ],
   "developedBy": [

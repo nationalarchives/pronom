@@ -52,17 +52,20 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1398,
-      "relatedFormatName": "Statistical Analysis System Catalog (Unix)"
+      "relatedFormatName": "Statistical Analysis System Catalog (Unix)",
+      "relatedFormatPUID": "fmt/606"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1831,
-      "relatedFormatName": "Statistical Analysis System Catalog (Unix)"
+      "relatedFormatName": "Statistical Analysis System Catalog (Unix)",
+      "relatedFormatPUID": "fmt/1026"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1833,
-      "relatedFormatName": "Statistical Analysis System Catalog (Unix)"
+      "relatedFormatName": "Statistical Analysis System Catalog (Unix)",
+      "relatedFormatPUID": "fmt/1028"
     }
   ],
   "submittedBy": [

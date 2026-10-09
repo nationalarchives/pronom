@@ -40,7 +40,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 2352,
-      "relatedFormatName": "Serif DrawPlus Drawing"
+      "relatedFormatName": "Serif DrawPlus Drawing",
+      "relatedFormatPUID": "fmt/1528"
     }
   ],
   "containerSignatures": [

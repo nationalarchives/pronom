@@ -40,17 +40,20 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2678,
-      "relatedFormatName": "DOCX Strict OOXML Document"
+      "relatedFormatName": "DOCX Strict OOXML Document",
+      "relatedFormatPUID": "fmt/1827"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1389,
-      "relatedFormatName": "Microsoft Word Template"
+      "relatedFormatName": "Microsoft Word Template",
+      "relatedFormatPUID": "fmt/597"
     },
     {
       "relationshipType": "Is supertype of",
       "relatedFormatID": 1391,
-      "relatedFormatName": "Microsoft Word Macro-Enabled Document Template"
+      "relatedFormatName": "Microsoft Word Macro-Enabled Document Template",
+      "relatedFormatPUID": "fmt/599"
     }
   ],
   "supportedBy": [

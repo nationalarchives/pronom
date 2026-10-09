@@ -40,7 +40,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1939,
-      "relatedFormatName": "PDF 2.0 - Portable Document Format"
+      "relatedFormatName": "PDF 2.0 - Portable Document Format",
+      "relatedFormatPUID": "fmt/1129"
     }
   ],
   "submittedBy": [

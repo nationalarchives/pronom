@@ -48,12 +48,14 @@
     {
       "relationshipType": "Is previous version of",
       "relatedFormatID": 1547,
-      "relatedFormatName": "AppleWorks Drawing"
+      "relatedFormatName": "AppleWorks Drawing",
+      "relatedFormatPUID": "fmt/748"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 1537,
-      "relatedFormatName": "ClarisWorks Drawing"
+      "relatedFormatName": "ClarisWorks Drawing",
+      "relatedFormatPUID": "fmt/738"
     }
   ],
   "supportedBy": [

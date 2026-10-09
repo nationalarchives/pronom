@@ -49,7 +49,8 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 1121,
-      "relatedFormatName": "Microsoft Visual FoxPro Database Table File"
+      "relatedFormatName": "Microsoft Visual FoxPro Database Table File",
+      "relatedFormatPUID": "fmt/374"
     }
   ],
   "submittedBy": [

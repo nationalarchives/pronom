@@ -80,157 +80,188 @@
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 745,
-      "relatedFormatName": "OpenOffice Writer"
+      "relatedFormatName": "OpenOffice Writer",
+      "relatedFormatPUID": "fmt/128"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 746,
-      "relatedFormatName": "OpenOffice Calc"
+      "relatedFormatName": "OpenOffice Calc",
+      "relatedFormatPUID": "fmt/129"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 747,
-      "relatedFormatName": "OpenOffice Impress"
+      "relatedFormatName": "OpenOffice Impress",
+      "relatedFormatPUID": "fmt/130"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 748,
-      "relatedFormatName": "OpenOffice Draw"
+      "relatedFormatName": "OpenOffice Draw",
+      "relatedFormatPUID": "fmt/127"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 777,
-      "relatedFormatName": "Java Archive Format"
+      "relatedFormatName": "Java Archive Format",
+      "relatedFormatPUID": "x-fmt/412"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 778,
-      "relatedFormatName": "OpenDocument Format"
+      "relatedFormatName": "OpenDocument Format",
+      "relatedFormatPUID": "fmt/135"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 783,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/140"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 876,
-      "relatedFormatName": "SIARD (Software-Independent Archiving of Relational Databases)"
+      "relatedFormatName": "SIARD (Software-Independent Archiving of Relational Databases)",
+      "relatedFormatPUID": "fmt/161"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 910,
-      "relatedFormatName": "Microsoft Office Open XML"
+      "relatedFormatName": "Microsoft Office Open XML",
+      "relatedFormatPUID": "fmt/189"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1033,
-      "relatedFormatName": "OpenDocument Text"
+      "relatedFormatName": "OpenDocument Text",
+      "relatedFormatPUID": "fmt/290"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1034,
-      "relatedFormatName": "OpenDocument Text"
+      "relatedFormatName": "OpenDocument Text",
+      "relatedFormatPUID": "fmt/291"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1035,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/292"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1036,
-      "relatedFormatName": "OpenDocument Presentation"
+      "relatedFormatName": "OpenDocument Presentation",
+      "relatedFormatPUID": "fmt/293"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1037,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/294"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1038,
-      "relatedFormatName": "OpenDocument Spreadsheet"
+      "relatedFormatName": "OpenDocument Spreadsheet",
+      "relatedFormatPUID": "fmt/295"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1039,
-      "relatedFormatName": "OpenDocument Graphics"
+      "relatedFormatName": "OpenDocument Graphics",
+      "relatedFormatPUID": "fmt/296"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1040,
-      "relatedFormatName": "OpenDocument Graphics"
+      "relatedFormatName": "OpenDocument Graphics",
+      "relatedFormatPUID": "fmt/297"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1206,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/424"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1215,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/429"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1216,
-      "relatedFormatName": "CorelDraw Drawing"
+      "relatedFormatName": "CorelDraw Drawing",
+      "relatedFormatPUID": "fmt/430"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1231,
-      "relatedFormatName": "OpenDocument Database Format"
+      "relatedFormatName": "OpenDocument Database Format",
+      "relatedFormatPUID": "fmt/444"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1269,
-      "relatedFormatName": "Apple iBook format"
+      "relatedFormatName": "Apple iBook format",
+      "relatedFormatPUID": "fmt/482"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 1270,
-      "relatedFormatName": "ePub Format"
+      "relatedFormatName": "ePub Format",
+      "relatedFormatPUID": "fmt/483"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2393,
-      "relatedFormatName": "ISDOCX Information System Document"
+      "relatedFormatName": "ISDOCX Information System Document",
+      "relatedFormatPUID": "fmt/1568"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2396,
-      "relatedFormatName": "ISDOCX Information System Document"
+      "relatedFormatName": "ISDOCX Information System Document",
+      "relatedFormatPUID": "fmt/1571"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2518,
-      "relatedFormatName": "EndNote Library"
+      "relatedFormatName": "EndNote Library",
+      "relatedFormatPUID": "fmt/1682"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2519,
-      "relatedFormatName": "EndNote Compressed Library"
+      "relatedFormatName": "EndNote Compressed Library",
+      "relatedFormatPUID": "fmt/1683"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 2521,
-      "relatedFormatName": "EndNote Compressed Library"
+      "relatedFormatName": "EndNote Compressed Library",
+      "relatedFormatPUID": "fmt/1685"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 3916,
-      "relatedFormatName": "Android Package File"
+      "relatedFormatName": "Android Package File",
+      "relatedFormatPUID": "fmt/2041"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 4990,
-      "relatedFormatName": "TIGER/ Line Shapefile"
+      "relatedFormatName": "TIGER/ Line Shapefile",
+      "relatedFormatPUID": "fmt/2114"
     },
     {
       "relationshipType": "Has lower priority than",
       "relatedFormatID": 4989,
-      "relatedFormatName": "TIGER/Line ASCII"
+      "relatedFormatName": "TIGER/Line ASCII",
+      "relatedFormatPUID": "fmt/2113"
     }
   ],
   "submittedBy": [

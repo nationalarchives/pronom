@@ -40,7 +40,8 @@
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 3980,
-      "relatedFormatName": "Discus Project"
+      "relatedFormatName": "Discus Project",
+      "relatedFormatPUID": "fmt/2103"
     }
   ],
   "submittedBy": [

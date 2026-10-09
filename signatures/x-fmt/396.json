@@ -52,12 +52,14 @@
     {
       "relationshipType": "Has priority over",
       "relatedFormatID": 654,
-      "relatedFormatName": "Waveform Audio"
+      "relatedFormatName": "Waveform Audio",
+      "relatedFormatPUID": "fmt/6"
     },
     {
       "relationshipType": "Is subsequent version of",
       "relatedFormatID": 674,
-      "relatedFormatName": "Exchangeable Image File Format (Audio)"
+      "relatedFormatName": "Exchangeable Image File Format (Audio)",
+      "relatedFormatPUID": "x-fmt/389"
     }
   ],
   "submittedBy": [
