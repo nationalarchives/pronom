@@ -15,6 +15,7 @@
   },
   "required": [
     "name",
+    "submittedBy",
     "submittedDate"
   ],
   "additionalProperties": false
