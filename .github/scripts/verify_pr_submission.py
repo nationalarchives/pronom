@@ -29,7 +29,7 @@ def validate_json(json_metadata, schema):
                                                     format_checker=jsonschema.Draft202012Validator.FORMAT_CHECKER)
         validator.validate(json_metadata)
     except jsonschema.exceptions.ValidationError as err:
-        errors.append(f"{err.path[0]}: {err.message}")
+        errors.append(f"{err.json_path}: {err.message}")
 
     return errors
 
