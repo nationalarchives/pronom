@@ -1,0 +1,34 @@
+{
+  "fileFormatID": null,
+  "formatName": "Visualization Toolkit Unstructured Grid Format",
+  "version": "0.1",
+  "formatDescription": "The Visualization Toolkit Unstructured Grid Format is and xml based legacy format associated with the Visualization Toolkit. The format is used to store spatial and attribute data. .vtu files contain both the geometric structure (points and cells) and the associated data values (e.g., temperature, pressure, or velocity) for a single time step.",
+  "formatNote": "VTK File Formats: https://docs.vtk.org/en/v9.5.1/design_documents/VTKFileFormats.html#unstructuredgrid|smart-link\nVendor: Kitware",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Model",
+  "identifiers": [],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "Visualization Toolkit Unstructured Grid Format Internal Signature",
+      "note": "BOF; Offset: {15-152}; Magic Bytes: ('|\u201d)UnstructuredGrid('|\u201d) version=('|\u201d)0.1('|\u201d)",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 15,
+          "maxOffset": 152,
+          "byteSequence": "{22|27}556E7374727563747572656447726964{22|27}2076657273696F6E3D{22|27}302E31{22|27}"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "vtu",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

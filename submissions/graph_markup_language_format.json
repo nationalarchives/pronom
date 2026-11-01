@@ -1,0 +1,45 @@
+{
+  "fileFormatID": null,
+  "formatName": "Graph Markup Language Format",
+  "version": "",
+  "formatDescription": "Graph Markup Language (GraphML) is an XML structured format. It supports attributes for nodes and edges, hierarchical graphs and supports a flexible architecture.",
+  "formatNote": "Graph Markup Language (GraphML): https://cs.brown.edu/people/rtamassi/gdhandbook/chapters/graphml.pdf\n",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Text - Markup",
+  "identifiers": [
+    {
+      "identifierText": "application/graphml+xml",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "Graph Markup Language Format Internal Signature",
+      "note": "BOF; Offset: 39; Magic Bytes: <graphml",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 39,
+          "maxOffset": 39,
+          "byteSequence": "3C67726170686D6C"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "graphml",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "Is subtype of",
+      "relatedFormatID": 2626,
+      "relatedFormatName": "Extensible Markup Language"
+    }
+  ],
+  "containerSignatures": [],
+  "source": 349
+}

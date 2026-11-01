@@ -1,0 +1,39 @@
+{
+  "fileFormatID": null,
+  "formatName": "FlowJo Workspace File",
+  "version": "20.0",
+  "formatDescription": "A FlowJo Workspace File is a lightweight XML-based document that saves your gating hierarchies, statistics, compensation matrices, and report layouts without containing the actual raw data files. It relies on pointers to original Flow Cytometry Standard (.fcs) data files rather than embedding them.",
+  "formatNote": "FlowJo Documentation Portal: https://docs.flowjo.com/portal/",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Text - Markup",
+  "identifiers": [
+    {
+      "identifierText": "text/xml",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "FlowJo Workspace File Internal Signature",
+      "note": "BOF; Offset 41; Magic Bytes: Workspace version=\"20.0\"",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 41,
+          "maxOffset": 41,
+          "byteSequence": "576F726B73706163652076657273696F6E3D2232302E3022"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "wsp",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

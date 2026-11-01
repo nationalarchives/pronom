@@ -1,0 +1,33 @@
+{
+  "fileFormatID": null,
+  "formatName": "BrainVision Data Exchange Marker File",
+  "version": "1.0",
+  "formatDescription": "A BrainVision Data Exchange Marker File is a plain-text document that stores event markers, stimuli, and behavioural triggers synchronized with an EEG recording.",
+  "formatNote": "BrainVision Core Data Format (BVCDF): |https://www.brainproducts.com/support-resources/brainvision-core-data-format-1-0\nVendor: Brain Products GmbH",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada - DFDR",
+  "formatTypes": "Text - Structured",
+  "identifiers": [],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "BrainVision Data Exchange Marker File Internal Signature",
+      "note": "BOF: Offset: 0; Magic bytes: Brain{0-1}Vision{15-2-}Marker File{9}1.0",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": null,
+          "byteSequence": "427261696E{0-1}566973696F6E{15-20}4D61726B65722046696C65{9}312E30"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "vmrk",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": []
+}

@@ -1,0 +1,34 @@
+{
+  "fileFormatID": null,
+  "formatName": "QGIS Spatial Index File",
+  "version": "",
+  "formatDescription": "The QGIS spatial index File is a sidecar file that  organizes geographic features based on their location to dramatically speed up zooming, panning, and processing operations. ",
+  "formatNote": "QGIS Documentation - Exploring Data Formats and Fields: https://docs.qgis.org/3.44/en/docs/user_manual/managing_data_source/supported_data.html#exploring-data-formats-and-fields\n",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Text - Structured",
+  "identifiers": [],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "QGIS Spatial Index File Internal Signature",
+      "note": "BOF; Offset: 0; Magic Bytes: SQT",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "535154"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "qix",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

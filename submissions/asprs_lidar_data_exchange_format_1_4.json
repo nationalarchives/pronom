@@ -1,0 +1,39 @@
+{
+  "fileFormatID": null,
+  "formatName": "ASPRS Lidar Data Exchange Format",
+  "version": "1.4",
+  "formatDescription": "The Lidar Data Exchange Format is a binary file format for the interchange of LIDAR (Light Detection and Ranging) optical remote sensing data.",
+  "formatNote": "LAS Specification 1.4: https://docs.ogc.org/cs/17-030r1/17-030r1.pdf",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Geospatial",
+  "identifiers": [
+    {
+      "identifierText": "application/vnd.las",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "ASPRS Lidar Data Exchange Format Internal Signature",
+      "note": "ASCII header: LASF, followed after 20 bytes by version number 1.4",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "4C415346{20}0104{78}[00:99]"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "las; laz",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

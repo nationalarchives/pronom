@@ -1,0 +1,38 @@
+{
+  "fileFormatID": null,
+  "formatName": "QGIS Layer Style File",
+  "version": "3.x",
+  "formatDescription": "A QGIS Layer Style File (.qml) is an XML-based file that stores visual settings, symbology, labels, and formatting rules for a map layer.",
+  "formatNote": "[https://hub.qgis.org/styles/?sort=upload_date&order=desc|https://hub.qgis.org/styles/?sort=upload_date&order=desc|smart-link]",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - Federated Research Data Repository / Alliance de recherche num\u00e9rique du Canada - D\u00e9p\u00f4t f\u00e9d\u00e9r\u00e9 de donn\u00e9es de recherche",
+  "formatTypes": "Text - Markup",
+  "identifiers": [
+    {
+      "identifierText": "application/x-qgis-style",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "QGIS Layer Style File Internal Signature",
+      "note": "BOF; Offset 59; Magic Bytes: qgis styleCategories{48}version=\"3",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 59,
+          "maxOffset": 59,
+          "byteSequence": "3C71676973207374796C6543617465676F72696573{48}76657273696F6E3D2233"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "qml",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": []
+}

@@ -1,0 +1,33 @@
+{
+  "fileFormatID": null,
+  "formatName": "Visualization Toolkit PolyData Format",
+  "version": "0.1",
+  "formatDescription": "*The* Visualization Toolkit PolyData Format is an XML-based format primarily used to store 3D geometric meshes, polygons, and numerical simulation data. It is a format associated with the Visualization Toolkit.",
+  "formatNote": "VTK File Formats: https://docs.vtk.org/en/v9.5.1/design_documents/VTKFileFormats.html#unstructuredgrid|smart-link\nVendor: Kitware",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada - DFDR",
+  "formatTypes": "Model",
+  "identifiers": [],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "Visualization Toolkit PolyData Format Internal Signature",
+      "note": "BOF; Offset: {0-95}; Magic Bytes: ('|\u201d)PolyData('|\u201d) version=('|\u201d)0.1('|\u201d)",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 95,
+          "byteSequence": "(22|27)506F6C7944617461(22|27)2076657273696F6E3D(22|27)302E31(22|27)"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "vtp",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": []
+}
