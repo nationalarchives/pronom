@@ -1,0 +1,34 @@
+{
+  "fileFormatID": null,
+  "formatName": "CMZ Format",
+  "version": "",
+  "formatDescription": "The CMZ Format is a compressed format commonly used in Visual3D, Swift or Inspect3D software. The format allows for the storage of large motion analysis datasets and includes the raw motion data and the analysis. The CMZ format is paired with a .cmx index file.",
+  "formatNote": "HasMotion Data File Formats: https://has-motion.com/wiki/doku.php?id=visual3d:documentation:definitions:file_formats:data_file_formats",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Dataset",
+  "identifiers": [],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "CMZ Format Internal Signature",
+      "note": "BOF; Offset: 0; Magic Bytes: CMOTIONZCM",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "434D4F54494F4E494E43"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "cmz",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

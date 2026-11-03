@@ -1,0 +1,39 @@
+{
+  "fileFormatID": null,
+  "formatName": "Aperio XML Annotation File",
+  "version": "",
+  "formatDescription": "An Aperio XML Annotation file is a structured text file created by Aperio ImageScope. The format stores manual or digital pathology markings, regions of interest (ROIs), and coordinates for whole slide images like .svs files.",
+  "formatNote": "Vendor information: Aperio ImageScope (now Leica)",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Text - Markup",
+  "identifiers": [
+    {
+      "identifierText": "text/xml",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "Aperio XML Annotation File Internal Signature",
+      "note": "BOF; Offset: 0; Magic Bytes: <Annotations MicronsPerPixel",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "3C416E6E6F746174696F6E73204D6963726F6E73506572506978656C"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "xml",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

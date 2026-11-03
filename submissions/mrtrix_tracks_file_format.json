@@ -1,0 +1,39 @@
+{
+  "fileFormatID": null,
+  "formatName": "MRtrix Tracks File Format",
+  "version": "3.0",
+  "formatDescription": "The MRtrix Tracks File Format stores white matter fiber tractography data. It uses a human-readable text header with key-value pairs starting with mrtrix tracks, ending with an END statement, and followed by raw binary floating-point coordinate data representing streamline vertices.",
+  "formatNote": "Tracks File Format: https://mrtrix.readthedocs.io/en/latest/getting_started/image_data.html#tracks-file-format-tck",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Dataset",
+  "identifiers": [
+    {
+      "identifierText": "application/x-mrtrix",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "MRtrix Tracks File Format Internal Signature",
+      "note": "BOF; Offset: 0; Magic Bytes: mrtrix tracks{21}3.0",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "6D727472697820747261636B73{21}332E30"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "tck",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

@@ -1,0 +1,34 @@
+{
+  "fileFormatID": null,
+  "formatName": "CMX Index Format",
+  "version": "",
+  "formatDescription": "The CMX Index Format is an index file associated with the CMZ format. Developed by C-Motion and acquired by HAS-Motion, the format acts as an index to help facilitate the retrieval of specific trial data found in the .cmz file. It is commonly used with Visual3D, Swift, and Inspect3D software.",
+  "formatNote": "[https://has-motion.com/wiki/doku.php?id=visual3d:documentation:definitions:file_formats:data_file_formats|https://has-motion.com/wiki/doku.php?id=visual3d:documentation:definitions:file_formats:data_file_formats|smart-link]",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Dataset",
+  "identifiers": [],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "CMX Index Format Internal Signature",
+      "note": "BOF; Offset: 0; Magic Bytes: CMOTIONINC",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "434D4F54494F4E5A434D"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "cmx",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

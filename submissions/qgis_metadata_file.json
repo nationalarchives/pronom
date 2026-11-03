@@ -1,0 +1,39 @@
+{
+  "fileFormatID": null,
+  "formatName": "QGIS Metadata File",
+  "version": "3.x",
+  "formatDescription": "A QGIS Metadata File is a sidecar configuration file used by the QGIS open-source GIS software to store descriptive information such as its author, license, abstract, and keywords for a specific map layer. ",
+  "formatNote": "[https://github.com/qgis/QGIS/blob/master/resources/qgis-resource-metadata.xsd|https://github.com/qgis/QGIS/blob/master/resources/qgis-resource-metadata.xsd]\n[https://docs.qgis.org/3.44/en/docs/user_manual/processing_algs/qgis/metadatatools.html|https://docs.qgis.org/3.44/en/docs/user_manual/processing_algs/qgis/metadatatools.html|smart-link]",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Text - Markup",
+  "identifiers": [
+    {
+      "identifierText": "text/xml",
+      "identifierType": "MIME"
+    }
+  ],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "QGIS Metadata File Internal Signature",
+      "note": "BOF; Offset 59; Magic Bytes: <qgis version=\"3",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 59,
+          "maxOffset": 59,
+          "byteSequence": "3C716769732076657273696F6E3D2233"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "qmd",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

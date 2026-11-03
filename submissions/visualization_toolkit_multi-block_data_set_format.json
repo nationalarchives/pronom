@@ -1,0 +1,34 @@
+{
+  "fileFormatID": null,
+  "formatName": "Visualization Toolkit Multi-Block Data Set Format",
+  "version": "1.0",
+  "formatDescription": "A .vtm file is an XML-based Visualization Toolkit Multi-Block Data Set format that acts as an index or container pointing to a collection of individual VTK dataset files such as .vtu or .vtp.",
+  "formatNote": "VTK File Formats: https://docs.vtk.org/en/v9.5.1/design_documents/VTKFileFormats.html#unstructuredgrid|smart-link\nVendor: Kitware",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Model",
+  "identifiers": [],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "Visualization Toolkit Multi-Block Data Set Format Internal Signature",
+      "note": "BOF; Offset: 0-46; Magic Bytes: ('|\u201d)vtkMultiBlockDataSet('|\u201d) version=('|\u201d)1.0('|\u201d)",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 46,
+          "byteSequence": "(22|27)76746B4D756C7469426C6F636B44617461536574(22|27)2076657273696F6E3D(22|27)312E30(22|27)"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "vtm",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}

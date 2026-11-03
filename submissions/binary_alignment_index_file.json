@@ -1,0 +1,34 @@
+{
+  "fileFormatID": null,
+  "formatName": "Binary Alignment Index File",
+  "version": "",
+  "formatDescription": "The Binary Alignment Index file is a companion file that acts as a table of contents for the Binary Alignment Map file (.bam). .bai files provide virtual file offsets that allow genome viewers to jump instantly to a specific genomic coordinate without scanning the entire Binary Alignment Map file.",
+  "formatNote": "Sequence Alignment/Map Format Specification - https://samtools.github.io/hts-specs/SAMv1.pdf\nWhat are BAM and BAI files? - https://switzerlandomics.ch/learn/bam-and-bai-format/",
+  "provenanceCompoundName": "Digital Research Alliance of Canada - FRDR / Alliance de recherche num\u00e9rique du Canada \u2013 DFDR",
+  "formatTypes": "Dataset",
+  "identifiers": [],
+  "internalSignatures": [
+    {
+      "signatureID": 1,
+      "name": "Binary Alignment  Index File Internal Signature",
+      "note": "BOF; Offset: 0; Magic Bytes: BAI\\1",
+      "byteSequences": [
+        {
+          "positionType": "Absolute from BOF",
+          "offset": 0,
+          "maxOffset": 0,
+          "byteSequence": "42414901"
+        }
+      ]
+    }
+  ],
+  "externalSignatures": [
+    {
+      "externalSignature": "bai",
+      "signatureType": "File extension"
+    }
+  ],
+  "relationships": [],
+  "containerSignatures": [],
+  "source": 349
+}
