@@ -40,7 +40,7 @@
   ],
   "relationships": [],
   "containerSignatures": [],
-  "formatNote": "Specification: https://www.google.com/url?q=https://fabylon.net/fab/specification/&source=gmail&ust=1787034048114000&sa=E Related software: Fabylon Bookmaker \u2014 writes .fab \u2014 https://www.google.com/url?q=https://www.martijnbenders.nl/bookmaker/&source=gmail&ust=1787034048114000&sa=E Fabylon Reader \u2014 reads .fab \u2014 https://www.google.com/url?q=https://fabylon.net/fabreader/&source=gmail&ust=1787034048114000&sa=E",
+  "formatNote": "Specification: https://fabylon.net/fab/specification/ Related software: Fabylon Bookmaker \u2014 writes .fab \u2014 https://www.martijnbenders.nl/bookmaker/ Fabylon Reader \u2014 reads .fab \u2014 https://fabylon.net/fabreader/",
   "lastUpdatedDate": "02/09/2026",
   "formatSourceDate": "02/09/2026",
   "fileFormatID": 4984,
